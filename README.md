@@ -1,4 +1,4 @@
-# Thesis — Meeting Transcript Software Task Extraction
+# Part of the Thesis — Meeting Transcript Software Task Extraction
 
 Bu proje, ICSI ve AMI toplantı korpuslarından yazılım geliştirme task'larını otomatik olarak çıkarmak ve çok ajanlı bir prompt sistemiyle değerlendirmek amacıyla geliştirilmiştir.
 
