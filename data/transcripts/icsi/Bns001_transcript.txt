@@ -1,0 +1,1822 @@
+================================================================================
+ICSI Meeting Transcript: Bns001
+================================================================================
+
+Total Utterances: 1814
+Unique Speakers: 7
+Duration: 99.56 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0002] [00:06] me011: OK ,
+[0003] [00:07] me011: so we should be on .
+[0004] [00:08] mn082: So
+[0005] [00:08] me011: And I 'm gonna go ahead and start by reading the digit strings ,
+[0006] [00:11] me011: just to give you an example of how to do it .
+[0007] [00:12] me011: And so the first thing to do is read the transcript number
+[0008] [00:15] me011: which is on the right hand side there .
+[0009] [00:48] me011: And so if you could just go around the table
+[0010] [00:51] me011: and read them out .
+[0011] [00:51] fn083: OK ,
+[0012] [00:52] fn083: should I next ?
+[0013] [00:52] me011: Yep
+[0014] [02:06] me011: If you could sign that ?
+[0015] [03:34] me011: Thanks .
+[0016] [04:56] me011: Thanks
+[0017] [04:57] me011: So , I wanted to just era it reiterate cuz we did have have one person come in a little later that , um there will be an opportunity to remove anything from the transcript that you don't want made public after it 's transcribed ,
+[0018] [05:08] me011: so that 'll be some months off ,
+[0019] [05:09] me011: but you will have that opportunity
+[0020] [05:11] me011: OK ?
+[0021] [05:11] me011: Thanks .
+[0022] [05:12] mn021: OK .
+[0023] [05:13] mn082: OK .
+[0024] [05:13] mn082: Thanks Adam .
+[0025] [05:14] mn082: We could start with our meeting ?
+[0026] [05:16] me011: Yep !
+[0027] [05:16] mn082: Yep !
+[0028] [05:16] me011: Thanks very much .
+[0029] [05:16] mn082: OK .
+[0030] [05:17] mn082: You have to stay all the time here ?
+[0031] [05:18] me011: I don't have to
+[0032] [05:19] me011: Um .
+[0033] [05:19] mn082: But ch you wanna do ?
+[0034] [05:20] me011: Well
+[0035] [05:21] me011: It 's just At the end of the meeting , don't turn off the mikes
+[0036] [05:24] me011: just leave them on .
+[0037] [05:25] mn021: OK .
+[0038] [05:25] me011: And uh
+[0039] [05:26] me011: Uh .
+[0040] [05:28] me011: Actually could y actually , could you call me , At the end of the meeting ?
+[0041] [05:30] me011: I 'll leave my number on the board there
+[0042] [05:31] mn082: Yeah .
+[0043] [05:31] mn082: OK .
+[0044] [05:32] me011: Thanks .
+[0045] [05:32] mn082: We can do that .
+[0046] [05:35] fn083: Hey , Adam , you know what ?
+[0047] [05:36] fn083: It must be funny to do an a research on how people behave while reading these numbers .
+[0048] [05:41] me011: Numbers are strange !
+[0049] [05:42] fn083: That
+[0050] [05:43] me011: It is !
+[0051] [05:43] fn083: Yeah !
+[0052] [05:44] fn083: It must be much more interesting to to see their behavior .
+[0053] [05:47] me011: the the meetings are strange .
+[0054] [05:49] fn083: Oh y yeah !
+[0055] [05:49] me011: People interrupt each other much more than I thought they did .
+[0056] [05:57] mn082: Two nine seven seven ?
+[0057] [05:59] mn082: Right .
+[0058] [06:00] me011: two nine seven seven .
+[0059] [06:00] mn082: OK .
+[0060] [06:01] mn021: OK .
+[0061] [06:01] mn082: Yeah .
+[0062] [06:01] mn082: I will call you then .
+[0063] [06:02] me011: Thanks .
+[0064] [06:03] mn082: Uh , OK .
+[0065] [06:04] mn082: So , then let 's start with our weekly meeting .
+[0066] [06:07] mn082: The last time 's uh we learned too much , I believe ,
+[0067] [06:09] mn082: so
+[0068] [06:11] mn082: uh , today , I have two topics .
+[0069] [06:14] mn082: And the first topic , um , we have a new member in our group ,
+[0070] [06:18] mn082: Miguel Sanchez .
+[0071] [06:19] mn082: I believe everybody knows him very well in the meantime because he stayed here quite a little time
+[0072] [06:20] mn021: Hi .
+[0073] [06:25] mn082: and I think he is talking to everybody in the meantime .
+[0074] [06:28] mn082: So , but , anyway , I would like that Miguel Sanchez will introduce himself a little bit , concerning his background , what he intend to do .
+[0075] [06:35] mn082: And Because I discussing with him uh , uh many things concerning , uh , his skills and what the NSA group intends to do .
+[0076] [06:40] mn021: Mm - hmm .
+[0077] [06:45] mn082: I hope there will be a match , uh , then , for his future work .
+[0078] [06:48] mn082: And the second topic is then to discuss a proposal in much more detail .
+[0079] [06:53] mn082: I believe we still haven't left our starting position .
+[0080] [06:58] mn082: And , um , yesterday I also discussed with Wilbert some things
+[0081] [07:04] mn082: and I would like to focus on the question " What problem we are going to solve with such a proposal . "
+[0082] [07:12] mn082: Not so will they have a common activity within the group itself and maybe with other partners outside ,
+[0083] [07:18] mn082: but , the technical problem .
+[0084] [07:20] mn082: But that 's under the s second topic ,
+[0085] [07:21] mn082: so first I would like that Miguel will told us a little bit about his skills and and uh his background .
+[0086] [07:27] mn021: OK .
+[0087] [07:29] mn021: OK ,
+[0088] [07:29] mn021: thank you Joe .
+[0089] [07:30] mn082: So , please .
+[0090] [07:30] mn021: Well , I , uh , as all of you know I came from from Spain ,
+[0091] [07:34] mn021: from the uh Polytechnic University of Valencia
+[0092] [07:39] mn021: and i uh I um , just finished my PHD thesis about uh um power - saving techniques for wireless networking .
+[0093] [07:52] mn021: uh , In fact , I have developed an algorithm to control the ra radio frequency power uh of a wireless transceiver .
+[0094] [08:02] mn021: And , uh I 've been working also in routing issues , especially in the so - called ad - hoc netw wireless networks .
+[0095] [08:12] mn021: Where uh , you have a set of , uh , mobile nodes and , no other infrastructure ,
+[0096] [08:20] mn021: no base stations .
+[0097] [08:21] mn021: So all the routing functions are done by the node by the same nodes .
+[0098] [08:27] mn021: OK ?
+[0099] [08:27] mn021: So , nodes act as both end points and routers .
+[0100] [08:33] mn021: eh
+[0101] [08:34] mn021: I 've in the study for some time these kind of networks .
+[0102] [08:39] mn021: And , uh , in fact , there are a lot of of research uh articles about this this kind of networks because You know , uh , mmm infrastructure - based network network has been a long topic of research .
+[0103] [08:54] mn021: So ,
+[0104] [08:55] mn021: for example , routing on on wired networks is a a topic still to be researched
+[0105] [09:00] mn021: but it has an important background .
+[0106] [09:03] mn021: But mobile network this kind of mobile networks is a little bit uh newer ,
+[0107] [09:09] mn021: especially because uh , until not so long uh , the the things were too heavy to have a computer , a wireless transceiver , on a more or less portable thing .
+[0108] [09:21] mn021: So , with the advent of this new technology , low power uh , high , uh , processing capability and wireless eh networking capability , in a really small package , new kind of devices are are being built and are appearing , in the market .
+[0109] [09:39] mn021: And , eh , well this is more or less what I have done .
+[0110] [09:43] mn021: And the kind of , uh , things , I 'm interested is more or less all , around this these kind of networks .
+[0111] [09:51] mn021: But I could say , uh in general , mobile service is not only about , uh these specific kind of networks .
+[0112] [10:00] mn021: But , in general , about , uh services uh over mobile or services that can benefit from the uh , capability of nodes to move around .
+[0113] [10:12] mn021: And , uh , well , I I 've been teaching now for twelve years , comp eh At a computer sciences school in my university ,
+[0114] [10:22] mn021: I 've been teaching computer networks .
+[0115] [10:24] mn021: And , well , I am more or less uh , knowledgable about , well , TCP IP networking , ISO uh , networking ,
+[0116] [10:35] mn021: and , uh
+[0117] [10:36] mn021: well I 'm I 'm a computer guy ,
+[0118] [10:38] mn021: so I 'm really um Well , I can say uh , proudly uh , more or less , computer skilled .
+[0119] [10:46] mn021: I mean , uh , operating systems uh , programming languages uh , networking @ @ .
+[0120] [10:52] mn021: So this kind of things I think I 'm more or less well - trained .
+[0121] [10:56] mn021: So
+[0122] [10:57] mn021: this is , I think , um , my first presentation .
+[0123] [11:01] mn021: Next maybe next meeting I will uh , do a small sketch about uh , my past work , and well , presenting some det a little bit more detailed approach with some schemes and and some things from previous talks , so you can have a better idea of w the kind of work I 've been doing .
+[0124] [11:22] mn021: OK ?
+[0125] [11:23] mn082: Mm - hmm .
+[0126] [11:23] mn021: Thank you .
+[0127] [11:23] mn082: So , thanks , Miguel .
+[0128] [11:25] mn082: Yeah , we m discussed it yesterday that you 'll maybe will have a talk next Tuesday
+[0129] [11:27] mn021: Y
+[0130] [11:29] mn021: Yeah .
+[0131] [11:30] mn082: But , Give me a sign and send me an abstract so that I can announce it , then , for the next meeting .
+[0132] [11:32] mn021: Yeah .
+[0133] [11:35] mn021: That 's OK .
+[0134] [11:37] mn082: Um .
+[0135] [11:38] mn082: One short other topic is Uh . Claudia did a lot of work concerning the web pages in the meantime .
+[0136] [11:46] fn083: Oh ,
+[0137] [11:46] fn083: OK .
+[0138] [11:46] mn082: And , despite busy stuff with waivers and uh and visas and whatever , uh , she found the time to um write , with what we discussed before and in the form of HTML stuff .
+[0139] [12:03] mn082: And we wanna put it on the web pages in the next days .
+[0140] [12:09] mn082: So , I will send an email , then , to everybody that they should check their web pages whether they 're aligned with , um , their own views and opinions of what we should what should be presented on the web pages .
+[0141] [12:23] mn082: And any feedback is then , well appreciated .
+[0142] [12:26] mn082: No ?
+[0143] [12:26] mn021: OK .
+[0144] [12:27] mn082: So .
+[0145] [12:27] mn082: Let 's switch to the project proposal .
+[0146] [12:29] mn082: Um , I mentioned that it is still f
+[0147] [12:32] fn083: Ah .
+[0148] [12:33] fn083: Sorry .
+[0149] [12:33] fn083: Can I ?
+[0150] [12:33] mn082: Yeah ?
+[0151] [12:34] fn083: Maybe I can add something .
+[0152] [12:34] mn082: Claudia
+[0153] [12:35] fn083: Yeah , if there 's anything else which we what we could add on the web site .
+[0154] [12:39] fn083: So , p For example , if you have a small abstract or some pictures or whatever , about the work you did before , what you are planning to do here , that would be fine ,
+[0155] [12:46] mn021: OK .
+[0156] [12:47] fn083: cuz now we can add some more stuff there .
+[0157] [12:50] fn083: Or if you have something or if somebody has some slides , o or articles , whatever he wants to be published there .
+[0158] [12:56] mn082: Yeah .
+[0159] [12:57] mn082: Then everybody sees the structure , how it is uh , structured really structured .
+[0160] [13:00] fn083: Yeah
+[0161] [13:01] fn083: and
+[0162] [13:01] mn082: Then maybe you wi can easy offer some additional input which should be presented , then , on the web pages .
+[0163] [13:07] fn083: Yeah , it depends what what everybody wants to do .
+[0164] [13:08] mn082: Yeah .
+[0165] [13:09] mn082: Yeah .
+[0166] [13:10] fn083: So
+[0167] [13:10] fn083: about the projects will be something ,
+[0168] [13:12] fn083: then , about publications will be another point ,
+[0169] [13:14] fn083: and Yeah , additional information about how is life in Berkeley and i Yep . I don't know , some some hints , some web sites or links which are useful when somebody arrives or stuff like that .
+[0170] [13:23] mn082: Yeah , it is .
+[0171] [13:24] mn082: Yeah .
+[0172] [13:25] mn021: Hmm - hmm - hmm .
+[0173] [13:25] mn082: Half collection of necessary information .
+[0174] [13:26] mn030: But there 's no personal homepage for everybody ?
+[0175] [13:29] mn030: Or , is it planned or not ,
+[0176] [13:29] mn082: Yeah
+[0177] [13:30] mn030: or ?
+[0178] [13:30] mn082: Yeah , you can have it .
+[0179] [13:31] mn082: Because , as uh Uh , uh , le
+[0180] [13:33] mn030: I 'm not interested in this .
+[0181] [13:34] mn030: That makes work .
+[0182] [13:36] mn082: No ,
+[0183] [13:36] mn082: but this is oh , uh Everybody 's obliged to do it for his own , you know .
+[0184] [13:39] mn030: Yeah .
+[0185] [13:39] mn082: So there is not uh Claudia is not the webmaster here to , uh , get the collection for for for everything .
+[0186] [13:39] mn030: OK .
+[0187] [13:43] fn083: Oh , oh , no , I 'm not doing it for everybody
+[0188] [13:45] mn082: So .
+[0189] [13:45] fn083: but
+[0190] [13:46] mn082: This is responsible for uh , everybody 's responsible for his own ,
+[0191] [13:49] mn082: yeah .
+[0192] [13:50] fn083: Yeah , but but what is planned is that I do something like a previous , you know , layout , and give everybody the , uh , opin uh , the possibility to the chance to put his content inside
+[0193] [13:50] mn030: Sure .
+[0194] [14:00] mn030: OK ,
+[0195] [14:01] mn030: his name and so on .
+[0196] [14:02] fn083: so that the layout is for everybody the same ,
+[0197] [14:02] mn030: Yeah .
+[0198] [14:02] mn021: Well , like have a blueprint .
+[0199] [14:04] fn083: so about the projects and stuff .
+[0200] [14:05] mn030: OK
+[0201] [14:05] mn030: Mm - hmm .
+[0202] [14:06] fn083: So , there will be something .
+[0203] [14:06] mn082: Yeah .
+[0204] [14:08] mn082: Yeah .
+[0205] [14:10] mn082: OK ,
+[0206] [14:10] mn082: thanks .
+[0207] [14:11] mn082: So ,
+[0208] [14:11] mn082: let 's switch to the proposal .
+[0209] [14:13] mn082: I ask everybody whether read it in the meantime , and understand everything .
+[0210] [14:18] mn082: Yeah .
+[0211] [14:19] mn082: Everybody say yes ?
+[0212] [14:21] mn082: Yeah ?
+[0213] [14:21] mn030: Yes .
+[0214] [14:22] mn082: Yes ,
+[0215] [14:22] mn082: OK .
+[0216] [14:23] mn082: Um .
+[0217] [14:26] mn082: From my point of view , As I mentioned before , we still in the starting position .
+[0218] [14:31] mn082: I think the four building blocks on the network level will have really a major impact on on f current um , available wireless networks and , uh , also for future generations .
+[0219] [14:47] mn082: And , what the missing thing is really what kind of problem we are wan wanna s solve with such a project proposal .
+[0220] [14:58] mn082: And Wilbert yesterday mentioned , and he is right , that , what kind of , maybe , service we are really going to offer .
+[0221] [15:08] mn082: The linkage between such kind of application , also interactive multimedia application and , uh , this kind of networking stuff is , um , maybe not very well aligned ,
+[0222] [15:21] mn082: because there will be of course , a portion of mobile access to such kind of application .
+[0223] [15:27] mn082: But , I think that 's not the majority
+[0224] [15:29] mn082: and that is not the major focus of um this kind of um this kind of application anyway .
+[0225] [15:36] mn082: So I would like to to uh split , in principle , the discussions of what kind of application tsk um f far away
+[0226] [15:45] mn082: and I would like to more to focus if we have certain kind of vision t concerning these building blocks and the network , Um , What kind of problem we are going to solve .
+[0227] [15:54] mn082: What kind of , uh , um , um , glue between these four building blocks exists
+[0228] [16:01] mn082: and what kind of synergy effects , in principle , as if they work and fit very well together exists for networking stuff .
+[0229] [16:07] mn082: And what kind of service could we provide in that area .
+[0230] [16:13] mn082: We will have these kind of , uh , really closely working together of these four building blocks .
+[0231] [16:21] mn082: So maybe uh , Wilbert , you can start to discu oder to to tell the group about what you mentioned yesterday concerning certain kind of ideas .
+[0232] [16:33] mn082: Maybe it 's a brainstorming um , of of these things
+[0233] [16:38] mn082: and maybe we can comment later on th these uh these ideas .
+[0234] [16:46] mn082: And I saw you sk still discuss with with uh Mark , right ?
+[0235] [16:49] mn082: some stuff .
+[0236] [16:50] mn082: Was it also related with with these things .
+[0237] [16:51] mn081: No .
+[0238] [16:52] mn082: No ?
+[0239] [16:52] mn082: OK , It was @ @ .
+[0240] [16:53] mn081: This afternoon you mean ?
+[0241] [16:54] mn082: Yeah .
+[0242] [16:54] mn081: No , this was unrelated to to the things of yesterday and last weeks
+[0243] [16:57] mn082: OK
+[0244] [16:58] mn082: Yeah , yeah .
+[0245] [17:00] mn082: Then , maybe then , one one w uh sentence before .
+[0246] [17:00] mn081: wha
+[0247] [17:03] mn082: I believe everybody fits very well in these kind of things .
+[0248] [17:07] mn082: Because from the mathematical description with QS - in - Advance , me , as an expert for quality of service and , uh , Michael as an expert for uh , MPLS and Wilbert an expert for for Multicast , and , uh , I discussed with Miguel . It 's uh maybe a little bit the shift to active routing ,
+[0249] [17:27] mn082: but it is still in the area of routing .
+[0250] [17:29] mn082: So . My idea is , in principle , to have , independently of any funding , independently of any outer contact , such such a core activity , in principle .
+[0251] [17:39] mn082: And we can see how much from the outer world can fit in .
+[0252] [17:43] mn082: First of all , the first stage is the institution which is behind everybody .
+[0253] [17:49] mn082: That means uh KPN in your case and Siemens in our case .
+[0254] [17:53] mn082: And maybe , then , in the broader world here other partners registered in the proposal migh
+[0255] [17:57] mn082: Tomorrow , I will go to Cisco , for instance ,
+[0256] [17:59] mn082: and I will discuss uh , all this kind of things .
+[0257] [18:04] mn082: Maybe
+[0258] [18:08] mn082: The benefit here is , in principle , that the results are available .
+[0259] [18:11] mn082: They are not restricted any way .
+[0260] [18:13] mn082: If you have your own common activity . That makes a little bit more easier .
+[0261] [18:17] mn082: And , uh , if there is a technical linkage between such , uh um , between the outer world and us OK , the better it is .
+[0262] [18:26] mn082: But , anyway , if we come to a certain kind of uh , common work within the core of the NSA group , I think that 's really beneficial to everybody .
+[0263] [18:38] mn082: And uh , especially , Wilbert , if you have in mind to go in the mmm , uh , really from the project proposal view , I think we can build it on this this core .
+[0264] [18:51] mn082: You know ,
+[0265] [18:51] mn082: and go to the outer world with , and and and align it in a certain way .
+[0266] [18:55] mn082: For instance , that it also fit , maybe , to KPN , and Siemens , and in other companies .
+[0267] [19:00] mn082: Yeah .
+[0268] [19:01] mn081: Yeah , and This probably has to be a brainstorm right now .
+[0269] [19:04] mn082: Yep .
+[0270] [19:05] mn081: Um What I told Joachim yesterday was that , uh uh for my company the company I work for , they are more interested in in an explicit service , than in core technology .
+[0271] [19:19] mn081: u
+[0272] [19:19] mn081: Me , on the other hand , I 'm more interested in uh , core service , or c core technology , myself .
+[0273] [19:25] mn081: So I 'm u I was thinking about uh , how I could combine the both of them .
+[0274] [19:30] mn081: KPN was , um they 're interested in having , uh like , six people or something , working on the project for one year
+[0275] [19:37] mn081: or maybe , uh , three people fo working on the project for two years ,
+[0276] [19:41] mn081: and have a kind of a demonstration uh , for a specifically in UMTS service .
+[0277] [19:46] mn021: Mm - hmm .
+[0278] [19:47] mn081: I was thinking that um as a well , not really a UMTS service , but yesterday , what I discussed with Joachim was uh , a w little bit based on your ad - hoc networking also .
+[0279] [20:02] mn081: That it would be interesting to have a kind of a device where you can switch from w a WaveLAN Technology to , um , UMTS .
+[0280] [20:11] mn081: I think that 's , uh , it 's in in the future that will be a main competitor of , uh , of UMTS ,
+[0281] [20:17] mn021: Hmm - hmm - hmm .
+[0282] [20:18] mn081: too , like the the the Lucent , uh , equipment has a l huge scope already ,
+[0283] [20:23] mn081: like five hundred feet , or or even more sometimes .
+[0284] [20:27] mn081: so that 's it 's might be interesting for , a service to walk into a building or whatever is available on that network .
+[0285] [20:34] mn081: You can switch from UMTS or uh uh , to WaveLAN Technologies .
+[0286] [20:40] mn082: Hmm .
+[0287] [20:40] mn021: Hmm - hmm - hmm .
+[0288] [20:40] mn082: Uh , maybe I will write a few keywords on the on the whiteboard
+[0289] [20:42] mn081: Sure .
+[0290] [20:44] mn082: OK .
+[0291] [20:51] mn081: Of course , it sounds strange for a company that does UMTS to switch to to be able to switch or provide the service to switch to WaveLAN
+[0292] [20:59] mn081: but at the end it makes it easier for your and cheaper for your customers .
+[0293] [21:06] mn081: So , if they don't do it , somebody else will probably do it .
+[0294] [21:09] mn021: And you can build a a an a a double technology adapter , too .
+[0295] [21:15] mn021: So you can market these double - technology adapters .
+[0296] [21:19] mn021: And , this can be a a potential uh um you know , uh , income , too .
+[0297] [21:22] mn081: Yeah .
+[0298] [21:26] mn021: Because you just have to license , uh uh WaveLAN technology .
+[0299] [21:30] mn021: You can build , uh , the whole thing .
+[0300] [21:33] mn081: Yeah ,
+[0301] [21:33] mn021: This U - UMTS WaveLAN , uh mixed together .
+[0302] [21:33] mn081: and
+[0303] [21:37] mn081: Yeah , something like that could be possible ,
+[0304] [21:39] mn081: maybe even a UMTS - to - WaveLAN - gateway ,
+[0305] [21:42] mn081: or I 'm not sure if that 's possible like we U - if UMTS re contains redirects or whatever , like switches .
+[0306] [21:49] mn081: I 'm not sure about it .
+[0307] [21:50] mn081: It could be .
+[0308] [21:51] mn021: Mmm .
+[0309] [21:51] mn021: I think , they are using different , uh , radio technologies .
+[0310] [21:54] mn021: So , uh , at the physical level , they 're they 're they are not compatible .
+[0311] [21:56] mn081: It 's not a problem .
+[0312] [22:01] mn081: No , but s You could have a UMTS gateway that translates everything to that uh w local @ @ .
+[0313] [22:04] mn021: Yeah .
+[0314] [22:08] mn021: Yeah .
+[0315] [22:09] mn081: If you will
+[0316] [22:09] mn021: That that 's right .
+[0317] [22:10] mn082: Yet the basic idea is , in principle , to switch seamlessly between wireless LAN technology , whatever and UMTS ,
+[0318] [22:19] mn082: right ?
+[0319] [22:19] mn081: Yes .
+[0320] [22:20] mn082: And you see the benefit that , in principle , the customer will save a lot of money .
+[0321] [22:25] mn082: Because if in - house communication like WaveLAN or maybe I see it also in the American market , some WaveLAN communication in the outer world will be available , the m and that is your assumption , that the more cost uh extensive um U M T S connection could be principle used , I would like to say , over WaveLAN ,
+[0322] [22:47] mn082: and then I have a normal WaveLAN connection , right ?
+[0323] [22:49] mn081: Yes .
+[0324] [22:50] mn082: And the router and the WaveLAN connection goes into the core internet elsewhere
+[0325] [22:55] mn082: and the connection is not dropped between this seamless hand off I would like to say .
+[0326] [22:57] mn081: Mm - hmm .
+[0327] [23:04] mn082: Right ?
+[0328] [23:04] mn082: or
+[0329] [23:05] mn081: Well ,
+[0330] [23:06] mn081: If connection is lost , I am I 'm not sure if sometimes you 'd simply have to drop a connection . If you have outstanding connections .
+[0331] [23:06] mn082: What
+[0332] [23:13] mn035: Yeah .
+[0333] [23:14] mn081: But that 's uh one thing of the internet ,
+[0334] [23:16] mn081: right ?
+[0335] [23:16] mn081: It 's should be able to unplug a host , bring it somewhere else and everything continues like it should be .
+[0336] [23:23] mn081: I 'm not sure i if it 's uh if you really have to con uh save a connection for all applications ,
+[0337] [23:29] mn081: I I don't think so .
+[0338] [23:32] mn082: Yeah , but if this is the final goal ,
+[0339] [23:33] mn082: it should be as much as possible available that you do not have to break the connection if you switch between the subnets ' technology
+[0340] [23:39] mn082: Right ?
+[0341] [23:39] mn021: Yeah but I I have a point uh regarding the this question , is eh the cost function .
+[0342] [23:46] mn021: I mean .
+[0343] [23:46] mn021: uh
+[0344] [23:48] mn021: What about the user who is switching from one let 's say zero - cost area network to another network where he has to pay .
+[0345] [23:58] mn021: It is OK for the service to continue when he uh switches from one network to another .
+[0346] [24:04] mn021: But probably , the user wants to be aware that he 's switching from one place from one network to another .
+[0347] [24:11] mn021: Because maybe , while he 's uh having , let 's say , a vide video conference uh over the the WaveLAN oh he 's not paying any extra cost .
+[0348] [24:22] mn021: But when he continues with this service on the UMTS , he 's having to cover uh an important let 's say , an important cost or some cost , non - null cost .
+[0349] [24:33] mn082: Yeah ,
+[0350] [24:33] mn082: non - null
+[0351] [24:33] mn021: So uh
+[0352] [24:36] mn021: this can be something that probably the user wants to be aware of .
+[0353] [24:40] mn021: Of course , this doesn't mean that the user wants the connection to be dropped when he switches . to the w uh r uh from the zero - cost area network to to the uh um non - null cost area network .
+[0354] [24:53] mn021: But maybe some users want to do this .
+[0355] [24:57] mn021: Because
+[0356] [24:58] mn021: I 'm not willing to pay any back for this service ,
+[0357] [25:01] mn021: because I 'm just watching uh you know the sports news .
+[0358] [25:05] mn021: So , if I switch If if , because of my motion , I 'm switching , or I 'm going out of the coverage of the of the uh wave uh wireless uh local area network , well , I I want the service to be uh stopped . "
+[0359] [25:18] mn021: And this can be some pattern then that some users will follow .
+[0360] [25:24] mn035: Yeah .
+[0361] [25:24] mn082: Yeah , but if your s
+[0362] [25:25] mn082: uh I believe everybody is aware about the USAIA architecture .
+[0363] [25:29] mn082: And uh this one is , here , this stuff is , here , also related to this kind what is mentioned there concerning the end system .
+[0364] [25:36] mn082: And in my conf uh considered end system , there is a certain kind of policy , concerning how to use subnets technologies and and all these kind of things .
+[0365] [25:45] mn082: How to use quality of service , you know , in advance ,
+[0366] [25:48] mn082: because you have to pay for certain technologies and maybe for certain services .
+[0367] [25:52] mn082: And that should not be done automatically .
+[0368] [25:54] mn082: But it could be done automatically .
+[0369] [25:55] mn082: But nevertheless there must be a certain kind of um user interaction always possible , that you could set up a certain kind of mini - database how to deal with all these kind of things .
+[0370] [26:06] mn082: I think that 's not a problem .
+[0371] [26:07] mn082: But uh what I I would like to ask Wilbert here , and we discuss it yesterday , " Is it only the usage of that PCMCIA card where you have instead of GSM today , UMTS , and instead of wireless LAN today also wireless LAN .
+[0372] [26:20] mn082: Remember your four and one card uh concerning um ,
+[0373] [26:24] mn082: what is the name , from Dataco - ?
+[0374] [26:26] mn082: No .
+[0375] [26:27] mn082: Dacom
+[0376] [26:28] mn081: Oh , the one I have Sitcom ?
+[0377] [26:28] mn082: Where you can enable four technologies , and you plug in , in your laptop
+[0378] [26:30] mn081: Yeah .
+[0379] [26:31] mn082: and then you have every four uh subnet layer technologies available in your laptop .
+[0380] [26:39] mn082: Is that the problem ?
+[0381] [26:40] mn082: Yeah , that 's not the problem .
+[0382] [26:41] mn082: Right .
+[0383] [26:42] mn081: Um .
+[0384] [26:44] mn081: Well , the switching itself could be a problem .
+[0385] [26:47] mn082: Why ?
+[0386] [26:47] mn081: Becau - well it 's a depends
+[0387] [26:54] mn081: if one of the other networks is available , maybe you are ,
+[0388] [26:55] mn081: I don't know .
+[0389] [26:57] mn081: So that could be a t topic for research ,
+[0390] [26:58] mn082: Yeah , but this i
+[0391] [26:59] mn081: so maybe you know more about it .
+[0392] [27:00] mn082: Yeah , but this is th only the probing to figure out that you get at a certain location the information that a s certain coverage of a certain subnet techn technology is available .
+[0393] [27:11] mn082: And if so , then what Miguel mentions , then you add a certain kind of policy , to switch or not to switch , to this kind of technology ,
+[0394] [27:11] mn081: Yeah .
+[0395] [27:18] mn082: right ?
+[0396] [27:18] mn081: Y Yes .
+[0397] [27:19] mn082: But this is end - system related .
+[0398] [27:22] mn082: That 's not network related .
+[0399] [27:24] mn082: I see no network related stuff within these in this uh idea .
+[0400] [27:24] mn081: Um .
+[0401] [27:30] mn082: It 's only to set up i u
+[0402] [27:32] mn082: For me it 's like a laptop t to plug one PCMCIA and currently will have two PCMCIA cards , and I compare GSM with UMTS .
+[0403] [27:38] mn021: Hmm - hmm - hmm .
+[0404] [27:41] mn082: And today I would like to have GSM ,
+[0405] [27:43] mn082: and then I have my GSM connectivity .
+[0406] [27:45] mn082: And I cannot use it other technology ,
+[0407] [27:48] mn082: only GSM , because the interfaces , the driver interface , does not permit me to switch between the between different technologies .
+[0408] [27:56] mn082: So if I want to go to wireless LAN I have to stop my connection and put in my wireless LAN PCMCIA card ,
+[0409] [28:02] mn082: and then I can go on and set up the the same connection one more time .
+[0410] [28:06] mn082: And what you have in mind , to do it a bit more seamlessly , and that makes an only sense for me if both technologies , in principle , were close together in that sense for application .
+[0411] [28:16] mn082: For instance , the application would be that I have my laptop here ,
+[0412] [28:20] mn082: and I work here with wi with my device ,
+[0413] [28:22] mn082: any kind of device ,
+[0414] [28:23] mn082: and I work here in wireless LAN area .
+[0415] [28:25] mn082: And then I go outside , and want to go still on , leaving the coverage of uh of the uh wireless LAN .
+[0416] [28:32] mn082: And at a certain state , the device uh receives certain signals that the coverage of UMTS or GSM is available .
+[0417] [28:39] mn082: And at that state , you automatically , or based on the certain kind of user profile , switched to the um UMTS or GSM st uh network .
+[0418] [28:49] mn082: That 's the only senseful application .
+[0419] [28:50] mn082: From my understanding , that means only to have a certain kind of control layer for the different drivers ,
+[0420] [28:57] mn082: which you also mentioned as a USAIA architecture .
+[0421] [29:00] mn082: and uh then to do the switching for an existing stream or application between these uh , transparently to this application , between those uh these both technologies .
+[0422] [29:14] mn082: Maybe there 's more potential .
+[0423] [29:15] mn082: I don't s see it ,
+[0424] [29:16] mn082: but maybe you have a additional idea .
+[0425] [29:18] mn082: And I don't think that this end system device uh architecture , which will come automatically .
+[0426] [29:29] mn082: And I believe there 's a lot of activity throughout the world ,
+[0427] [29:32] mn082: because this seamlessly communication is always mentioned elsewhere where you cou where you listen to .
+[0428] [29:37] mn082: So
+[0429] [29:39] mn082: uh uh
+[0430] [29:39] mn081: If if you can leave it out the network that will be really cool .
+[0431] [29:43] mn081: That 's what you w what I would like to do ,
+[0432] [29:45] mn081: so
+[0433] [29:46] mn081: Yes .
+[0434] [29:47] mn021: But when quality of service comes to the uh scene , well , I think we have a a bigger problem
+[0435] [29:53] mn021: because maybe this this uh uh seamless migration cannot be seamless at all ,
+[0436] [30:00] mn021: because maybe the the quality of service we are getting when we are connected to a certain network , let 's say high - speed networking , cannot be sustained when we are switching to a different technology .
+[0437] [30:14] mn021: So , this is another thing that is uh putting a little bit in more trouble our our scheme
+[0438] [30:23] mn021: or
+[0439] [30:25] mn082: Now , I would like not to hear only three opinions .
+[0440] [30:25] mn035: Hm
+[0441] [30:27] mn082: But maybe there are also other opinions .
+[0442] [30:28] mn021: OK .
+[0443] [30:28] mn021: Yeah .
+[0444] [30:29] mn021: Oh , sorry .
+[0445] [30:29] mn082: And
+[0446] [30:33] mn035: I
+[0447] [30:33] mn082: Let us understand , built for everybody and their com whether their comments .
+[0448] [30:34] mn035: Yeah .
+[0449] [30:35] mn035: I
+[0450] [30:38] mn035: In this thing of seamless handoff or handovers should think more maybe in different layers ?
+[0451] [30:47] mn035: So one layer is having the seamless handover .
+[0452] [30:50] mn035: It 's clear if a technology doesn't provide that quality of service , you can't do magic and have it .
+[0453] [30:56] mn035: There are certain constraints on that .
+[0454] [30:59] mn035: It 's true .
+[0455] [31:01] mn035: That 's still in mind .
+[0456] [31:01] mn035: But for with the cases there There , it is possible .
+[0457] [31:06] mn035: So that should be made possible then ?
+[0458] [31:09] mn021: Mm - hmm .
+[0459] [31:10] mn021: Yeah .
+[0460] [31:10] mn021: Yeah .
+[0461] [31:10] mn035: So
+[0462] [31:11] mn021: It can be done .
+[0463] [31:12] mn021: It is just Mmm uh Trying to to to to poi to pinpoint The the possible problems .
+[0464] [31:13] mn035: Yeah .
+[0465] [31:14] mn035: There are still enough problems i in doing it .
+[0466] [31:17] mn035: Yeah .
+[0467] [31:19] mn035: Yep .
+[0468] [31:20] mn035: But it might be the wrong thing to promise , uh , ten megabits to everywhere .
+[0469] [31:26] mn035: There you are .
+[0470] [31:28] mn035: But saying " OK if it 's a if the technology is OK , you can do it . "
+[0471] [31:33] mn021: Yeah .
+[0472] [31:34] mn021: In fact , if you take the slower technology of the ones you are planning to to support , you can offer this warran this uh this throughput as uh the minimum warranty you you can get .
+[0473] [31:38] mn035: Yep .
+[0474] [31:43] mn035: Yep .
+[0475] [31:46] mn035: Yeah .
+[0476] [31:46] mn021: So , if everybody is is asking for less than this minimum amount , no problem at all .
+[0477] [31:52] mn021: But in this case , maybe not too much effort should be put on providing this quality of service
+[0478] [31:58] mn021: because you just have a usually a huge bandwidth compared on a a w with what the user is is using .
+[0479] [32:02] mn035: Yeah .
+[0480] [32:05] mn035: Yep .
+[0481] [32:07] mn035: Mm - hmm .
+[0482] [32:08] mn021: I mean , if you have a ten megabits bandwidth and the user is asking two kilobits per second , of course , you can uh build uh certain reserve mechanisms to warranty the user these two kilobits per second bandwidth .
+[0483] [32:24] mn021: But probably in it isn't it is not worth because you have so many uh available bandwidths that maybe uh it is not a problem .
+[0484] [32:35] mn082: Oh , please come in .
+[0485] [32:36] mn021: Hi .
+[0486] [32:36] mn035: Hi .
+[0487] [32:37] fn083: Hmm ?
+[0488] [32:42] fn083: Oh !
+[0489] [32:43] fn083: OK .
+[0490] [32:45] mn035: ist fertig .
+[0491] [32:45] mn082: Uh .
+[0492] [32:46] mn082: OK
+[0493] [32:46] mn021: Oh , OK .
+[0494] [32:46] mn082: Good luck .
+[0495] [32:53] mn081: The the thing is that we are looking for a research topic on on those uh four areas .
+[0496] [32:54] mn082: Yeah .
+[0497] [33:00] mn082: Yeah .
+[0498] [33:01] mn082: And the building blocks ,
+[0499] [33:02] mn082: yeah .
+[0500] [33:02] mn082: Multicast , not a topic .
+[0501] [33:03] mn081: So
+[0502] [33:04] mn081: So
+[0503] [33:04] mn082: Routing ?
+[0504] [33:05] mn081: So so we went through uh uh to through multicast .
+[0505] [33:10] mn081: So this architecture with m
+[0506] [33:12] mn081: well , at least no wireless environment or a mobile IP environment , comparable to uh UMTS environments . We really did not find any well , difficulties there .
+[0507] [33:26] mn081: On the blackboard , that is .
+[0508] [33:27] mn081: Of course , in real life there will b probably be some problems .
+[0509] [33:30] mn021: Have you have you read about this uh Barwan project held at Berkeley University ?
+[0510] [33:35] mn082: Well , what you the pointer the pointer you sent yesterday .
+[0511] [33:36] mn081: Iceberg ?
+[0512] [33:38] mn021: Yeah .
+[0513] [33:38] mn082: Yeah ,
+[0514] [33:38] mn082: I c I didn't find the time , yeah , to do so ,
+[0515] [33:40] mn021: OK .
+[0516] [33:41] mn082: but ,
+[0517] [33:42] mn082: uh
+[0518] [33:42] mn081: You mean the Iceberg project ?
+[0519] [33:43] mn021: Barwan .
+[0520] [33:44] mn081: Barwan of uh ES
+[0521] [33:45] mn021: Barwan .
+[0522] [33:46] mn035: How 's it start ?
+[0523] [33:46] mn081: I know there 's one that 's of uh Randy Katz .
+[0524] [33:49] mn021: Uh da it was another related project called Daedalus .
+[0525] [33:53] mn081: Yes .
+[0526] [33:55] mn021: And uh well it seems they what they were doing was some kind of uh things si somehow similar to this .
+[0527] [34:04] mn081: They worked together wi little bit with Nokia ?
+[0528] [34:05] mn021: u
+[0529] [34:07] mn021: Uh Don't know .
+[0530] [34:07] mn081: Palo Alto ?
+[0531] [34:09] mn081: Mountain View ?
+[0532] [34:09] mn021: I I I I just uh take a a quick uh look at the at the thing
+[0533] [34:14] mn021: because I I was uh read about this uh a long time ago .
+[0534] [34:21] mn021: And it the the latest report I I found was in nineteen ninety eight .
+[0535] [34:27] mn021: And in this report , well , they they pres they have uh some slides , some uh papers , some well , a lot of things .
+[0536] [34:29] mn081: Hmm .
+[0537] [34:34] mn021: And well the main thing and the quick uh thing I I was uh looking at was a a video available in MP - thr in MPG M - peg format .
+[0538] [34:46] mn021: And uh
+[0539] [34:47] mn021: well what this video was presenting was a kind of test of of one guy with a portable computer , moving across different networks .
+[0540] [34:57] mn021: So starting at the CS department at Berkeley
+[0541] [35:00] mn021: and then going out the street
+[0542] [35:02] mn021: switching to the a campus - wide network ,
+[0543] [35:04] mn021: uh um I think it 's a Metricom uh network ,
+[0544] [35:09] mn021: an
+[0545] [35:10] mn082: A Ricochet here , right ?
+[0546] [35:12] mn021: Ricochet ,
+[0547] [35:12] mn021: yeah ,
+[0548] [35:12] mn082: Yeah .
+[0549] [35:13] mn082: Yeah .
+[0550] [35:13] mn021: that 's right .
+[0551] [35:13] mn082: Yeah .
+[0552] [35:14] mn021: And then , finally switching to I think it was city PD or something like this .
+[0553] [35:19] mn021: OK .
+[0554] [35:20] mn021: I as lo uh as the as the user is moving out of the of the coverage area of this second network .
+[0555] [35:27] mn021: And , well , what they have built is a a kind of uh proxy structure .
+[0556] [35:33] mn021: So they are they are putting most of the work of this adaptational layer on on the side of the proxies .
+[0557] [35:41] mn021: So the client or the server is not changed .
+[0558] [35:45] mn021: It is the proxy , the one that does the work .
+[0559] [35:47] mn081: Yeah .
+[0560] [35:48] mn021: OK ,
+[0561] [35:48] mn021: so
+[0562] [35:51] mn021: It 's the same ?
+[0563] [35:51] mn082: Ah we just discussed a lot about proxies .
+[0564] [35:54] mn021: Oh , OK .
+[0565] [35:54] mn082: That 's a fun
+[0566] [35:55] mn081: I like them
+[0567] [35:55] mn081: so
+[0568] [35:56] mn021: OK ,
+[0569] [35:57] mn021: I
+[0570] [35:59] mn021: It is just that that well , maybe we can we can take a look at oh maybe a more in - depth look at this project
+[0571] [36:06] mn021: just to see if we are doing the same , or if we are doing something similar .
+[0572] [36:13] mn021: It would be important for us to to highlight the differences .
+[0573] [36:14] mn081: Yeah .
+[0574] [36:17] mn021: Because if not , well , they can say , " Oh , you are doing the same thing . "
+[0575] [36:20] mn021: " This was done now . "
+[0576] [36:21] mn081: Or maybe talk to them about s operations they thought of but didn't touch yet .
+[0577] [36:24] mn021: Yeah , well we are close .
+[0578] [36:27] mn082: Mm - hmm .
+[0579] [36:27] mn082: Uh maybe a few comments .
+[0580] [36:29] mn082: First of all , Um . Do you mind Mi - Miguel , to write the name of the project on the whiteboard ?
+[0581] [36:33] mn021: Yeah .
+[0582] [36:34] mn021: No problem .
+[0583] [36:34] mn082: So
+[0584] [36:35] mn082: Uh I I will send also the pointer which Miguel sent to me , to everybody so that everybody can take a look to this uh , project .
+[0585] [36:43] mn081: I
+[0586] [36:45] mn082: And uh I don't know what avail information is available
+[0587] [36:47] mn082: because I didn't find the time currently to check it out .
+[0588] [36:51] mn030: It 's a project of the UC .
+[0589] [36:51] mn082: But
+[0590] [36:53] mn021: Yeah ,
+[0591] [36:53] mn030: Oh , yeah .
+[0592] [36:53] mn021: UC Ber - uh Berkeley ,
+[0593] [36:53] mn082: Yeah .
+[0594] [36:54] mn081: Wh - when did you go through this ?
+[0595] [36:54] mn021: yeah .
+[0596] [36:56] mn021: I 'll I you uh I seen uh uh reports from nineteen ninety uh ninety - six , ninety - seven and ninety - eight .
+[0597] [37:07] mn081: Cuz yesterday I was uh Well coincidentally , I b bumped into this project here .
+[0598] [37:08] mn021: Maybe
+[0599] [37:09] mn021: n uh
+[0600] [37:12] mn081: It 's funny .
+[0601] [37:14] mn082: Uh , sorry ?
+[0602] [37:14] mn082: Uh
+[0603] [37:14] mn081: Yeah , yesterday I was just surfing a little bit .
+[0604] [37:17] mn082: Mm - hmm .
+[0605] [37:17] mn082: Ah !
+[0606] [37:18] mn081: And then from Nokia I came to this that project ,
+[0607] [37:20] mn082: Ah !
+[0608] [37:20] mn082: OK ,
+[0609] [37:21] mn082: I see .
+[0610] [37:21] mn081: so .
+[0611] [37:21] mn082: Yeah ? @ @
+[0612] [37:22] mn081: Nokia research .
+[0613] [37:23] mn021: I think that that the leader was uh Professor Katz .
+[0614] [37:23] mn082: OK .
+[0615] [37:23] mn081: And
+[0616] [37:25] mn081: That 's right .
+[0617] [37:26] mn081: And he 's also board in Nokia research ,
+[0618] [37:29] mn021: OK .
+[0619] [37:30] mn081: so
+[0620] [37:30] mn082: Mm - hmm .
+[0621] [37:30] mn082: Then the second thing is that uh Daimler - Chrysler research here in Palo Alto as well as in Germany , Ulm , is doing , in principle , the same with a car .
+[0622] [37:39] mn021: Mm - hmm .
+[0623] [37:39] mn082: They have a specific antenna for uh GSM Oh , GPS and and fu for future extended G - uh GSM networks and wireless LAN and and other thi and other network technology .
+[0624] [37:52] mn082: In the roof of the car . They have a s lot of servers
+[0625] [37:56] mn082: in the trunk of the car . Then they collect data how it is with handoff and all these kind of things
+[0626] [38:02] mn082: and they are driving around the different areas .
+[0627] [38:05] mn082: And the same car exists here in Palo Alto uh based on wireless LAN , GSM and 2 x Ricochet networks .
+[0628] [38:11] mn021: Mm - hmm .
+[0629] [38:11] mn082: They collect the dat collect collecting a lot of data . concerning the seamless handoffs and whether it works very well with speed
+[0630] [38:20] mn082: and um
+[0631] [38:22] mn082: uh , Thomas is going to build mobile IP stuff in their servers .
+[0632] [38:30] mn082: uh
+[0633] [38:31] mn082: because they want to
+[0634] [38:37] mn082: use current technology with a c a combination of mobile IP . So I think there is a lot of activities in the area .
+[0635] [38:39] mn082: Uh .
+[0636] [38:40] mn082: And my third uh comment is uh if we are going something in that direction that is quite different from this thing here .
+[0637] [38:49] mn082: But , anyway , maybe as a core technology with a real product in mind .
+[0638] [38:53] mn082: I see some difficulty because nobody currently has here certain kind uh of UMTS know how .
+[0639] [39:00] mn021: Mm - hmm .
+[0640] [39:02] mn082: And you need it definitely
+[0641] [39:03] mn082: because then it j must be your uh Bible I would like to say that you are very familiar with UMTS if you wanna go in in that way .
+[0642] [39:11] mn082: And As far as I know the UMTS standardization is not finished yet .
+[0643] [39:16] mn082: Ninety percent , maybe , or eighty percent .
+[0644] [39:18] mn082: I kno I 'm not sure .
+[0645] [39:20] mn082: But uh
+[0646] [39:20] mn021: Yeah
+[0647] [39:20] mn021: b le let me let me ask you a question about eh UMTS or or third or possible fourth generation communic wireless communication systems .
+[0648] [39:21] mn082: that
+[0649] [39:22] mn082: Yeah .
+[0650] [39:31] mn021: Uh , from the point of view of the user , uh is there uh something more that nnn , that than more speed ?
+[0651] [39:40] mn021: Is there any other advantage , from the point of view of the user or of of the terminals ?
+[0652] [39:46] mn082: Users of of UMTS ?
+[0653] [39:48] mn021: Yeah .
+[0654] [39:49] mn082: You can request certain kind of QS .
+[0655] [39:52] mn082: You can even request it in GPS
+[0656] [39:54] mn082: but it 's not end - to - end quality of service .
+[0657] [39:56] mn021: Hmm - hmm - hmm .
+[0658] [39:57] mn082: It is only um what the gateways get .
+[0659] [40:01] mn021: OK .
+[0660] [40:01] mn021: Yeah .
+[0661] [40:02] mn082: And within the core network there are certain kind of tunnels set up in the core network itself of the access provider ,
+[0662] [40:08] mn082: not the internet backbone core .
+[0663] [40:10] mn082: And you use certain kind of tunnel mechanism to combine , in principle , the base station cluster control .
+[0664] [40:18] mn082: But this is uh is controlled by a certain kind of node .
+[0665] [40:21] mn021: Hmm - hmm - hmm .
+[0666] [40:22] mn082: And you have the gateway to the PDN , or the Public Data Network .
+[0667] [40:25] mn082: And between both there 's a certain kind of tunnel set up .
+[0668] [40:25] mn021: But
+[0669] [40:28] mn021: But in fact now , at the GSM level , what you have is that every voice channel you use provides a a p a pretty fine fixed uh data speed .
+[0670] [40:41] mn021: So , we can say that every voice channel has an i an incr uh implied um quality of service ,
+[0671] [40:51] mn021: which is nnn ninety six hundred bits per second .
+[0672] [40:56] mn021: Full duplex .
+[0673] [40:58] mn082: You mean now for GSM , @ @ ,
+[0674] [40:58] mn021: Doesn't it ?
+[0675] [40:59] mn082: or ?
+[0676] [41:00] mn021: Yeah .
+[0677] [41:00] mn082: Yeah .
+[0678] [41:00] mn082: Yeah .
+[0679] [41:01] mn021: So .
+[0680] [41:02] mn082: Yeah , what is what means quality of service .
+[0681] [41:04] mn082: A certain degree .
+[0682] [41:05] mn082: Right ?
+[0683] [41:06] mn021: Yeah .
+[0684] [41:07] mn082: Uh .
+[0685] [41:09] mn082: Sometimes
+[0686] [41:09] mn021: No , but um but not only because of of data speed ,
+[0687] [41:12] mn021: but also about delay ,
+[0688] [41:14] mn021: you know ,
+[0689] [41:14] mn021: because GSM networks were developed to y uh with a voice service in mind .
+[0690] [41:22] mn021: Ah , delay is also considered in these networks .
+[0691] [41:26] mn021: So ,
+[0692] [41:27] mn021: uh , in fact for every voice channel you have uh a pretty fine maximum uh delay and jitter , and a a a specified um data speed .
+[0693] [41:38] mn021: So you can scale up scale up this uh this um thing by using several channels .
+[0694] [41:47] mn021: So , in fact , you have , using just GSM technology , you have more or less the same building blocks as you can get uh with the UMTS .
+[0695] [41:58] mn021: I mean that one thing is that the technology is a little bit different ,
+[0696] [42:03] mn021: that uh the base station thing is different
+[0697] [42:06] mn021: and maybe uh the the internal routing uh inside the network is different
+[0698] [42:10] mn021: but
+[0699] [42:16] mn082: It 's packaged data oriented .
+[0700] [42:19] mn082: It 's not really circuit - switched .
+[0701] [42:20] mn082: In UMTS you have always GPS as a a involvement in the core network .
+[0702] [42:26] mn082: You have , in principle , the path which still is available for for the GSM network .
+[0703] [42:31] mn082: Also they use , in principle , the same uh the same mechanism .
+[0704] [42:33] mn021: Mm - hmm .
+[0705] [42:35] mn082: But you also have a dat uh packet oriented communication that 's on the GPS stuff .
+[0706] [42:41] mn082: And that 's also related to UMTS .
+[0707] [42:43] mn021: Yeah , but The You know , it is also being d uh developed , this G uh P - DPRS thing , GPRS thing .
+[0708] [42:43] mn082: So ,
+[0709] [42:44] mn082: that
+[0710] [42:52] mn021: which is uh pack uh packet data over GSM .
+[0711] [42:55] mn021: So ,
+[0712] [42:56] mn021: I mean . Uh , I don't see that a a lot of difference .
+[0713] [43:01] mn021: We can expect a lot of differences f uh from the uh mobile terminal point of view . Uh , when uh UMTS be deployed .
+[0714] [43:11] mn021: What I 'm trying to say is that is that well , uh maybe uh it is not a big problem that any of us uh be uh um were um a UMTS expert
+[0715] [43:23] mn021: because uh I I don't see it I think that the UMTS thing is more a technology issue , than a research issue .
+[0716] [43:32] mn021: Maybe I 'm wrong .
+[0717] [43:33] mn021: Just es
+[0718] [43:34] mn021: um
+[0719] [43:34] mn082: No
+[0720] [43:35] mn021: explaining my m
+[0721] [43:36] mn082: Yeah
+[0722] [43:36] mn082: I think there 's a lot of research .
+[0723] [43:37] mn082: But the question is " is this uh a research wh in which direction we are going ? "
+[0724] [43:42] mn021: I mean to be done here ,
+[0725] [43:42] mn082: And
+[0726] [43:43] mn082: For inf
+[0727] [43:43] mn021: not
+[0728] [43:44] mn021: of course , you know , I 'm I I agree with you that there are a lot o of things to be developed
+[0729] [43:50] mn021: but But the point is that uh this is probably not here .
+[0730] [43:55] mn021: Because uh well , you know the the the orientation of our group which is uh " Networks Services and Applications " , not uh wireless technology or the underlying wireless technology .
+[0731] [44:07] mn030: You think more about hardware technology .
+[0732] [44:09] mn021: Yeah .
+[0733] [44:09] mn030: So
+[0734] [44:09] mn021: You know , radio frequency technology ,
+[0735] [44:11] mn021: wide - band w uh CDMA .
+[0736] [44:13] mn021: These kind of things all have a lot of things to be to be uh researched .
+[0737] [44:19] mn021: But uh I don't think w this is not something we are doing here .
+[0738] [44:23] mn082: Right ,
+[0739] [44:23] mn082: but bear in mind the picture is a is a little bit different .
+[0740] [44:26] mn082: The picture I have in mind concerning UMTS is , first of all , if you use UMTS only for voice , Like you did it or are doing now for GSM , it 's not worth to have this kind of network .
+[0741] [44:37] mn082: And , currently in Europe , where it will be deployed first , I believe , it will be very hard , in principle , to get some money back if you have only for using it for voice .
+[0742] [44:45] mn021: Voice ,
+[0743] [44:45] mn021: yeah .
+[0744] [44:45] mn082: Because they paid a lot of money .
+[0745] [44:47] mn082: So .
+[0746] [44:47] mn082: What is the point ?
+[0747] [44:48] mn082: The point is that you use the UMTS to connect to the internet and have certain kind of services which are still not available up to now .
+[0748] [44:56] mn082: But the problem is if you have the internet content , and you have maybe your small uh um device of maybe only evolution based for for these uh new technologies , for for certain mobile phones , then you have certain kind of problems ,
+[0749] [45:09] mn021: Hmm - hmm - hmm .
+[0750] [45:11] mn082: you know ,
+[0751] [45:11] mn082: because you cannot use these things .
+[0752] [45:13] mn082: And WAP is not an answer for for these kind of things ,
+[0753] [45:15] mn082: you know .
+[0754] [45:16] mn082: So .
+[0755] [45:17] mn082: The I believe there is a lot of research work
+[0756] [45:19] mn082: and also if you see the end - to - end scope of the internet , from the mobile node up to the certain kind of server , " correspondent node " , or whatever you call this destination , then you have certain kind of models , for instance , for the quality of service and all these kind of things .
+[0757] [45:31] mn082: And then is UMTS only one link where you have certain kind of subnet layer technology .
+[0758] [45:36] mn082: And you have to match these things anyway .
+[0759] [45:39] mn082: It 's like a normal ethernet .
+[0760] [45:41] mn021: Hmm - hmm - hmm .
+[0761] [45:41] mn082: Whatever you see , it is only an additional subnet layer technology .
+[0762] [45:42] mn021: Yeah .
+[0763] [45:44] mn082: And you have all the things mapped to the uh to to the to the the internet stuff , in principle , to this technology .
+[0764] [45:53] mn082: And furthermore , you see that the trend is to put more IP technology , really , really IP technology , and not certain kind of modifications and adaptations , to their access network itself .
+[0765] [46:05] mn082: And
+[0766] [46:06] mn082: th there 's a lot of potential , as I believe , for for uh certain research work .
+[0767] [46:12] mn082: But the question is , first of all , " Do we have the competence to do something like that ? "
+[0768] [46:16] mn082: First of all .
+[0769] [46:17] mn082: Second , we are not hardware builders , in that sense to set up certain kind of end systems .
+[0770] [46:23] mn082: We can design them , yeah , from the protocol layering
+[0771] [46:27] mn082: and and maybe have some simulations , or whatever .
+[0772] [46:30] mn082: But isn't the final outcome really such a device ?
+[0773] [46:33] mn082: Prototype , Linux based .
+[0774] [46:35] mn082: And we go around here and we have maybe a GPS - base station sponsored by Ericsson ,
+[0775] [46:39] mn082: since they are living not so far away
+[0776] [46:41] mn082: and and maybe WaveLAN connection , here
+[0777] [46:43] mn082: now a testbed
+[0778] [46:44] mn082: and then then figure out that it works ?
+[0779] [46:46] mn082: So , that 's my point .
+[0780] [46:50] mn081: Well , just to make the list a little bit longer .
+[0781] [46:52] mn082: Yep .
+[0782] [46:53] mn081: May
+[0783] [46:54] mn081: Um , you could also think about uh session management .
+[0784] [46:57] mn081: I do along with uh the network applications and services , uh as you might know .
+[0785] [47:02] mn081: It 's a a
+[0786] [47:03] mn081: if you can do it in the end systems or at sp specific servers , then , I 'm in favor of that .
+[0787] [47:09] mn081: But se session management , I mean uh the authentication , if you go from one network to the other , it 's not solved .
+[0788] [47:15] mn081: uh ,
+[0789] [47:15] mn081: Nobody really wants a a guest on your network .
+[0790] [47:19] mn081: Unless you get some money through some way uh through some way .
+[0791] [47:23] mn081: Then , there is also the session management in the sense that a lot of these things at the Barwan project , as you said , go through proxies .
+[0792] [47:31] mn081: There might be kind of handoffs at uh at proxies ,
+[0793] [47:34] mn081: like the zip uh s zip proxy that we also discussed before a little bit .
+[0794] [47:40] mn081: That that 's als I think also in the line of uh session management .
+[0795] [47:44] mn081: Then there is this uh perfect thing uh the Berkeley sockets .
+[0796] [47:47] mn081: It 's almost perfect .
+[0797] [47:48] mn081: They s kind of skipped uh layer five , uh session management or session layer , I think .
+[0798] [47:55] mn081: That 's um normally with if you do a socket programming , it 's directly the prot application protocol on layer four , uh TCP socket , or layer five for UDP socket .
+[0799] [48:08] mn081: There
+[0800] [48:09] mn081: Well ,
+[0801] [48:11] mn081: could you introduce such a session management ,
+[0802] [48:13] mn081: or
+[0803] [48:14] mn081: Norm - what they do right now is they make it part of the application - level protocol .
+[0804] [48:20] mn081: That 's what they do most often .
+[0805] [48:21] mn081: Like with session management ? for mobile the uh applications such as ist instant messaging or uh talks , and so on , uh like zip . It 's just doing a a reconnect .
+[0806] [48:34] mn081: If they think that the network is different or different capabilities come into play , they simply do a reconnect
+[0807] [48:40] mn081: so it 's part of the protocol .
+[0808] [48:42] mn081: That 's all what I think about session management ,
+[0809] [48:44] mn081: like part of in proxies or is it en embedded in application level protocols ?
+[0810] [48:50] mn082: But it 's really higher level .
+[0811] [48:53] mn082: Right ?
+[0812] [48:54] mn082: It 's no more related to a network .
+[0813] [48:54] mn081: I
+[0814] [48:56] mn082: We are leaving the network area .
+[0815] [48:57] mn082: That 's dangerous .
+[0816] [49:00] mn081: So how do you want to focus on network services .
+[0817] [49:00] mn082: Cuz if you go to the app
+[0818] [49:01] mn082: If
+[0819] [49:02] mn082: For me that 's starting with middleware aspects ,
+[0820] [49:04] mn082: you know ?
+[0821] [49:05] mn081: Well the
+[0822] [49:05] mn082: And
+[0823] [49:06] mn081: So " network applications " , if you look at the name of the group , one thing is that um the they used to call a a n a " network " that was uh if it was like distributed between two systems connected by a network .
+[0824] [49:23] mn081: If you look at " network " from the OZ layer , then it 's uh , level two or something or maybe level three , but everything below three .
+[0825] [49:36] mn081: So there are , I think , two two different interpretations of uh " network " .
+[0826] [49:41] mn082: No , I believe " network " is , if you see it really from from the IP protocol suite , is then layer one , in principle , up t including layer four ,
+[0827] [49:52] mn082: despite the fact that layer four is only residing , normally , in the end system and in the gateways .
+[0828] [49:57] mn081: But are there " network applications " , then ?
+[0829] [49:57] mn082: Yeah .
+[0830] [50:01] mn081: So , the the name is " Network Services and Applications " ,
+[0831] [50:04] mn081: s so what could be an en example of a network application if you look at the OZ stick ?
+[0832] [50:10] mn082: Yeah , we have , I think , some .
+[0833] [50:12] mn082: Yeah .
+[0834] [50:12] mn082: Do you see this word " application " related to a network ?
+[0835] [50:15] mn082: Or do you see this word independently ?
+[0836] [50:17] mn082: That was never discussed in detail .
+[0837] [50:20] mn082: " Network Services and Applications " .
+[0838] [50:22] mn082: So , everything in the world .
+[0839] [50:23] mn081: OK .
+[0840] [50:24] mn082: Or is the application related to the network ?
+[0841] [50:26] mn082: For
+[0842] [50:32] mn082: For instance , e - commerce .
+[0843] [50:34] mn082: And it 's really , really
+[0844] [50:34] mn081: OK , OK , well , they will I didn't want to get a discussion now .
+[0845] [50:35] mn082: yeah
+[0846] [50:36] mn082: You know ?
+[0847] [50:37] mn082: That
+[0848] [50:37] mn082: Yeah .
+[0849] [50:38] mn082: No no , uh that is a typical application , I think ,
+[0850] [50:40] mn082: which is , in principle , also a little bit related to uh to the network .
+[0851] [50:44] mn082: But not any application .
+[0852] [50:46] mn082: And we also have the aspects for security .
+[0853] [50:48] mn082: Miguel , you mentioned here authentication and and triple - A ,
+[0854] [50:51] mn082: but we do not have any expert anymore .
+[0855] [50:54] mn082: Because Hannes was an expert for that .
+[0856] [50:59] mn082: So the problem for me , it still exists that we have , in principle , here basic building blocks in the proposal from the networking side .
+[0857] [51:07] mn082: We could have a certain kind of application
+[0858] [51:10] mn082: and there 's a lot of activities in the outside world
+[0859] [51:13] mn082: and I believe there 's a lot of contacts .
+[0860] [51:16] mn082: Or there could be a lot of contacts uh with with these people .
+[0861] [51:21] mn082: Especially at uh Georgia Tech .
+[0862] [51:23] mn082: I know on next week on Tuesday .
+[0863] [51:25] mn082: Tuesday , right ?
+[0864] [51:26] mn082: We will go to UCB .
+[0865] [51:28] mn082: There are three guys .
+[0866] [51:30] mn082: Then Morgan mentioned one .
+[0867] [51:33] mn082: I do not know exactly um uh what he is doing ,
+[0868] [51:37] mn082: but , he 's also interesting in some kind of collaboration .
+[0869] [51:40] mn082: He 's also a professor in the UCB .
+[0870] [51:43] mn082: And uh many universities
+[0871] [51:45] mn082: maybe Claudia mentioned Duisburg .
+[0872] [51:47] mn082: And uh in principle , most of the university have some activities in that area .
+[0873] [51:52] mn082: We will not take care about these one ,
+[0874] [51:53] mn082: but we can use them as um for field ex uh field trial access
+[0875] [51:59] mn082: and and and maybe some support
+[0876] [52:00] mn082: and and whatever kind of thing .
+[0877] [52:02] mn082: And we focus really on the networking stuff
+[0878] [52:04] mn082: and going in more detail in this area .
+[0879] [52:07] mn082: And the alternative is maybe what uh
+[0880] [52:10] mn082: currently we have only uh this uh proposal from Wilbert to go more in the smaller scope .
+[0881] [52:18] mn082: Figure out some potential from maybe this uh WaveLAN UMTS stuff
+[0882] [52:25] mn082: and and starting from that .
+[0883] [52:29] mn082: Or , are there other suggestions ?
+[0884] [52:31] mn030: I think we uh have already so much work put into this proposal ,
+[0885] [52:37] mn030: why to switch now ?
+[0886] [52:39] mn030: So I don't see the reason for that .
+[0887] [52:42] mn030: Maybe the application we suggested is not the best one .
+[0888] [52:47] mn030: So we have to think about an application which which is um um , for mobile users , more relevant .
+[0889] [52:57] mn030: I don't know .
+[0890] [52:57] mn030: Maybe video games .
+[0891] [52:58] mn030: If you are traveling
+[0892] [53:00] mn030: uh , it 's boring to travel
+[0893] [53:01] mn030: and then you decide to play a g video game with somebody else who 's traveling .
+[0894] [53:08] mn082: Yeah , you know , it 's still mentioned in the proposal .
+[0895] [53:08] mn030: So .
+[0896] [53:10] mn082: And
+[0897] [53:11] mn082: th um
+[0898] [53:12] mn082: I I 'm sure , OK , that it is the wrong place to get the foundation why we are use this kind of application ,
+[0899] [53:19] mn082: but uh And In in the end of the text in the end of the pr text of the proposal .
+[0900] [53:25] mn082: But it is mentioned that it is only an example .
+[0901] [53:27] mn082: And that we use this application , in principle , while it is then very very easy to get a certain kind of access to these kind of things .
+[0902] [53:36] mn082: When you have a video game server and and you want to have mobile access you must at least have one in your consortium , or as a partner whatever , who provides this service .
+[0903] [53:48] mn082: And then we we are playing videos , in principle , if you have a field trial .
+[0904] [53:53] mn082: And that is , I think , much more harder than to have a certain kind of certain kind of access to the University ,
+[0905] [54:00] mn082: and uh to this server , which is run on the campus of the University .
+[0906] [54:04] mn030: OK , that 's right .
+[0907] [54:04] mn082: And that is the point .
+[0908] [54:06] mn082: You can have this f to figure out all the things
+[0909] [54:08] mn082: and the the um
+[0910] [54:10] mn082: and the the um
+[0911] [54:13] mn082: um , now , how to say , the requirements of this application using this classroom scenario .
+[0912] [54:19] mn082: But nevertheless , it 's not the best for
+[0913] [54:21] mn082: and and and and uh
+[0914] [54:23] mn082: s networking stuff .
+[0915] [54:25] mn082: You are right .
+[0916] [54:28] mn082: But it Does anybody see certain kind of potential here to go on ,
+[0917] [54:34] mn082: and to start the work maybe in this little bit smaller oh uh scope based on these building blocks ?
+[0918] [54:44] mn082: Because Multicast you still mentio uh you mentioned that there is no potential .
+[0919] [54:47] mn082: I think it 's described here that the potential , if you use it for the mapping to the next generation networks in the wireless access area they are still some potential to map Multicast
+[0920] [55:01] mn082: because they do not use it .
+[0921] [55:04] mn082: And to figure out whether they 're useful inse instead of using certain kind of tunneling mechanism and to set up these tunnels
+[0922] [55:09] mn082: and have the mapping between a PSDN uh telephone number or whatever kind of number they are using to IP addresses and then there 's the tunnel I Ds ,
+[0923] [55:17] mn082: and and all this kind of things , I think , is very beneficial as well for for telecommunication providers .
+[0924] [55:25] mn082: as well as for ISP 's .
+[0925] [55:28] mn082: I I think the potential is still there .
+[0926] [55:29] mn082: You you neglected that ,
+[0927] [55:31] mn082: but I don't think that you are right in that sense .
+[0928] [55:35] mn081: Well , think it works ,
+[0929] [55:36] mn081: but uh
+[0930] [55:37] mn081: yes , the mapping of course between multicasting and the UMTS or or whatever
+[0931] [55:42] mn082: In next generation ?
+[0932] [55:43] mn082: Yeah .
+[0933] [55:44] mn081: That 's or CDMA or whatever that 's uh , yeah , probably a thing that has to be find out .
+[0934] [55:46] mn082: Yeah .
+[0935] [55:52] mn081: I don't know what statuses .
+[0936] [55:54] mn081: Maybe they already did it par as part of UMTS ,
+[0937] [55:56] mn081: I 'm not sure .
+[0938] [55:58] mn081: I don't have a clue .
+[0939] [55:59] mn081: I I only know how it works on copper and like ethernet
+[0940] [56:03] mn081: and on PS PPP over something
+[0941] [56:07] mn081: and how it works like that ,
+[0942] [56:07] mn081: but on the wireless I 'm not sure .
+[0943] [56:10] mn082: Now what do you see about the
+[0944] [56:12] mn082: um , um ,
+[0945] [56:15] mn082: KPN interests ?
+[0946] [56:17] mn082: Because , I believe s if the argument changes as follows that you are here and that you are very familiar with uh the Multicast stuff , and KPN is very interesting in UMTS stuff , and this is one potential target network environment we are focusing on , but only for the uh IP - layer technology , then , why do the mapping of multica also potential mapping of Multicast , I think , must be of major interest for them .
+[0947] [56:47] mn082: Right ?
+[0948] [56:49] mn021: One question .
+[0949] [56:49] mn081: Yes , but if if it 's available
+[0950] [56:52] mn081: that means
+[0951] [56:53] mn081: so so if uh if it 's already part of the UMTS standardization then uh it 's immediately finished ,
+[0952] [57:00] mn081: like , OK , you can tell , KPN well go to Ericsson or Nokia and buy it ?
+[0953] [57:05] mn081: And if it 's not in there yet well , it could be a suggestion
+[0954] [57:09] mn081: and then the hardware people will make it part u like the ETSI or whatever where U wherever UMTS is standardized they will d well , go for it .
+[0955] [57:21] mn082: Mm - hmm .
+[0956] [57:21] mn081: Of course , yeah , this this group could do that , too .
+[0957] [57:24] mn081: Could be ,
+[0958] [57:25] mn081: but
+[0959] [57:26] mn021: I have a an important doubt about the IP availability over UMTS .
+[0960] [57:33] mn021: I mean you know that the carriers and some manufacturers have done an important effort in developing this web thing
+[0961] [57:42] mn021: and uh I 'm not sure what they plan to do with next generation .
+[0962] [57:48] mn021: I mean , are they maintaining are they holding the same web technology ?
+[0963] [57:53] mn021: Or , are ju just they discarding this technology
+[0964] [57:57] mn021: and forgetting about the thing ?
+[0965] [57:59] mn021: I I don't know what will happen .
+[0966] [58:01] mn021: uh , I I don't have a clue .
+[0967] [58:03] mn021: Probably , if after searching a little bit on the on the net I can get the answer ,
+[0968] [58:08] mn021: but initially this is something to to to have in mind .
+[0969] [58:13] mn021: I mean . Because maybe this UMTS thing will appear on the market without IP as a native protocol .
+[0970] [58:23] mn021: And if this is the case well , thus seamless integration could be we strongly affected .
+[0971] [58:29] mn021: At least , uh , if you we want to use U M
+[0972] [58:35] mn021: I 'm I 'm just uh throwing the question .
+[0973] [58:38] mn021: uh I mean , looking for an answer
+[0974] [58:41] mn021: because I don't know if uh some of you have a clue about this .
+[0975] [58:44] mn021: I don't know what what carriers are planning to do about this .
+[0976] [58:51] mn081: I 'm not really sure ,
+[0977] [58:53] mn081: but I thought I I had the impression that we can throw away our Nokia stuff when our web gateways , when we g even go to GPRS ,
+[0978] [59:02] mn081: so
+[0979] [59:03] mn081: let alone UMTS .
+[0980] [59:07] mn082: Now , WAP is ja not only related now to available bandwidth .
+[0981] [59:08] mn081: That 's the impression I get .
+[0982] [59:11] mn082: That 's not the only thing .
+[0983] [59:11] mn082: It 's only the adaptation towards the capabilities of the end device .
+[0984] [59:17] mn082: Right ?
+[0985] [59:17] mn081: Yeah , definitely .
+[0986] [59:18] mn082: So .
+[0987] [59:19] mn082: uh
+[0988] [59:19] mn081: But but still a le d it 's a it 's a fundamental
+[0989] [59:22] mn082: Huh .
+[0990] [59:23] mn082: Yeah .
+[0991] [59:23] mn081: uh
+[0992] [59:27] mn081: the terminal has a WAP stick .
+[0993] [59:30] mn081: And there 's a box that has also a a WAP stick .
+[0994] [59:32] mn082: So yeah .
+[0995] [59:33] mn081: And they do sometime most cases , they do share an IP address .
+[0996] [59:38] mn081: But doesn't uh have to deal with IP at all .
+[0997] [59:41] mn081: It 's l just a thirty - bit number
+[0998] [59:41] mn021: Mm - hmm .
+[0999] [59:43] mn081: that a actually is an assigned number .
+[1000] [59:45] mn081: But it 's all only used for identification .
+[1001] [59:47] mn081: That 's the only thing .
+[1002] [59:48] mn081: It 's stored in a WAP cookie ,
+[1003] [59:50] mn081: much like HTP
+[1004] [59:52] mn081: in a cookie and from the WAP gateway
+[1005] [59:54] mn081: then it will be HTP real HTP or something .
+[1006] [59:58] mn081: So it 's it 's really a different uh type of connection .
+[1007] [60:03] mn081: It looks a little bit like uh the the well , WML looks a little bit like HTML ,
+[1008] [60:08] mn081: but
+[1009] [60:09] mn081: It 's not IP at all .
+[1010] [60:11] mn082: Right .
+[1011] [60:11] mn081: Because there is a gateway , you can access with almost the same microbrowser ,
+[1012] [60:16] mn081: the same i uh web servers .
+[1013] [60:20] mn081: If they provide the right content uh , spit out the right uh WML language .
+[1014] [60:26] mn081: So it 's it 's really a different network technology I think .
+[1015] [60:30] mn082: Yeah .
+[1016] [60:31] mn082: It 's transparent , in principle , what you can carry ,
+[1017] [60:34] mn082: but
+[1018] [60:34] mn082: Anyway , you have the gateway .
+[1019] [60:36] mn082: It must be uh The ca uh c uh t conversion of the media
+[1020] [60:37] mn081: Yeah .
+[1021] [60:41] mn081: But @ @
+[1022] [60:41] mn082: of the contents , in principle .
+[1023] [60:44] mn082: But
+[1024] [60:46] mn082: It 's too late , I believe .
+[1025] [60:47] mn082: If WAP was available in the beginning of GSM , then I think it was there would be a good chance that it is well - deployed .
+[1026] [60:50] mn021: Mm - hmm .
+[1027] [60:54] mn082: But now , the first generation of web - browsers are in the ha and and uh I would say " handies " ,
+[1028] [60:56] mn081: I i
+[1029] [61:00] mn082: so that 's wrong in the mobile phones ,
+[1030] [61:02] mn082: but the the next generation of networks are still available .
+[1031] [61:05] mn082: and the ba uh the bandwidth constraints are no more applicable ?
+[1032] [61:09] mn081: Well
+[1033] [61:09] mn081: Ri - right now there is still a lot of WAP , actually .
+[1034] [61:10] mn082: And
+[1035] [61:13] mn081: So
+[1036] [61:13] mn021: Mm - hmm .
+[1037] [61:13] mn082: Yeah , but The hype
+[1038] [61:14] mn082: but
+[1039] [61:14] mn082: pffft
+[1040] [61:15] mn082: uh
+[1041] [61:15] mn081: Well , users usage .
+[1042] [61:16] mn082: I never saw a user using WAP .
+[1043] [61:18] mn082: Please raise your hand , who is using WAP .
+[1044] [61:20] mn081: My colleagues are .
+[1045] [61:21] mn082: Yeah ?
+[1046] [61:21] mn081: Yeah .
+[1047] [61:22] mn081: Yeah , they are using WAP .
+[1048] [61:22] mn082: Yeah ?
+[1049] [61:24] mn082: OK , one of six .
+[1050] [61:25] mn082: So .
+[1051] [61:26] mn030: I don't have a mobile phone .
+[1052] [61:28] mn081: Yeah .
+[1053] [61:28] mn082: Oh .
+[1054] [61:29] mn081: i
+[1055] [61:30] mn035: Who is using mobile phones ?
+[1056] [61:30] mn081: Bu - well , you don't have a mobile phone in in the USA here .
+[1057] [61:34] mn021: No .
+[1058] [61:34] mn021: No .
+[1059] [61:35] mn081: So that 's maybe the reason .
+[1060] [61:35] mn021: Not me .
+[1061] [61:36] mn081: And I 'm not I doubt that it 's not available in Germany .
+[1062] [61:40] mn081: It 's would be unbelievable to me .
+[1063] [61:42] mn082: Now , do you yeah , do you see the chance for WAP ?
+[1064] [61:44] mn082: I don't see it .
+[1065] [61:45] mn081: It i it is .
+[1066] [61:46] mn081: In in in Sweden it is also there .
+[1067] [61:48] mn081: And in the Netherlands , it is also available .
+[1068] [61:49] mn021: Mmm .
+[1069] [61:50] mn081: every
+[1070] [61:50] mn021: In Spain it 's available
+[1071] [61:52] mn021: but uh you know , uh my main complaint has been all the time that it is difficult to me to believe that I can do interesting work with a 4 lines display .
+[1072] [62:06] mn021: Ah Maybe , check the lottery result or something like this ,
+[1073] [62:06] mn081: Oh .
+[1074] [62:07] mn081: Yeah
+[1075] [62:10] mn081: Oh !
+[1076] [62:10] mn081: Bu
+[1077] [62:11] mn081: I 'm the first one to admit that 's a h that it is a hype ,
+[1078] [62:11] mn021: but
+[1079] [62:15] mn081: but and but I 'm I just wanted to say it is being used .
+[1080] [62:19] mn081: But if it makes sense to me and to especially to have WAP in in between , no .
+[1081] [62:25] mn081: I 'm not a supporter of it .
+[1082] [62:27] mn021: Huh - huh - huh .
+[1083] [62:27] mn081: So they have this optimized protocol to to transmit a few ASCII bytes that can rescr refresh the screen with a different animation every , well , second , a few times .
+[1084] [62:40] mn082: Yeah .
+[1085] [62:40] mn081: So , that 's that 's true .
+[1086] [62:42] mn081: I immediately agree .
+[1087] [62:43] mn081: But the thing was , y you just asked well , " will will it be the same , will there be WAP for UMTS " and so on , QPRS .
+[1088] [62:49] mn021: Well
+[1089] [62:50] mn081: And well I don't have the answer ,
+[1090] [62:51] mn021: I
+[1091] [62:53] mn081: but I thought it was not .
+[1092] [62:55] mn081: I 'm just It 's weird it 's weird to stop doing it with GPRS .
+[1093] [62:55] mn035: Yeah .
+[1094] [63:00] mn021: Hmm - hmm - hmm .
+[1095] [63:02] mn035: But usually WAP shouldn't is so general that it can be used with UMTS .
+[1096] [63:08] mn035: So if you still want to use WAP with UMTS you might be able to do it .
+[1097] [63:14] mn035: But
+[1098] [63:14] mn081: Yes .
+[1099] [63:15] mn035: that
+[1100] [63:16] mn082: There
+[1101] [63:17] mn081: if you want to do it in a in a mobile phone want to implement it , as a light stack or something .
+[1102] [63:18] mn082: Yeah .
+[1103] [63:19] mn082: Yeah .
+[1104] [63:21] mn081: Yes ?
+[1105] [63:22] mn082: Yep .
+[1106] [63:24] mn081: Sure .
+[1107] [63:24] mn035: But usually that 's not the reason to have UMTS .
+[1108] [63:30] mn081: No , not not if you have a big uh web pad or something .
+[1109] [63:33] mn035: Yep .
+[1110] [63:34] mn081: Then you m There there 's an IP stack in it
+[1111] [63:34] mn082: Mm - hmm .
+[1112] [63:37] mn081: and
+[1113] [63:39] mn082: Mm - hmm .
+[1114] [63:40] mn082: So maybe I would like to ask Claudia ,
+[1115] [63:40] mn081: Hmm .
+[1116] [63:41] mn082: you read the proposal in the meantime ?
+[1117] [63:44] fn083: Yeah , but the task changed really a lot ,
+[1118] [63:44] mn082: Yeah .
+[1119] [63:46] fn083: so , I 'd I rather would like to
+[1120] [63:46] mn082: Yes , that 's right .
+[1121] [63:48] mn082: And do you have some comments on it
+[1122] [63:50] mn082: from the next this is version zero dot five right , yeah .
+[1123] [63:54] fn083: Yeah , but I 'd rather like to follow the discussion before I gave any comments ,
+[1124] [63:59] fn083: cuz it 's really The first point is it 's much more than it was before I left ,
+[1125] [64:03] fn083: so it 's like five weeks in between , so it 's like that whew !
+[1126] [64:06] fn083: that big now .
+[1127] [64:07] mn082: That 's right .
+[1128] [64:07] fn083: And it really changed a lot
+[1129] [64:07] mn082: Yeah .
+[1130] [64:09] fn083: cuz the I mean I found the classroom inside
+[1131] [64:12] fn083: but , the thing where I left the discussion was that we are talking about uh a classroom where you know everybody could look on with any kind of device and follow lectures or do exercise or whatever .
+[1132] [64:26] fn083: So .
+[1133] [64:27] fn083: Now we are talking about something which is much more precise
+[1134] [64:30] fn083: and the the range of stuff is maybe more narrow than before
+[1135] [64:36] fn083: so I 'd rather like to to follow it a bit , and then to get more into the ideas .
+[1136] [64:37] mn081: So
+[1137] [64:42] mn082: OK .
+[1138] [64:42] mn081: c Can I do another one , like
+[1139] [64:45] mn081: UMTS or wireless u i generally are will be m more expensive .
+[1140] [64:52] mn081: And especially UMTS .
+[1141] [64:54] mn081: If they want to get back the money .
+[1142] [64:55] mn081: So
+[1143] [65:00] mn081: not really billing , of course .
+[1144] [65:01] mn081: I
+[1145] [65:02] mn081: but at least the different application of protocol - based usage .
+[1146] [65:07] mn081: So you have uh one connection , one application uses FTP whatever ,
+[1147] [65:12] mn081: bit
+[1148] [65:14] mn081: That those type of application you m may might want to make more out of a megabit per second or something .
+[1149] [65:21] mn081: Could that be something ,
+[1150] [65:22] mn081: or ?
+[1151] [65:23] mn082: Also we want to go more in the triple - A area . Right ?
+[1152] [65:26] mn082: Because billing alone
+[1153] [65:27] mn081: Or is n
+[1154] [65:29] mn081: No
+[1155] [65:29] mn082: Or or ac um Billing is related to accounting ,
+[1156] [65:31] mn081: e
+[1157] [65:32] mn082: Accounting is related to Authentification and Authorization .
+[1158] [65:32] mn081: Yeah , that 's true .
+[1159] [65:36] mn082: So .
+[1160] [65:36] mn082: And then you are still at the triple - A service uh activity
+[1161] [65:39] mn081: Yeah , that 's right .
+[1162] [65:44] mn082: and nobody is has the skills to deal with that .
+[1163] [65:48] mn082: And then we are leaving our scope anyway .
+[1164] [65:49] mn081: OK .
+[1165] [65:53] mn035: My impression on this proposal is that every single block has some research done already .
+[1166] [66:03] mn035: So , multicast . This means that there are many things done .
+[1167] [66:08] mn035: Oh , what was it ?
+[1168] [66:09] mn035: Maybe I was routing mobility management
+[1169] [66:13] mn035: But no one actually put them together .
+[1170] [66:16] mn082: Yeah
+[1171] [66:16] mn035: But So that 's the big problem .
+[1172] [66:17] mn082: That
+[1173] [66:18] mn035: But the problem with this problem , might be that it 's too big
+[1174] [66:22] mn035: to put all these big pieces to
+[1175] [66:23] fn083: What do you mean by " put together " ?
+[1176] [66:25] mn082: As it What I mean , the synergy effect , right ?
+[1177] [66:25] mn035: So that you really have a complete a complete scenario .
+[1178] [66:27] mn082: From
+[1179] [66:28] mn082: Yeah .
+[1180] [66:28] mn035: You have , in one scenario , multicast , quality of service , routing and mobile um networking .
+[1181] [66:28] mn082: Yeah .
+[1182] [66:29] fn083: Ah .
+[1183] [66:37] fn083: Mm - hmm .
+[1184] [66:38] mn035: Not just the islands alone .
+[1185] [66:38] mn082: Yeah . I
+[1186] [66:38] fn083: So why I wasn't ,
+[1187] [66:40] fn083: well , yeah , uh hold myself back a bit with comments , is uh cuz when I left the discussion , the discussion was what to to have something like a big umbrella about everybody who was at this point , here .
+[1188] [66:55] fn083: And so the discussion was much broader than it is maybe right now .
+[1189] [66:59] fn083: And there I had the impression the umbrella was this kind of classroom thing .
+[1190] [67:04] fn083: Right ?
+[1191] [67:05] fn083: Or wrong ?
+[1192] [67:07] mn082: Yeah , in principle , it is related to the current state .
+[1193] [67:10] mn082: But the networking stuff is more explained in much more detail
+[1194] [67:11] fn083: Yeah , yeah , yeah . It is .
+[1195] [67:12] fn083: Of course .
+[1196] [67:14] mn082: and the work packages are better ident oder what c could be derived for work packages is much better aligned .
+[1197] [67:14] fn083: Yeah .
+[1198] [67:20] fn083: Yeah , yeah , yeah .
+[1199] [67:21] fn083: That 's that 's clear .
+[1200] [67:21] mn082: But that has not changed , yeah ?
+[1201] [67:22] fn083: But
+[1202] [67:23] fn083: Yeah , that 's that 's clear ,
+[1203] [67:24] fn083: but
+[1204] [67:26] fn083: because when we were discussion discussing this uh stuff weeks ago , uh I had the impression that , you know , everything of these work packages uh fit together under this one big umbrella .
+[1205] [67:40] fn083: And now it sounds different .
+[1206] [67:42] fn083: So that 's what I don't understand .
+[1207] [67:46] fn083: Ah but , it 's also because I missed the last four weeks .
+[1208] [67:49] fn083: So .
+[1209] [67:50] mn082: Yeah
+[1210] [67:52] fn083: It 's a a bit hard for me to follow the development what happened in the last four weeks ,
+[1211] [67:55] mn082: Yeah OK maybe one sentence one sentence .
+[1212] [67:56] fn083: why it changed so .
+[1213] [67:58] mn082: If you 're focussing on the argument chain as follows . I have an application .
+[1214] [68:04] mn082: This application has certain kind of requirements .
+[1215] [68:07] mn082: These requirements are , maybe , Multicast and and and quality of service and mobility
+[1216] [68:12] mn082: access and then mobility management
+[1217] [68:16] mn082: and That is it .
+[1218] [68:18] mn082: I want to focus on it .
+[1219] [68:19] mn082: Then you have in mind that Or you must have in mind that all other applications and all other networking stuff is not affected by this .
+[1220] [68:28] mn082: That you can use it with every application
+[1221] [68:30] mn082: and if you introduce some new mechanism in the network , that is not related only to interactive multimedia applications like the classroom , it must be fit end to end .
+[1222] [68:39] mn082: And if you assume something , like we discussed it , very hard with with Multicast , that you assume that Multicast will be available at certain portions of the network or if you if you want to have it end to end , this mechanism must be applied really for all throughout of the internet .
+[1223] [68:56] mn082: Otherwise it makes no sense ,
+[1224] [68:57] mn082: and we come to the conclusion , " OK , uh Multicast , we must deal with both approaches " ,
+[1225] [69:03] mn082: that you have eh application layer Multicast
+[1226] [69:05] mn082: as well as maybe some other Multicast and maybe really Multicast
+[1227] [69:11] mn082: and then the point is how to select these mechanism if you want to have not a certain kind of access to the server elsewhere in the network you want to use any application .
+[1228] [69:23] fn083: So
+[1229] [69:23] mn082: Yeah ,
+[1230] [69:24] mn082: and
+[1231] [69:27] fn083: So Cuz what 's difficult for me is what is meant by " application " ?
+[1232] [69:31] fn083: So . Cuz I have sometimes the impression that everybody is defining " application " in different way .
+[1233] [69:37] fn083: So , what exactly is mean by " application " ?
+[1234] [69:40] mn082: The application , for instance , here , that eh the interactive classroom .
+[1235] [69:45] mn082: But elsewhere any application in in in any kind of video audio
+[1236] [69:45] fn083: Yeah .
+[1237] [69:49] fn083: Oh , OK .
+[1238] [69:50] fn083: So
+[1239] [69:50] mn082: or whatever kind of game server
+[1240] [69:51] mn082: what - whatever kind of interactive multimedia especially do uh downstreaming applications maybe eh video on demand then , eh whatever kind of application you can consider .
+[1241] [70:02] fn083: So what has changed is that we 're not only focussing on this intelligent classroom , but on everything .
+[1242] [70:09] mn082: Not on everything .
+[1243] [70:11] mn082: That 's not true .
+[1244] [70:12] mn082: But we s
+[1245] [70:13] mn082: That 's why we say here , that we have a certain kind of eh possibility to change in the access networks .
+[1246] [70:21] fn083: Mm - hmm .
+[1247] [70:22] mn082: That means the wireless networks
+[1248] [70:24] mn082: because that provides , in principle , the mobility .
+[1249] [70:27] mn082: And these mechan
+[1250] [70:27] mn082: And you see that there 's a trend to provide IP functionality more and more in these kind of networks .
+[1251] [70:33] mn082: But the problem is that you could not focus on this kind of um technology only for the access network .
+[1252] [70:40] mn082: You have to have in mind always the end to end scope .
+[1253] [70:43] mn082: And if you see , for instance We have routing algorithm but different protocols and whatever kinds of things , u
+[1254] [70:49] mn082: especially also for Multicast ,
+[1255] [70:52] mn082: different things really for different providers ,
+[1256] [70:54] mn082: and uh and it 's uh very easy to change it , maybe in the access network , for novel things .
+[1257] [71:02] mn082: For instance , that 's one provider domain
+[1258] [71:04] mn082: and you can say well why not use active routing in that provider domain ?
+[1259] [71:07] mn082: So it means that packet are delivering information ,
+[1260] [71:09] mn082: and you do not have the separation of routing and and and forwarding process .
+[1261] [71:13] mn082: It 's impossible to deal with that in the whole internet ,
+[1262] [71:17] mn082: because security reasons and whatever kinds of things make it impossible .
+[1263] [71:21] mn082: So
+[1264] [71:31] mn082: without losing the end to end scope in the internet .
+[1265] [71:35] mn082: Then you can have certain n novel features
+[1266] [71:39] mn082: give the providers like KPN or whatever , the po the potential , in principle , to to uh see the building blocks for the future networks
+[1267] [71:48] mn082: because there 's a three g third generation like UMTS , a fourth generation more IP related .
+[1268] [71:53] mn082: There will be a fifth generation , I 'm sure .
+[1269] [71:55] mn082: And then you derive the certain kind of building blocks for this network ,
+[1270] [71:58] mn082: if you ever really full I uh uh full I P , end to end .
+[1271] [72:03] mn082: But nevertheless you can only not only focus on " OK , I provide this mechanism "
+[1272] [72:07] mn082: because u you are accessing a certain kind of server node in the internet , using any application .
+[1273] [72:13] mn082: And then this mechanism must fit it there .
+[1274] [72:15] mn082: But nevertheless eh internet backbone is in the meantime , based on its success ,
+[1275] [72:19] mn082: impossible to change .
+[1276] [72:21] mn082: You see the difficulties with IP version six ,
+[1277] [72:23] mn082: eh eh you see the difficulties with Multicast .
+[1278] [72:26] mn082: They are discussed since , you know , ten years or whatever .
+[1279] [72:29] mn082: The specification are rather stable and and available
+[1280] [72:33] mn082: but we have only islands in that .
+[1281] [72:35] mn082: We cannot assume that everything is end to end available .
+[1282] [72:38] mn082: And so you have to mi to have to have in mind that certain kinds of mechanisms are maybe at a certain stage end to end available ,
+[1283] [72:46] mn082: maybe we have a lucky that the islands are connected to each other
+[1284] [72:49] mn082: or the same applies for MPLS , for instance ,
+[1285] [72:52] mn082: maybe they are only portions available ,
+[1286] [72:54] mn082: how to deal with that when the islands are not available
+[1287] [72:57] mn082: and maybe nothing is available .
+[1288] [73:00] mn082: But you have to select it
+[1289] [73:01] mn082: because I have a mobile phone , a mobile node or whatever kind of device ,
+[1290] [73:05] mn082: and I want to contact a certain kind of content in the internet .
+[1291] [73:09] mn082: So is it possible to d have certain kind of normal features in the access network without losing the end to end scope of with these difficulties we are dealing with .
+[1292] [73:18] mn082: I always say that the success of internet make it unflexible .
+[1293] [73:22] mn082: It 's impossible to change something very easy . s
+[1294] [73:25] mn082: s
+[1295] [73:25] mn082: It 's easy maybe more on the access network as in the internet backbone .
+[1296] [73:29] mn082: So that is eh overall picture that we have in mind with these things .
+[1297] [73:33] mn082: And we can not u
+[1298] [73:35] mn082: We we are six people
+[1299] [73:36] mn082: or seven or whatever
+[1300] [73:38] mn082: if Hannes come ,
+[1301] [73:38] mn082: We are not able to solve the problems uh in in uh w in the few years or whatever
+[1302] [73:45] mn082: what the whole internet community has um done in in si since uh since a decade .
+[1303] [73:52] mn082: But we can f pick up some f some um potential and and and to start with something .
+[1304] [74:00] mn082: And that 's my missing point .
+[1305] [74:01] mn082: That we have here , in principle , really the description of this problem I mentioned
+[1306] [74:06] mn082: and focus really on the reasonable size of the project
+[1307] [74:10] mn082: maybe in the first stage fo for the NSA core itself ,
+[1308] [74:15] mn082: and maybe possible extension from , for instance , if KPN say " yes , that 's great , "
+[1309] [74:20] mn082: " that 's the right direction .
+[1310] [74:20] mn082: We will support that . "
+[1311] [74:21] mn082: And if Siemens say " OK , great , we will support it " ,
+[1312] [74:23] mn082: and
+[1313] [74:25] mn082: mmm University of Berlin or something
+[1314] [74:27] mn082: and maybe University of Mannheim or Duisburg
+[1315] [74:29] mn082: or in Spain oder whatever .
+[1316] [74:31] mn082: So if we have all the similar project then you have only to take care about that 's a little bit aligned ,
+[1317] [74:36] mn082: that there 's some transparency concerning the results
+[1318] [74:39] mn082: and and the activities are literally going in the in the same um pace .
+[1319] [74:46] mn082: So that 's the basic idea .
+[1320] [74:48] mn082: But really it 's to to figure out certain kind of smaller activities where we can start it .
+[1321] [74:53] mn082: That 's the point .
+[1322] [74:54] mn082: And if we get some funding back ,
+[1323] [74:56] mn082: and we have certain potent uh potential partners in the boat ,
+[1324] [75:00] mn082: OK , we can go to a broader scope of this whole thing , yeah .
+[1325] [75:01] mn021: u
+[1326] [75:02] mn021: Let me let me propose a a a a reasoning way .
+[1327] [75:07] mn021: Uh let 's assume that we are successful with this proposal ,
+[1328] [75:11] mn021: so we get the funding to do whatever what we want to do .
+[1329] [75:16] mn021: So my question is , what we want to do is ?
+[1330] [75:20] mn021: Let 's assume that we have the funding .
+[1331] [75:22] mn021: What will be our first and or or and second steps ?
+[1332] [75:27] mn021: Ah , what kind of things uh we eh we will buy ,
+[1333] [75:33] mn021: what kind of things we will eh program or we will deploy ?
+[1334] [75:39] mn021: Because answering this these questions we can know much better what the application we want .
+[1335] [75:49] mn021: So
+[1336] [75:49] mn082: Yeah , but the problem is that f f f funding is the second step .
+[1337] [75:52] mn081: Mmm .
+[1338] [75:54] mn081: N
+[1339] [75:54] mn081: Well , I 'm not sure .
+[1340] [75:55] mn081: I I th I think I agree with him .
+[1341] [75:57] mn081: But uh right now we 're looking at b a th You want to do a big thing instead of a great thing .
+[1342] [75:58] mn082: Yeah .
+[1343] [76:04] mn081: So if you d assume that it should connect uh really good to Siemens and to uh KPN , and to the then it starts to get big we should all go to the in the same direction .
+[1344] [76:14] mn081: If you already assume " well , OK , they paid money " , and now you think , OK , what what great thing you want to do , then it gives you more freedom to think about this great thing you want to m do .
+[1345] [76:27] mn082: Yeah , but we have no eh current no public funding ,
+[1346] [76:32] mn081: No .
+[1347] [76:32] mn082: OK , everybody 's paid here .
+[1348] [76:32] mn021: Yeah .
+[1349] [76:32] mn035: Yeah
+[1350] [76:32] mn081: But you but you don't get one if you if you try to to align KPN with Siemens , for instance .
+[1351] [76:32] fn083: Yeah .
+[1352] [76:33] mn035: Yeah .
+[1353] [76:33] mn035: But
+[1354] [76:33] mn082: Yeah .
+[1355] [76:34] mn082: Yeah .
+[1356] [76:37] mn035: But for theoretical or for historical reasons a really good question , " if we would have the money what would we do with that ? "
+[1357] [76:38] mn081: Uh .
+[1358] [76:45] mn035: So if we don't know what we would like to do with the money , we probably wouldn't get any money to do what we don't know .
+[1359] [76:48] mn082: Mm - hmm .
+[1360] [76:52] mn082: That 's right .
+[1361] [76:52] mn021: Absolutely .
+[1362] [76:52] mn082: That 's right .
+[1363] [76:53] mn082: Yeah .
+[1364] [76:54] mn082: Yeah .
+[1365] [76:54] mn035: So that 's why , I think , yeah , it 's a good question .
+[1366] [76:55] mn082: Yeah .
+[1367] [76:57] mn082: Now
+[1368] [76:59] mn035: Yep .
+[1369] [77:00] mn082: Yeah .
+[1370] [77:00] mn082: I want to have really the activities
+[1371] [77:02] mn082: you know , what is really the outcome
+[1372] [77:04] mn082: what is really the problem we are going to solve .
+[1373] [77:07] mn082: These are my questions .
+[1374] [77:08] mn082: And if we have identified this block then it is possible to raise some money .
+[1375] [77:13] mn082: Yeah .
+[1376] [77:15] mn035: That 's just the same question just other way around .
+[1377] [77:16] mn021: Let let me put an example .
+[1378] [77:18] mn021: You know I Some days ago , I bought , like some of you , this kind of things .
+[1379] [77:24] mn021: This is a PDA
+[1380] [77:26] mn021: eh three com uh Palm Pilot compatible ,
+[1381] [77:27] mn035: Modernistic stuff !
+[1382] [77:28] mn021: nothing nothing that great ,
+[1383] [77:29] mn035: Completely useless !
+[1384] [77:30] mn021: but it has some some possibility of being expanded .
+[1385] [77:34] mn021: But the point is eh , the only in here The only thing wireless thing I can put on on this is just uh this Omnisky modem ,
+[1386] [77:44] mn021: which is uh , I think it is a subscription - based uh thing .
+[1387] [77:48] mn021: You have to pay every every month ,
+[1388] [77:51] mn021: and eh of course , I cannot imagine that uh tomorrow I 'll be able to buy a different thing with four different networks ,
+[1389] [78:01] mn021: four different providers on it .
+[1390] [78:03] mn021: Maybe I 'm wrong
+[1391] [78:04] mn021: but
+[1392] [78:05] mn021: if I have the funding I say " OK , well , I can buy this or even I can buy a mobile computer ,
+[1393] [78:10] mn021: a notebook " .
+[1394] [78:11] mn021: OK ?
+[1395] [78:12] mn021: A lot more expensive ,
+[1396] [78:13] mn021: but that 's OK ,
+[1397] [78:14] mn021: I have the funding
+[1398] [78:15] mn021: Then I can add a couple of cards at most ,
+[1399] [78:18] mn021: because mmm the majority of the of the notebooks only have two PC cards uh type two slots .
+[1400] [78:26] mn021: So
+[1401] [78:27] mn021: In in the better case , maybe I 'm only able to add two different networks to this thing .
+[1402] [78:34] mn021: So ah
+[1403] [78:36] mn021: the difficulty I see is that ah if we are if you want to think in in two three four different technologies um , maybe we are uh too advanced too , um , let 's say , uh too in advance for the current technology .
+[1404] [78:55] mn021: Which is not bad ,
+[1405] [78:56] mn021: but
+[1406] [79:00] mn021: Sorry .
+[1407] [79:00] mn021: It will be difficult for us to develop a a reasonable test bed with the available technology .
+[1408] [79:06] mn021: If somebody tell us , " OK , now here you have the thing , and just put these four networks you want on the thing . " How can I do it now ?
+[1409] [79:16] mn021: So mmm
+[1410] [79:19] mn021: I 'm still trying to you know , to get used to the uh all the ideas
+[1411] [79:24] mn021: and to see that all the things are really connecting
+[1412] [79:27] mn021: because this the eh most difficult thing I see to to to get this alignment to this connection point among the different things we are trying to align .
+[1413] [79:40] mn021: So that 's why I was proposing this this question .
+[1414] [79:43] mn021: Let 's assume we have the funding .
+[1415] [79:45] mn021: Now let 's proceed .
+[1416] [79:46] mn021: What what kind of things we can buy , we can put together , we can program .
+[1417] [79:51] mn021: Because oh at the end uh somebody will uh be asking us " OK , did you do your homework ?
+[1418] [79:58] mn021: Did
+[1419] [79:59] mn021: So .
+[1420] [80:01] mn082: It 's clear .
+[1421] [80:09] mn082: Now from my point of view in the beginning , one more time , if I see the four building blocks , and eh I could speak only for my skills , I believe to derive a certain kind of QS Reservation - in - Advance scheme Much more uh general as it is done for for USAIA ,
+[1422] [80:24] mn021: Mm - hmm .
+[1423] [80:33] mn082: but mapped then really to desired network subnet layer technologies .
+[1424] [80:39] mn021: But for different networks ?
+[1426] [80:41] mn082: Yes .
+[1427] [80:42] mn021: The point is for
+[1428] [80:42] mn082: For
+[1429] [80:42] mn082: No , for y UMTS .
+[1430] [80:44] mn082: But first of all , a generic system ,
+[1431] [80:46] mn082: but because you can have several mechanism
+[1432] [80:49] mn082: really using certain kind of of um um quantitative description ,
+[1433] [80:55] mn082: you can have more of a qualitative description ,
+[1434] [80:59] mn082: you can have taken into account moving patterns ,
+[1435] [81:01] mn082: and and and whatever kind of things ,
+[1436] [81:04] mn082: but there are a lot of lot of ways to have certain kind of QS Reservation - in - Advance ,
+[1437] [81:08] mn082: and I see it as definitely is necessary to have this one
+[1438] [81:11] mn082: if I want be mobile and I want to have not a interruption of my in my application qualities of service .
+[1439] [81:13] mn021: Hmm - hmm - hmm .
+[1440] [81:17] mn082: So .
+[1441] [81:18] mn082: Um
+[1442] [81:18] mn082: But then , to go , for instance , to UMTS , and figure out what is available within UMTS .
+[1443] [81:25] mn082: And if I really have an IP application , where I need this kind of of quality of service and having in mind that certain kind of QS will be available in the rest of the internet .
+[1444] [81:36] mn082: So how can I map these things uh to the UMTS stuff ?
+[1445] [81:39] mn082: And what is the trend towards UMTS to the first generation ?
+[1446] [81:43] mn082: And how it is possible to map this one to this technology ?
+[1447] [81:47] mn082: And if you have the building blocks identified , what is really necessary for QS eh QS - in - Advance for for mobile systems , then you have , in principle , the ideas for the following generation what you could improve .
+[1448] [82:01] mn021: Hmm - hmm .
+[1449] [82:02] mn082: Because then you are maybe no more related to this kind of thing .
+[1450] [82:05] mn082: I believe the same applies for Multicast .
+[1451] [82:08] mn082: And I believe the same applies for routing .
+[1452] [82:11] mn082: So , in principle , in the beginning , there would be a certain kind of uh paperwork anyway ,
+[1453] [82:17] mn082: some theoretical examination of these problems ,
+[1454] [82:21] mn021: I think so
+[1455] [82:21] mn082: and then some prototypes must be derived from that .
+[1456] [82:26] mn082: And then maybe we will start here with a certain kind of uh testbed equipment we still have here .
+[1457] [82:31] mn082: We have four uh P Cs available .
+[1458] [82:35] mn082: Maybe we have to extend it then ,
+[1459] [82:37] mn082: and figure out some real scenarios ,
+[1460] [82:39] mn082: and maybe then pfff !
+[1461] [82:40] mn021: Oh yeah .
+[1462] [82:40] mn082: Because uh , despite the fa
+[1463] [82:42] mn082: uh uh Hopefully , then we have with the money also not eh only for the room ,
+[1464] [82:42] mn021: W
+[1465] [82:46] mn082: that would be great ,
+[1466] [82:47] mn082: but there are also some sponsors then then then we add a certain kind of field trial .
+[1467] [82:51] mn082: But I think that 's pfff ! that 's years , you know .
+[1468] [82:54] mn021: A long way , yeah .
+[1469] [82:54] mn082: That 's years .
+[1470] [82:55] mn021: That 's right .
+[1471] [82:56] mn082: But in the beginning we must have a certain kind of theoretical framework with the relevant technology .
+[1472] [83:06] mn082: Real technology .
+[1473] [83:07] mn082: Maybe you can start with GPS or or UMTS , or whatever .
+[1474] [83:10] mn082: because these technology will definitely available in Europe .
+[1475] [83:14] mn082: There 's some money spent on it ,
+[1476] [83:16] mn082: so that it will be in a certain kind of flavor .
+[1477] [83:19] mn082: It will be available .
+[1478] [83:19] mn021: Hmm - hmm - hmm .
+[1479] [83:20] mn082: And it will be also available in the USA .
+[1480] [83:24] mn082: Because there is a big eh harmonization effort ,
+[1481] [83:27] mn082: despite the fact they are not aligned to each other anyway ,
+[1482] [83:30] mn082: but they will have s also certain kind of thr third generation and fourth generation networks .
+[1483] [83:36] mn082: So .
+[1484] [83:37] mn082: And after this theoretical framework , if this one is aligned , OK you have some specification
+[1485] [83:41] mn082: and you set up some Linux or Free BSD or whatever kind of prototype .
+[1486] [83:45] mn082: So that is what I have in mind with that .
+[1487] [83:48] mn082: And then OK , and then you will see .
+[1488] [83:51] mn021: Hmm - hmm .
+[1489] [83:55] mn082: The problem is which I see is that it could be fruitful to standardization
+[1490] [84:01] mn082: that it could be fruitful to some extent to telecommunication providers .
+[1491] [84:10] mn082: But there 's not a real product like you say .
+[1492] [84:15] mn082: There 's not the selling idea behind it .
+[1493] [84:16] mn021: Hmm - hmm - hmm .
+[1494] [84:17] mn082: Yeah ,
+[1495] [84:17] mn082: if you go with something what what Wilbert mentioned " OK , let 's have this one here " . We have a new PCMCIA card and and extend something and the end system , or what you mentioned here was the seamless four technologies inter - working in the end s , then you have an an a device which you can sell .
+[1496] [84:35] mn082: If you go for a networking pfff um uh improvements , in principle , and and understanding next generation building blocks , uh there 's no product .
+[1497] [84:46] mn021: Hmm - hmm .
+[1498] [84:50] mn082: But it is a long term it 's long term , I think , uh work you can do .
+[1499] [84:56] mn082: And it 's more related I believe to the skills
+[1500] [84:59] mn082: to what is available
+[1501] [85:01] mn082: and and currently as I see what uh will be available within the NSA group .
+[1502] [85:09] mn021: OK .
+[1503] [85:09] mn082: And uh , the point is if we focus on on this networking small more networking stuff and em some application guys came into the boat and they focus on their application stuff , whatever this means , It might be we have then the active classroom ,
+[1504] [85:26] mn082: but it could be another one
+[1505] [85:28] mn082: that is not representative ,
+[1506] [85:30] fn083: Yeah but there 's something needed to sell it .
+[1507] [85:31] mn082: it
+[1508] [85:31] mn082: Hmm ?
+[1509] [85:32] fn083: And
+[1510] [85:33] mn082: Yeah .
+[1511] [85:33] mn082: Then then is something available
+[1512] [85:36] mn082: but I don't know
+[1513] [85:37] mn082: you know , I 'm not an application expert ,
+[1514] [85:39] mn082: I
+[1515] [85:39] mn082: We have some content .
+[1516] [85:40] mn082: We will then discuss it on next Tuesday as I mentioned .
+[1517] [85:41] mn021: Bless you .
+[1518] [85:41] fn083: Bless you .
+[1519] [85:43] mn082: Uh Anyway , but uh that were is my answer to the question if some money is available .
+[1520] [85:50] mn082: The good thing is that the money is available ,
+[1521] [85:52] mn082: because everybody is paid here .
+[1522] [85:54] mn082: So that is money that the the smallest portion of money which is available .
+[1523] [85:59] mn021: Hmm - hmm - hmm .
+[1524] [85:59] mn082: But first of all Wilbert need more , definitely ,
+[1525] [86:03] mn082: because maybe then KPN is uh no more interesting to go on with this work ,
+[1526] [86:07] mn082: or we can convince with these kind of things which we have in mind ,
+[1527] [86:12] mn082: uh companies like KPN .
+[1528] [86:15] mn082: So
+[1529] [86:17] mn082: And if we have other suggestions and eh have this as a long term
+[1530] [86:24] mn082: NSA core group activity ,
+[1531] [86:27] mn082: and this theoretical framework , whether it is finished in half a year or one year doesn't matter , in principle ,
+[1532] [86:32] mn082: because the road map for the the next generation networks is is eh is for many years .
+[1533] [86:39] mn082: And b before UMTS will be deployed very well , I believe eh it will be common t uh two thousand four or something like that .
+[1534] [86:48] mn082: So .
+[1535] [86:50] mn082: And and have an intermediate project , which is related in this direction , something like the seamless handover for two technologies or whatever .
+[1536] [86:58] mn082: This is a smaller portion in the gen more generic framework , I would like to say , from this proposal .
+[1537] [87:03] mn082: Why not go in this way ?
+[1538] [87:05] mn021: OK
+[1539] [87:05] mn082: I I don't know .
+[1540] [87:06] mn082: But uh that 's the point eh we are sitting here together .
+[1541] [87:09] mn021: Yeah .
+[1542] [87:12] mn021: But
+[1543] [87:13] mn082: But for for Dietmar I think eh eh he mentioned it to me , it 's very clear that he will go on with a portion of time , with this USAIA stuff ,
+[1544] [87:24] mn030: That 's right .
+[1545] [87:24] mn030: It
+[1546] [87:24] mn082: in the matical sense
+[1547] [87:26] mn082: because that means for you in a certain kind a certain extent , you are decoupled from networking stuff .
+[1548] [87:32] mn082: Because your focusing on the mathematical thing of whether it 's a network or other thing ,
+[1549] [87:34] mn030: Well , I 'm foc
+[1550] [87:36] mn082: it
+[1551] [87:36] mn030: I 'm focused on performance evaluation
+[1552] [87:38] mn082: Yeah .
+[1553] [87:39] mn082: Yeah .
+[1554] [87:39] mn030: and um especially of communication networks
+[1555] [87:41] mn030: and
+[1556] [87:41] mn082: Yeah .
+[1557] [87:42] mn030: I never eh e um dealed with um mobile communications .
+[1558] [87:48] mn030: So why not ?
+[1559] [87:49] mn082: Yeah .
+[1560] [87:50] mn082: So .
+[1561] [87:50] mn030: So that 's eh , to open my mind .
+[1562] [87:50] mn082: There is it still ongoing activity with uh maybe a portion of time at the University of Berlin Berlin .
+[1563] [87:57] mn082: And independently whether I will leave the uh uh ICSI in in the mid of December or not , I will still focus on on on these QS - in - Advance schemes
+[1564] [88:08] mn082: eh also within Siemens
+[1565] [88:10] mn082: and also with some project there .
+[1566] [88:13] mn082: And I believe your routing stuff is also available ,
+[1567] [88:16] mn021: Hmm - mmm .
+[1568] [88:17] mn082: uh ,
+[1569] [88:18] mn082: And when you when you will go back to Spain , right ?
+[1570] [88:19] mn021: Yeah .
+[1571] [88:21] mn021: Yeah . Sure .
+[1572] [88:22] mn082: Yeah , so . and and that 's why , in principle , the skills will be always available I guess .
+[1573] [88:22] mn021: Yeah .
+[1574] [88:23] mn021: And and
+[1575] [88:28] mn082: if
+[1576] [88:30] mn021: Mm - hmm .
+[1577] [88:34] mn021: N Not only this .
+[1578] [88:35] mn021: We can even use this u platform to to get some European projects in the future
+[1579] [88:41] mn021: because
+[1580] [88:41] mn082: yeah
+[1581] [88:43] mn082: maybe
+[1582] [88:45] mn082: Currently no money is available , you know .
+[1583] [88:47] mn021: Yeah but uh , this will I think w This will improve over time , I 'm sure .
+[1584] [88:52] mn021: So
+[1585] [88:54] mn021: Probably .
+[1586] [88:55] mn021: You know , this kind of joint work of different countries de companies , universities . This is usually the best ah the best place to to put a project on .
+[1587] [89:06] mn021: Because it is involving different partners from different points of of Europe .
+[1588] [89:12] mn082: Now , I will not prevent anybody from getting some cake
+[1589] [89:15] mn082: and we are sitting here together
+[1590] [89:16] mn082: it 's uh very uh very slow , in principle ,
+[1591] [89:20] mn082: but my last question is for Wilbert .
+[1592] [89:22] mn082: Wilbert , you I I think you got the basic idea
+[1593] [89:26] mn082: because it was mostly discussed with you here from this current available scrap project proposal .
+[1594] [89:34] mn082: Don't you think that KPN could be convinced to go on this way what I mentioned before ?
+[1595] [89:39] mn082: There 's no way ?
+[1596] [89:39] mn081: No .
+[1597] [89:41] mn082: They needed definitely , in principle , some kind of service or device or product or whatever .
+[1598] [89:45] mn081: Yeah .
+[1599] [89:48] mn081: That 's right now the s the status .
+[1600] [89:49] mn081: Yes .
+[1601] [89:55] mn082: Can we both have together , maybe , I think it 's a little bit more easier , a discussion on Thursday ?
+[1602] [90:04] mn081: I 'm out for th one a week and a half .
+[1603] [90:08] mn081: So on Wednesday , Thursday , Friday , I have a workshop at Stanford
+[1604] [90:09] mn082: OK .
+[1605] [90:11] mn081: and next week I have a week on holiday .
+[1606] [90:14] mn082: OK .
+[1607] [90:15] mn082: Maybe that 's enough time for you to consider a little bit more in this direction ?
+[1608] [90:20] mn081: Could be .
+[1609] [90:22] mn082: And then we could have eh discussion
+[1610] [90:25] mn082: and maybe this one is an overall work , in principle , where everybody could hook in and and get certain kind of small portions to solve it
+[1611] [90:29] mn081: Yeah .
+[1612] [90:37] mn081: So so the only solution would for for KPN would be that there is a p a project in this area .
+[1613] [90:38] mn082: and
+[1614] [90:44] mn081: So that makes sense to do in this ar This , I mean the Bay Area
+[1615] [90:49] mn021: Hm - hmm .
+[1616] [90:50] mn081: with a group of uh a few people ,
+[1617] [90:52] mn081: like four or something ,
+[1618] [90:54] mn081: and that connects to this project .
+[1619] [90:56] mn081: So , one somebody or two somebodies can be found uh founded or get money to join this project .
+[1620] [91:04] mn081: But that the other four should build a service on top of it , that has a clear business focus .
+[1621] [91:08] mn082: mm - hmm .
+[1622] [91:10] mn081: It means eh a a UMTS service basically .
+[1623] [91:15] mn082: Mm - hmm .
+[1624] [91:16] mn082: Can you consider poten also in the meantime , some potential UMTS services besides this one ?
+[1625] [91:25] mn081: Yeah .
+[1626] [91:28] mn082: And
+[1627] [91:28] mn081: Yeah , but you see the the they ask something pretty strange .
+[1628] [91:33] mn081: They they want something pretty strange from me that I think of a service ,
+[1629] [91:36] mn081: a network service .
+[1630] [91:38] mn081: There are sixty million billion people in the in the world that think of services all day
+[1631] [91:44] mn081: and try to make a lot of money with it in the form of start - ups or whatever .
+[1632] [91:49] mn081: And just think of a service like that , if I could do this .
+[1633] [91:53] mn082: No , but , uh fff maybe based on this one and you see the networking stuff
+[1634] [91:54] mn081: w
+[1635] [91:58] mn082: that it is a little bit more evol evolved and than in the the core network technology in the access network , I would like to say .
+[1636] [91:59] mn081: Mm - hmm .
+[1637] [92:05] mn082: And this is aligned then as much as possible to the internet .
+[1638] [92:09] mn082: That 's the basic idea ,
+[1639] [92:10] mn082: that you can have a certain kind of service which make use of these novel things .
+[1640] [92:17] mn081: Mm - hmm .
+[1641] [92:18] mn082: Because normally I I believe the the the people are either on the application layer ,
+[1642] [92:20] mn081: I
+[1643] [92:22] mn082: that means higher than layer four ,
+[1644] [92:23] mn082: or they are on layer f one to l l up to layer four .
+[1645] [92:27] mn081: Bu
+[1646] [92:27] mn082: And the service people are considering
+[1647] [92:29] mn082: " OK , UMTS
+[1648] [92:30] mn082: you have some location information ,
+[1649] [92:32] mn082: and maybe you are have the infrastructure in the car ,
+[1650] [92:36] mn082: so , if I provide a certain kind of service , independently what the network is offering , you know .
+[1651] [92:41] mn082: Because they do not consider it very well .
+[1652] [92:43] mn082: They know there is a certain kind of location information
+[1653] [92:46] mn082: and you have a GPS ,
+[1654] [92:47] mn082: and they know , OK , it 's based on satellite .
+[1655] [92:49] mn082: And there 's UMTS , that is based on base station .
+[1656] [92:52] mn082: There 's all that they consider .
+[1657] [92:53] mn082: And then assume , OK , I can do that .
+[1658] [92:56] mn082: And the networking guy said OK it would be great to have Multicast and all these kind of things in the network ,
+[1659] [93:01] mn082: but do not consider really what a sense of benefit uh for applications ,
+[1660] [93:05] mn082: there were new app old application make use of it
+[1661] [93:08] mn082: and how can new application arise
+[1662] [93:11] mn082: which we haven't considered up to now based on this new network function , LAT enrich enriched network function , LAT .
+[1663] [93:20] mn082: So , I think it 's worth to to consider something in that way
+[1664] [93:30] mn081: Well , u until now I have been trying to think about it ,
+[1665] [93:33] mn081: but eh f to me u
+[1666] [93:34] mn081: what I have every every time I encountered it , it is all this is all pretty close by ,
+[1667] [93:40] mn081: like the industry is already behind this .
+[1668] [93:43] mn082: Yeah
+[1669] [93:43] mn081: So they they want to make this available pretty soon .
+[1670] [93:47] mn081: So I 'm just trying to think uh m more ahead , like uh use the wireless device as a only as a signalling thing or something .
+[1671] [93:57] mn081: So so whenever you come in with your uh GSM phone and there is a PC available , like everything will be directed to the the bigger device or something .
+[1672] [94:06] mn081: So more services like that .
+[1673] [94:07] mn081: I think the they are working pretty hard to get IP available very good and efficiently from uh two mobile devices or wireless devices .
+[1674] [94:23] mn082: Not currently there is a techno technology split .
+[1675] [94:23] mn081: a th thing
+[1676] [94:28] mn082: Of course you have IP in the mobile device
+[1677] [94:30] mn082: but if you see the strange protocols text
+[1678] [94:33] mn082: there 's IP over IP and tunnels and and whatever ,
+[1679] [94:35] mn082: so , but it 's uh looks very strange to me
+[1680] [94:38] mn082: because you have different numbering screens , concerning you have a phone number ,
+[1681] [94:41] mn082: you have to map it to IP addresses
+[1682] [94:43] mn082: and and so on ,
+[1683] [94:44] mn082: but for me , you have not the end to end parts of for for IP functionality .
+[1684] [94:48] mn082: We are far away from that .
+[1685] [94:51] mn082: And if you take a really look to the GPRS protocols texts and I believe also they apply for UMTS but I 'm not
+[1686] [94:57] mn082: eh very familiar with that ,
+[1687] [95:00] mn082: and the next generations access network is will come soon .
+[1688] [95:05] mn082: You see it 's every three years or four years they will have a new generation .
+[1689] [95:10] mn081: And there 's a We m
+[1690] [95:10] mn082: But
+[1691] [95:11] mn081: Our group might fo want to focus on the uh IP over ether no nets
+[1692] [95:11] mn082: yeah ?
+[1693] [95:12] mn082: yeah ?
+[1694] [95:16] mn081: or something like
+[1695] [95:18] mn081: or
+[1696] [95:18] mn082: Why ?
+[1697] [95:18] mn082: What kind what kind IP over what do you call it ?
+[1698] [95:20] mn081: N no nets ,
+[1699] [95:21] mn082: No net .
+[1700] [95:22] mn081: Yeah .
+[1701] [95:22] mn082: That would be great !
+[1702] [95:23] mn081: Over
+[1703] [95:24] mn081: Like only over ether .
+[1704] [95:26] mn081: carefully integrated for net
+[1705] [95:27] mn081: but there is no net .
+[1706] [95:31] mn081: If you want to do make like also for wireless devices end to end IP available , that could be a vision .
+[1707] [95:37] mn081: Like .
+[1708] [95:43] mn082: Can you repeat it ?
+[1709] [95:45] mn081: Well , so he he says well IP to IP or end to end IP , is far well , it 's far away .
+[1710] [95:55] mn081: um
+[1711] [95:57] mn081: So you what you might want to do is well get U M T S out there
+[1712] [96:02] mn081: and just do uh I Ps playing over radio .
+[1713] [96:06] mn082: Mm - hmm .
+[1714] [96:07] mn082: Something like that is my final vision .
+[1715] [96:08] mn081: Like like SDH , IP over fiber or WDM - WDM .
+[1716] [96:11] mn082: Mm - hmm .
+[1718] [96:13] mn081: This gets rid of the SDH .
+[1719] [96:14] mn081: Or , well , start with get rid of the ATM first
+[1720] [96:15] mn082: Yeah .
+[1721] [96:15] mn082: ATM stuff .
+[1722] [96:16] mn082: Yeah .
+[1723] [96:16] mn082: Yeah .
+[1724] [96:17] mn081: and then get rid of SDH .
+[1726] [96:19] mn082: There 's the problem is is , you see that the providers eh have always there broken view for for the management .
+[1727] [96:28] mn082: If you have different kind of protocols texts and network management system , and the billing system and all these kinds of things which is besides the networking stuff , in principle , but you still need it , is eh not aligned .
+[1728] [96:32] mn081: Yeah .
+[1729] [96:41] mn082: We have it for different islands
+[1730] [96:42] mn021: Hmm - hmm - hmm .
+[1731] [96:43] mn082: and and
+[1732] [96:45] mn082: Well , that 's my final vision you know .
+[1733] [96:47] mn082: If you have really then IP networks at a certain generation where you have really the physical media and where necessary uh additional maclear protocols ,
+[1734] [96:57] mn082: and then you have really always end to end .
+[1735] [96:59] mn082: It makes you things much more simple much more easier ,
+[1736] [97:02] mn021: Uh .
+[1737] [97:02] mn082: uh , but is far far away , you know .
+[1738] [97:04] mn021: Unless unless we speak about quality of service ,
+[1739] [97:04] mn082: Yeah .
+[1740] [97:05] mn082: Yeah .
+[1741] [97:05] mn082: Yeah .
+[1742] [97:08] mn021: which is not eh embedded on on IP services .
+[1743] [97:12] mn082: Yeah but you have the extension for the eh quality of service mechanism
+[1744] [97:15] mn021: Yeah
+[1745] [97:17] mn082: which you have to map then to the underlying technology .
+[1746] [97:20] mn021: Yeah but for example nobody 's really using RSVP .
+[1747] [97:20] mn082: And
+[1748] [97:24] mn082: Yeah but maybe in the LAN interface it makes
+[1749] [97:27] mn082: since to use it
+[1750] [97:29] mn081: Eh you guys do that discussion later on please ,
+[1751] [97:30] mn082: And and But
+[1752] [97:31] mn082: yeah
+[1753] [97:31] mn081: uh ?
+[1754] [97:31] mn082: but I think we sh we will miss the cake
+[1755] [97:31] mn021: OK , sorry , sorry .
+[1756] [97:32] mn081: RSVP .
+[1757] [97:34] mn082: and I think we should stop now but please everybody ,
+[1758] [97:37] mn082: short
+[1759] [97:38] mn082: eh s
+[1760] [97:39] mn082: go on with considerations and potential
+[1761] [97:42] mn082: and and uh
+[1762] [97:43] mn082: um we didn't make s much progress today in the meeting ,
+[1763] [97:48] mn082: but anyway this kind of activity lives from all , from the input of all .
+[1764] [97:53] mn082: And so I really
+[1765] [97:55] mn082: if somebody has an idea send an email
+[1766] [97:58] mn082: and then I would like to enforce everybody
+[1767] [98:01] mn082: not that I 'm doing everything
+[1768] [98:02] mn082: I could not I f didn't have the time in the past
+[1769] [98:06] mn082: and I will not have it in the future
+[1770] [98:07] mn082: and maybe I will stay here only s four weeks or five weeks .
+[1771] [98:11] mn082: So it would be really not the best thing if the activity is dead when I am leaving
+[1772] [98:17] mn082: and if I stay longer of course we can go on
+[1773] [98:19] mn082: but nevertheless I rely heavily uh also from the contributions of everybody ,
+[1774] [98:23] mn082: and it 's in their own interest
+[1775] [98:25] mn021: Hmm - hmm - hmm .
+[1776] [98:25] mn021: That 's right .
+[1777] [98:28] mn082: of of everybody , also from the institution behind . So If there is certain kind of idea or questions or whatever , we are s only a small group of people
+[1778] [98:36] mn082: we can easily join on a white board and and start a discussion .
+[1779] [98:36] mn021: Well
+[1780] [98:40] mn082: It must not be on every Tuesday , you know ,
+[1781] [98:42] mn021: OK .
+[1782] [98:42] mn082: at a certain time .
+[1783] [98:44] mn082: And I try to motivate the people .
+[1784] [98:45] mn082: That it 's free .
+[1785] [98:46] mn082: That 's a starting .
+[1786] [98:47] mn082: That 's a ramp .
+[1787] [98:48] mn082: And we can go in different directions .
+[1788] [98:51] mn082: And if you have a real focus on the certain novel thing for the services or UMTS or whatever , great .
+[1789] [98:57] mn082: If not , the long term and then these things must be , nevertheless must be defined in much more detail .
+[1790] [99:04] mn082: Yeah .
+[1791] [99:04] mn082: OK ?
+[1792] [99:05] mn082: So , thanks
+[1793] [99:05] mn021: OK
+[1794] [99:06] mn081: OK
+[1795] [99:06] mn082: please do not , um what Adam mentioned to
+[1796] [99:10] mn030: Not to switch off .
+[1797] [99:11] mn082: uh switch off ,
+[1798] [99:11] mn081: Don't switch it off .
+[1799] [99:11] fn083: Do not Don't switch it off .
+[1800] [99:13] mn021: OK ,
+[1801] [99:13] mn021: yeah , that 's right .
+[1802] [99:13] mn082: So maybe I will find him @ @ .
+[1803] [99:16] mn021: Oh , can you call Adam ?
+[1804] [99:18] mn082: cake area .
+[1805] [99:19] mn021: At this number ?
+[1806] [99:20] mn082: and
+[1807] [99:20] mn082: now let me see whether he will be here ,
+[1808] [99:21] mn082: and
+[1809] [99:23] mn082: We did not forget .
+[1810] [99:24] mn082: We are done .
+[1811] [99:29] me011: Yeah , just leave them on for now .
+[1812] [99:31] me011: Sometimes if you turn it off while it 's recording it crashes
+[1813] [99:34] mn082: OK OK .
+[1814] [99:35] mn082: Hopefully everything went fine .

@@ -1,0 +1,2107 @@
+================================================================================
+ICSI Meeting Transcript: Bro003
+================================================================================
+
+Total Utterances: 2101
+Unique Speakers: 7
+Duration: 87.04 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:00] me026: Channel one .
+[0002] [00:00] mn007: Test .
+[0003] [00:00] fn002: Hello .
+[0004] [00:01] me026: Channel three .
+[0005] [00:01] mn007: Test .
+[0006] [00:02] me018: Uh - oh .
+[0007] [00:05] me013: So you think we 're going now ,
+[0008] [00:06] me013: yes ?
+[0009] [00:06] me013: OK , good .
+[0010] [00:08] me013: Alright
+[0011] [00:08] me013: Going again
+[0012] [00:10] me013: Uh So we 're gonna go around as before , and uh do do our digits .
+[0013] [00:15] me013: Uh transcript one three one one dash one three three zero . three two three four seven six five five three one six two four one six seven seven eight nine zero nine four zero zero three zero one five eight one seven three five three two six eight zero three six two four three zero seven four five zero six nine four seven four eight five seven nine six one five O seven eight O two zero nine six zero four zero zero one two Uh Yeah , you don't actually n need to say the name .
+[0014] [04:27] me006: OK , this is Barry Chen and I am reading transcript
+[0015] [06:00] me013: That 'll probably be bleeped out .
+[0016] [06:02] me006: OK .
+[0017] [06:02] me013: So .
+[0018] [06:02] me013: That 's if these are anonymized ,
+[0019] [06:03] me013: but
+[0020] [06:05] me006: Oh . OK .
+[0021] [06:07] me013: uh I mean not that there 's anything defamatory about uh eight five seven or or anything ,
+[0022] [06:14] me013: but
+[0023] [06:15] me013: Uh , anyway .
+[0024] [06:16] me006: OK .
+[0025] [06:17] me013: Uh so here 's what I have for I I was just jotting down things I think th w that we should do today .
+[0026] [06:22] me013: Uh This is what I have for an agenda so far
+[0027] [06:26] me013: Um , We should talk a little bit about the plans for the uh the field trip next week .
+[0028] [06:31] me013: Uh a number of us are doing a field trip to uh Uh OGI
+[0029] [06:38] me013: And uh mostly uh First though about the logistics for it .
+[0030] [06:42] me013: Then maybe later on in the meeting we should talk about what we actually you know , might accomplish .
+[0031] [06:46] me013: Uh
+[0032] [06:47] me006: OK .
+[0033] [06:48] me013: Uh , in and kind of go around see what people have been doing talk about that , a r progress report . Um , Essentially .
+[0034] [06:56] me013: Um And then uh Another topic I had was that uh uh Uh Dave here had uh said uh " Give me something to do . "
+[0035] [07:05] me013: And I I have I have uh failed so far in doing that .
+[0036] [07:08] me013: And so maybe we can discuss that a little bit .
+[0037] [07:10] me013: If we find some holes in some things that that someone could use some help with , he 's he 's volunteering to help .
+[0038] [07:15] me018: I 've got to move a bunch of furniture .
+[0039] [07:18] me013: OK , always count on a serious comment from that corner .
+[0040] [07:22] me013: So , um ,
+[0041] [07:24] me013: uh , and uh , then uh , talk a little bit about about disks and resource resource issues that that 's starting to get worked out .
+[0042] [07:32] me013: And then , anything else anybody has that isn't in that list ?
+[0043] [07:37] me013: Uh
+[0044] [07:39] me026: I was just wondering , does this mean the battery 's dying and I should change it ?
+[0045] [07:43] me013: Uh
+[0046] [07:47] me013: d do you
+[0047] [07:47] me018: Let me see .
+[0048] [07:48] me026: Oh OK ,
+[0049] [07:48] me026: so th
+[0050] [07:49] me018: Yeah , that 's good .
+[0051] [07:50] me013: Yeah .
+[0052] [07:50] me018: You 're alright ?
+[0053] [07:51] me026: Cuz it 's full .
+[0054] [07:51] me013: Yeah .
+[0055] [07:52] me013: Yeah .
+[0056] [07:52] me026: Alright .
+[0057] [07:52] me013: Yeah .
+[0058] [07:52] me013: It looks full of electrons .
+[0059] [07:55] me013: OK .
+[0060] [07:56] me013: Plenty of electrons left there .
+[0061] [07:58] me013: OK ,
+[0062] [07:58] me013: so , um ,
+[0063] [08:01] me013: uh .
+[0064] [08:01] me013: OK ,
+[0065] [08:02] me013: so , uh , I wanted to start this with this mundane thing .
+[0066] [08:05] me013: Um
+[0067] [08:06] me013: Uh I I it was it was kind of my bright idea to have us take a plane that leaves at seven twenty in the morning .
+[0068] [08:14] me013: Um .
+[0069] [08:14] me006: Oh , yeah , that 's right .
+[0070] [08:15] me013: Uh this is uh The reason I did it uh was because otherwise for those of us who have to come back the same day it is really not much of a of a visit .
+[0071] [08:25] me013: Uh
+[0072] [08:27] me013: So um the issue is how how how would we ever accomplish that ?
+[0073] [08:30] me013: Uh
+[0074] [08:32] me013: what what what part of town do you live in ?
+[0075] [08:34] me006: Um , I live in , um , the corner of campus .
+[0076] [08:37] me006: The , um , southeast corner .
+[0077] [08:38] me013: OK .
+[0078] [08:41] me013: OK
+[0079] [08:43] me013: those of you who are not , you know , used to this area , it can be very tricky to get to the airport at at uh , you know , six thirty .
+[0080] [08:50] me013: Um . So . Would it be easier for you if you came here and I drove you ?
+[0081] [08:58] me013: Yeah ?
+[0082] [08:59] mn007: Yeah , perhaps , yeah .
+[0083] [09:00] me013: Yeah , yeah , OK .
+[0084] [09:00] fn002: Yeah .
+[0085] [09:01] me006: Yeah . Sure .
+[0086] [09:01] me013: OK , so if if everybody can get here at six .
+[0087] [09:05] fn002: At six .
+[0088] [09:06] me013: Yeah , I 'm afraid we need to do that to get there on time .
+[0089] [09:08] me006: Six , OK .
+[0090] [09:09] me013: Yeah , so .
+[0091] [09:12] me013: Oh boy .
+[0092] [09:13] me013: Anyway ,
+[0093] [09:13] me013: so .
+[0094] [09:14] me018: Will that be enough time ?
+[0095] [09:16] me013: Yeah .
+[0096] [09:16] me013: Yeah , so I 'll just pull up in front at six and just be out front .
+[0097] [09:21] me013: And , uh , and yeah , that 'll be plenty of time .
+[0098] [09:23] me013: It 'll take it it it won't be bad traffic that time of day
+[0099] [09:26] me013: and and uh
+[0100] [09:26] me018: I guess once you get past the bridge that that would be the worst .
+[0101] [09:30] me013: Going to Oakland .
+[0102] [09:30] me034: Yeah , Oakland .
+[0103] [09:30] me006: Oakland .
+[0104] [09:30] me018: Yeah .
+[0105] [09:31] me013: Bridge
+[0106] [09:32] me018: Once you get past the turnoff to the Bay Bridge .
+[0107] [09:33] me013: oh , the turnoff to the bridge
+[0108] [09:34] me018: Yeah .
+[0109] [09:35] me013: Won't even do that .
+[0110] [09:36] me013: I mean , just go down Martin Luther King .
+[0111] [09:36] me034: Yeah .
+[0112] [09:37] me018: Yeah .
+[0113] [09:37] me018: OK .
+[0114] [09:38] me013: And then Martin Luther King to nine - eighty to eight - eighty ,
+[0115] [09:38] me018: Mm - hmm .
+[0116] [09:40] me018: Yeah .
+[0117] [09:40] me013: and it 's it 'd take us , tops uh thirty minutes to get there .
+[0118] [09:43] me018: Oh
+[0119] [09:45] me013: So
+[0120] [09:48] me013: it
+[0121] [09:48] me013: yeah .
+[0122] [09:49] me013: So
+[0123] [09:50] me013: Great ,
+[0124] [09:51] me013: OK
+[0125] [09:51] me013: so that 'll
+[0126] [09:52] me013: It 's I mean , it 's still not going to be really easy
+[0127] [09:54] me013: but well Particularly for for uh for Barry and me ,
+[0128] [09:57] me013: we 're not we 're not staying overnight
+[0129] [09:58] me013: so we don't need to bring anything particularly except for uh a pad of paper
+[0130] [10:03] me013: and So , and , uh you , two have to bring a little bit
+[0131] [10:06] me006: OK .
+[0132] [10:07] me013: but uh you know , don't don't bring a footlocker and we 'll be OK
+[0133] [10:10] me013: So .
+[0134] [10:13] me006: s
+[0135] [10:13] me013: W you 're staying overnight .
+[0136] [10:13] me006: So
+[0137] [10:14] me013: I figured you wouldn't need a great big suitcase ,
+[0138] [10:15] mn007: Oh yeah . Yeah .
+[0139] [10:16] me013: yeah .
+[0140] [10:16] me013: That 's sort of one night .
+[0141] [10:18] me013: So .
+[0142] [10:19] me013: Anyway .
+[0143] [10:20] me013: OK .
+[0144] [10:20] me006: So , s six AM , in front .
+[0145] [10:22] me013: Six AM in front .
+[0146] [10:23] me006: OK .
+[0147] [10:24] me013: Uh , I 'll be here .
+[0148] [10:25] me013: Uh I 'll I 'll I 'll I 'll give you my phone number ,
+[0149] [10:29] me013: If I 'm not here for a few m after a few minutes then
+[0150] [10:30] me006: Wake you up .
+[0151] [10:33] me013: Nah , I 'll be fine .
+[0152] [10:33] me013: I just , uh it for me it just means getting up a half an hour earlier than I usually do .
+[0153] [10:37] me013: Not not not a lot ,
+[0154] [10:39] me006: OK . Wednesday .
+[0155] [10:39] me013: so
+[0156] [10:42] me013: OK ,
+[0157] [10:42] me013: that was the real real important stuff .
+[0158] [10:44] me013: Um , I I I figured maybe wait on the potential goals for the meeting uh until we talk about wh what 's been going on .
+[0159] [10:52] me013: So , uh , what 's been going on ?
+[0160] [10:55] me013: Why don't we start start over here .
+[0161] [10:58] mn007: Um . Well , preparation of the French test data actually .
+[0162] [11:03] me013: OK .
+[0163] [11:04] mn007: So , it means that um ,
+[0164] [11:10] mn007: well , it is , uh , a digit French database of microphone speech ,
+[0165] [11:14] mn007: downsampled to eight kilohertz
+[0166] [11:17] mn007: and I 've added noise to one part , with the actually the Aurora - two noises .
+[0167] [11:24] mn007: And , @ @ so this is a training part .
+[0168] [11:27] mn007: And then the remaining part , I use for testing and with other kind of noises .
+[0169] [11:33] mn007: So
+[0170] [11:41] mn007: So this is almost ready .
+[0171] [11:42] mn007: I 'm preparing the the HTK baseline for this task .
+[0172] [11:46] mn007: And , yeah .
+[0173] [11:49] me013: OK
+[0174] [11:51] me013: Uh ,
+[0175] [11:53] me013: So the HTK base lines so this is using mel cepstra and so on ,
+[0176] [11:56] me013: or ?
+[0177] [11:57] mn007: Yeah .
+[0178] [11:57] me013: Yeah . OK .
+[0179] [12:00] me013: And
+[0180] [12:09] me013: What 's the plan again ?
+[0181] [12:11] mn007: The plan with these data ?
+[0182] [12:12] me013: With
+[0183] [12:12] me013: So
+[0184] [12:16] me013: y You just described what you 've been doing .
+[0185] [12:18] mn007: Yeah .
+[0186] [12:18] me013: So if you could remind me of what you 're going to be doing .
+[0187] [12:20] me013: Oh
+[0188] [12:21] mn007: Uh , yeah .
+[0189] [12:21] me013: yeah , yeah .
+[0190] [12:22] me006: Tell him about the cube .
+[0191] [12:24] mn007: Well . The cube ?
+[0192] [12:25] mn007: I should tell him about the cube ?
+[0193] [12:26] me006: Yeah .
+[0194] [12:26] me013: Oh ! Cube . Yeah .
+[0195] [12:27] mn007: Yeah .
+[0196] [12:28] mn007: Uh we actually we want to , mmm , Uh , uh , analyze three dimensions ,
+[0197] [12:28] fn002: Fill in the cube .
+[0198] [12:35] mn007: the feature dimension , the training data dimension , and the test data dimension .
+[0199] [12:41] mn007: Um .
+[0200] [12:44] mn007: Well , what we want to do is first we have number for each uh task .
+[0201] [12:51] mn007: So we have the um , TI - digit task , the Italian task , the French task and the Finnish task .
+[0202] [12:57] me013: Yeah ?
+[0203] [12:58] mn007: So we have numbers with uh systems I mean I mean neural networks trained on the task data .
+[0204] [13:06] mn007: And then to have systems with neural networks trained on , uh , data from the same language , if possible , with , well , using a more generic database , which is phonetically phonetically balanced ,
+[0205] [13:19] mn007: and . Um .
+[0206] [13:25] mn007: Yeah . So .
+[0207] [13:26] me013: So - so we had talked I guess we had talked at one point about maybe , the language ID corpus ?
+[0208] [13:32] me013: Is that a possibility for that ?
+[0209] [13:32] mn007: Ye - uh Yeah , but , uh these corpus , w w there is a CallHome and a CallFriend also ,
+[0210] [13:39] mn007: The CallFriend is for language ind identification .
+[0211] [13:42] mn007: Well , anyway , these corpus are all telephone speech .
+[0212] [13:46] mn007: So , um . This could be a a problem for Why ?
+[0213] [13:54] mn007: Because uh , uh , the the SpeechDat databases are not telephone speech .
+[0214] [14:00] mn007: They are downsampled to eight kilohertz
+[0215] [14:01] mn007: but but they are not uh with telephone bandwidth .
+[0216] [14:04] me013: Yeah .
+[0217] [14:05] me013: That 's really funny
+[0218] [14:06] me013: isn't it ?
+[0219] [14:07] me013: I mean cuz th this whole thing is for developing new standards for the telephone .
+[0220] [14:09] me006: Telephone .
+[0221] [14:11] me013: Yeah .
+[0222] [14:12] mn007: Yeah
+[0223] [14:17] mn007: Well , you don't do not send speech , you send features , computed on th the the device ,
+[0224] [14:21] me013: Mm - hmm .
+[0225] [14:23] me013: Yeah , I know ,
+[0226] [14:23] me013: but
+[0227] [14:24] mn007: or Well .
+[0228] [14:26] me013: Oh I see ,
+[0229] [14:27] me013: so your point is that it 's it 's it 's uh the features are computed locally , and so they aren't necessarily telephone bandwidth , uh or telephone distortions .
+[0230] [14:27] mn007: So
+[0231] [14:32] mn007: Yeah .
+[0232] [14:33] mn007: Yeah .
+[0233] [14:36] me018: Did you happen to find out anything about the OGI multilingual database ?
+[0234] [14:40] me013: Yeah , that 's wh that 's wh that 's what I meant .
+[0235] [14:40] mn007: Yeah
+[0236] [14:42] me013: I
+[0237] [14:46] me013: the CallFriend is a is a , uh , LDC w thing , right ?
+[0238] [14:47] mn007: Yea - Yeah , there are also two other databases .
+[0239] [14:51] mn007: One they call the multi - language database , and another one is a twenty - two language , something like that .
+[0240] [14:57] mn007: But it 's also telephone speech .
+[0241] [14:59] me018: Oh , they are ?
+[0242] [15:00] me018: OK .
+[0243] [15:00] mn007: Uh .
+[0244] [15:03] mn007: Well , nnn .
+[0245] [15:05] me013: But
+[0246] [15:06] mn007: So
+[0247] [15:08] me013: I mean , we ' r e e The bandwidth shouldn't be such an issue
+[0248] [15:11] me013: right ?
+[0249] [15:11] me013: Because e e this is downsampled and and filtered ,
+[0250] [15:14] me013: right ?
+[0251] [15:14] me013: So it 's just the fact that it 's not telephone .
+[0252] [15:17] me013: And there are so many other differences between these different databases .
+[0253] [15:22] me013: I mean some of this stuff 's recorded in the car ,
+[0254] [15:24] me013: and
+[0255] [15:25] me013: I mean there 's there 's many different acoustic differences .
+[0256] [15:27] mn007: Yeah .
+[0257] [15:27] me013: So I 'm not sure if . I mean , unless we 're going to include a bunch of car recordings in the in the training database , I 'm not sure if it 's completely rules it out
+[0258] [15:38] me013: if our if we if our major goal is to have phonetic context and you figure that there 's gonna be a mismatch in acoustic conditions does it make it much worse f to sort of add another mismatch , if you will .
+[0259] [15:43] mn007: Mmm .
+[0260] [15:52] me013: Uh , i i I I guess the question is how important is it to for us to get multiple languages uh , in there .
+[0261] [15:59] mn007: Yeah , but Mm - hmm . Um .
+[0262] [16:04] mn007: Yeah .
+[0263] [16:06] mn007: Well , actually , for the moment if we w do not want to use these phone databases , we we already have uh English , Spanish and French uh , with microphone speech .
+[0265] [16:15] me013: Mm - hmm .
+[0266] [16:17] me013: Yeah .
+[0267] [16:17] mn007: So .
+[0268] [16:19] me013: So that 's what you 're thinking of using is sort of the multi the equivalent of the multiple ?
+[0269] [16:19] mn007: Well .
+[0270] [16:22] mn007: Yeah ,
+[0271] [16:22] mn007: for the multilingual part we were thinking of using these three databases .
+[0272] [16:26] me013: And for the difference in phonetic context that you ? Provide that .
+[0273] [16:26] mn007: Well
+[0274] [16:29] mn007: Uh , actually , these three databases are um generic databases .
+[0275] [16:33] fn002: Yeah .
+[0276] [16:34] mn007: So w f for for uh Italian , which is close to Spanish , French and , i i uh , TI - digits we have both uh , digits training data and also more general training data .
+[0277] [16:47] mn007: So . Mmm .
+[0278] [16:49] me013: Well , we also have this Broadcast News that we were talking about taking off the disk , which is is microphone data for for English .
+[0279] [16:54] mn007: Yeah .
+[0280] [16:56] mn007: Yeah , perhaps yeah , there is also TIMIT .
+[0281] [16:59] mn007: We could use TIMIT .
+[0282] [16:59] me013: Yeah .
+[0283] [17:00] me013: Right .
+[0284] [17:03] me013: Yeah , so there 's plenty of stuff around .
+[0285] [17:06] me013: OK , so anyway , th the basic plan is to , uh , test this cube .
+[0286] [17:10] mn007: Yeah .
+[0287] [17:11] me013: Yes .
+[0288] [17:11] fn002: To fill in the cube .
+[0289] [17:12] me013: To fill i fill it in ,
+[0290] [17:13] me013: yeah .
+[0291] [17:16] me013: OK .
+[0292] [17:17] mn007: Yeah , and perhaps , um We were thinking that perhaps the cross - language issue is not , uh , so big of a issue .
+[0293] [17:26] mn007: Well , w w we perhaps we should not focus too much on that cross - language stuff .
+[0294] [17:31] mn007: I mean , uh , training training a net on a language and testing a for another language .
+[0295] [17:32] me013: Uh - huh .
+[0296] [17:38] me013: But
+[0297] [17:38] mn007: Mmm . Perhaps the most important is to have neural networks trained on the target languages . But , uh , with a general database general databases .
+[0298] [17:48] mn007: u So that th Well , the the guy who has to develop an application with one language can use the net trained o on that language , or a generic net ,
+[0299] [17:56] me013: Uh , depen it depen it depends how you mean " using the net " .
+[0300] [17:57] mn007: but
+[0301] [17:59] me013: So , if you 're talking about for producing these discriminative features that we 're talking about you can't do that .
+[0302] [18:02] mn007: Mmm .
+[0303] [18:04] me013: Because because the what they 're asking for is is a feature set .
+[0304] [18:10] me013: Right ?
+[0305] [18:10] me013: And so , uh , we 're the ones who have been weird by by doing this training .
+[0306] [18:16] mn007: Yeah .
+[0307] [18:16] me013: But if we say , " No , you have to have a different feature set for each language , " I think this is ver gonna be very bad .
+[0308] [18:21] me006: Oh .
+[0309] [18:22] me013: So
+[0310] [18:22] mn007: You think so .
+[0311] [18:22] fn002: Oh .
+[0312] [18:22] me006: That
+[0313] [18:22] mn007: Mmm .
+[0314] [18:22] me013: Oh yeah .
+[0315] [18:23] me013: Yeah . I mean , in principle , I mean conceptually , it 's sort of like they want a re @ @ well , they want a replacement for mel cepstra .
+[0316] [18:26] mn007: Mmm .
+[0317] [18:31] me013: So , we say " OK , this is the year two thousand ,
+[0318] [18:33] me013: we 've got something much better than mel cepstra .
+[0319] [18:34] me013: It 's , you know , gobbledy - gook . "
+[0320] [18:36] me013: OK ? And so we give them these gobbledy - gook features
+[0321] [18:39] me013: but these gobbledy - gook features are supposed to be good for any language .
+[0322] [18:41] mn007: Hmm .
+[0323] [18:42] me013: Cuz you don't know who 's gonna call ,
+[0324] [18:44] me013: and you know , I mean so it 's it 's it 's , uh ,
+[0325] [18:47] me013: uh how do you know what language it is ?
+[0326] [18:49] me013: Somebody picks up the phone .
+[0327] [18:51] me013: So thi this is their image .
+[0328] [18:52] mn007: Well
+[0329] [18:52] me013: Someone picks up the phone , right ?
+[0330] [18:53] me013: And and he he picks up the ph
+[0331] [18:55] mn007: Yeah
+[0332] [18:57] mn007: there is a target language for the application .
+[0333] [18:59] mn007: So
+[0334] [18:59] me013: Yeah . y y y
+[0335] [19:00] me013: Well .
+[0336] [19:00] mn007: Well .
+[0337] [19:01] me013: But , no but , y you you pick up the phone ,
+[0338] [19:03] mn007: Yeah ?
+[0339] [19:03] me013: you talk on the phone ,
+[0340] [19:04] me013: and it sends features out .
+[0341] [19:06] me013: OK ,
+[0342] [19:07] me013: so the phone doesn't know what a what what your language is .
+[0343] [19:09] mn007: Yeah ,
+[0344] [19:10] mn007: if
+[0345] [19:10] mn007: Yeah .
+[0346] [19:11] mn007: If it 's th in the phone ,
+[0347] [19:12] mn007: but
+[0348] [19:13] mn007: well , it that that could be th at the server 's side ,
+[0349] [19:13] me013: But that 's the image that they have .
+[0350] [19:16] mn007: and , well . Mmm , yeah .
+[0351] [19:16] me013: It could be ,
+[0352] [19:17] me013: but that 's the image they have ,
+[0353] [19:18] me013: right ?
+[0354] [19:19] me013: So
+[0355] [19:20] me013: I mean , one could argue all over the place about how things really will be in ten years .
+[0356] [19:25] me013: But the particular image that the cellular industry has right now is that it 's distributed speech recognition , where the , uh , uh , probabilistic part , and and s semantics and so forth are all on the servers , and you compute features of the uh , on the phone .
+[0357] [19:39] me013: So that 's that 's what we 're involved in .
+[0358] [19:41] me013: We might might or might not agree that that 's the way it will be in ten years ,
+[0359] [19:44] me013: but that 's that 's that 's what they 're asking for .
+[0360] [19:47] me013: So so I think that th th it is an important issue whether it works cross - language .
+[0361] [19:53] me013: Now , it 's the OGI , uh , folks ' perspective right now that probably that 's not the biggest deal .
+[0362] [19:59] me013: And that the biggest deal is the , um envir acoustic - environment mismatch .
+[0363] [20:05] me013: And they may very well be right ,
+[0364] [20:06] me013: but I I was hoping we could just do a test and determine if that was true .
+[0365] [20:11] me013: If that 's true , we don't need to worry so much .
+[0366] [20:12] me013: Maybe maybe we have a couple languages in the training set and that gives us enough breadth uh , uh , that that that the rest doesn't matter .
+[0367] [20:21] me013: Um , the other thing is , uh , this notion of training to uh which I I guess they 're starting to look at up there , training to something more like articulatory features .
+[0368] [20:33] me013: Uh , and if you have something that 's just good for distinguishing different articulatory features that should just be good across , you know , a wide range of languages .
+[0369] [20:40] mn007: Yeah .
+[0370] [20:40] me013: Uh
+[0371] [20:42] me013: Yeah , so I don't th I know unfortunately I don't I see what you 're comi where you 're coming from , I think ,
+[0372] [20:45] me013: but I don't think we can ignore it .
+[0373] [20:47] mn007: So we we really have to do test with a real cross - language .
+[0374] [20:53] mn007: I mean , tr for instance training on English and testing on Italian ,
+[0375] [20:56] mn007: or Or we can train or else , uh , can we train a net on , uh , a range of languages and which can include the test the test @ @ the target language ,
+[0376] [21:06] me006: Test on an unseen .
+[0377] [21:09] mn007: or
+[0378] [21:10] me013: Yeah ,
+[0379] [21:10] me013: so , um ,
+[0380] [21:12] me013: there
+[0381] [21:14] me013: This is complex .
+[0382] [21:15] me013: So , ultimately , uh , as I was saying , I think it doesn't fit within their image that you switch nets based on language .
+[0383] [21:22] mn007: Yeah .
+[0384] [21:23] me013: Now , can you include , uh , the the target language ?
+[0385] [21:28] me013: Um , from a purist 's standpoint it 'd be nice not to
+[0386] [21:33] me013: because
+[0387] [21:35] me013: because surely someone is going to say at some point , " OK , so you put in the German and the Finnish .
+[0388] [21:38] mn007: Mmm .
+[0389] [21:41] me013: Uh , now , what do you do , uh , when somebody has Portuguese ? "
+[0390] [21:46] me013: you know ?
+[0391] [21:47] me013: Um , and Uh , however , you aren't it isn't actually a constraint in this evaluation .
+[0392] [21:56] me013: So I would say if it looks like there 's a big difference to put it in , then we 'd make note of it , and then we probably put in the other ,
+[0393] [22:04] me013: because we have so many other problems in trying to get things to work well here that that , you know , it 's not so bad as long as we we note it and say , " Look , we did do this " .
+[0394] [22:07] mn007: Mmm ?
+[0395] [22:12] me018: And so , ideally , what you 'd wanna do is you 'd wanna run it with and without the target language and the training set for a wide range of languages .
+[0396] [22:12] me013: Uh .
+[0397] [22:18] me013: Yeah .
+[0398] [22:18] mn007: Yeah , perhaps .
+[0399] [22:19] mn007: Yeah .
+[0400] [22:20] mn007: Yeah .
+[0401] [22:20] me013: Yeah .
+[0402] [22:20] me018: And that way you can say , " Well , " you know , " we 're gonna build it for what we think are the most common ones " ,
+[0403] [22:26] me018: but if that somebody uses it with a different language , you know , " here 's what 's you 're l here 's what 's likely to happen . "
+[0404] [22:32] me013: Yeah , cuz the truth is , is that it 's it 's not like there are I mean , al although there are thousands of languages , uh , from uh , uh , the point of view of cellular companies , there aren't .
+[0405] [22:41] me013: There 's you know , there 's fifty or something ,
+[0406] [22:41] me018: Right .
+[0407] [22:43] me013: you know ?
+[0408] [22:44] me013: So ,
+[0409] [22:45] me013: uh , an and they aren't you know , with the exception of Finnish , which I guess it 's pretty different from most most things .
+[0410] [22:51] me013: uh , it 's it 's , uh most of them are like at least some of the others .
+[0411] [22:57] me013: And so , our guess that Spanish is like Italian , and and so on .
+[0412] [23:03] me013: I guess Finnish is a is is a little bit like Hungarian , supposedly ,
+[0413] [23:06] me013: right ?
+[0414] [23:07] me013: Or
+[0415] [23:07] me013: I
+[0416] [23:07] me018: I don't know anything about Finnish .
+[0417] [23:07] me013: well , I kn oh , well I know that H uh , H I mean , I 'm not a linguist , but I guess Hungarian and Finnish and one of the one of the languages from the former Soviet Union are in this sort of same family .
+[0418] [23:18] me013: But
+[0419] [23:18] me018: Hmm .
+[0420] [23:21] me018: Hmm .
+[0421] [23:28] me013: OK .
+[0422] [23:32] mn007: The
+[0423] [23:32] mn007: Yeah .
+[0424] [23:33] me013: Your turn .
+[0425] [23:34] me006: Oh , my turn .
+[0426] [23:35] me006: Oh , OK .
+[0427] [23:36] me006: Um , Let 's see , I I spent the last week , uh , looking over Stephane 's shoulder . And and understanding some of the data .
+[0428] [23:46] me006: I re - installed , um , um , HTK , the free version ,
+[0429] [23:50] me006: so , um , everybody 's now using three point O ,
+[0430] [23:54] me006: which is the same version that , uh , OGI is using .
+[0431] [23:57] me013: Oh , good .
+[0432] [23:58] me006: Yeah .
+[0433] [23:58] me006: So ,
+[0434] [23:59] me006: without without any licensing big deals , or anything like that .
+[0435] [24:03] me006: And , um , so we 've been talking about this this , uh , cube thing ,
+[0436] [24:09] me006: and it 's beginning more and more looking like the , uh , the Borge cube thing .
+[0437] [24:13] me006: It 's really gargantuan .
+[0438] [24:15] me006: Um ,
+[0439] [24:17] me006: but
+[0440] [24:19] me013: So are are you going to be assimilated ?
+[0441] [24:22] me018: Resistance is futile .
+[0442] [24:24] me006: Exactly .
+[0443] [24:26] me006: Um , yeah , so I I 've been looking at , uh , uh , TIMIT stuff .
+[0444] [24:30] me006: Um , the the stuff that we 've been working on with TIMIT , trying to get a , um a labels file so we can , uh , train up a train up a net on TIMIT and test , um , the difference between this net trained on TIMIT and a net trained on digits alone .
+[0445] [24:47] me013: Mm - hmm .
+[0446] [24:48] me006: Um , and seeing if if it hurts or helps .
+[0447] [24:52] me013: And again , when y just to clarify , when you 're talking about training up a net , you 're talking about training up a net for a tandem approach ?
+[0448] [24:52] me006: Anyway .
+[0449] [24:58] me006: Yeah , yeah .
+[0450] [24:58] me006: Um .
+[0451] [24:59] me013: And and the inputs are PLP and delta and that sort of thing ,
+[0452] [24:59] me006: Mm - hmm .
+[0453] [25:03] me006: Well , the inputs are one dimension of the cube ,
+[0454] [25:03] me013: or ?
+[0455] [25:06] me006: which
+[0456] [25:08] mn007: Hmm .
+[0457] [25:17] me013: Yeah , but your initial things you 're making one choice there ,
+[0458] [25:19] me006: Yeah ,
+[0459] [25:19] me013: right ?
+[0460] [25:19] me013: Which is PLP , or something ?
+[0461] [25:20] me006: right .
+[0462] [25:21] me013: Yeah .
+[0463] [25:21] me006: Um , I I haven't I haven't decided on on the initial thing .
+[0464] [25:24] me006: Probably probably something like PLP .
+[0465] [25:27] me006: Yeah .
+[0466] [25:28] mn007: Hmm .
+[0467] [25:29] me013: Yeah . Um ,
+[0468] [25:29] me013: so so you take PLP and you you , uh , do it uh , you you , uh , use HTK with it with the transformed features using a neural net that 's trained .
+[0469] [25:41] me013: And the training could either be from Digits itself or from TIMIT .
+[0470] [25:46] me013: And
+[0471] [25:46] me006: Right .
+[0472] [25:46] me013: and , and th and then the testing would be these other things which which which might be foreign language .
+[0473] [25:52] me006: Right .
+[0474] [25:53] me013: I see .
+[0475] [25:53] me006: Right .
+[0476] [25:54] me013: I I I get in the picture about the cube .
+[0477] [25:55] me006: Yeah .
+[0478] [25:56] me013: OK .
+[0479] [25:56] me006: Maybe
+[0480] [25:57] me006: OK .
+[0481] [25:57] me013: OK .
+[0482] [25:57] me006: Uh - huh .
+[0483] [25:57] me013: Um ,
+[0484] [25:58] me013: I mean , those listening to this will not have a picture either ,
+[0485] [26:00] me013: so , um , I guess I 'm I 'm not any worse off .
+[0486] [26:02] me013: But
+[0487] [26:04] me013: but at some point somebody should just show me the cube .
+[0488] [26:06] me013: It sounds s
+[0489] [26:07] me013: I I get I think I get the general idea of it ,
+[0490] [26:08] me006: Yeah , yeah ,
+[0491] [26:09] me013: yeah .
+[0492] [26:09] me006: b May
+[0493] [26:10] me018: So , when you said that you were getting the labels for TIMIT , um , are y what do you mean by that ?
+[0494] [26:12] me006: Mm - hmm .
+[0495] [26:14] me006: Oh , I 'm just I 'm just , uh , transforming them from the , um , the standard TIMIT transcriptions into into a nice long huge P - file to do training .
+[0496] [26:20] me018: Mmm .
+[0497] [26:23] me018: Were the digits , um , hand - labeled for phones ?
+[0498] [26:27] me006: Um
+[0499] [26:28] me018: Or were they those labels automatically derived ?
+[0500] [26:30] me006: Oh yeah ,
+[0501] [26:30] me006: those were those were automatically derived by by Dan using , um , embedded embedded training and alignment .
+[0502] [26:35] me018: Mmm .
+[0503] [26:39] me013: Ah , but which Dan ?
+[0504] [26:40] me006: Uh , Ellis .
+[0505] [26:42] me013: OK .
+[0506] [26:42] me006: Right ?
+[0507] [26:43] me013: OK .
+[0508] [26:45] me006: Yeah . So .
+[0509] [26:48] me018: I was just wondering because that test you 're t
+[0510] [26:50] me006: Uh - huh .
+[0511] [26:51] me018: I I think you 're doing this test because you want to determine whether or not , uh , having s general speech performs as well as having specific speech .
+[0512] [27:00] me006: That 's right .
+[0513] [27:01] me013: Well , especially when you go over the different languages again ,
+[0514] [27:03] me013: because you 'd the different languages have different words for the different digits ,
+[0515] [27:07] me018: Mm - hmm .
+[0516] [27:07] me018: And
+[0517] [27:08] me013: so
+[0518] [27:09] me018: yeah ,
+[0519] [27:09] me018: so I was just wondering if the fact that TIMIT you 're using the hand - labeled stuff from TIMIT might be confuse the results that you get .
+[0520] [27:18] me013: I I think it would ,
+[0521] [27:18] me013: but but on the other hand it might be better .
+[0522] [27:23] me018: Right , but if it 's better , it may be better because it was hand - labeled .
+[0523] [27:25] me013: Oh yeah ,
+[0524] [27:25] me013: but still @ @ probably use it .
+[0525] [27:27] me018: Yeah . OK .
+[0526] [27:28] me013: I mean ,
+[0527] [27:28] me013: you know , I I I guess I 'm sounding cavalier ,
+[0528] [27:31] me013: but I mean , I think the point is you have , uh , a bunch of labels and and they 're han hand uh hand - marked .
+[0529] [27:38] me013: Uh , I guess , actually , TIMIT was not entirely hand - marked .
+[0530] [27:41] me013: It was automatically first , and then hand hand - corrected .
+[0531] [27:43] me013: But but , um , uh , it it , um , it might be a better source .
+[0532] [27:43] me018: Oh , OK .
+[0533] [27:52] me013: So
+[0534] [27:52] me013: you 're right .
+[0535] [27:53] me013: It would be another interesting scientific question to ask , " Is it because it 's a broad source or because it was , you know , carefully ? "
+[0536] [27:59] me013: uh . And that 's something you could ask ,
+[0537] [27:59] me018: Mm - hmm .
+[0538] [28:01] me013: but given limited time , I think the main thing is if it 's a better thing for going across languages on this training tandem system ,
+[0539] [28:02] me018: Yeah .
+[0540] [28:08] me013: then
+[0541] [28:08] me018: Right .
+[0542] [28:09] me018: What about the differences in the phone sets ?
+[0543] [28:12] me006: Uh , between languages ?
+[0544] [28:14] me018: No , between TIMIT and the the digits .
+[0545] [28:17] me006: Oh ,
+[0546] [28:17] me006: um , right .
+[0547] [28:19] me006: Well , there 's a mapping from the sixty - one phonemes in TIMIT to to fifty - six , the ICSI fifty - six .
+[0548] [28:23] fn002: Sixty - one .
+[0549] [28:25] me018: Oh , OK .
+[0550] [28:26] me018: I see .
+[0551] [28:27] me006: And then the digits phonemes , um , there 's about twenty twenty - two or twenty - four of them ?
+[0552] [28:33] me006: Is that right ?
+[0553] [28:34] me018: Out of that fifty - six ?
+[0554] [28:34] mn007: Yep .
+[0555] [28:35] me006: Out of that fifty - six .
+[0556] [28:36] me018: Oh , OK .
+[0557] [28:37] me006: Yeah .
+[0558] [28:37] me006: So ,
+[0559] [28:38] me006: it 's it 's definitely broader ,
+[0560] [28:41] me006: yeah .
+[0561] [28:45] mn007: But , actually , the issue of phoneti phon uh phone phoneme mappings will arise when we will do severa use several languages
+[0562] [28:50] fn002: Yeah .
+[0563] [28:53] mn007: because you Well , some phonemes are not , uh , in every languages ,
+[0564] [29:01] mn007: and So we plan to develop a subset of the phonemes , uh , that includes , uh , all the phonemes of our training languages ,
+[0565] [29:10] mn007: and use a network with kind of one hundred outputs or something like that .
+[0566] [29:10] me018: Mm - hmm .
+[0567] [29:10] me013: Mm - hmm .
+[0568] [29:15] me013: You mean a superset , sort of .
+[0569] [29:17] mn007: Uh , yeah ,
+[0570] [29:17] mn007: superset ,
+[0571] [29:18] me013: Yeah . Yeah .
+[0572] [29:18] mn007: yeah .
+[0573] [29:18] fn002: Yeah .
+[0574] [29:18] fn002: I th I looks the SAMPA SAMPA phone .
+[0575] [29:26] mn007: Yeah .
+[0576] [29:26] fn002: SAMPA phone ? For English uh American English , and the the the language who have more phone are the English .
+[0577] [29:36] me018: Mmm .
+[0578] [29:37] fn002: Of the these language .
+[0579] [29:39] fn002: But n for example , in Spain , the Spanish have several phone that d doesn't appear in the E English and we thought to complete .
+[0580] [29:50] fn002: But for that , it needs we must r h do a lot of work because we need to generate new tran transcription for the database that we have .
+[0581] [29:55] me013: Mm - hmm .
+[0582] [30:02] me013: Mm - hmm .
+[0583] [30:03] me034: Other than the language , is there a reason not to use the TIMIT phone set ?
+[0584] [30:08] me034: Cuz it 's larger ?
+[0585] [30:09] me034: As opposed to the ICSI phone set ?
+[0586] [30:13] me006: Oh ,
+[0587] [30:13] me006: you mean why map the sixty - one to the fifty - six ?
+[0588] [30:16] me034: Yeah .
+[0589] [30:17] me006: I don't know .
+[0590] [30:17] me006: I
+[0591] [30:18] me013: Um , I forget if that happened starting with you , or was it o or if it was Eric , afterwards who did that .
+[0592] [30:24] me013: But I think , basically , there were several of the phones that were just hardly ever there .
+[0593] [30:29] me018: Yeah ,
+[0594] [30:29] me018: and I think some of them , they were making distinctions between silence at the end and silence at the beginning ,
+[0595] [30:34] me034: Oh .
+[0596] [30:35] me018: when really they 're both silence .
+[0597] [30:36] me018: I th I think it was things like that that got it mapped down to fifty - six .
+[0598] [30:36] me034: OK .
+[0599] [30:39] me013: Yeah , especially in a system like ours , which is a discriminative system .
+[0600] [30:41] me013: You know , you 're really asking this net to learn .
+[0601] [30:43] me034: Yeah .
+[0602] [30:44] me018: Yeah .
+[0603] [30:45] me013: It 's it 's kind of hard .
+[0604] [30:46] me018: There 's not much difference , really .
+[0605] [30:47] me018: And the ones that are gone , I think are I think there was they also in TIMIT had like a glottal stop ,
+[0606] [30:52] me018: which was basically a short period of silence ,
+[0607] [30:53] me034: Mm - hmm .
+[0608] [30:55] me018: and so .
+[0609] [30:56] me034: Well , we have that now , too , right ?
+[0610] [30:57] me018: I don't know .
+[0611] [30:58] me034: Yeah .
+[0612] [30:58] me013: i It 's actually pretty common that a lot of the recognition systems people use have things like like , say thirty - nine , phone symbols ,
+[0613] [30:58] me018: So .
+[0614] [31:07] me013: right ?
+[0615] [31:07] me013: Uh , and then they get the variety by by bringing in the context , the phonetic context .
+[0616] [31:12] me013: Uh . So we actually have an unusually large number in in what we tend to use here .
+[0617] [31:18] me013: Um .
+[0618] [31:20] me013: So , a a actually maybe now you 've got me sort of intrigued .
+[0619] [31:23] me013: What
+[0620] [31:26] me013: Can you describe what what 's on the cube ?
+[0621] [31:27] me006: Yeah ,
+[0622] [31:27] me013: I
+[0623] [31:27] me006: w I th I think that 's a good idea
+[0624] [31:29] me013: Yeah , yeah .
+[0625] [31:30] me006: to to talk about the whole cube
+[0626] [31:30] fn002: Yeah . Yeah .
+[0627] [31:32] me006: and maybe we could sections in the cube for people to work on .
+[0628] [31:35] me013: Yeah .
+[0629] [31:36] me013: Yeah .
+[0630] [31:37] me006: Um ,
+[0631] [31:37] me006: OK .
+[0632] [31:38] me013: OK ,
+[0633] [31:38] me006: Uh , do you wanna do it ?
+[0634] [31:38] me013: so
+[0635] [31:41] me013: and since you 're not running a video camera we won't get this ,
+[0636] [31:43] me013: but if you use a board it 'll help us anyway .
+[0637] [31:46] me006: OK .
+[0638] [31:46] me013: Uh , point out one of the limitations of this medium ,
+[0639] [31:48] me006: OK .
+[0640] [31:48] me013: but you 've got the wireless on ,
+[0641] [31:50] me013: right ?
+[0642] [31:50] me006: Yeah ,
+[0643] [31:50] me006: I have the wireless .
+[0644] [31:50] me013: Yeah ,
+[0645] [31:50] me013: so you can walk around .
+[0646] [31:51] me006: OK .
+[0647] [31:53] me006: Can y can you walk around too ?
+[0648] [31:54] me006: No .
+[0649] [31:56] me006: OK ,
+[0650] [31:56] me006: well ,
+[0651] [31:56] me013: Uh , he can't , actually ,
+[0652] [31:56] me006: um ,
+[0653] [31:57] me013: but
+[0654] [31:58] me013: He 's tethered .
+[0655] [31:58] me006: s
+[0656] [31:59] me006: basically , the the cube will have three dimensions .
+[0657] [32:02] me006: The first dimension is the the features that we 're going to use .
+[0658] [32:08] me006: And the second dimension , um , is the training corpus .
+[0659] [32:15] me006: And that 's the training on the discriminant neural net .
+[0660] [32:18] me006: Um
+[0661] [32:20] me006: and
+[0662] [32:22] me006: the
+[0663] [32:24] me013: Yeah
+[0664] [32:25] me013: Yeah . So the the training for HTK is always that 's always set up for the individual test ,
+[0665] [32:31] me013: right ?
+[0666] [32:31] me013: That there 's some training data and some test data .
+[0667] [32:33] me013: So that 's different than this .
+[0668] [32:34] me006: Right , right .
+[0669] [32:35] me006: This is this is for for ANN only .
+[0670] [32:40] me006: And , yeah , the training for the HTK models is always , uh , fixed for whatever language you 're testing on .
+[0671] [32:47] me013: Right .
+[0672] [32:48] me006: And then , there 's the testing corpus .
+[0673] [32:58] me006: So , then I think it 's probably instructive to go and and and show you the features that we were talking about .
+[0674] [33:05] me006: Um ,
+[0675] [33:07] me006: so , let 's see .
+[0676] [33:08] me006: Help
+[0677] [33:08] mn007: PLP .
+[0678] [33:09] me006: With what ?
+[0679] [33:10] mn007: PLP .
+[0680] [33:10] me006: PLP ?
+[0681] [33:11] me006: OK .
+[0682] [33:13] mn007: MSG .
+[0683] [33:14] me006: MSG .
+[0684] [33:17] mn007: Uh , JRASTA .
+[0685] [33:18] me006: JRASTA .
+[0686] [33:22] mn007: And JRASTA - LDA .
+[0687] [33:24] me006: JRASTA - LDA .
+[0688] [33:28] mn007: Um ,
+[0689] [33:31] mn007: multi - band .
+[0690] [33:32] me006: Multi - band .
+[0691] [33:36] mn007: So there would be multi - band before , um before our network , I mean .
+[0692] [33:42] me006: Yeah ,
+[0693] [33:42] me006: just the multi - band features , right ?
+[0694] [33:42] mn007: And
+[0695] [33:44] mn007: Yeah .
+[0696] [33:44] me006: Yeah .
+[0697] [33:49] mn007: So , something like , uh , s TCT within bands
+[0698] [33:49] me013: Uh - huh . Ah . Ah .
+[0699] [33:52] mn007: and Well .
+[0700] [33:53] mn007: And then multi - band after networks . Meaning
+[0701] [33:56] mn007: that we would have , uh , neural networks , uh , discriminant neural networks for each band .
+[0702] [34:03] mn007: Uh , yeah .
+[0703] [34:04] mn007: And using the the outputs of these networks or the linear outputs or something like that .
+[0704] [34:11] mn007: Uh ,
+[0705] [34:11] mn007: yeah .
+[0706] [34:13] me018: What about mel cepstrum ?
+[0707] [34:15] me006: Oh
+[0708] [34:16] me018: Or
+[0709] [34:16] me018: you don't include that because it 's part of the base or something ?
+[0710] [34:20] me013: Well , y you do have a baseline system that 's m that 's mel cepstra ,
+[0711] [34:20] fn002: Yeah databases .
+[0712] [34:22] fn002: Yeah .
+[0713] [34:24] me013: right ?
+[0714] [34:24] me013: So .
+[0715] [34:24] fn002: Mm - hmm .
+[0716] [34:26] mn007: But , uh ,
+[0717] [34:27] mn007: well ,
+[0718] [34:28] mn007: not for the the ANN .
+[0719] [34:30] mn007: I
+[0720] [34:31] me013: OK .
+[0721] [34:32] mn007: So , yeah ,
+[0722] [34:32] mn007: we could we could add MFCC also .
+[0723] [34:33] me006: We
+[0724] [34:34] me013: Probably should .
+[0725] [34:35] me013: I mean at least at least conceptually , you know , it doesn't meant you actually have to do it ,
+[0726] [34:35] mn007: Yeah .
+[0727] [34:37] fn002: Yeah .
+[0728] [34:38] me013: but
+[0729] [34:39] me013: conceptually it makes sense as a as a base line .
+[0730] [34:42] me018: It 'd be an interesting test just to have just to do MFCC with the neural net
+[0731] [34:45] fn002: Without
+[0732] [34:46] fn002: Yeah .
+[0733] [34:47] me018: and everything else the same .
+[0734] [34:48] me018: Compare that with just M - MFCC without the the net .
+[0735] [34:51] mn007: Yeah .
+[0736] [34:51] fn002: Mm - hmm .
+[0737] [34:54] me006: I think I think Dan did some of that .
+[0738] [34:56] me018: Oh .
+[0739] [34:57] me006: Um , in his previous Aurora experiments .
+[0740] [35:01] me006: And with the net it 's it 's wonderful .
+[0741] [35:03] me006: Without the net it 's just baseline .
+[0742] [35:05] me013: Um , I think OGI folks have been doing that , too .
+[0743] [35:08] me013: D Because I think that for a bunch of their experiments they used , uh , mel cepstra , actually .
+[0744] [35:08] me006: Yeah .
+[0745] [35:12] me006: Yeah .
+[0746] [35:14] me013: Um , of course that 's there and this is here and so on .
+[0747] [35:17] me013: OK ?
+[0748] [35:18] me006: OK .
+[0749] [35:19] me006: Um , for the training corpus corpus , um , we have , um , the the d digits from the various languages .
+[0750] [35:30] me006: Um , English
+[0751] [35:35] me006: Spanish
+[0752] [35:39] me006: um , French
+[0753] [35:44] me006: What else do we have ?
+[0754] [35:45] mn007: And the Finnish .
+[0755] [35:48] me006: Finnish .
+[0756] [35:51] fn002: And Italian .
+[0757] [35:51] me018: Where did th where did that come from ?
+[0758] [35:53] fn002: Uh , no , Italian no .
+[0759] [35:53] me018: Digits ?
+[0760] [35:53] fn002: Italian no .
+[0761] [35:54] me018: Oh .
+[0762] [35:54] me006: Oh . Italian .
+[0763] [35:54] fn002: I Italian yes .
+[0764] [35:56] fn002: Italian ?
+[0765] [35:58] me013: Italian .
+[0766] [35:59] me018: Is that Was that distributed with Aurora ,
+[0767] [36:01] me018: or ?
+[0768] [36:02] me006: One L or two L 's ?
+[0769] [36:02] me013: The newer one .
+[0770] [36:02] me018: Where did that ?
+[0771] [36:03] mn007: So English , uh , Finnish and Italian are Aurora .
+[0772] [36:04] me013: Yeah .
+[0773] [36:08] mn007: And Spanish and French is something that we can use in addition to Aurora .
+[0774] [36:13] mn007: Uh , well .
+[0775] [36:20] me013: Yeah ,
+[0776] [36:20] me013: so Carmen brought the Spanish ,
+[0777] [36:22] me013: and Stephane brought the French .
+[0778] [36:29] me006: OK .
+[0779] [36:31] me006: And ,
+[0780] [36:32] me006: um ,
+[0781] [36:34] me006: oh yeah ,
+[0782] [36:34] me013: Is it French French or Belgian French ?
+[0783] [36:35] me006: and
+[0784] [36:36] me013: There
+[0785] [36:38] mn007: It 's , uh , French French .
+[0786] [36:40] me006: French French .
+[0787] [36:40] fn002: Like Mexican Spain and Spain .
+[0788] [36:41] me013: Yeah .
+[0789] [36:45] me034: Or Swiss .
+[0790] [36:45] fn002: I think that is more important ,
+[0791] [36:46] me034: Swiss - German .
+[0792] [36:46] fn002: Mexican Spain .
+[0793] [36:48] me013: Yeah .
+[0794] [36:48] fn002: Because
+[0795] [36:48] me013: Yeah ,
+[0796] [36:48] me013: probably so .
+[0797] [36:49] fn002: Yeah .
+[0798] [36:49] me013: Yeah .
+[0799] [36:49] me013: Yeah , Herve always insists that Belgian is i is absolutely pure French ,
+[0800] [36:53] me013: has
+[0801] [36:54] me013: but he says those those those Parisians talk funny .
+[0802] [36:56] mn007: Yeah , yeah , yeah .
+[0803] [36:59] mn007: They have an accent .
+[0804] [37:00] me013: Yeah
+[0805] [37:01] me013: they do , yeah .
+[0806] [37:03] me013: Yeah . But then he likes Belgian fries too ,
+[0807] [37:06] me013: so .
+[0808] [37:07] me013: OK .
+[0809] [37:09] me006: And then we have , uh , um , broader broader corpus , um , like TIMIT .
+[0810] [37:22] me006: TIMIT so far ,
+[0811] [37:22] fn002: And Spanish too .
+[0812] [37:23] me006: right ?
+[0813] [37:23] me006: Spanish
+[0814] [37:24] me006: Oh , Spanish stories ?
+[0815] [37:27] fn002: Albayzin is the name .
+[0816] [37:28] me018: What about TI - digits ?
+[0817] [37:31] me006: Um
+[0818] [37:32] me006: uh all these Aurora f d data p data is from is derived from TI - digits .
+[0819] [37:35] me018: Uh - huh .
+[0820] [37:37] me018: Oh . Oh OK .
+[0821] [37:39] me006: Um , basically , they they corrupted it with , uh , different kinds of noises at different SNR levels .
+[0822] [37:43] me018: Ah .
+[0823] [37:45] me018: I see .
+[0824] [37:46] me006: Yeah .
+[0825] [37:49] me013: y And I think Stephane was saying there 's there 's some broader s material in the French also ?
+[0826] [37:52] mn007: Yeah ,
+[0827] [37:53] mn007: we
+[0828] [37:54] mn007: Yeah .
+[0829] [37:54] me006: OK .
+[0830] [37:56] mn007: The French data .
+[0831] [37:58] fn002: Spanish stories ?
+[0832] [38:00] fn002: No .
+[0833] [38:00] me006: No .
+[0834] [38:00] me006: Sp - Not Spanish stories ?
+[0835] [38:01] fn002: No .
+[0836] [38:02] me013: Spanish
+[0837] [38:02] fn002: No . Albayz
+[0838] [38:03] me006: Spanish something .
+[0839] [38:04] fn002: Yeah .
+[0840] [38:05] me006: OK .
+[0841] [38:07] me034: Did the Aurora people actually corrupt it themselves ,
+[0842] [38:10] me034: or just specify the signal and the signal - t
+[0843] [38:13] me006: They they corrupted it , um , themselves ,
+[0844] [38:15] me034: OK .
+[0845] [38:16] me006: but they also included the the noise files for us ,
+[0846] [38:20] me006: right ?
+[0847] [38:21] me006: Or
+[0848] [38:21] mn007: Yeah .
+[0849] [38:22] me006: so we can go ahead and corrupt other things .
+[0850] [38:24] me013: I
+[0851] [38:25] me013: I
+[0852] [38:27] me013: i Is it is it Mexican Spanish ,
+[0853] [38:29] me013: or
+[0854] [38:29] fn002: No no no no .
+[0855] [38:30] me013: Oh , no , no .
+[0856] [38:30] fn002: No no no no .
+[0857] [38:31] me013: It 's it 's Spanish from Spain , Spanish .
+[0858] [38:32] fn002: Spanish from Spain .
+[0859] [38:33] me013: Yeah , OK .
+[0860] [38:36] me006: From Spain .
+[0861] [38:36] me013: Alright .
+[0862] [38:37] me013: Spanish from Spain .
+[0863] [38:38] me013: Yeah , we 're really covered there
+[0864] [38:39] me013: now . OK .
+[0865] [38:43] me013: And the French from France .
+[0866] [38:43] me006: OK .
+[0867] [38:43] mn007: Yeah ,
+[0868] [38:43] mn007: the No , the French is f yeah , from , uh , Paris ,
+[0869] [38:47] me006: Oh ,
+[0870] [38:47] me006: from Paris ,
+[0871] [38:48] me006: OK .
+[0872] [38:52] me013: Yeah .
+[0873] [38:54] mn007: OK .
+[0874] [38:54] me006: And TIMIT 's from lots of different places .
+[0875] [38:56] me013: From TI .
+[0876] [38:57] me013: From i It 's from Texas .
+[0877] [38:58] me013: So
+[0878] [39:01] me034: From the deep South .
+[0879] [39:01] me013: So - s so it 's not really from the US either .
+[0880] [39:03] me013: Is that ? OK .
+[0881] [39:03] me006: Yeah .
+[0882] [39:04] me006: Yeah .
+[0883] [39:06] me006: OK .
+[0884] [39:06] me006: And , um ,
+[0885] [39:07] me006: with within the training corporas um , we 're , uh , thinking about , um , training with noise .
+[0886] [39:15] me006: So ,
+[0887] [39:16] me006: incorporating the same kinds of noises that , um , Aurora is in incorporating in their , um in their training corpus .
+[0888] [39:24] me006: Um , I don't think we we 're given the , uh the unseen noise conditions , though ,
+[0889] [39:29] me006: right ?
+[0890] [39:30] me013: I think what they were saying was that , um , for this next test there 's gonna be some of the cases where they have the same type of noise as you were given before hand and some cases where you 're not .
+[0891] [39:31] me006: Like
+[0892] [39:41] me006: Mm - hmm .
+[0893] [39:43] mn007: Mm - hmm .
+[0894] [39:43] me006: OK .
+[0895] [39:44] me013: So , presumably , that 'll be part of the topic of analysis of the the test results , is how well you do when it 's matching noise and how well you do where it 's not .
+[0896] [39:52] me006: Right .
+[0897] [39:52] me013: I think that 's right .
+[0898] [39:54] me006: So , I guess we can't train on on the the unseen noise conditions .
+[0899] [39:58] me013: Well , not if it 's not seen ,
+[0900] [39:59] me006: Right .
+[0901] [39:59] me006: If Not if it 's unseen .
+[0902] [40:00] me013: yeah .
+[0903] [40:01] me006: Yeah .
+[0904] [40:06] me013: OK . I mean , i i i i it does seem to me that a lot of times when you train with something that 's at least a little bit noisy it can it can help you out in other kinds of noise
+[0905] [40:14] me013: even if it 's not matching
+[0906] [40:15] me013: just because there 's some more variance that you 've built into things .
+[0907] [40:19] me013: But , but , uh ,
+[0908] [40:19] mn007: Mm - hmm .
+[0909] [40:21] me013: uh , exactly how well it will work will depend on how near it is to what you had ahead of time .
+[0910] [40:27] me013: So . OK , so that 's your training corpus ,
+[0911] [40:27] mn007: Mm - hmm .
+[0912] [40:30] me013: and then your testing corpus ?
+[0913] [40:32] me006: Um , the testing corporas are , um , just , um , the same ones as Aurora testing .
+[0914] [40:40] me006: And , that includes , um , the English Spa - um , Italian . Finnish .
+[0915] [40:49] fn002: Finnish .
+[0916] [41:00] me006: Uh , we ' r we 're gonna get German ,
+[0917] [41:02] me006: right ?
+[0918] [41:03] me006: Ge - At the final test will have German .
+[0919] [41:04] me013: Well , so ,
+[0920] [41:04] me013: yeah ,
+[0921] [41:05] me013: the final test , on a guess , is supposed to be German and Danish ,
+[0922] [41:05] mn007: Uh , yeah .
+[0923] [41:07] me013: right ?
+[0924] [41:08] me006: Right .
+[0925] [41:09] mn007: The s
+[0926] [41:09] mn007: yeah ,
+[0927] [41:10] mn007: the Spanish , perhaps ,
+[0928] [41:11] me006: Spanish .
+[0929] [41:11] mn007: we will have .
+[0930] [41:12] me006: Oh yeah ,
+[0931] [41:12] me006: we can we can test on s Spanish .
+[0932] [41:12] mn007: Yeah .
+[0933] [41:14] mn007: But the the Aurora Spanish , I mean .
+[0934] [41:16] me006: Oh yeah .
+[0935] [41:17] me006: Mm - hmm .
+[0936] [41:18] me013: Oh , there 's a there 's Spanish testing in the Aurora ?
+[0937] [41:20] mn007: Uh , not yet ,
+[0938] [41:21] mn007: but , uh , yeah , uh , e
+[0939] [41:23] fn002: Yeah ,
+[0940] [41:23] fn002: it 's preparing .
+[0941] [41:24] mn007: pre they are preparing it ,
+[0942] [41:25] mn007: and , well ,
+[0943] [41:26] fn002: They are preparing .
+[0944] [41:26] mn007: according to Hynek it will be we will have this at the end of November ,
+[0945] [41:31] mn007: or Um .
+[0946] [41:35] me013: OK ,
+[0947] [41:35] me013: so , uh ,
+[0948] [41:36] mn007: Yeah
+[0949] [41:36] me013: something like seven things in each , uh each column .
+[0950] [41:39] me013: So that 's , uh , three hundred and forty - three , uh , different systems that are going to be developed .
+[0951] [41:46] me013: There 's three of you .
+[0952] [41:48] me013: Uh ,
+[0953] [41:48] me013: so that 's
+[0954] [41:48] me006: Yeah . One hundred each , about .
+[0955] [41:49] me013: hundred and hundred and fourteen each .
+[0956] [41:50] me026: What a what about noise conditions ?
+[0957] [41:52] me013: What ?
+[0958] [41:53] me026: w Don't we need to put in the column for noise conditions ?
+[0959] [41:57] me013: Are you just trying to be difficult ?
+[0960] [42:00] me026: No ,
+[0961] [42:00] me026: I just don't understand .
+[0962] [42:02] me006: Well , th
+[0963] [42:03] me006: uh ,
+[0964] [42:03] me013: I 'm just kidding .
+[0965] [42:03] me006: when when I put these testings on there , I 'm assumi
+[0966] [42:05] me013: Yeah .
+[0967] [42:06] me006: There - there 's three three tests .
+[0968] [42:08] me006: Um ,
+[0969] [42:09] me006: type - A , type - B , and type - C .
+[0970] [42:12] me006: And they 're all they 're all gonna be test tested , um , with one training of the HTK system .
+[0971] [42:18] me006: Um , there 's a script that tests all three different types of noise conditions .
+[0972] [42:22] me006: Test - A is like a matched noise .
+[0973] [42:24] me006: Test - B is a is a slightly mismatched .
+[0974] [42:26] me006: And test - C is a , um , mismatched channel .
+[0975] [42:31] me026: And do we do all our training on clean data ?
+[0976] [42:35] me006: Um ,
+[0977] [42:35] fn002: Also , we can clean that .
+[0978] [42:36] me006: no , no ,
+[0979] [42:36] mn007: No .
+[0980] [42:36] me006: we 're we 're gonna be , um , training on the noise files that we do have .
+[0981] [42:43] me013: So ,
+[0982] [42:44] me013: um
+[0983] [42:46] me013: Yeah ,
+[0984] [42:46] me013: so I guess the question is how long does it take to do a a training ?
+[0985] [42:49] me013: I mean , it 's not totally crazy
+[0986] [42:52] me013: t I mean , these are a lot of these are built - in things
+[0987] [42:54] me013: and we know we have programs that compute PLP ,
+[0988] [42:56] me013: we have MSG ,
+[0989] [42:57] me013: we have JRA
+[0990] [42:58] me013: you know , a lot of these things will just kind of happen ,
+[0991] [43:00] me013: won't take uh a huge amount of development ,
+[0992] [43:02] me013: it 's just trying it out .
+[0993] [43:04] me013: So , we actually can do quite a few experiments .
+[0994] [43:06] me013: But how how long does it take , do we think , for one of these trainings ?
+[0995] [43:06] me006: Mm - hmm .
+[0996] [43:14] me006: That 's a good question .
+[0997] [43:16] me018: What about combinations of things ?
+[0998] [43:18] me013: Oh yeah ,
+[0999] [43:18] me013: that 's right .
+[1000] [43:19] me013: I mean , cuz ,
+[1001] [43:20] me013: so
+[1002] [43:22] me006: Oh !
+[1003] [43:24] me013: Yeah ,
+[1004] [43:24] me006: Och !
+[1005] [43:24] me013: good point .
+[1006] [43:25] me013: A major advantage of MSG , I see , th that we 've seen in the past is combined with PLP .
+[1007] [43:30] fn002: Yeah .
+[1008] [43:31] me013: Um .
+[1009] [43:35] me006: Now , this is turning into a four - dimensional cube ?
+[1010] [43:40] me034: Or you just add it to the features .
+[1011] [43:40] fn002: No .
+[1012] [43:40] me018: Well , you just select multiple things on the one dimension .
+[1013] [43:41] fn002: Here .
+[1014] [43:41] me006: Just
+[1015] [43:43] me006: Oh , yeah .
+[1016] [43:44] me006: OK .
+[1017] [43:46] me013: Yeah ,
+[1018] [43:46] me013: so , I mean ,
+[1019] [43:48] me013: you don't wanna ,
+[1020] [43:49] me013: uh
+[1021] [43:53] me013: Let 's see ,
+[1022] [43:54] me013: seven choose two would be , uh , twenty - one different combinations .
+[1023] [44:01] me013: Um .
+[1024] [44:02] me034: It 's not a complete set of combinations , though ,
+[1025] [44:03] me013: Probably
+[1026] [44:04] me034: right ?
+[1027] [44:04] me013: What ?
+[1028] [44:05] me034: It 's not a complete set of combinations , though ,
+[1029] [44:07] me006: No .
+[1030] [44:07] me034: right ?
+[1031] [44:07] me013: Yeah ,
+[1032] [44:07] me013: I hope not .
+[1033] [44:08] me013: Yeah ,
+[1034] [44:08] me013: there
+[1035] [44:09] me006: That
+[1036] [44:10] me013: Uh ,
+[1037] [44:11] me013: yeah ,
+[1038] [44:11] me013: so PLP and MSG I think we definitely wanna try
+[1039] [44:13] me013: cuz we 've had a lot of good experience with putting those together .
+[1040] [44:16] fn002: Mm - hmm .
+[1041] [44:17] me013: Um .
+[1042] [44:21] me013: Yeah .
+[1043] [44:23] me018: When you do that , you 're increasing the size of the inputs to the net .
+[1044] [44:25] me018: Do you have to reduce the hidden layer , or something ?
+[1045] [44:27] me013: Well
+[1046] [44:27] me013: I mean ,
+[1047] [44:28] me013: so i it doesn't increase the number of trainings .
+[1048] [44:30] me018: No , no ,
+[1049] [44:31] me018: I 'm I 'm just wondering about number of parameters in the net .
+[1050] [44:33] me018: Do you have to worry about keeping that the same ,
+[1051] [44:35] me018: or ?
+[1052] [44:37] me013: Uh , I don't think so .
+[1053] [44:38] me034: There 's a computation limit , though ,
+[1054] [44:39] me034: isn't there ?
+[1055] [44:40] me013: Yeah ,
+[1056] [44:41] me013: I mean , it 's just more compu
+[1057] [44:42] me013: Excuse me ?
+[1058] [44:43] me034: Isn't there like a limit on the computation load , or d latency , or something like that for Aurora task ?
+[1059] [44:47] me013: Oh yeah ,
+[1060] [44:47] me013: we haven't talked about any of that at all ,
+[1061] [44:49] me013: have we ?
+[1062] [44:49] me006: No .
+[1063] [44:49] me013: Yeah ,
+[1064] [44:50] me013: so , there 's not really a limit .
+[1065] [44:51] me013: What it is is that there 's there 's , uh it 's just penalty ,
+[1066] [44:56] me013: you know ?
+[1067] [44:56] me013: That that if you 're using , uh , a megabyte , then they 'll say that 's very nice ,
+[1068] [45:01] me013: but , of course , it will never go on a cheap cell phone .
+[1069] [45:04] me013: Um .
+[1070] [45:05] me034: OK .
+[1071] [45:07] me013: And ,
+[1072] [45:08] me013: u uh , I think the computation isn't so much of a problem .
+[1073] [45:11] me013: I think it 's more the memory .
+[1074] [45:13] me013: Uh , and , expensive cell phones , exa expensive hand - helds , and so forth , are gonna have lots of memory .
+[1075] [45:19] me013: So it 's just that , uh , these people see the the cheap cell phones as being still the biggest market ,
+[1076] [45:25] me013: so .
+[1077] [45:25] me034: Mm - hmm .
+[1078] [45:26] me013: Um .
+[1079] [45:29] me013: But , yeah ,
+[1080] [45:29] me013: I was just realizing that , actually , it doesn't explode out ,
+[1081] [45:33] me013: um
+[1082] [45:37] me013: It 's not really two to the seventh .
+[1083] [45:38] me013: But it 's but but i i it doesn't really explode out the number of trainings
+[1084] [45:42] me013: cuz these were all trained individually .
+[1085] [45:46] me013: Right ?
+[1086] [45:46] me013: So ,
+[1087] [45:47] me013: uh , if you have all of these nets trained some place , then , uh , you can combine their outputs and do the KL transformation and so forth
+[1088] [45:58] me013: and
+[1089] [45:58] me006: Mm - hmm .
+[1090] [46:00] me013: So , what it it blows out is the number of uh testings .
+[1091] [46:05] me013: And , you know and the number of times you do that last part .
+[1092] [46:08] me013: But that last part , I think , is so has gotta be pretty quick ,
+[1093] [46:10] me013: so .
+[1094] [46:11] me013: Uh .
+[1095] [46:12] me013: Right ?
+[1096] [46:13] me013: I
+[1097] [46:16] me006: Oh .
+[1098] [46:17] me013: Well , you gotta do the KL transformation ,
+[1099] [46:17] me018: But wh what about a net that 's trained on multiple languages , though ?
+[1100] [46:18] mn007: Eight y
+[1101] [46:19] me013: but
+[1102] [46:22] me018: Is that just separate nets for each language then combined ,
+[1103] [46:24] fn002: Necessary to put in .
+[1104] [46:25] me018: or is that actually one net trained on ?
+[1105] [46:27] mn007: Uh , probably one net .
+[1106] [46:27] me013: Good question .
+[1107] [46:28] mn007: Well .
+[1108] [46:30] mn007: Uh .
+[1109] [46:32] me013: One would think one net ,
+[1110] [46:33] mn007: So .
+[1111] [46:34] me013: but we 've I don't think we 've tested that .
+[1112] [46:36] me013: Right ?
+[1113] [46:39] mn007: So , in the broader training corpus we can we can use , uh , the three , or , a combination of of two two languages .
+[1114] [46:44] fn002: Database three .
+[1115] [46:53] me018: In one net .
+[1116] [46:54] mn007: Yeah .
+[1117] [46:55] me018: Mm - hmm .
+[1118] [46:57] me013: Yeah ,
+[1119] [46:57] me013: so , I guess the first thing is if w if we know how much a how long a a training takes ,
+[1120] [47:04] me013: if we can train up all these these combinations , uh , then we can start working on testing of them individually , and in combination .
+[1121] [47:14] me013: Right ?
+[1122] [47:15] me013: Because the putting them in combination , I think , is not as much computationally as the r training of the nets in the first place .
+[1123] [47:15] me006: Mm - hmm .
+[1124] [47:22] me013: Right ?
+[1125] [47:22] mn007: Yeah .
+[1126] [47:23] me013: So y you do have to compute the KL transformation .
+[1127] [47:27] me013: Uh ,
+[1128] [47:27] me013: which is a little bit ,
+[1129] [47:28] me013: but it 's not too much .
+[1130] [47:30] mn007: It 's not too much ,
+[1131] [47:31] mn007: no .
+[1132] [47:31] me013: Yeah .
+[1133] [47:32] me013: So
+[1134] [47:33] mn007: But Yeah .
+[1135] [47:35] mn007: But there is the testing also , which implies training , uh , the HTK models
+[1136] [47:39] fn002: The
+[1137] [47:40] mn007: and , well ,
+[1138] [47:40] fn002: the HTK model .
+[1139] [47:41] me013: Uh , right .
+[1140] [47:42] mn007: it
+[1141] [47:43] me013: Right .
+[1142] [47:43] mn007: yeah .
+[1143] [47:43] me013: So
+[1144] [47:44] mn007: But it 's it 's it 's not so long .
+[1145] [47:45] mn007: It
+[1146] [47:46] mn007: Yeah .
+[1147] [47:46] me013: How long does it take for an , uh , HTK training ?
+[1148] [47:49] mn007: It 's around six hours , I think .
+[1149] [47:52] fn002: It
+[1150] [47:52] mn007: For training and testing ,
+[1151] [47:54] mn007: yeah .
+[1152] [47:55] fn002: More than six hours .
+[1153] [47:55] mn007: More .
+[1154] [47:56] fn002: For the Italian ,
+[1155] [47:57] fn002: yes .
+[1156] [47:58] fn002: Maybe one day .
+[1157] [48:00] mn007: One day ?
+[1158] [48:00] me013: For HTK ?
+[1159] [48:00] fn002: Yeah .
+[1160] [48:01] me013: Really ?
+[1161] [48:02] fn002: Well .
+[1162] [48:02] me013: Running on what ?
+[1163] [48:04] fn002: Uh , M MFCC .
+[1164] [48:05] me013: No ,
+[1165] [48:06] me013: I 'm sorry ,
+[1166] [48:06] me013: ru running on what machine ?
+[1167] [48:07] fn002: Uh , Ravioli .
+[1168] [48:09] me013: Uh ,
+[1169] [48:09] me013: I don't know what Ravioli is .
+[1170] [48:11] me013: Is it is it an Ultra - five ,
+[1171] [48:12] me013: or is it a ?
+[1172] [48:14] fn002: mmm
+[1173] [48:14] fn002: Um . Who is that ?
+[1174] [48:16] me018: I don't know .
+[1175] [48:16] me006: I don't know .
+[1176] [48:17] fn002: I don't know .
+[1177] [48:17] me034: I don't know what a Ravioli is .
+[1178] [48:19] fn002: I don't know .
+[1179] [48:21] me006: I don't know .
+[1180] [48:22] me034: We can check really quickly ,
+[1181] [48:23] mn007: Yeah ,
+[1182] [48:23] me034: I guess .
+[1183] [48:23] mn007: I I think it 's - it 's - it 's not so long
+[1184] [48:25] mn007: because , well , the TI - digits test data is about , uh how many hours ?
+[1185] [48:32] mn007: Uh , th uh , thirty hours of speech , I think ,
+[1186] [48:33] me013: It 's a few hours .
+[1187] [48:35] mn007: something like that .
+[1188] [48:35] me034: Hmm .
+[1189] [48:35] me013: Yeah . Right ,
+[1190] [48:37] mn007: And it
+[1191] [48:38] mn007: p Well .
+[1192] [48:40] me013: so ,
+[1193] [48:40] me013: I mean ,
+[1194] [48:41] me013: clearly , there there 's no way we can even begin to do an any significant amount here unless we use multiple machines .
+[1195] [48:41] mn007: It 's six hours .
+[1196] [48:48] me013: Right ?
+[1197] [48:49] me013: So
+[1198] [48:50] me013: I mean there 's plenty of machines here
+[1199] [48:51] me013: and they 're n they 're often not in in a great great deal of use .
+[1200] [48:54] me013: So
+[1201] [49:03] me013: Uh , are we still using P - make ?
+[1202] [49:04] me013: Is that ?
+[1203] [49:05] me006: Oh ,
+[1204] [49:05] me006: I don't know how w how we would P - make this , though .
+[1205] [49:09] me006: Um .
+[1206] [49:11] me013: Well
+[1207] [49:12] me013: I mean , once you get the basic thing set up , you have just all the uh , a all these combinations ,
+[1208] [49:15] me006: Yeah .
+[1209] [49:18] me013: right ?
+[1210] [49:19] me006: Mm - hmm .
+[1211] [49:20] me013: Um .
+[1212] [49:22] me013: It 's it 's let 's say it 's six hours or eight hours , or something for the training of HTK .
+[1213] [49:27] me013: How long is it for training of of , uh , the neural net ?
+[1214] [49:30] me006: The neural net ?
+[1215] [49:31] me006: Um .
+[1216] [49:34] mn007: I would say two days .
+[1217] [49:35] me018: Depends on the corpuses , right ?
+[1218] [49:36] fn002: It depends .
+[1219] [49:36] mn007: Yeah .
+[1220] [49:37] me034: It s also depends on the net .
+[1221] [49:37] fn002: Depends on the corpus .
+[1222] [49:37] me006: Yeah .
+[1223] [49:38] me034: How big is the net ?
+[1224] [49:40] fn002: For Albayzin I trained on neural network ,
+[1225] [49:42] fn002: uh , was , um , one day also .
+[1226] [49:46] me013: Uh ,
+[1227] [49:46] me013: but on what machine ?
+[1228] [49:48] me006: On a SPERT board .
+[1229] [49:48] fn002: Uh .
+[1230] [49:50] fn002: I I think the neural net SPERT .
+[1231] [49:51] me006: Y you did a you did it on a SPERT board .
+[1232] [49:53] me013: OK ,
+[1233] [49:53] fn002: Yes .
+[1234] [49:54] me013: again , we do have a bunch of SPERT boards .
+[1235] [49:56] me006: Yeah .
+[1236] [49:58] me013: And I think there there there 's I think you folks are probably go the ones using them right now .
+[1237] [50:04] me018: Is it faster to do it on the SPERT ,
+[1238] [50:05] me018: or ?
+[1239] [50:07] me013: Uh , don't know .
+[1240] [50:08] me013: Used to be .
+[1241] [50:08] me006: It 's it 's still a little faster on the
+[1242] [50:10] me018: Is it ?
+[1243] [50:10] me006: Yeah ,
+[1244] [50:11] me006: yeah .
+[1245] [50:11] me006: Ad - Adam Adam did some testing .
+[1246] [50:14] me006: Or either Adam or or Dan did some testing
+[1247] [50:17] me006: and they found that the SPERT board 's still still faster .
+[1248] [50:20] me006: And the benefits is that , you know , you run out of SPERT and then you can do other things on your your computer ,
+[1249] [50:20] me018: Mm - hmm .
+[1250] [50:21] me013: Mm - hmm .
+[1251] [50:25] me006: and
+[1252] [50:25] me018: Mm - hmm .
+[1253] [50:26] me013: Yeah .
+[1254] [50:27] me013: So
+[1255] [50:27] me013: we have quite a few SPERT boards .
+[1256] [50:29] me013: You could set up , uh , you know , ten different jobs , or something , to run on SPERT different SPERT boards
+[1257] [50:35] me013: and and have ten other jobs running on different computers .
+[1258] [50:39] me013: So , it 's got to take that sort of thing ,
+[1259] [50:41] me013: or or we 're not going to get through any significant number of these .
+[1260] [50:41] me006: Yeah .
+[1262] [50:47] me013: So
+[1263] [50:48] me013: Yeah , I mean ,
+[1264] [50:49] me013: I
+[1265] [50:52] me013: No
+[1266] [50:53] me013: uh , no , what I like about it is
+[1267] [50:53] me006: OK .
+[1268] [50:54] me013: we we we do have a problem
+[1269] [50:55] me013: that we have very limited time .
+[1270] [50:58] me013: You know ,
+[1271] [50:58] me013: so , with very limited time , we actually have really quite a quite a bit of computational resource available
+[1272] [51:05] me013: if you , you know , get a look across the institute and how little things are being used .
+[1273] [51:10] me013: And uh ,
+[1274] [51:11] me013: on
+[1275] [51:17] fn002: Yeah .
+[1276] [51:26] me013: I think it 's a great thing to go to .
+[1277] [51:28] me013: But if it 's new , then we have this development and and and learning process t to to go through on top of just the the all the all the work .
+[1278] [51:37] me013: So , I I I don't see how we 'd do it .
+[1279] [51:39] me013: So what I like about this is you basically have listed all the things that we already know how to do .
+[1280] [51:44] me013: And and all the kinds of data that we , at this point , already have .
+[1281] [51:44] fn002: Yeah .
+[1282] [51:48] me013: And , uh , you 're just saying let 's look at the outer product of all of these things
+[1283] [51:53] me013: and see if we can calculate them .
+[1284] [51:55] me013: a a Am I am I interpreting this correctly ?
+[1285] [51:57] me013: Is this sort of what what you 're thinking of doing in the short term ?
+[1286] [52:00] mn007: Mmm .
+[1287] [52:01] me013: OK .
+[1288] [52:01] mn007: Yeah .
+[1289] [52:02] me013: So so then I think it 's just the the missing piece is that you need to , uh , you know you know , talk to talk to , uh , Chuck , talk to , uh , Adam ,
+[1290] [52:11] me013: uh , sort out about , uh , what 's the best way to really , you know , attack this as a as a as a mass problem in terms of using many machines .
+[1291] [52:20] me013: Uh ,
+[1292] [52:21] me013: and uh , then , you know , set it up in terms of scripts and so forth , and uh , in in kind o some kind of structured way .
+[1293] [52:30] me013: Uh .
+[1294] [52:32] me013: Um , and , you know , when we go to , uh , OGI next week , uh , we can then present to them , you know , what it is that we 're doing .
+[1295] [52:41] me013: And , uh , we can pull things out of this list that we think they are doing sufficiently ,
+[1296] [52:46] me006: Mmm .
+[1297] [52:47] me013: that , you know , we 're not we won't be contributing that much .
+[1298] [52:48] me006: Mm - hmm .
+[1299] [52:50] me013: Um .
+[1300] [52:52] me013: And
+[1301] [52:55] me013: Then , uh , like , we 're there .
+[1302] [53:01] me034: How big are the nets you 're using ?
+[1303] [53:03] me006: Um , for the for nets trained on digits , um , we have been using , uh , four hundred order hidden units .
+[1304] [53:13] me006: And , um , for the broader class nets we 're we 're going to increase that
+[1305] [53:19] me006: because the , um , the digits nets only correspond to about twenty phonemes .
+[1306] [53:24] me034: Uh - huh .
+[1307] [53:25] me006: So .
+[1308] [53:27] me013: Broader class ?
+[1309] [53:28] me006: Um , the broader broader training corpus nets
+[1310] [53:31] me006: like TIMIT .
+[1311] [53:32] me006: Um
+[1312] [53:33] me013: Oh ,
+[1313] [53:33] me013: it 's not actually broader class ,
+[1314] [53:34] me013: it 's actually finer class ,
+[1315] [53:35] me013: but you mean y You mean more classes .
+[1316] [53:36] me006: Right .
+[1317] [53:37] me006: Right .
+[1318] [53:38] me006: Yeah .
+[1319] [53:39] me006: More classes .
+[1320] [53:40] me006: Right , right .
+[1321] [53:41] me013: Yeah .
+[1322] [53:41] me006: More classes .
+[1323] [53:42] me013: Yeah .
+[1324] [53:42] me006: That 's what I mean .
+[1325] [53:43] me013: Yeah .
+[1326] [53:43] me006: Mm - hmm .
+[1327] [53:46] me006: And .
+[1328] [53:48] me006: Yeah .
+[1329] [53:54] me013: Carmen , did you do you have something else to add ?
+[1330] [53:55] me013: We you haven't talked too much ,
+[1331] [53:57] me013: and
+[1332] [53:59] fn002: D I begin to work with the Italian database to nnn , to with the f front - end and with the HTK program and the @ @ .
+[1333] [54:11] fn002: And I trained eh , with the Spanish two neural network with PLP and with LogRASTA PLP .
+[1334] [54:22] fn002: I don't know exactly what is better if if LogRASTA or JRASTA .
+[1335] [54:29] me013: Well , um , JRASTA has the potential to do better ,
+[1336] [54:36] me013: but it doesn't always .
+[1337] [54:38] me013: It 's i i JRASTA is more complicated .
+[1338] [54:41] me013: It 's it 's , uh instead of doing RASTA with a log , you 're doing RASTA with a log - like function that varies depending on a J parameter ,
+[1339] [54:51] me013: uh , which is supposed to be sensitive to the amount of noise there is .
+[1340] [54:54] me013: So , it 's sort of like the right transformation to do the filtering in , is dependent on how much noise there is .
+[1341] [54:58] fn002: Hm - hmm .
+[1342] [55:01] me013: And so in JRASTA you attempt to do that .
+[1343] [55:03] me013: It 's a little complicated
+[1344] [55:04] me013: because once you do that , you end up in some funny domain
+[1345] [55:07] me013: and you end up having to do a transformation afterwards ,
+[1346] [55:11] me013: which requires some tables .
+[1347] [55:12] me013: And , uh ,
+[1348] [55:14] me013: so it 's it 's it 's a little messier ,
+[1349] [55:14] fn002: Hm - hmm .
+[1350] [55:17] me013: uh , there 's more ways that it can go wrong ,
+[1351] [55:19] me013: uh , but if if if you 're careful with it , it can do better .
+[1352] [55:23] fn002: It 's a bit I 'll do better .
+[1353] [55:24] me013: So
+[1354] [55:24] me013: So .
+[1355] [55:27] fn002: Um , and I think to to to recognize the Italian digits with the neural netw Spanish neural network ,
+[1356] [55:41] fn002: and also to train another neural network with the Spanish digits ,
+[1357] [55:46] fn002: the database of Spanish digits .
+[1358] [55:49] fn002: And I working that .
+[1359] [55:50] me013: Yeah .
+[1360] [55:52] fn002: But prepa to prepare the the database are difficult .
+[1361] [55:57] fn002: Was for me , n it was a difficult work last week with the labels
+[1362] [56:03] fn002: because the the program with the label obtained that I have , the Albayzin , is different w to the label to train the neural network .
+[1363] [56:13] fn002: And that is another work that we must to do , to to change .
+[1364] [56:20] me013: I I didn't understand .
+[1365] [56:21] fn002: Uh , for example Albayzin database was labeled automatically with HTK .
+[1366] [56:28] fn002: It
+[1367] [56:30] fn002: it 's not labels by hand .
+[1368] [56:30] me013: Oh ,
+[1369] [56:30] me013: " l labeled " .
+[1370] [56:32] me013: I 'm sorry ,
+[1371] [56:32] fn002: Labels .
+[1372] [56:32] me013: I have a p I had a problem with the pronunciation .
+[1373] [56:33] fn002: I 'm sorry ,
+[1374] [56:33] fn002: I 'm sorry .
+[1375] [56:34] fn002: The labels .
+[1376] [56:35] fn002: I 'm sorry .
+[1377] [56:36] fn002: The labels .
+[1378] [56:36] me013: Yeah ,
+[1379] [56:36] me013: OK .
+[1380] [56:37] me013: So ,
+[1381] [56:37] me013: OK ,
+[1382] [56:38] fn002: Oh
+[1383] [56:38] me013: so let 's start over .
+[1384] [56:38] me013: So , TI TIMI TIMIT 's hand - labeled ,
+[1385] [56:39] fn002: Yes .
+[1386] [56:40] me013: and and you 're saying about the Spanish ?
+[1387] [56:43] fn002: The Spanish labels ?
+[1388] [56:45] fn002: That was in different format ,
+[1389] [56:47] me013: Oh , I see .
+[1390] [56:47] fn002: that the format for the em the program to train the neural network .
+[1391] [56:54] fn002: I necessary to convert .
+[1392] [56:56] fn002: And someti
+[1393] [56:58] fn002: well
+[1394] [56:59] me018: So you 're just having a problem converting the labels .
+[1395] [56:59] fn002: It
+[1396] [57:00] fn002: Yeah .
+[1397] [57:01] fn002: Yeah ,
+[1398] [57:02] fn002: but n
+[1399] [57:02] fn002: yes ,
+[1400] [57:02] fn002: because they have one program , Feacalc ,
+[1401] [57:05] fn002: but no , l LabeCut ,
+[1402] [57:06] fn002: l LabeCut , but don't doesn't , eh , include the HTK format to convert .
+[1403] [57:17] me013: Mm - hmm .
+[1404] [57:17] fn002: And ,
+[1405] [57:18] me034: Hmm .
+[1406] [57:19] fn002: I don't know what .
+[1407] [57:20] fn002: I ask e even I ask to Dan Ellis what I can do that ,
+[1408] [57:25] fn002: and h they he say me that h he does doesn't any any s any form to to do that .
+[1409] [57:37] fn002: And at the end , I think that with LabeCut I can transfer to ASCII format ,
+[1410] [57:47] fn002: and HTK is an ASCII format .
+[1411] [57:50] fn002: And I m do another , uh , one program to put ASCII format of HTK to ase ay ac ASCII format to Exceed
+[1412] [58:01] me013: Mm - hmm .
+[1413] [58:02] fn002: and they used LabCut to to pass .
+[1414] [58:06] me013: OK ,
+[1415] [58:06] me013: yeah .
+[1416] [58:07] fn002: Actually that was complicated ,
+[1417] [58:07] me013: So you
+[1418] [58:08] fn002: but well , I know how we can did that do that .
+[1419] [58:12] me013: Sure .
+[1420] [58:13] me013: So it 's just usual kind of uh sometimes say housekeeping ,
+[1421] [58:15] me013: right ?
+[1422] [58:16] me013: To get these get these things sorted out .
+[1423] [58:17] fn002: Yeah .
+[1424] [58:19] me013: So it seems like there 's there 's some peculiarities of the , uh of each of these dimensions that are getting sorted out .
+[1425] [58:28] me013: And then , um , if if you work on getting the , uh , assembly lines together , and then the the pieces sort of get ready to go into the assembly line
+[1426] [58:38] me013: and gradually can start , you know , start turning the crank , more or less .
+[1427] [58:42] me013: And , uh , uh ,
+[1428] [58:45] me013: we have a lot more computational capability here than they do at OGI ,
+[1429] [58:48] me013: so
+[1430] [58:51] me013: What 's what 's great about this is it sets it up in a very systematic way ,
+[1431] [58:54] me013: so that , uh , once these all of these , you know , mundane but real problems get sorted out , we can just start turning the crank
+[1432] [58:58] fn002: Mm - hmm .
+[1433] [59:01] me013: and and push all of us through ,
+[1434] [59:03] me013: and then finally figure out what 's best .
+[1435] [59:06] me006: Yeah .
+[1436] [59:06] me006: Um ,
+[1437] [59:07] me006: I I was thinking two things .
+[1438] [59:09] me006: Uh
+[1439] [59:12] me006: we we actually had thought of this as sort of like , um not not in stages , but more along the the time axis .
+[1440] [59:19] me006: Just kind of like one stream at a time ,
+[1441] [59:20] me013: Mm - hmm .
+[1442] [59:22] me006: je - je - je - je - je check out the results
+[1443] [59:24] me006: and and go that way .
+[1444] [59:24] me013: Oh , yeah , yeah ,
+[1445] [59:25] me013: sure .
+[1446] [59:26] me013: No , I 'm just saying , I 'm just thinking of it like loops ,
+[1447] [59:28] me013: right ?
+[1448] [59:28] me013: And so , y y y if you had three nested loops , that you have a choice for this , a choice for this , and a choice for that ,
+[1449] [59:28] me006: Uh - huh .
+[1450] [59:33] me006: Yeah .
+[1451] [59:33] me013: right ?
+[1452] [59:33] me013: And you 're going through them all .
+[1453] [59:33] me006: Mm - hmm .
+[1454] [59:34] me013: That that 's what I meant .
+[1455] [59:35] me006: Right ,
+[1456] [59:36] me006: right .
+[1457] [59:36] me013: And , uh , the thing is that once you get a better handle on how much you can realistically do , uh , um , concurrently on different machines , different SPERTs , and so forth , uh , and you see how long it takes on what machine and so forth , you can stand back from it and say , " OK , if we look at all these combinations we 're talking about , and combinations of combinations , and so forth , " you 'll probably find you can't do it all .
+[1458] [59:59] me006: Mm - hmm .
+[1459] [60:03] me006: OK .
+[1460] [60:03] me013: OK ,
+[1461] [60:04] me013: so then at that point , uh , we should sort out which ones do we throw away .
+[1462] [60:08] me013: Which of the combinations across you know , what are the most likely ones ,
+[1463] [60:08] me006: Mm - hmm .
+[1464] [60:11] me013: and
+[1465] [60:12] me013: And , uh ,
+[1466] [60:13] me013: I still think we could do a lot of them .
+[1467] [60:14] me013: I mean , it wouldn't surprise me if we could do a hundred of them or something .
+[1468] [60:17] me013: But , probably when you include all the combinations , you 're actually talking about a thousand of them or something ,
+[1469] [60:21] me013: and that 's probably more than we can do .
+[1470] [60:23] me013: Uh ,
+[1471] [60:24] me013: but a hundred is a lot .
+[1472] [60:26] me013: And
+[1473] [60:30] me006: OK .
+[1474] [60:31] me013: Yeah .
+[1475] [60:32] me006: Yeah ,
+[1476] [60:32] me006: and the the second thing was about scratch space .
+[1477] [60:35] me006: And I think you sent an email about , um , e scratch space for for people to work on .
+[1478] [60:41] me006: And I know that , uh , Stephane 's working from an NT machine ,
+[1479] [60:46] me006: so his his home directory exists somewhere else .
+[1480] [60:47] me013: His his stuff is somewhere else ,
+[1481] [60:49] me013: yeah .
+[1482] [60:50] me013: Yeah ,
+[1483] [60:50] me013: I mean , my point
+[1484] [60:51] me013: I
+[1485] [60:53] me013: Yeah ,
+[1486] [60:53] me013: thanks for bring it back to that .
+[1487] [60:54] me013: My th I want to clarify my point about that that that Chuck repeated in his note .
+[1488] [60:59] me013: Um .
+[1489] [61:01] me013: We 're over the next year or two , we 're gonna be upgrading the networks in this place ,
+[1490] [61:05] me006: Mm - hmm .
+[1491] [61:05] me013: but right now they 're still all te pretty much all ten megabit lines .
+[1492] [61:08] me013: And we have reached the this the machines are getting faster and faster .
+[1493] [61:12] me013: So , it actually has reached the point where it 's a significant drag on the time for something to move the data from one place to another .
+[1494] [61:18] me006: Mm - hmm .
+[1495] [61:19] me013: So , you you don't w especially in something with repetitive computation where you 're going over it multiple times , you do don't want to have the the data that you 're working on distant from where it 's being where the computation 's being done if you can help it .
+[1496] [61:34] me006: Mm - hmm .
+[1497] [61:35] me013: Uh .
+[1498] [61:36] me013: Now , we are getting more disk for the central file server ,
+[1499] [61:42] me013: which , since it 's not a computational server , would seem to be a contradiction to what I just said .
+[1500] [61:48] me013: But the idea is that , uh , suppose you 're working with , uh , this big bunch of multi multilingual databases .
+[1501] [61:56] me013: Um ,
+[1502] [61:57] me013: you put them all in the central ser at the cen central file server .
+[1503] [62:00] me006: Mm - hmm .
+[1504] [62:00] me013: Then , when you 're working with something and accessing it many times , you copy the piece of it that you 're working with over to some place that 's close to where the computation is and then do all the work there .
+[1505] [62:09] me013: And then that way you you won't have the the network you won't be clogging the network for yourself and others .
+[1506] [62:15] me006: Mmm .
+[1507] [62:15] me013: That 's the idea .
+[1508] [62:16] me013: So
+[1509] [62:20] me013: It may be too late for this , uh , p precise crunch we 're in now ,
+[1510] [62:24] me013: but , uh ,
+[1511] [62:25] me013: we 're ,
+[1512] [62:26] me013: uh
+[1513] [62:26] me013: It 's gonna take us a couple weeks at least to get the , uh , uh , the amount of disk we 're gonna be getting . We 're actually gonna get ,
+[1514] [62:33] me013: uh , I think four more , uh , thirty - six gigabyte drives
+[1515] [62:40] me013: and , uh , put them on another another disk rack .
+[1516] [62:42] me013: We ran out of space on the disk rack that we had ,
+[1517] [62:44] me013: so we 're getting another disk rack and four more drives to share between , uh primarily between this project and the Meetings Meetings Project .
+[1518] [62:53] me013: Um .
+[1519] [62:57] me013: But , uh ,
+[1520] [62:59] me013: we 've put another I guess there 's another eighteen gigabytes that 's that 's in there now to help us with the immediate crunch .
+[1521] [63:05] me013: But , uh ,
+[1522] [63:07] me013: are
+[1523] [63:08] me013: So
+[1524] [63:11] me013: Stephane , where you 're doing your computations .
+[1525] [63:14] me013: If i so , you 're on an NT machine ,
+[1526] [63:15] me013: so you 're using some external machine
+[1527] [63:18] mn007: Yeah ,
+[1528] [63:18] mn007: it ,
+[1529] [63:18] mn007: uh
+[1530] [63:20] mn007: Well ,
+[1531] [63:21] mn007: to
+[1532] [63:23] mn007: It 's Nutmeg and Mustard , I think ,
+[1534] [63:26] me013: Do you know these yet ?
+[1535] [63:27] mn007: I don't know what kind .
+[1536] [63:27] me018: Nuh - uh .
+[1537] [63:28] me013: Yeah , OK .
+[1538] [63:32] me013: Uh ,
+[1539] [63:33] me013: are these are these , uh , computational servers , or something ?
+[1540] [63:36] me013: I 'm I 've been kind of out of it .
+[1541] [63:36] mn007: Yeah ,
+[1542] [63:37] mn007: I think , yeah .
+[1543] [63:38] mn007: I think so .
+[1544] [63:40] mn007: Mmm .
+[1545] [63:41] me013: Unfortunately , these days my idea of running comput of computa doing computation is running a spread sheet .
+[1546] [63:45] me013: So .
+[1547] [63:47] mn007: Mmm .
+[1548] [63:47] me013: Uh ,
+[1549] [63:49] me013: haven't been haven't been doing much computing personally ,
+[1550] [63:51] me013: so .
+[1551] [63:52] me013: Um .
+[1552] [63:54] me013: Yeah ,
+[1553] [63:55] me013: so those are computational servers .
+[1554] [63:56] me013: So I guess the other question is what disk there i space there is there on the computational servers .
+[1555] [64:01] me018: Right .
+[1556] [64:02] me018: Yeah
+[1557] [64:04] me018: is
+[1558] [64:04] me018: you said Nutmeg
+[1559] [64:05] me018: and what was the other one ?
+[1560] [64:06] mn007: Mustard .
+[1561] [64:07] me018: Mustard .
+[1562] [64:08] me018: OK .
+[1563] [64:10] me013: Yeah ,
+[1564] [64:10] me034: Huh .
+[1565] [64:10] me013: Well , you 're the you 're the disk czar now .
+[1566] [64:12] me013: So
+[1567] [64:12] me018: Right , right .
+[1568] [64:13] me018: Well , I 'll check on that .
+[1569] [64:15] me013: Yeah .
+[1570] [64:16] me013: Yeah , so basically , uh , Chuck will be the one who will be sorting out what disk needs to be where , and so on ,
+[1571] [64:24] me013: and I 'll be the one who says , " OK , spend the money . "
+[1572] [64:28] me013: So . Which , I mean , n
+[1573] [64:29] me013: these days , uh , if you 're talking about scratch space , it doesn't increase the , uh , need for backup ,
+[1574] [64:36] me013: and , uh , I think it 's not that big a d
+[1575] [64:39] me013: and the the disks themselves are not that expensive .
+[1576] [64:42] me013: Right
+[1577] [64:44] me018: What you can do , when you 're on that machine , is , uh , just go to the slash - scratch directory , and do a DF minus K ,
+[1578] [64:52] me018: and it 'll tell you if there 's space available .
+[1579] [64:53] mn007: Yeah .
+[1580] [64:56] me018: Uh
+[1581] [64:57] me013: But
+[1582] [64:58] me013: I think Dave was saying that he preferred that people didn't put stuff in slash - scratch .
+[1583] [65:04] me013: It 's more putting in d s XA or XB or ,
+[1584] [65:07] me018: Well
+[1585] [65:07] me013: right ?
+[1586] [65:11] me018: Right .
+[1587] [65:11] me018: So there 's the slash - X - whatever disks , and then there 's slash - scratch .
+[1588] [65:17] me018: And both of those two kinds are not backed up .
+[1589] [65:21] me018: And if it 's called " slash - scratch " , it means it 's probably an internal disk to the machine .
+[1590] [65:26] me018: Um .
+[1591] [65:27] me018: And so that 's the kind of thing where , like if um , OK , if you don't have an NT , but you have a a a Unix workstation , and they attach an external disk , it 'll be called " slash - X - something " uh , if it 's not backed up
+[1592] [65:40] me018: and it 'll be " slash - D - something " if it is backed up .
+[1593] [65:44] me018: And if it 's inside the machine on the desk , it 's called " slash - scratch " .
+[1594] [65:48] me018: But the problem is , if you ever get a new machine , they take your machine away .
+[1595] [65:52] me018: It 's easy to unhook the external disks ,
+[1596] [65:54] me018: put them back on the new machine ,
+[1597] [65:56] me018: but then your slash - scratch is gone .
+[1598] [65:58] me018: So , you don't wanna put anything in slash - scratch that you wanna keep around for a long period of time .
+[1599] [66:03] me018: But if it 's a copy of , say , some data that 's on a server , you can put it on slash - scratch
+[1600] [66:10] me018: because , um , first of all it 's not backed up ,
+[1601] [66:12] me018: and second it doesn't matter if that machine disappears and you get a new machine
+[1602] [66:15] me018: because you just recopy it to slash - scratch .
+[1603] [66:17] me018: So tha that 's why I was saying you could check slash - scratch on those on on , um , Mustard and and Nutmeg to see if if there 's space that you could use there .
+[1604] [66:25] me013: I see .
+[1605] [66:28] me018: You could also use slash - X - whatever disks on Mustard and Nutmeg .
+[1606] [66:32] mn007: Yeah , yeah .
+[1607] [66:34] me018: Um .
+[1608] [66:36] me018: Yeah ,
+[1609] [66:36] me018: and
+[1610] [66:37] me018: I mean ,
+[1611] [66:38] me018: yeah ,
+[1612] [66:38] me018: so
+[1613] [66:39] me018: yeah , it 's better to have things local if you 're gonna run over them lots of times so you don't have to go to the network .
+[1614] [66:45] me013: Right ,
+[1615] [66:45] me013: so es so especially if you 're right , if you 're if you 're taking some piece of the training corpus , which usually resides in where Chuck is putting it all on the on the , uh , file server , uh , then , yeah , it 's fine if it 's not backed up
+[1616] [67:01] me013: because if it g g gets wiped out or something , y I mean it is backed up on the other disk .
+[1617] [67:06] me013: So ,
+[1618] [67:06] me018: Mm - hmm .
+[1619] [67:06] me013: yeah ,
+[1620] [67:07] me013: OK .
+[1621] [67:08] me018: Yeah
+[1622] [67:13] me018: Uh , is this the appropriate time to talk about the disk space stuff ?
+[1623] [67:15] me013: Sure .
+[1624] [67:16] me018: I 've started looking at , um , disk space .
+[1625] [67:18] me018: Dan David , um , put a new , um , drive onto Abbott , that 's an X disk ,
+[1626] [67:24] me018: which means it 's not backed up .
+[1627] [67:25] me018: So ,
+[1628] [67:26] me018: um , I 've been going through and copying data that is , you know , some kind of corpus stuff usually , that that we 've got on a CD - ROM or something , onto that new disk to free up space on other disks .
+[1629] [67:40] me018: And , um , so far , um , I 've copied a couple of Carmen 's , um , databases over there .
+[1630] [67:48] me018: We haven't deleted them off of the slash - DC disk that they 're on right now in Abbott ,
+[1631] [67:52] me018: um ,
+[1632] [67:54] me018: uh , but we I would like to go through sit down with you about some of these other ones and see if we can move them onto , um , this new disk also .
+[1633] [68:04] mn007: Yeah , OK .
+[1634] [68:04] me018: There 's there 's a lot more space there ,
+[1635] [68:05] me018: and it 'll free up more space for doing the experiments and things .
+[1636] [68:09] me018: So , anything that that you don't need backed up , we can put on this new disk .
+[1637] [68:13] me018: Um , but if it 's experiments and you 're creating files and things that you 're gonna need , you probably wanna have those on a disk that 's backed up , just in case something goes wrong .
+[1638] [68:22] me018: So .
+[1639] [68:24] me018: Um
+[1640] [68:25] me018: So far I 've I 've copied a couple of things ,
+[1641] [68:26] me018: but I haven't deleted anything off of the old disk to make room yet .
+[1642] [68:32] me018: Um ,
+[1643] [68:33] me018: and I haven't looked at the any of the Aurora stuff ,
+[1644] [68:37] me018: except for the Spanish .
+[1645] [68:38] me018: So I I guess I 'll need to get together with you and see what data we can move onto the new disk .
+[1646] [68:43] mn007: Yeah , OK .
+[1647] [68:47] me013: Um ,
+[1648] [68:47] me013: yeah ,
+[1649] [68:48] me013: I
+[1650] [68:48] me013: an another question occurred to me is is what were you folks planning to do about normalization ?
+[1651] [68:56] mn007: Um .
+[1652] [68:58] mn007: Well , we were thinking about using this systematically for all the experiments .
+[1653] [69:03] mn007: Um .
+[1654] [69:04] me013: This being ?
+[1655] [69:04] mn007: So ,
+[1656] [69:05] mn007: but
+[1657] [69:07] mn007: Uh .
+[1658] [69:08] mn007: So that this could be another dimension ,
+[1659] [69:09] mn007: but we think perhaps we can use the the best , uh , um , uh , normalization scheme as OGI is using ,
+[1660] [69:19] mn007: so , with parameters that they use there ,
+[1662] [69:23] me013: Yeah ,
+[1663] [69:23] me013: I think that 's a good idea .
+[1664] [69:23] mn007: u u
+[1665] [69:24] me013: I mean it 's i i we we seem to have enough dimensions as it is .
+[1666] [69:27] me013: So
+[1667] [69:27] mn007: Yeah , yeah , yeah .
+[1668] [69:29] me013: probably the on - line line normalization
+[1669] [69:31] me013: because then it it 's if we do anything else , we 're gonna end up having to do on - line normalization too ,
+[1670] [69:37] me013: so we may as well just do on - line normalization .
+[1671] [69:37] mn007: Mm - hmm .
+[1672] [69:40] me013: So .
+[1673] [69:41] me013: Um . So that it 's plausible for the final thing .
+[1674] [69:44] me013: Good .
+[1675] [69:45] me013: Um .
+[1676] [69:47] me013: So , I guess ,
+[1677] [69:47] me013: yeah
+[1678] [69:49] me013: I maybe we 're already there , or almost there , is goals for the for next week 's meeting .
+[1679] [69:56] me013: Uh . i i i it seems to me that we wanna do is flush out what you put on the board here .
+[1680] [70:04] me013: Uh .
+[1681] [70:06] me013: You know , maybe , have it be somewhat visual , a little bit .
+[1682] [70:10] me006: OK .
+[1683] [70:11] me006: Like a s like a slide ?
+[1684] [70:11] me013: Uh ,
+[1685] [70:11] me013: so w we can say what we 're doing ,
+[1686] [70:12] me013: yeah .
+[1687] [70:13] me006: OK .
+[1688] [70:13] me013: And , um , also , if you have sorted out , um , this information about how long i roughly how long it takes to do on what and , you know , what we can how many of these trainings , uh , uh , and testings and so forth that we can realistically do , uh , then one of the big goals of going there next week would be to to actually settle on which of them we 're gonna do .
+[1689] [70:40] me013: And , uh , when we come back we can charge in and do it .
+[1690] [70:46] me013: Um .
+[1691] [70:48] me013: Anything
+[1692] [70:49] me013: I a a Actually started out this this field trip started off with with , uh , Stephane talking to Hynek ,
+[1693] [70:55] me013: so you may have you may have had other goals , uh , for going up ,
+[1694] [70:58] me013: and any anything else you can think of would be we should think about accomplishing ?
+[1695] [71:02] me013: I mean , I 'm just saying this because maybe there 's things we need to do in preparation .
+[1696] [71:09] mn007: Oh , I think basically , this is this is ,
+[1697] [71:11] mn007: uh , yeah .
+[1698] [71:13] me013: OK .
+[1699] [71:16] me013: OK .
+[1700] [71:18] me013: Uh .
+[1701] [71:20] me013: Alright .
+[1702] [71:21] me013: And uh and the other the the last topic I had here was , um , uh d Dave 's fine offer to to , uh , do something on this .
+[1703] [71:32] me013: I mean he 's doing he 's working on other things ,
+[1704] [71:35] me013: but to to do something on this project .
+[1705] [71:37] me013: So the question is , " Where where could we , uh , uh , most use Dave 's help ? "
+[1706] [71:51] mn007: Um ,
+[1707] [71:51] mn007: yeah ,
+[1708] [71:52] mn007: I was thinking perhaps if , um , additionally to all these experiments , which is not really research ,
+[1709] [72:01] mn007: well I mean it 's , uh , running programs
+[1710] [72:02] me013: Yeah .
+[1711] [72:04] mn007: and , um , trying to have a closer look at the perhaps the , um , speech , uh , noise detection or , uh , voiced - sound - unvoiced - sound detection
+[1712] [72:21] mn007: and
+[1713] [72:25] me018: I think that would be a I think that 's a big big deal .
+[1714] [72:30] me018: Because the you know , the thing that Sunil was talking about , uh , with the labels , uh , labeling the database when it got to the noisy stuff ?
+[1715] [72:38] me018: The That that really throws things off .
+[1716] [72:42] me018: You know , having the noise all of a sudden , your your , um , speech detector ,
+[1717] [72:47] me018: I
+[1718] [72:50] me018: What was it ?
+[1720] [72:50] me018: What was happening with his thing ?
+[1721] [72:51] me018: He was running through these models very quickly .
+[1722] [72:53] me018: He was getting lots of , uh , uh insertions , is what it was ,
+[1723] [72:58] me018: in his recognitions .
+[1724] [72:59] me013: The
+[1725] [73:00] me013: I
+[1726] [73:01] me013: the only problem I have with it is exactly the same reason why you thought it 'd be a good thing to do .
+[1727] [73:08] me013: Um
+[1728] [73:11] me013: Let 's fall back to that .
+[1729] [73:12] me013: But
+[1730] [73:22] me013: Uh ,
+[1731] [73:22] me013: that 's a good thing you remove the mike .
+[1732] [73:24] me013: Go ahead ,
+[1733] [73:24] me013: good .
+[1734] [73:25] me013: Uh ,
+[1735] [73:27] me013: uh .
+[1736] [73:29] me013: What an additional clever person could help with when we 're really in a crunch for time .
+[1737] [73:35] me013: Right ?
+[1738] [73:36] me013: Cuz Dave 's gonna be around for a long time ,
+[1739] [73:38] me013: right ?
+[1740] [73:38] fn002: Yeah .
+[1741] [73:38] me013: He 's he 's gonna be here for years .
+[1742] [73:40] mn007: Yeah .
+[1743] [73:40] me013: And so , um ,
+[1744] [73:42] me013: over years , if he 's if he 's interested in , you know , voiced - unvoiced - silence , he could do a lot .
+[1745] [73:46] me013: But
+[1746] [73:54] me013: We have we we 've , you know , only , uh , another another month or two to you know , with the holidays in the middle of it , um , to to get a lot done .
+[1747] [74:05] me013: If
+[1748] [74:09] me013: The very fact that it is sort of just work , and i and it 's running programs and so forth , is exactly why it 's possible that it some piece of could be handed to someone to do ,
+[1749] [74:19] me013: because
+[1750] [74:21] me013: Uh , yeah ,
+[1751] [74:21] me013: so that that 's the question .
+[1752] [74:23] me013: And we don't have to solve it right this s second ,
+[1753] [74:25] me013: but if we could think of some some piece that 's that 's well defined , that he could help with ,
+[1754] [74:30] me013: he 's expressing a will willingness to do that .
+[1755] [74:33] me018: What about training up a , um , a multilingual net ?
+[1756] [74:33] me013: Uh .
+[1757] [74:38] fn002: Yes ,
+[1758] [74:39] mn007: Yeah .
+[1759] [74:39] fn002: maybe to , mmm , put together the the label the labels between TIMIT and Spanish or something like that .
+[1760] [74:47] mn007: Yeah ,
+[1761] [74:47] mn007: so defining the superset ,
+[1762] [74:49] fn002: Yes .
+[1763] [74:49] mn007: and , uh , joining the data
+[1764] [74:52] mn007: and Mmm .
+[1765] [74:53] fn002: Yeah .
+[1766] [74:56] mn007: Yeah .
+[1767] [75:01] me013: Uh .
+[1768] [75:03] me013: Yeah ,
+[1769] [75:03] me013: that 's something that needs to be done
+[1770] [75:05] me013: in any event .
+[1771] [75:06] fn002: Yeah .
+[1772] [75:07] me013: So what we were just saying is that that , um I was arguing for , if possible , coming up with something that that really was development and wasn't research
+[1773] [75:17] me013: because we we 're we have a time crunch .
+[1774] [75:20] me013: And so , uh , if there 's something that would would save some time that someone else could do on some other piece , then we should think of that first .
+[1775] [75:28] me013: See the thing with voiced - unvoiced - silence is I really think that that it 's to do to do a a a a poor job is is pretty quick ,
+[1776] [75:35] me013: uh ,
+[1777] [75:36] me013: or , you know , a so - so job .
+[1778] [75:37] me013: You can you can you can throw in a couple fea
+[1779] [75:39] me013: we know what what kinds of features help with it .
+[1780] [75:42] fn002: Hmm .
+[1781] [75:42] me013: You can throw something in .
+[1782] [75:44] me013: You can do pretty well .
+[1783] [75:45] me013: But I remember , in fact , when you were working on that ,
+[1784] [75:47] me013: and you worked on for few months , as I recall ,
+[1785] [75:49] me013: and you got to , say ninety - three percent ,
+[1786] [75:51] me013: and getting to ninety - four really really hard .
+[1787] [75:52] me018: Mm - hmm .
+[1788] [75:55] me018: Another year .
+[1789] [75:56] me013: Yeah ,
+[1790] [75:57] me013: yeah .
+[1791] [75:57] me013: So ,
+[1792] [75:58] me013: um
+[1793] [75:59] me013: And th th the other tricky thing is , since we are ,
+[1794] [76:04] me013: uh , even though we 're not we don't have a strict prohibition on memory size , and and computational complexity , uh , clearly there 's some limitation to it .
+[1795] [76:14] me013: So if we have to if we say we have to have a pitch detector , say , if we if we 're trying to incorporate pitch information , or at least some kind of harmonic harmonicity , or something , this is another whole thing ,
+[1796] [76:27] me013: take a while to develop .
+[1797] [76:28] me013: Anyway , it 's a very very interesting topic .
+[1798] [76:30] me013: I mean , one I think one of the a lot of people would say , and I think Dan would also , uh , that one of the things wrong with current speech recognition is that we we really do throw away all the harmonicity information .
+[1799] [76:41] me013: Uh , we try to get spectral envelopes .
+[1800] [76:43] me013: Reason for doing that is that most of the information about the phonetic identity is in the spectral envelopes are not in the harmonic detail .
+[1801] [76:49] me013: But the harmonic detail does tell you something .
+[1802] [76:52] me013: Like the fact that there is harmonic detail is is real important .
+[1803] [76:55] me013: So .
+[1804] [76:57] me013: Um .
+[1805] [76:58] me013: So , uh .
+[1806] [77:00] me013: So
+[1807] [77:00] me013: Yeah .
+[1808] [77:00] me013: So wh that so the the other suggestion that just came up was , well what about having him work on the , uh , multilingual super f superset kind of thing .
+[1809] [77:14] me013: Uh , coming up with that and then , you know , training it training a net on that , say , um , from from , uh from TIMIT or something .
+[1810] [77:22] me013: Is that or uh , for multiple databases .
+[1811] [77:24] me013: What
+[1812] [77:26] me013: wh what would this task consist of ?
+[1813] [77:31] mn007: Yeah , it would consist in , uh ,
+[1814] [77:32] mn007: well ,
+[1815] [77:33] mn007: um , creating the the superset ,
+[1816] [77:36] mn007: and , uh , modifying the lab labels for matching the superset .
+[1817] [77:45] mn007: Uh .
+[1818] [77:47] me013: Uh , creating a superset from looking at the multiple languages ,
+[1819] [77:48] mn007: Well , creating the mappings , actually .
+[1820] [77:50] me013: and then creating i m changing labels on TIMIT ?
+[1821] [77:50] mn007: Yeah .
+[1822] [77:54] me013: Or on or on multiple language multiple languages ?
+[1823] [77:55] fn002: No .
+[1824] [77:56] mn007: Yeah , yeah ,
+[1825] [77:56] fn002: The multiple language .
+[1826] [77:57] mn007: with the @ @ three languages ,
+[1827] [77:58] fn002: Maybe for the other language
+[1828] [77:59] fn002: because TIMIT have more phone .
+[1829] [78:02] me013: Yeah .
+[1830] [78:04] me013: Uh .
+[1831] [78:04] me018: So you 'd have to create a mapping from each language to the superset .
+[1832] [78:06] fn002: Yeah .
+[1833] [78:07] mn007: From each language to the superset ,
+[1834] [78:07] fn002: Mm - hmm .
+[1835] [78:08] mn007: yeah .
+[1836] [78:08] fn002: Yeah .
+[1837] [78:10] me006: There 's ,
+[1838] [78:10] me006: um
+[1839] [78:11] me006: Carmen was talking about this SAMPA thing ,
+[1840] [78:15] me006: and it 's , um , it 's an effort by linguists to come up with , um , a machine readable IPA , um , sort of thing ,
+[1841] [78:27] me006: right ?
+[1842] [78:27] me006: And , um , they they have a web site that Stephane was showing us that has , um has all the English phonemes and their SAMPA correspondent , um , phoneme ,
+[1843] [78:27] me013: Yeah .
+[1844] [78:41] me006: and then , um , they have Spanish ,
+[1845] [78:43] me006: they have German ,
+[1846] [78:43] me006: they have all all sorts of languages , um , mapping mapping to the SAMPA phonemes ,
+[1847] [78:49] me006: which
+[1848] [78:49] fn002: Yeah ,
+[1849] [78:50] fn002: the tr the transcription , though , for Albayzin is n the transcription are of SAMPA the same , uh , how you say , symbol that SAMPA appear .
+[1850] [78:50] me034: SAMPA ?
+[1851] [78:53] me034: What does " SAMPA " mean ?
+[1852] [78:58] me013: Mm - hmm .
+[1853] [79:00] me013: Hmm .
+[1854] [79:02] fn002: But I don't know if TIMIT o how is TIMIT .
+[1855] [79:06] me034: So
+[1856] [79:06] me013: What
+[1857] [79:07] me034: I 'm sorry .
+[1858] [79:07] me013: Go ahead .
+[1859] [79:09] me034: I was gonna say , does that mean IPA is not really international ?
+[1860] [79:12] me006: No
+[1861] [79:13] me018: It uses special diacritics and stuff , which you can't do with ASCII characters .
+[1862] [79:14] me006: y can't print on ASCII .
+[1863] [79:15] fn002: Yeah .
+[1864] [79:18] me034: Oh , I see .
+[1865] [79:18] me018: So the SAMPA 's just mapping those .
+[1866] [79:20] me034: Got it .
+[1867] [79:22] me013: What
+[1868] [79:22] me013: Has OGI done anything about this issue ?
+[1869] [79:25] me013: Do they have Do they have any kind of superset that they already have ?
+[1870] [79:31] mn007: I don't think so .
+[1871] [79:32] mn007: Well , they they they 're going actually the the other way , defining uh , phoneme clusters , apparently .
+[1872] [79:39] mn007: Well .
+[1873] [79:40] me013: Aha .
+[1874] [79:42] me013: That 's right .
+[1875] [79:44] me013: Uh , and that 's an interesting way to go too .
+[1876] [79:46] me018: So they just throw the speech from all different languages together ,
+[1877] [79:49] me018: then cluster it into sixty or fifty or whatever clusters ?
+[1878] [79:53] mn007: I think they 've not done it , uh , doing , uh , multiple language yet ,
+[1879] [79:57] mn007: but what they did is to training , uh , English nets with all the phonemes ,
+[1880] [80:02] mn007: and then training it in English nets with , uh , kind of seventeen , I think it was seventeen , uh , broad classes .
+[1881] [80:09] me018: Automatically
+[1882] [80:10] me018: Mm - hmm .
+[1883] [80:12] mn007: Yeah .
+[1884] [80:12] me018: Automatically derived broad classes , or ?
+[1885] [80:13] mn007: Yeah , I think so .
+[1886] [80:14] me018: Uh - huh .
+[1887] [80:15] mn007: Uh ,
+[1888] [80:16] mn007: and , yeah .
+[1889] [80:17] mn007: And the result was that apparently , when testing on cross - language it was better .
+[1890] [80:23] mn007: I think so .
+[1891] [80:24] mn007: But Hynek didn't add didn't have all the results when he showed me that ,
+[1892] [80:28] mn007: so , well .
+[1893] [80:29] mn007: But
+[1894] [80:30] me013: So that does make an interesting question , though .
+[1895] [80:32] me013: Is there 's some way that we should tie into that with this .
+[1896] [80:35] me013: Um .
+[1897] [80:40] me013: Right ?
+[1898] [80:41] me013: I mean , if if in fact that is a better thing to do , should we leverage that , rather than doing , um , our own .
+[1899] [80:51] me013: Right ?
+[1900] [80:52] me013: So , if i if if they s
+[1901] [80:54] me013: I mean , we have i we have the the trainings with our own categories .
+[1902] [80:59] me013: And now we 're saying , " Well , how do we handle cross - language ? "
+[1903] [81:02] me013: And one way is to come up with a superset ,
+[1904] [81:04] me013: but they are als they 're trying coming up with clustered ,
+[1905] [81:08] me013: and do we think there 's something wrong with that ?
+[1906] [81:10] mn007: I think that there 's something wrong
+[1907] [81:12] me013: OK .
+[1908] [81:12] mn007: or
+[1909] [81:12] me013: What w
+[1910] [81:13] mn007: Well , for the moment we are testing on digits ,
+[1911] [81:15] mn007: and e i perhaps u using broad phoneme classes ,
+[1912] [81:19] mn007: it 's it 's OK for um , uh classifying the digits ,
+[1913] [81:24] mn007: but as soon as you will have more words ,
+[1914] [81:27] mn007: well , words can differ with only a single phoneme , and which could be the same , uh , class .
+[1915] [81:33] mn007: Well .
+[1916] [81:34] me013: I see .
+[1917] [81:35] mn007: So .
+[1918] [81:38] me013: Right .
+[1919] [81:39] me013: Although
+[1920] [81:40] mn007: So , I 'm
+[1921] [81:42] me013: You 're using this for the feature generation ,
+[1922] [81:44] me013: though
+[1923] [81:45] mn007: Yeah , but you will ask the net to put one for th th the phoneme class
+[1924] [81:49] me013: Yeah .
+[1925] [81:51] mn007: and So .
+[1926] [81:53] me013: Yeah .
+[1927] [81:54] me018: So you 're saying that there may not be enough information coming out of the net to help you discriminate the words ?
+[1928] [81:54] mn007: Well .
+[1929] [81:56] mn007: Yeah ,
+[1930] [81:57] mn007: yeah .
+[1931] [81:57] mn007: Mmm .
+[1932] [82:00] me034: Fact , most confusions are within the phone phone classes , right ?
+[1933] [82:04] me034: I think , uh , Larry was saying like obstruents are only confused with other obstruents , et cetera , et cetera .
+[1934] [82:04] me013: Yeah .
+[1935] [82:07] me018: Hmm .
+[1936] [82:08] me013: Yeah .
+[1937] [82:09] me013: Yeah .
+[1938] [82:09] mn007: Yeah ,
+[1939] [82:09] mn007: this is another p
+[1940] [82:10] mn007: yeah ,
+[1941] [82:10] mn007: another point .
+[1942] [82:11] me013: Yeah .
+[1943] [82:12] me006: So so , maybe we could look at articulatory type stuff ,
+[1944] [82:16] me013: But
+[1945] [82:16] me006: right ?
+[1946] [82:17] me013: Did they not do that ,
+[1947] [82:18] me013: or ?
+[1948] [82:21] mn007: I don't think so .
+[1949] [82:22] mn007: Well ,
+[1950] [82:23] mn007: they were talking about , perhaps ,
+[1951] [82:23] me013: So
+[1952] [82:24] mn007: but they d
+[1953] [82:24] mn007: I d
+[1954] [82:24] me013: They 're talking about it ,
+[1955] [82:25] mn007: w
+[1956] [82:25] me013: but that 's sort of a question whether they did
+[1957] [82:25] mn007: Yeah .
+[1958] [82:27] me013: because that 's that 's the other route to go .
+[1959] [82:28] me013: Instead
+[1960] [82:29] me006: Mm - hmm .
+[1961] [82:30] me006: Superclass .
+[1962] [82:31] me013: Instead of the the the the superclass thing ,
+[1963] [82:33] me013: which
+[1964] [82:36] me013: So suppose y you don't really mark arti
+[1965] [82:38] me013: To really mark articulatory features , you really wanna look at the acoustics and and see where everything is ,
+[1966] [82:42] me013: and we 're not gonna do that .
+[1967] [82:43] me013: So ,
+[1968] [82:44] me013: uh , the second class way of doing it is to look at the , uh , phones that are labeled
+[1969] [82:50] me013: and translate them into acoustic uh , uh articulatory , uh , uh , features .
+[1970] [82:55] me013: So it won't really be right .
+[1971] [82:56] me013: You won't really have these overlapping things and so forth ,
+[1972] [82:58] me018: So the targets of the net are these ?
+[1973] [82:59] me013: but
+[1974] [83:00] me013: Articulatory feature .
+[1975] [83:01] me018: Articulatory features .
+[1976] [83:02] me013: Right .
+[1977] [83:02] me018: But that implies that you can have more than one on at a time ?
+[1978] [83:05] me013: That 's right .
+[1979] [83:05] me018: Ah .
+[1980] [83:06] me013: You either do that or you have multiple nets .
+[1981] [83:06] me018: OK .
+[1982] [83:07] me018: I see .
+[1984] [83:10] me013: Um . And , um
+[1985] [83:12] me013: I don't know if our software this if the qu versions of the Quicknet that we 're using allows for that .
+[1986] [83:18] me013: Do you know ?
+[1987] [83:19] me006: Allows for ?
+[1988] [83:20] me013: Multiple targets being one ?
+[1989] [83:22] me006: Oh ,
+[1990] [83:23] me006: um ,
+[1991] [83:24] me006: we have gotten soft targets to to work .
+[1992] [83:26] me013: OK .
+[1993] [83:27] me013: So that that 'll work ,
+[1994] [83:27] me013: yeah .
+[1995] [83:28] me006: Yeah .
+[1996] [83:29] me013: OK .
+[1997] [83:30] me013: So , um ,
+[1998] [83:31] me013: that
+[1999] [83:33] me013: is that we could we could , uh , just translate instead of translating to a superset , just translate to articulatory features , some set of articulatory features and train with that .
+[2000] [83:33] me034: Um .
+[2001] [83:43] me013: Now the fact even though it 's a smaller number , it 's still fine
+[2002] [83:46] me013: because you have the the , uh , combinations .
+[2003] [83:51] me013: So , in fact , it has every , you know it had has has every distinction in it that you would have the other way .
+[2004] [83:55] mn007: Yeah .
+[2005] [83:56] me013: But it should go across languages better .
+[2006] [83:58] me018: We could do an interesting cheating experiment with that too .
+[2007] [84:01] me018: We could I don't know , if you had uh the phone labels , you could replace them by their articulatory features
+[2008] [84:09] me018: and then feed in a vector with those uh , things turned on based on what they 're supposed to be for each phone
+[2009] [84:18] me018: to see if it if you get a big win .
+[2010] [84:21] me018: Do you know what I 'm saying ?
+[2011] [84:23] me013: No .
+[2012] [84:24] me018: So ,
+[2013] [84:25] me018: um ,
+[2014] [84:26] me018: I
+[2015] [84:31] me018: well , it 's gonna have probabilities ,
+[2016] [84:32] me018: but let 's say that they were ones and zeros ,
+[2017] [84:35] me018: then y and you know for each ,
+[2018] [84:37] me018: um ,
+[2019] [84:38] me018: I don't know if you know this for your testing data ,
+[2020] [84:40] me018: but if you know for your test data , you know , what the string of phones is and and you have them aligned , then you can just instead of going through the net , just create the vector for each phone and feed that in
+[2021] [84:54] me018: to see if that data helps .
+[2022] [84:58] me018: Eh , eh , what made me think about this is , I was talking with Hynek and he said that there was a guy at A T - andT who spent eighteen months working on a single feature .
+[2023] [85:06] me018: And
+[2024] [85:08] me013: This was the guy that we were just talking a that we saw on campus .
+[2025] [85:11] me013: So , this was Larry Saul who did this did this .
+[2026] [85:13] me018: Oh , OK .
+[2027] [85:14] me013: He used sonorants .
+[2028] [85:15] me018: Right ,
+[2029] [85:15] me018: OK ,
+[2030] [85:16] me013: Was what he was doing .
+[2031] [85:16] me018: right .
+[2032] [85:17] me013: Yeah .
+[2033] [85:17] me018: And they they had done a cheating experiment or something , right ?
+[2034] [85:19] me013: He he di he didn't mention that part .
+[2035] [85:19] me018: and
+[2036] [85:20] me013: But .
+[2037] [85:21] me018: Well , Hynek said that that , I guess before they had him work on this , they had done some experiment where if they could get that one feature right , it dramatically improved the result .
+[2038] [85:25] me013: I see .
+[2039] [85:28] me013: OK .
+[2040] [85:30] me018: So I was thinking , you know it made me think about this ,
+[2041] [85:32] me018: that if it 'd be an interesting experiment just to see , you know , if you did get all of those right .
+[2042] [85:37] me013: Should be .
+[2043] [85:38] me013: Because if you get all of them in there , that defines all of the phones .
+[2044] [85:40] me013: So that 's that 's equivalent to saying that you 've got got all the phones right .
+[2045] [85:42] me018: Right .
+[2046] [85:44] me013: So
+[2047] [85:46] me018: Yeah .
+[2048] [85:46] me013: Although , yeah , it would be make an interesting cheating experiment
+[2049] [85:48] me013: because we are using it in this funny way ,
+[2050] [85:50] me013: where we 're converting it into features .
+[2051] [85:50] me018: Yeah .
+[2052] [85:52] me018: And then you also don't know what error they 've got on the HTK side .
+[2053] [85:56] me018: You know ?
+[2054] [85:57] me013: Yeah .
+[2055] [85:57] me018: It sort of gives you your the best you could hope for , kind of .
+[2056] [86:01] me006: Mmm .
+[2057] [86:03] me006: Mmm ,
+[2058] [86:04] me006: I see .
+[2059] [86:05] me034: The soft training of the nets still requires the vector to sum to one , though ,
+[2060] [86:08] me006: To sum up to one .
+[2061] [86:08] me034: right ?
+[2062] [86:09] me034: So you can't really feed it , like , two articulatory features that are on at the same time with ones
+[2063] [86:16] me034: cuz it 'll kind of normalize them down to one half or something like that , for instance .
+[2064] [86:19] mn007: But perhaps you have the choice of the final nonl
+[2065] [86:20] me006: Right .
+[2066] [86:23] me006: Nonlinearity ?
+[2067] [86:23] mn007: uh ,
+[2068] [86:23] mn007: nonlinearity ,
+[2069] [86:24] mn007: yeah .
+[2070] [86:24] me006: Um ,
+[2071] [86:25] mn007: Is it always softmax
+[2072] [86:25] me006: it 's sig
+[2073] [86:26] mn007: or ?
+[2074] [86:27] me006: No ,
+[2075] [86:27] me006: it 's actually sigmoid - X
+[2076] [86:28] mn007: Yeah .
+[2077] [86:30] me006: for
+[2078] [86:31] mn007: So if you choose sigmoid it 's o it 's OK ?
+[2079] [86:34] me006: You ,
+[2080] [86:34] me013: Did we just run out of disk ,
+[2081] [86:34] me006: um
+[2082] [86:35] me006: I
+[2083] [86:35] me013: or ?
+[2084] [86:36] me034: Why don't you just choose linear ?
+[2085] [86:38] me006: What 's that ?
+[2086] [86:38] me034: Right ?
+[2087] [86:38] me034: Linear outputs ?
+[2088] [86:40] me006: Linear outputs ?
+[2089] [86:41] me034: Isn't that what you 'll want ?
+[2090] [86:41] me006: Um .
+[2091] [86:43] me034: If you 're gonna do a KL Transform on it .
+[2092] [86:46] me006: Right , right .
+[2093] [86:48] me006: Right ,
+[2094] [86:48] me006: but during the training , we would train on sigmoid - X
+[2095] [86:51] me034: Oh
+[2096] [86:51] me034: Yeah ?
+[2097] [86:52] me006: and then at the end just chop off the final nonlinearity .
+[2098] [86:56] me034: Hmm .
+[2099] [86:59] me013: So , we 're we 're we 're off the air ,
+[2100] [87:00] me013: or ?
+[2101] [87:02] me013: About to be off the air .

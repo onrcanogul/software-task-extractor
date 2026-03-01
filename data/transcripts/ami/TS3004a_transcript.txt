@@ -1,0 +1,690 @@
+================================================================================
+AMI Meeting Transcript: TS3004a
+================================================================================
+
+Total Utterances: 678
+Unique Speakers: 4
+Duration: 21.96 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:11] A: Hello hello
+[0002] [00:12] C: Good morning
+[0003] [00:12] D: Hi
+[0004] [00:13] D: lou
+[0005] [00:18] A: You have to put exactly on the
+[0006] [00:19] D: Play-doh
+[0007] [00:20] A: yep
+[0008] [00:22] B: Good morning
+[0009] [00:23] C: Good morning
+[0010] [00:32] A: Like the cameras
+[0011] [00:32] C: Should i bring my uh than two
+[0012] [00:33] A: Yeah
+[0013] [00:34] A: just
+[0014] [00:34] A: Yeah
+[0015] [00:35] A: no
+[0016] [00:35] A: that's for me
+[0017] [00:36] A: it just have to make some notes
+[0018] [00:37] C: Okay
+[0019] [00:37] A: I got my mouse
+[0020] [00:40] D: Oh i also got my mouse
+[0021] [00:40] B: Ross
+[0022] [00:41] D: but i don't need my my something
+[0023] [00:44] C: I do
+[0024] [00:45] A: Yeah
+[0025] [00:48] B: One
+[0026] [00:49] B: Yeah
+[0027] [00:58] C: My laptop
+[0028] [00:59] C: discretion
+[0029] [01:02] D: Can computers
+[0030] [01:14] C: No no no
+[0031] [01:17] B: It's just to call
+[0032] [01:18] B: motown
+[0033] [01:22] D: Can you hear me know
+[0034] [01:24] D: that
+[0035] [01:24] A: Actually my dad doesn't that that
+[0036] [01:25] D: And
+[0037] [01:25] A: should be okay
+[0038] [01:31] D: Check
+[0039] [01:32] D: Okay I think it matters
+[0040] [01:36] C: Test test
+[0041] [01:38] C: yeah it's it's more
+[0042] [01:46] A: So
+[0043] [01:46] A: you all read what was going to do or not
+[0044] [01:48] D: Uh-huh
+[0045] [01:49] A: Okay
+[0046] [01:49] B: Yeah
+[0047] [01:50] D: Gonna make a remote control
+[0048] [01:51] A: Yeah that's right
+[0049] [01:52] C: I think my laptop is
+[0050] [01:53] C: uh that Actually
+[0051] [01:59] A: i just made uh huh simple uh presentation
+[0052] [02:07] A: No sir put some things in it
+[0053] [02:11] A: Okay
+[0054] [02:20] A: How does is work
+[0055] [02:21] A: i dunno uh-huh
+[0056] [02:23] B: One uh Most to write
+[0057] [02:25] B: that one
+[0058] [02:26] A: This one
+[0059] [02:27] B: Yes
+[0060] [02:27] D: Press have eleven
+[0061] [02:28] A: Oh
+[0062] [02:29] A: cool
+[0063] [02:29] A: Okay So
+[0064] [02:31] A: that's my name don't want
+[0065] [02:32] A: Uh we're going to make uh a remote control
+[0066] [02:34] A: we already know that
+[0067] [02:36] A: Seven you
+[0068] [02:37] A: can you going to have the surgeon
+[0069] [02:39] A: of our meeting
+[0070] [02:40] A: No this is about twenty five minutes This meeting
+[0071] [02:45] A: So
+[0072] [02:45] A: um the first thing we have to know is
+[0073] [02:48] A: You already know what we're going to do
+[0074] [02:49] A: you also read what this these things are Oh yeah
+[0075] [02:52] B: Yes
+[0076] [02:52] A: okay
+[0077] [02:53] A: So um Yeah
+[0078] [02:55] A: it has to be original trendy user friendly now
+[0079] [02:57] A: that's what we going to design
+[0080] [02:59] A: Uh first we have uh uh three steps of um making the remote control
+[0081] [03:05] A: for The first thing is in the functional design
+[0082] [03:08] A: It's very important
+[0083] [03:09] A: we have to look what the needs
+[0084] [03:10] A: artifact
+[0085] [03:12] A: of the functional design And uh and the how
+[0086] [03:14] A: the um the um Mm remote control works So it's very going to look in the functional design
+[0087] [03:20] A: is for the next meeting
+[0088] [03:22] A: The the second thing is the conceptual design
+[0089] [03:25] A: That's what it
+[0090] [03:25] A: that so that's the the specifications of the components and the properties
+[0091] [03:30] A: And the specifications of the user interface
+[0092] [03:33] A: We have to look what uh the market is doing For what kind of uh remote controls are in the market
+[0093] [03:41] A: And the third thing is uh the detailed design
+[0094] [03:45] A: Um and that six
+[0095] [03:46] A: yeah
+[0096] [03:46] A: you know what it is
+[0097] [03:47] A: exactly How it looks and
+[0098] [03:49] A: uh Okay so uh that
+[0099] [03:53] A: this is the
+[0100] [03:53] A: these are two smartboards use uh Uh a few years and uh introduction of that one
+[0101] [04:00] A: Are you ready so you know all that they share can put uh things in the the red project um map
+[0102] [04:06] D: Four
+[0103] [04:06] D: yeah
+[0104] [04:07] A: Four okay
+[0105] [04:12] A: So now we can have
+[0106] [04:13] A: a look at that one
+[0107] [04:17] A: Okay So
+[0108] [04:19] A: uh what are we going to do first Is
+[0109] [04:23] A: uh um So you can read
+[0110] [04:27] A: we have to uh draw a
+[0111] [04:29] A: a favourite animal on the whiteboard
+[0112] [04:32] A: And um And say white your favourite animal
+[0113] [04:36] A: So
+[0114] [04:37] A: and you have
+[0115] [04:38] A: this is just to try it out
+[0116] [04:39] A: and we have to you uh use a different And colours and different Thickness
+[0117] [04:44] A: of that and
+[0118] [04:46] A: So
+[0119] [04:46] A: okay so
+[0120] [04:47] A: uh first have to show you
+[0121] [04:48] A: maybe can come here true Have a look how it works
+[0122] [04:54] A: Yes
+[0123] [04:54] D: Yeah i can see it now
+[0124] [04:54] B: Yeah
+[0125] [04:55] A: Okay
+[0126] [04:56] A: This a new page
+[0127] [04:57] A: that's okay
+[0128] [04:59] A: You spend Format
+[0129] [05:04] A: And a different colour king is you know and
+[0130] [05:07] A: i
+[0131] [05:07] A: just a pink
+[0132] [05:11] A: Take
+[0133] [05:11] A: mm there's no think
+[0134] [05:13] A: Okay
+[0135] [05:14] B: Purple
+[0136] [05:14] A: just Oh okay
+[0137] [05:16] A: Yeah
+[0138] [05:17] A: And
+[0139] [05:18] A: uh the line width is that
+[0140] [05:20] A: okay in
+[0141] [05:21] A: artistic
+[0142] [05:23] A: What i'm going to draw
+[0143] [05:25] A: was an elephant
+[0144] [05:27] A: Isn't roles lonely
+[0145] [05:28] A: because otherwise it won't work
+[0146] [05:36] A: The fairy Nice and have a thing
+[0147] [05:44] A: I dunno it looks
+[0148] [05:44] A: but doesn't matter
+[0149] [05:48] B: That's very nice
+[0150] [05:50] A: And is that
+[0151] [05:52] A: I've had this
+[0152] [05:53] A: Oh no
+[0153] [05:54] A: that Yeah okay
+[0154] [05:55] D: You should look like a bad
+[0155] [05:56] D: s.
+[0156] [05:56] D: r.
+[0157] [05:56] D: s.
+[0158] [05:57] A: Because i like
+[0159] [05:57] D: i.
+[0160] [05:58] A: uh uh okay
+[0161] [05:59] B: I think elephant
+[0162] [06:08] A: Just excellent
+[0163] [06:09] A: okay
+[0164] [06:10] A: Whatever
+[0165] [06:10] A: just
+[0166] [06:12] A: Mm use this one
+[0167] [06:16] A: That's a bit slow you can see
+[0168] [06:17] A: this is Bit annoying
+[0169] [06:20] D: Okay
+[0170] [06:24] A: Okay so uh oh
+[0171] [06:26] A: just For you guys just one of you can draw painting on
+[0172] [06:31] D: And it's well
+[0173] [06:31] A: This don't
+[0174] [06:32] A: um yeah
+[0175] [06:33] A: just You use it like that
+[0176] [06:35] A: yeah that's okay
+[0177] [06:36] D: Okay
+[0178] [06:43] D: Mm Okay
+[0179] [06:46] D: and and then what's the colour
+[0180] [06:47] D: and and
+[0181] [06:48] A: It's a four months
+[0182] [06:56] D: Okay
+[0183] [07:04] D: Uh It has to be water
+[0184] [07:07] D: that
+[0185] [07:07] A: No
+[0186] [07:08] A: it has to be and then
+[0187] [07:09] A: um also it's it's it's
+[0188] [07:09] D: Yeah yeah
+[0189] [07:10] A: it should be she a snake
+[0190] [07:10] D: but it's an animal that's an a lot less and the water
+[0191] [07:11] A: says oh
+[0192] [07:12] A: okay okay okay Okay
+[0193] [07:13] B: if Yeah yeah The war as important
+[0194] [07:13] D: So i first or the other wall is
+[0195] [07:14] C: Okay
+[0196] [07:19] D: Okay
+[0197] [07:20] D: now
+[0198] [07:25] D: Like the animal
+[0199] [07:35] D: It's a fish
+[0200] [07:37] A: Oh okay
+[0201] [07:37] C: Wow
+[0202] [07:37] A: cool
+[0203] [07:44] D: Uh huh
+[0204] [07:52] D: Yeah Hmm
+[0205] [08:05] D: This is somewhere
+[0206] [08:09] A: Hmm yeah that's nice
+[0207] [08:10] C: Wow
+[0208] [08:11] D: Okay
+[0209] [08:11] D: we're next
+[0210] [08:12] A: do you have to write down why
+[0211] [08:14] A: are the doesn't matter
+[0212] [08:15] A: this is just to get used to the whiteboard
+[0213] [08:17] A: that's okay
+[0214] [08:18] D: Okay
+[0215] [08:18] A: Just make a new blank a new blank right
+[0216] [08:41] D: Well
+[0217] [08:41] D: paul
+[0218] [08:42] B: Yeah
+[0219] [08:44] B: Like this
+[0220] [08:45] A: Yeah
+[0221] [08:45] A: not too far to the to the time top
+[0222] [08:47] B: Okay
+[0223] [08:48] B: Um Let's make it Oh And that
+[0224] [09:28] A: Maybe if you hold your pen bit more to the back
+[0225] [09:30] A: so that
+[0226] [09:31] A: not
+[0227] [09:31] A: to the
+[0228] [09:32] A: yeah
+[0229] [09:34] D: I think it's a pig
+[0230] [09:34] B: Yeah
+[0231] [09:36] B: "'kay"
+[0232] [09:38] B: I can make
+[0233] [09:38] A: Not
+[0234] [09:38] D: Are dark
+[0235] [09:38] A: too dark Yeah
+[0236] [09:39] B: I got
+[0237] [09:42] D: Sheep
+[0238] [09:43] B: a
+[0239] [09:46] A: Oh read only have twenty five minutes
+[0240] [09:48] A: of this
+[0241] [09:50] C: take it it
+[0242] [09:51] B: Okay
+[0243] [09:52] B: um a kick out of it
+[0244] [09:56] C: I i was gonna make it gets too
+[0245] [09:59] A: User friendly
+[0246] [10:02] B: not too quick
+[0247] [10:04] A: The folder much more to the back
+[0248] [10:06] A: in it and that is
+[0249] [10:07] B: Yeah
+[0250] [10:07] A: okay
+[0251] [10:09] B: I just draw to pick i think
+[0252] [10:12] B: Okay
+[0253] [10:13] B: that's that
+[0254] [10:15] B: More
+[0255] [10:16] A: No
+[0256] [10:16] A: that's okay
+[0257] [10:17] A: thank you
+[0258] [10:19] B: Just to get used to it
+[0259] [10:40] A: I thought these pens
+[0260] [10:41] A: would be just um Uh you write it down a downloaded to work
+[0261] [10:45] A: you know you do that or no
+[0262] [10:46] D: No
+[0263] [10:47] A: Oh yeah yeah
+[0264] [10:47] B: Yeah that's right
+[0265] [10:48] B: it
+[0266] [10:48] A: But it's just
+[0267] [10:48] B: but you actually got right from the paper
+[0268] [10:51] A: Sorry
+[0269] [10:52] B: You really get to write on that later
+[0270] [10:53] A: Yeah
+[0271] [10:53] A: no
+[0272] [10:53] A: but i did i i thought it would be just in in in that type direction right
+[0273] [10:53] D: And
+[0274] [10:54] D: so we hope that
+[0275] [10:57] B: Yeah
+[0276] [10:58] A: so that's not
+[0277] [10:58] B: but it's just a picture
+[0278] [10:59] A: just
+[0279] [10:59] A: it's just a picture
+[0280] [11:01] D: Oh
+[0281] [11:01] A: So
+[0282] [11:02] B: You leave
+[0283] [11:02] D: You you can You can tie that in the editing
+[0284] [11:02] A: It's not that goes have it for that would be
+[0285] [11:06] D: read
+[0286] [11:06] B: Yeah
+[0287] [11:06] A: No
+[0288] [11:07] D: Oh Okay
+[0289] [11:25] B: It's a donkey
+[0290] [11:34] A: I don't know
+[0291] [11:34] A: what i did we start this meeting
+[0292] [11:35] A: i'm not sure
+[0293] [11:37] B: I think it was
+[0294] [11:38] A: Of course
+[0295] [11:39] D: Of course yeah
+[0296] [11:41] A: Okay
+[0297] [11:49] D: Brilliant
+[0298] [11:50] A: Okay
+[0299] [11:50] C: Nice
+[0300] [11:51] A: curve
+[0301] [11:51] D: Yeah
+[0302] [11:54] A: Yep
+[0303] [11:54] A: thank you
+[0304] [11:55] A: I just have to save everything
+[0305] [11:56] A: so
+[0306] [12:12] A: Uh this is definitely the best one
+[0307] [12:14] C: Yeah
+[0308] [12:15] A: Okay so Well
+[0309] [12:19] A: what we know is that we have to sell this is uh um remote control for about twenty five euros
+[0310] [12:26] A: Okay
+[0311] [12:26] C: Right
+[0312] [12:27] A: that's
+[0313] [12:27] A: uh and uh we have to make a profit of fifty million euros
+[0314] [12:30] A: so we have to uh use a big marketing euro
+[0315] [12:34] B: Piece of cake
+[0316] [12:34] A: The production cost about half
+[0317] [12:35] A: the price the selling price
+[0318] [12:36] A: sorry
+[0319] [12:36] B: Well easy
+[0320] [12:38] A: So you
+[0321] [12:38] A: can't or make uh Uh calculation
+[0322] [12:42] A: about how many have to sell this to make fifty million
+[0323] [12:45] A: uh huh
+[0324] [12:46] A: Uh so
+[0325] [12:47] A: we're gonna first a little discussion about um but experience
+[0326] [12:51] A: are The remote control first ideas and everything
+[0327] [12:54] A: so seven You think about remote controls
+[0328] [12:59] D: Yeah
+[0329] [12:59] D: my first question was does it have to be um Uh universal remote control
+[0330] [13:04] A: Oh yeah
+[0331] [13:04] A: that's a good question
+[0332] [13:06] D: Because
+[0333] [13:06] D: Because you sell it uh uh Uhuh Um only from that and not with the television You sell to a part
+[0334] [13:15] A: I think it's
+[0335] [13:16] A: i'm not i'm not sure
+[0336] [13:16] D: So
+[0337] [13:17] D: i should
+[0338] [13:17] A: it's not mm I think
+[0339] [13:18] C: Yeah i'd probably would be universal
+[0340] [13:20] B: Universal
+[0341] [13:20] D: Because
+[0342] [13:21] B: And only television
+[0343] [13:23] B: Or more devices
+[0344] [13:24] A: I don't think you can buy uh uh uh universal uh remote control for twenty five euros
+[0345] [13:29] A: so
+[0346] [13:30] A: But sure
+[0347] [13:31] C: Hmm maybe
+[0348] [13:32] D: Yeah
+[0349] [13:32] D: i know where you can buy uh universal uh control For a only twenty uh use
+[0350] [13:32] C: i dunno
+[0351] [13:35] A: Okay
+[0352] [13:36] A: so
+[0353] [13:36] A: you just say you just say it it's a universal remote control
+[0354] [13:37] D: h.
+[0355] [13:38] D: Yeah i think
+[0356] [13:39] B: Okay
+[0357] [13:39] A: okay perfect
+[0358] [13:41] C: And uh Also for the
+[0359] [13:43] C: v.
+[0360] [13:43] C: c.
+[0361] [13:44] C: r. and uh a
+[0362] [13:45] C: d.
+[0363] [13:45] C: v.
+[0364] [13:45] C: d. player
+[0365] [13:46] A: Yeah everything
+[0366] [13:46] C: and
+[0367] [13:47] A: is
+[0368] [13:47] C: Okay
+[0369] [13:47] A: So a lot of Buttons on the heard from
+[0370] [13:51] C: Yeah probably
+[0371] [13:52] B: Not just a
+[0372] [13:52] B: t.
+[0373] [13:52] B: v.
+[0374] [13:53] A: No
+[0375] [13:53] A: design thing
+[0376] [13:54] B: Okay
+[0377] [13:55] D: Okay
+[0378] [13:56] A: So Yeah
+[0379] [13:57] A: what what what's the remote controls
+[0380] [13:59] A: as a black thing with some buttons on it
+[0381] [14:00] A: it's not nothing very special
+[0382] [14:03] A: But
+[0383] [14:04] B: Well
+[0384] [14:04] B: we can try to make special
+[0385] [14:05] A: Yeah that's right
+[0386] [14:07] A: So what
+[0387] [14:07] A: do you have any ideas how it has to look for For usability
+[0388] [14:10] B: Wow
+[0389] [14:11] D: Well
+[0390] [14:11] D: at at talk about um making it the same as stylist
+[0391] [14:11] A: were using
+[0392] [14:15] D: a television that yes
+[0393] [14:16] D: we don't have uh The same television now all the time
+[0394] [14:19] D: so And that's no matter
+[0395] [14:22] D: Um If we uh Control the
+[0396] [14:27] D: v.
+[0397] [14:27] D: c.
+[0398] [14:27] D: r. and
+[0399] [14:28] D: d.
+[0400] [14:28] D: v.
+[0401] [14:28] D: d. player player with it Uh it has to be clear
+[0402] [14:34] D: Because uh it gets and Uh elderly are gonna use it
+[0403] [14:39] D: so
+[0404] [14:39] D: uh it's not only for the Technical person's
+[0405] [14:46] D: Um I think it must be a very good control
+[0406] [14:51] D: so you can uh uh uh like uh uh Use it from uh everywhere in your room and
+[0407] [14:57] D: the the infrared uh thing it must be from very good quality
+[0408] [14:58] A: yeah
+[0409] [15:04] A: That's right Should be good point
+[0410] [15:06] B: Yeah
+[0411] [15:06] C: Okay
+[0412] [15:07] B: nothing for certain and
+[0413] [15:09] C: And how big should it be
+[0414] [15:12] D: Yeah
+[0415] [15:13] D: I don't know
+[0416] [15:16] B: It shouldn't be too big
+[0417] [15:17] B: but i don't think we can make it too small
+[0418] [15:19] B: "'cause" it has to have a lot of functions
+[0419] [15:21] B: so
+[0420] [15:22] C: Yeah
+[0421] [15:24] B: You can't make it smaller um Things we see now i think
+[0422] [15:28] A: Just big enough for the buttons yeah that's that's it
+[0423] [15:30] B: Yeah
+[0424] [15:31] B: well we have to make something uh Like uh a mobile phones that you can Uh For the open
+[0425] [15:38] C: Yeah
+[0426] [15:40] B: Maybe then you can make its smaller And unique or
+[0427] [15:44] D: Yes
+[0428] [15:45] B: Maybe more trendy
+[0429] [15:47] A: But you you you think about a a half One you can Follow
+[0430] [15:50] B: For the open
+[0431] [15:51] B: where you can see a a more options i think
+[0432] [15:51] A: okay
+[0433] [15:51] A: yeah that's cool
+[0434] [15:53] D: I
+[0435] [15:53] D: don't think so
+[0436] [15:53] C: Yeah
+[0437] [15:53] A: Maybe for the
+[0438] [15:54] A: d.
+[0439] [15:54] A: v.
+[0440] [15:54] A: d.
+[0441] [15:54] A: p.
+[0442] [15:54] A: e. pi
+[0443] [15:55] A: or something
+[0444] [15:55] B: Yeah
+[0445] [15:55] A: if you just
+[0446] [15:55] B: something uh on top just down in general things like volume and the
+[0447] [15:56] D: alright Right
+[0448] [15:56] C: Yeah
+[0449] [15:57] C: or you can
+[0450] [16:00] B: t.
+[0451] [16:00] B: v. channels and Inside Things you don't use that often
+[0452] [16:05] D: Oh
+[0453] [16:05] C: Or or you could the thing go one uh uh a small touch screen on the Remote control
+[0454] [16:05] D: that's good yeah
+[0455] [16:11] B: Yeah
+[0456] [16:12] D: Yeah
+[0457] [16:12] B: want that
+[0458] [16:13] A: Why it should use a touch screen remote control
+[0459] [16:16] A: yeah but it's not
+[0460] [16:16] C: maybe but um It's it's
+[0461] [16:17] B: You can make an uh a menu minutes
+[0462] [16:21] C: Yeah
+[0463] [16:21] C: or a um Maybe to keep it that uh easy and uh small
+[0464] [16:27] A: Okay
+[0465] [16:28] D: Yeah
+[0466] [16:28] A: There's not a bit too expensive to put a touch screen on it
+[0467] [16:28] B: But that
+[0468] [16:29] C: i like it it to have
+[0469] [16:30] B: Yeah i think it works and too expensive
+[0470] [16:30] D: Yeah
+[0471] [16:30] C: Yeah but maybe it would
+[0472] [16:32] D: It's not
+[0473] [16:32] D: reachable i think That's me
+[0474] [16:35] D: And we have to care for uh the strength
+[0475] [16:38] D: of the remote control
+[0476] [16:39] A: Yeah
+[0477] [16:39] D: because uh uh remote controls are most uh things in the house that falls down on the
+[0478] [16:44] D: grounds
+[0479] [16:44] D: and Get often um broken
+[0480] [16:45] A: Yep
+[0481] [16:46] A: So
+[0482] [16:47] A: And if you have a touch screen in it it's roughly two Right yeah yeah and
+[0483] [16:50] B: Yeah different so
+[0484] [16:50] D: Yeah
+[0485] [16:50] D: and a lot so uh lots of kids use it
+[0486] [16:53] D: and touch screen is not to Get so yeah
+[0487] [16:56] A: You can put
+[0488] [16:57] C: Kid
+[0489] [16:57] C: Kid proof
+[0490] [16:57] A: gains
+[0491] [16:57] A: a new remote control
+[0492] [16:59] B: Yeah yeah
+[0493] [17:01] C: And uh how about the batteries
+[0494] [17:04] C: Uh it should you put it in a recharger
+[0495] [17:06] C: or uh Just
+[0496] [17:07] A: Well
+[0497] [17:08] A: maybe that's a good are they
+[0498] [17:08] D: Maybe i'm station
+[0499] [17:08] A: just put it on your television and this is
+[0500] [17:09] B: Yeah
+[0501] [17:10] A: recharging
+[0502] [17:11] A: never have to you use any batteries
+[0503] [17:11] C: Yeah
+[0504] [17:12] B: Maybe that's a good idea
+[0505] [17:13] B: but yeah and we have to look at the price no i think
+[0506] [17:16] A: Yeah
+[0507] [17:16] A: i'm i'm i i my expensive there is a normal
+[0508] [17:16] D: Yeah
+[0509] [17:17] C: Yeah
+[0510] [17:18] C: i don't know
+[0511] [17:19] A: recharger
+[0512] [17:19] B: Well
+[0513] [17:19] B: uh How much is your uh standards uh a mobile phone the charger
+[0514] [17:25] A: I know
+[0515] [17:26] C: Yeah
+[0516] [17:26] C: if you buy it uh separately from a phone it's probably Expensive
+[0517] [17:28] D: Yeah
+[0518] [17:30] C: but I don't know what the project the production costs are For such a thing
+[0519] [17:33] B: Maybe have the
+[0520] [17:34] A: I if you look at the market it's probably it's still the best way just to put batteries and
+[0521] [17:39] A: it was minutes to expand
+[0522] [17:39] B: Yeah
+[0523] [17:40] B: "'cause" well
+[0524] [17:40] C: Yeah
+[0525] [17:40] D: Yeah
+[0526] [17:41] D: but on station is uh a really good idea
+[0527] [17:44] D: because uh uh a lot of people are And lose their remote control on don't know where it is
+[0528] [17:50] D: an hour you can put it always at the same place
+[0529] [17:50] A: Yep that's fine yeah
+[0530] [17:52] D: Maybe it's
+[0531] [17:54] D: Therefore it's a good idea
+[0532] [17:55] D: but Maybe too expensive
+[0533] [17:58] B: Maybe uh use it as a separate option So that uh separately
+[0534] [18:00] D: Yeah
+[0535] [18:01] D: You can
+[0536] [18:02] D: yeah
+[0537] [18:02] D: you can buy it will
+[0538] [18:03] C: Yeah and
+[0539] [18:04] C: but i have a mouse that's uh Uh also
+[0540] [18:08] B: Try to do
+[0541] [18:09] C: Yeah
+[0542] [18:09] C: and and you just have normal batteries
+[0543] [18:12] C: that you can recharge just put it in station
+[0544] [18:14] C: or you can change a batteries
+[0545] [18:16] D: Yeah
+[0546] [18:17] A: The option this option that's cool
+[0547] [18:19] D: Yeah i i said something on paper already At size looks uh usable
+[0548] [18:25] D: uh the buttons on use all places
+[0549] [18:27] D: uh that the on off button Must be on top
+[0550] [18:29] A: Yeah
+[0551] [18:31] D: it has to make good in and
+[0552] [18:31] B: Yes
+[0553] [18:32] D: you you have to
+[0554] [18:34] A: As a be has
+[0555] [18:35] A: does it has to be have to be um uh Like The different form than a normal remote controller
+[0556] [18:40] D: Yeah
+[0557] [18:40] D: i don't i don't know I don't know
+[0558] [18:42] B: Well i
+[0559] [18:42] D: if we
+[0560] [18:42] B: think we have to look at that
+[0561] [18:43] B: goes well You can do uh i think the the standard way
+[0562] [18:47] B: but then you want
+[0563] [18:48] D: You can make it very special To create their own um Looks
+[0564] [18:50] A: Yeah
+[0565] [18:52] D: but it's very hard to
+[0566] [18:53] C: Yeah
+[0567] [18:54] C: it if if we want to make it special we probably have to do a lot of testing If it really works
+[0568] [19:00] D: Yeah
+[0569] [19:00] B: Well
+[0570] [19:00] B: you can um I have uh the basic things on the same place Like on off button on top and the
+[0571] [19:10] B: t.
+[0572] [19:10] B: v. channels one two three four As a block And then the volume uh obviously want on top so you can see
+[0573] [19:13] C: Yeah
+[0574] [19:17] B: But the rest is uh you don't use that often
+[0575] [19:20] B: so If you have a clear button with and a good like on it should be clear as well
+[0576] [19:26] C: Yeah
+[0577] [19:26] B: So it doesn't matter what place of this on the remote control I think
+[0578] [19:27] A: Yeah
+[0579] [19:32] B: So you can do something unique with that
+[0580] [19:34] C: And what we have to think about two ways uh A buttons that you used often are Um Maybe uh Like when you fall it open
+[0581] [19:45] C: When you have is closed you can still uh do the the the functions
+[0582] [19:49] D: Yeah yeah
+[0583] [19:49] D: what paul it's
+[0584] [19:50] D: out there on on top part uh The basic options on top
+[0585] [19:50] A: Yeah just for the
+[0586] [19:50] C: Yeah
+[0587] [19:51] C: but
+[0588] [19:51] A: t.
+[0589] [19:51] A: v. and just a normal fashion that's fine
+[0590] [19:52] C: Mm yeah
+[0591] [19:52] B: Yeah yeah
+[0592] [19:52] C: but
+[0593] [19:54] D: and if you follow that one
+[0594] [19:54] C: Basically when i'm watching
+[0595] [19:55] A: But maybe it's
+[0596] [19:55] C: t.
+[0597] [19:56] C: v. and just using like five buttons or so
+[0598] [19:59] B: Yeah
+[0599] [19:59] B: and music But i meant
+[0600] [19:59] C: So
+[0601] [20:00] A: Maybe it's very hard to to to make it For open and to that look like it's very yeah
+[0602] [20:05] A: uh that's cool
+[0603] [20:06] D: Yeah If you if you make the folder open its or also um uh the strength
+[0604] [20:09] A: maybe it's hard to
+[0605] [20:13] D: uh is not as good as a normal um remote control
+[0606] [20:14] A: No that's right
+[0607] [20:14] A: so maybe you have to
+[0608] [20:15] A: to to or keep it like a a square use normal remote control and
+[0609] [20:20] B: Okay but yeah
+[0610] [20:23] A: I think about
+[0611] [20:23] C: Yeah
+[0612] [20:24] A: we have to close to sell to finish you said meetings
+[0613] [20:26] A: and
+[0614] [20:27] C: Okay
+[0615] [20:28] A: Some more things
+[0616] [20:31] A: They have uh an of thirty minutes
+[0617] [20:33] A: so then we going to Meet again
+[0618] [20:36] A: So you know we'd have to use you have to do
+[0619] [20:40] D: Okay
+[0620] [20:42] A: Yeah
+[0621] [20:43] D: for uh for me um the marketing expert the user requirements uh specification do i need to think as the user
+[0622] [20:49] D: uh uh so uh i only do looks and
+[0623] [20:52] B: Know
+[0624] [20:52] B: what you want to do with it
+[0625] [20:53] A: Yeah
+[0626] [20:53] A: i think this way if you you have to me know if it's four A t.
+[0627] [20:57] A: v.
+[0628] [20:57] A: a.
+[0629] [20:57] A: d.
+[0630] [20:57] A: v.
+[0631] [20:57] A: d. player all the things
+[0632] [20:59] D: Oh okay Yeah
+[0633] [20:59] A: Also from a user but All those things together
+[0634] [21:01] D: there's also about strain
+[0635] [21:02] A: yeah everything
+[0636] [21:03] B: Yeah
+[0637] [21:03] D: parents uh Five reading yeah
+[0638] [21:03] B: i also wrote down some stuff
+[0639] [21:05] B: that you want to know
+[0640] [21:05] A: yeah
+[0641] [21:05] A: no maybe not not uh not flying
+[0642] [21:07] A: that's not that that's something for four For here
+[0643] [21:10] B: Technical thing of
+[0644] [21:11] A: That's not fair
+[0645] [21:13] D: Okay
+[0646] [21:13] A: Just if
+[0647] [21:14] A: what's in the market
+[0648] [21:15] A: what's normal
+[0649] [21:15] A: uh what kind of uh buttons you have
+[0650] [21:16] B: What do you want to do which remote control
+[0651] [21:18] B: what do you need a new remote control
+[0652] [21:20] B: i already wrote some know Twenties
+[0653] [21:20] A: Yeah that's right
+[0654] [21:24] D: Yep
+[0655] [21:25] A: Yeah
+[0656] [21:25] A: just
+[0657] [21:26] A: Is that okay
+[0658] [21:27] D: Okay
+[0659] [21:27] B: Yeah
+[0660] [21:28] C: "'kay"
+[0661] [21:29] B: That's already documents in the Four But
+[0662] [21:33] D: Yeah me too
+[0663] [21:38] A: So
+[0664] [21:38] A: see you in thirty minutes
+[0665] [21:40] D: Okay
+[0666] [21:40] D: well
+[0667] [21:40] B: Okay
+[0668] [21:41] C: "'kay"
+[0669] [21:42] A: For the next and you have to uh put it exactly on the square Your laptop
+[0670] [21:47] B: Well
+[0671] [21:48] D: Ooh all
+[0672] [21:51] B: It didn't say that
+[0673] [21:52] A: No
+[0674] [21:53] A: sorry
+[0675] [21:53] B: Your fault
+[0676] [21:57] D: Channel
+[0677] [22:07] B: I've no idea
+[0678] [22:08] D: But ah yeah

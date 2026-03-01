@@ -1,0 +1,1427 @@
+================================================================================
+ICSI Meeting Transcript: Bmr012
+================================================================================
+
+Total Utterances: 1418
+Unique Speakers: 9
+Duration: 41.87 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:05] fe008: OK .
+[0002] [00:06] me001: Test .
+[0003] [00:08] me013: Let 's see , I should be
+[0004] [00:13] me011: As close to your mouth as you can get it .
+[0005] [00:14] me013: Two .
+[0006] [00:14] me018: Up
+[0007] [00:14] me018: high as you can get .
+[0008] [00:14] me013: La
+[0009] [00:16] mn005: Channel one one one .
+[0010] [00:16] fe008: Yeah , on your upper lip .
+[0011] [00:16] me013: Is this channel one ?
+[0012] [00:18] me013: Gee , OK .
+[0013] [00:20] me013: Yes .
+[0014] [00:21] me013: OK .
+[0015] [00:21] me011: OK , so for for For people wearing the wireless mikes , like like this one , I find the easiest way to wear it is sorta this this sorta like that .
+[0016] [00:21] mn005: This is chan channel channel one one two three
+[0017] [00:25] me001: Channel five , channel five .
+[0018] [00:27] me013: Yeah .
+[0019] [00:33] me011: It 's actually a lot more comfortable then if you try to put it over your temples ,
+[0020] [00:33] me013: Mm - hmm . What do you do ,
+[0021] [00:34] me001: Test , test test .
+[0022] [00:38] me011: so
+[0023] [00:38] me013: you do it higher ?
+[0024] [00:39] me013: Mm - hmm .
+[0025] [00:40] me018: Adam 's just trying to generate good uh data for the recognizer there .
+[0026] [00:43] fe008: Yeah
+[0027] [00:44] fe008: that 's right .
+[0028] [00:45] me011: And then also , for for all of them , if your boom is adjustable , the boom should be towards the corner of your mouth ,
+[0029] [00:45] me001: Test test .
+[0030] [00:46] mn017: By the way , there was a bug .
+[0031] [00:47] mn017: Yeah , i it wasn't using the proper
+[0032] [00:48] me018: Oh it was .
+[0033] [00:51] me011: and about a uh a thumb to a thumb and a half distance away from your mouth ,
+[0034] [00:52] mn017: basically it wasn't adapting anything .
+[0035] [00:54] me018: Oh .
+[0036] [00:56] me011: so about like I 'm wearing it now .
+[0037] [00:57] me018: Oh that 's interesting .
+[0038] [00:58] me018: So why didn't you get the same results and the unadapted ?
+[0039] [01:00] mn005: It 's not always possible .
+[0040] [01:00] me011: so so Jane , you could actually do even a little closer to your mouth ,
+[0041] [01:01] mn017: Hmm ?
+[0042] [01:02] fe008: I could can this be adjuste like this ?
+[0043] [01:02] me018: Why didn't you get the same results and the unadapted ?
+[0044] [01:02] me011: but
+[0045] [01:04] mn017: Oh , because when it estimates the transformer pro produces like a single matrix or something .
+[0046] [01:04] me011: Yep .
+[0047] [01:05] fe008: Is that @ @ ? OK ,
+[0048] [01:05] fe008: thank you .
+[0049] [01:06] me001: Adam
+[0050] [01:07] me001: uh
+[0051] [01:07] me018: O Oh oh I see .
+[0052] [01:09] me018: I see , I see .
+[0053] [01:10] me001: no ?
+[0054] [01:10] me013: OK .
+[0055] [01:10] me011: Channel five , s speak again .
+[0056] [01:10] fe008: Hello .
+[0057] [01:11] me001: Maybe not .
+[0058] [01:12] mn017: Basically there were no counts
+[0059] [01:12] me011: Yeah , that 's alright .
+[0060] [01:12] me001: Hello ?
+[0061] [01:13] mn005: Yeah .
+[0062] [01:13] me001: It 's OK ?
+[0063] [01:13] me011: I mean , we could we could up the gain slightly if you wanted to .
+[0064] [01:14] me001: Is this OK ?
+[0065] [01:14] mn005: OK .
+[0066] [01:14] me018: I see what you mean .
+[0067] [01:16] fe016: Who 's channel B ?
+[0068] [01:17] me011: but
+[0069] [01:19] me011: Uh , channel B is probably Liz .
+[0070] [01:22] fe016: Uh oh .
+[0071] [01:22] mn005: Uh channel B I am channel B .
+[0072] [01:23] me013: You wanna close this ,
+[0073] [01:23] fe008: Channel eight , eight .
+[0074] [01:24] me013: or
+[0075] [01:24] fe016: No I
+[0076] [01:25] me011: Thank you .
+[0077] [01:25] mn005: No , channel B .
+[0078] [01:25] fe016: yeah ,
+[0079] [01:26] mn017: Hello , hello .
+[0080] [01:26] fe016: yeah , you 're channel B .
+[0081] [01:26] mn005: Yeah , yeah .
+[0082] [01:27] fe016: So can you talk a bit ?
+[0083] [01:28] fe016: I thought it might be too
+[0084] [01:28] mn005: OK , yeah ,
+[0085] [01:29] mn005: channel B , one two three four five .
+[0086] [01:30] fe016: OK .
+[0087] [01:30] me011: Yeah , it 's alright .
+[0088] [01:31] me011: So , the gain isn't real good .
+[0089] [01:32] me013: We 're recording ,
+[0090] [01:32] fe016: OK .
+[0091] [01:32] me011: OK ,
+[0092] [01:33] me011: so we are recording .
+[0093] [01:33] mn005: Ah .
+[0094] [01:33] me013: right ?
+[0095] [01:33] me013: Yeah .
+[0096] [01:34] me001: Oh .
+[0097] [01:34] me011: Um everyone should have at least two forms possibly three in front of you depending on who you are .
+[0098] [01:34] mn017: OK .
+[0099] [01:40] me011: Um we we 're doing a new speaker form and you only have to spea fill out the speaker form once
+[0100] [01:44] me011: but everyone does need to do it .
+[0101] [01:46] me011: And so that 's the name , sex , email , et cetera .
+[0102] [01:49] mn005: Mm - hmm .
+[0103] [01:50] me011: We we had a lot of discussion about the variety of English and so on
+[0104] [01:54] me011: so if you don't know what to put just leave it blank .
+[0105] [01:57] me011: Um I I designed the form and I don't know what to put for my own region ,
+[0106] [02:02] me011: so
+[0107] [02:02] mn017: Mmm .
+[0108] [02:03] me018: California .
+[0109] [02:04] mn017: I
+[0110] [02:04] me011: California .
+[0111] [02:04] mn005: California .
+[0112] [02:05] mn017: Um may I make one suggestion ?
+[0113] [02:06] mn017: Instead of age put date of uh year of birth
+[0114] [02:06] me011: Sure .
+[0115] [02:09] mn017: because age will change , but The year of birth changes , you know , stays the same , usually .
+[0116] [02:12] me011: Oh .
+[0117] [02:16] me011: Birth year ?
+[0118] [02:16] fe016: A actually , wait a minute ,
+[0119] [02:16] fe008: Although
+[0120] [02:17] mn017: Yeah .
+[0121] [02:18] fe016: shouldn't it be the other way around ?
+[0122] [02:18] me018: Not for me .
+[0123] [02:19] fe008: course
+[0124] [02:20] fe016: On the other side ,
+[0125] [02:21] fe016: yeah .
+[0126] [02:21] mn017: Well
+[0127] [02:24] fe008: Yes
+[0128] [02:26] me018: But there 's no other date on the form .
+[0129] [02:26] fe016: O yeah .
+[0130] [02:27] fe016: W we don't care how they old they really are .
+[0131] [02:27] mn017: Well well I don't know .
+[0132] [02:28] fe008: Yes . Unless we wanna send them a card .
+[0133] [02:32] me011: Well I guess it depends on how long the corpus is gonna be collected for .
+[0134] [02:36] fe008: Yeah , that 's true .
+[0135] [02:37] mn017: Anyway .
+[0136] [02:38] fe016: I still don't see the problem .
+[0137] [02:38] me011: Either way
+[0138] [02:39] me011: yeah I think I think age is alright
+[0139] [02:41] me011: and then um there will be attached to this a point or two these forms uh so that you 'll be able to extract the date off that
+[0140] [02:42] mn017: OK .
+[0141] [02:48] mn017: Mm - hmm .
+[0142] [02:52] me011: so , anyway .
+[0143] [02:53] me011: And so then you also have a digits form which needs to be filled out every time , the speaker form only once , the digit form every time
+[0144] [03:00] me011: even if you don't read the digits you have to fill out the digits form so that we know that you were at the meeting .
+[0145] [03:06] me011: OK ?
+[0146] [03:06] me011: And then also if you haven't filled one out already you do have to fill out a consent form .
+[0147] [03:12] me011: And that should just be one person whose name I don't know .
+[0148] [03:17] me011: OK ?
+[0149] [03:20] me001: Do you want this Adam ?
+[0150] [03:23] me011: Uh sure .
+[0151] [03:24] me011: Thank you .
+[0152] [03:29] me013: So uh
+[0153] [03:29] me011: OK so should we do agenda items ?
+[0154] [03:32] me013: Uh oh that 's a good idea .
+[0155] [03:34] me013: I shouldn't run the meeting .
+[0156] [03:39] me011: Uh well I have I wanna talk about new microphones and wireless stuff .
+[0157] [03:43] fe008: Mmm .
+[0158] [03:44] me011: And I 'm sure Liz and Andreas wanna talk about recognition results .
+[0159] [03:49] me011: Anything else ?
+[0160] [03:51] fe016: I guess what time do we have to leave ?
+[0161] [03:54] fe016: Three thirty ?
+[0162] [03:54] mn017: Yeah .
+[0163] [03:55] fe016: Yeah ,
+[0164] [03:55] me011: Why don't you go first then .
+[0165] [03:56] fe016: so .
+[0166] [03:56] me013: Yeah ,
+[0167] [03:57] me013: good idea .
+[0168] [03:58] mn017: OK .
+[0169] [03:58] fe016: Um Well , I I sent out an email s couple hours ago
+[0170] [04:04] fe016: so
+[0171] [04:06] fe016: um with Andreas ' help um Andreas put together a sort of no frills recognizer
+[0172] [04:11] fe016: which
+[0173] [04:17] fe016: a bigram recognizer
+[0174] [04:18] fe016: and that 's trained on Switchboard which is telephone conversations .
+[0175] [04:22] fe016: Um
+[0176] [04:26] fe016: Don took the first meeting that Jane had transcribed
+[0177] [04:30] fe016: and um you know separated used the individual channels we segmented it in into the segments that Jane had used
+[0178] [04:37] fe016: and uh Don sampled that so so eight K
+[0179] [04:41] fe016: um and then we ran up to I guess the first twenty minutes ,
+[0180] [04:45] fe016: up to synch time of one two zero zero
+[0181] [04:47] fe016: so is that that 's twenty minutes or so ?
+[0182] [04:49] fe016: Um yeah because I guess there 's some ,
+[0183] [04:50] me011: Or so .
+[0184] [04:52] fe016: and Don can talk to Jane about this ,
+[0185] [04:53] fe016: there 's some bug in the actual synch time file that ah uh
+[0186] [04:57] fe016: I 'm we 're not sure where it came from but stuff after that was a little messier .
+[0187] [05:01] fe016: Anyway so it 's twenty minutes and I actually
+[0188] [05:01] me011: Hmm .
+[0189] [05:03] fe016: um
+[0190] [05:04] me011: I
+[0191] [05:05] me011: was that did that did that recording have the glitch in the middle ?
+[0192] [05:06] fe008: I 'm puzzled by that .
+[0193] [05:08] fe008: I oh oh , I see .
+[0194] [05:09] fe016: There
+[0195] [05:09] fe008: Oh there was a glitch somewhere .
+[0196] [05:10] fe016: yeah ,
+[0197] [05:11] fe016: so that actually
+[0198] [05:12] fe016: um
+[0199] [05:12] me001: Was it twenty minutes in ,
+[0200] [05:13] fe008: I forgot about that .
+[0201] [05:13] fe016: if it was twenty minutes in then I don't know
+[0202] [05:13] me001: I
+[0203] [05:14] fe008: Well
+[0204] [05:14] mn017: Well it was interesting ,
+[0205] [05:15] fe008: but I was able to can transcribe
+[0206] [05:15] me011: I don't remember when it is .
+[0207] [05:16] mn017: suddenly the the overall error rate when we first ran it was like eighty percent
+[0208] [05:21] mn017: but i looking at the first sentences looked much better than that
+[0209] [05:25] mn017: and then suddenly it turned very bad
+[0210] [05:26] mn017: and
+[0211] [05:30] me001: Yeah , that might be that might be that might be my fault .
+[0212] [05:30] fe016: Wel
+[0213] [05:30] mn017: it was actually recognized
+[0214] [05:30] me011: Oh no .
+[0215] [05:31] fe008: Wow .
+[0216] [05:32] mn017: so
+[0217] [05:33] me001: I
+[0218] [05:33] me011: Oh so that was just a parsing mismatch .
+[0219] [05:33] mn017: OK .
+[0220] [05:33] fe016: No
+[0221] [05:35] fe016: yeah i it was a complicated bug
+[0222] [05:37] fe016: because they were sometimes one off and then sometimes totally random
+[0223] [05:40] fe016: so
+[0224] [05:40] fe008: Oh .
+[0225] [05:40] me001: yeah , I was pretty certain that it worked up until that time ,
+[0226] [05:41] fe008: That 's not good .
+[0227] [05:41] fe016: um
+[0228] [05:42] fe016: Yeah
+[0229] [05:43] me001: so
+[0230] [05:43] fe016: so that 's what we have
+[0231] [05:43] mn017: OK .
+[0232] [05:43] me011: Alright .
+[0233] [05:44] fe008: Yeah .
+[0234] [05:44] fe016: but that that will be completely gone if this synch time problem
+[0235] [05:46] me011: The the glitch
+[0236] [05:47] mn017: So so we have everything recognized but we scored only the first uh whatever , up to that time to
+[0237] [05:47] fe008: And
+[0238] [05:48] fe008: yeah .
+[0239] [05:48] me011: yeah .
+[0240] [05:49] fe016: So you guys know .
+[0241] [05:51] me013: S sorry I haven't seen the email ,
+[0242] [05:51] fe016: Yeah .
+[0243] [05:51] me011: Th - the
+[0244] [05:52] fe008: The the well wait
+[0245] [05:52] fe016: So here 's the actual copy of the email
+[0246] [05:53] me013: what was the score ?
+[0247] [05:53] fe008: we should say something about the glitch .
+[0248] [05:55] fe008: He he can say something about the glitch .
+[0249] [05:55] fe016: um oh OK
+[0250] [05:56] me011: yeah .
+[0251] [05:56] fe008: Cuz
+[0252] [05:57] fe016: so
+[0253] [05:57] me011: There there there 's an acoustic glitch that occurs where um the channels get slightly asynchronized
+[0254] [05:58] fe008: very small .
+[0255] [06:00] fe008: Yep .
+[0256] [06:02] fe016: Oh .
+[0257] [06:05] fe016: Right .
+[0258] [06:05] me011: so the that that problem has gone away in the original driver believe it or not when the SSH key gen ran the driver paused for a fraction of a second
+[0259] [06:05] mn017: Mmm .
+[0260] [06:13] me001: Hmm .
+[0261] [06:13] me013: Hmm .
+[0262] [06:14] me011: and so the channels get a little asynchronous
+[0263] [06:16] me011: and so if you listen to it in the middle there 's a little part where it starts doing doing click sounds .
+[0264] [06:21] me013: So
+[0265] [06:21] fe016: And is it only once that that happens ?
+[0266] [06:22] me011: But
+[0267] [06:23] me011: yeah
+[0268] [06:23] me011: it
+[0269] [06:23] fe016: OK .
+[0270] [06:23] me011: right once in the middle .
+[0271] [06:24] fe016: There 's the previous page has some more information about sort of what was wrong
+[0272] [06:25] me013: so
+[0273] [06:28] fe016: but
+[0274] [06:28] me011: Um But that shouldn't affect anything
+[0275] [06:28] me013: so un unsurprisingly Adam is the golden voice ,
+[0276] [06:28] fe008: S
+[0277] [06:28] fe016: OK
+[0278] [06:29] fe016: so that 's actually
+[0279] [06:30] fe008: and
+[0280] [06:31] me013: you see this here ?
+[0281] [06:31] me011: yeah yeah
+[0282] [06:31] fe016: It
+[0283] [06:32] me011: " bah "
+[0284] [06:33] fe016: OK
+[0285] [06:33] fe016: no
+[0286] [06:35] mn017: Oh
+[0287] [06:35] fe016: What
+[0288] [06:37] me018: Huh .
+[0289] [06:38] fe016: I mean if we know about it then I guess it could always be checked for it
+[0290] [06:39] me011: Well the acoustic one shouldn't do anything .
+[0291] [06:41] fe016: but they
+[0292] [06:41] me001: Yeah , I don't know exactly what affected it
+[0293] [06:41] fe008: I agree .
+[0294] [06:42] fe008: I agree .
+[0295] [06:43] me001: but I 'll I 'll talk to you about it ,
+[0296] [06:43] mn017: I
+[0297] [06:44] me011: But
+[0298] [06:44] mn017: Yeah .
+[0299] [06:44] me001: I 'll show you the point .
+[0300] [06:44] fe008: Yeah .
+[0301] [06:44] fe008: It it had no effect on my transcription ,
+[0302] [06:44] fe016: Yeah .
+[0303] [06:46] fe008: you know , I mean I I had no trouble hearing it and and having time bins
+[0304] [06:46] mn017: Mmm .
+[0305] [06:49] fe008: but
+[0306] [06:50] me011: I do remember seeing once the transcriber produce an incorrect XML file where one of the synch numbers was incorrect .
+[0307] [06:54] fe008: Oh .
+[0308] [06:56] me001: That 's what happened .
+[0309] [06:56] fe016: Well , the the synch time the synch numbers have more significant digits than they should ,
+[0310] [06:57] fe008: Oh .
+[0311] [06:57] mn005: Yeah .
+[0312] [06:58] me001: There
+[0313] [06:58] me011: Where where they weren't monotonic .
+[0314] [07:00] me001: yeah
+[0315] [07:01] fe016: right ?
+[0316] [07:01] fe016: There 's things that are l in smaller increments than a frame .
+[0317] [07:02] mn005: Yeah .
+[0318] [07:04] fe008: Oh , interesting .
+[0319] [07:04] me011: Oh OK
+[0320] [07:05] me011: so that 's
+[0321] [07:05] me001: Hmm .
+[0322] [07:05] fe016: And so then , I mean you look at that and it 's got you know more than three significant digits in a synch time then that can't be right
+[0323] [07:09] fe008: Oh .
+[0324] [07:11] me011: yeah sounds like a bug .
+[0325] [07:11] fe008: Yeah .
+[0326] [07:11] mn017: Mmm .
+[0327] [07:11] fe016: so
+[0328] [07:13] fe016: that 's why we only have twenty minutes
+[0329] [07:15] fe016: but
+[0330] [07:16] me001: Non - zero ?
+[0331] [07:17] me001: Um there are like more cuz there 's a lot of zeros I tacked on just because of the way the script ran ,
+[0332] [07:19] me011: The other one I saw was that it
+[0333] [07:22] me001: I mean but there were there was a point .
+[0334] [07:22] me011: yeah .
+[0335] [07:24] fe016: Yeah that was fine .
+[0336] [07:25] me011: The other one I saw was non non - monotonic synch times
+[0337] [07:25] fe016: That that was OK .
+[0338] [07:27] me001: OK .
+[0339] [07:28] me011: and that definitely indicra indicates a bug .
+[0340] [07:29] me001: Uh .
+[0341] [07:29] fe016: Well that would really be a problem ,
+[0342] [07:31] fe016: yeah .
+[0343] [07:31] fe016: So anyway these are just the ones that are the prebug for one meeting .
+[0344] [07:33] me001: Yeah .
+[0345] [07:38] fe016: um
+[0346] [07:38] me011: So that 's very encouraging .
+[0347] [07:39] fe016: this is really encouraging cuz this is free recognition ,
+[0348] [07:40] mn005: Yeah .
+[0349] [07:40] me013: Hmm .
+[0350] [07:41] me013: Cool .
+[0351] [07:42] fe016: there 's no I mean the language model for Switchboard is totally different
+[0352] [07:42] mn017: Mmm .
+[0353] [07:45] fe016: so you can see some like this Trent Lott which
+[0354] [07:47] me018: Trent Lott .
+[0355] [07:49] fe016: um I mean
+[0356] [07:50] fe016: these are sort of funny ones ,
+[0357] [07:50] me018: It 'll get those though .
+[0358] [07:51] fe016: there 's a lot of perfect ones and good ones and all the references ,
+[0359] [07:54] fe016: I mean you can read them and when we get more results you can look through and see
+[0360] [07:57] me011: I and as I said I would like to look at the lattices
+[0361] [07:58] mn017: Mm - hmm .
+[0362] [07:58] fe016: but
+[0363] [07:59] fe016: um it 's pretty good .
+[0364] [08:01] me011: because it sounded like even the ones it got wrong it sort of got it right ?
+[0365] [08:04] fe016: Well so I guess we can generate
+[0366] [08:04] me011: Sounds likes ?
+[0367] [08:06] fe008: Mm - hmm .
+[0368] [08:06] mn017: There are a fair number of errors that are , you know where got the plural S wrong or the inflection on the verb wrong .
+[0369] [08:07] fe016: um
+[0370] [08:11] me011: Yeah ,
+[0371] [08:11] me011: and who cares ?
+[0372] [08:12] me011: And and there were lots of of course the " uh uh " - s , " in on " - s " of uh " - s .
+[0373] [08:14] mn017: Mmm
+[0374] [08:14] fe016: there
+[0375] [08:17] fe016: No those are actually
+[0376] [08:17] mn017: Yeah .
+[0377] [08:18] fe016: a lot of the errors I think are out of vocabulary ,
+[0378] [08:21] fe016: so is it like PZM is three words ,
+[0379] [08:21] mn017: Mm - hmm .
+[0380] [08:23] fe016: it 's PZM ,
+[0381] [08:24] mn017: Mm - hmm .
+[0382] [08:24] fe016: I mean there 's nothing
+[0383] [08:25] me011: Right .
+[0384] [08:26] fe016: There 's no language model for PZM or
+[0385] [08:26] me011: Ri - ri right .
+[0386] [08:28] fe016: um
+[0387] [08:28] me011: Did you say there 's no language for PZM ?
+[0388] [08:30] fe016: No
+[0389] [08:32] me011: Do you mean so every time someone says PZM it 's an error ?
+[0390] [08:35] me011: Maybe we shouldn't say PZM in these meetings .
+[0391] [08:37] fe016: Well well there 's all kinds of other stuff like Jimlet
+[0392] [08:39] fe016: and
+[0393] [08:39] me011: Yeah , that 's right , Jimlet .
+[0394] [08:42] me013: Well , we don't even know what that means ,
+[0395] [08:42] fe016: so but this is really encouraging because
+[0396] [08:43] me011: Yeah , that 's right .
+[0397] [08:43] me013: so I
+[0398] [08:46] fe016: so , I mean the bottom line is even though it 's not a huge amount of data um it should be uh reasonable to actually run recognition and be like within the scope of of r reasonable s you know Switchboard
+[0399] [08:59] fe016: this is like h about how well we do on Switchboard - two data with the Switchboard - one trained mostly trained recognizer
+[0400] [09:04] me011: Right .
+[0401] [09:05] fe016: and Switchboard - two is got sort of a different population of speakers and a different topic
+[0402] [09:07] me011: Excellent .
+[0403] [09:11] fe016: and they 're talking about things in the news that happened after Switchboard - one
+[0404] [09:15] fe016: so there was @ @ so that 's great .
+[0405] [09:16] me013: Yeah .
+[0406] [09:17] me013: Yeah so we 're in better shape than we were say when we did had the ninety - three workshop
+[0407] [09:17] fe016: Um
+[0408] [09:20] me013: and we were all getting like seventy percent error on Switchboard .
+[0409] [09:23] mn017: Mm - hmm .
+[0410] [09:23] fe016: Oh yeah
+[0411] [09:24] fe016: I mean this is really ,
+[0412] [09:24] me013: you know
+[0413] [09:25] mn017: Mmm .
+[0414] [09:25] fe016: and thanks to Andreas who , I mean this is a
+[0415] [09:26] mn017: Mmm .
+[0416] [09:26] me011: Well
+[0417] [09:27] me013: Yeah .
+[0418] [09:27] fe016: eh um
+[0419] [09:27] mn017: Oh
+[0420] [09:29] me013: Yeah .
+[0421] [09:29] me011: the first run I ran of Switchboard I got a hundred twenty percent word error
+[0422] [09:29] fe016: yeah
+[0423] [09:32] me011: but
+[0424] [09:34] fe016: So and what al also this means is that
+[0425] [09:35] fe008: Right .
+[0426] [09:35] me011: Not Switchboard ,
+[0427] [09:36] fe016: um
+[0428] [09:36] me011: uh Broadcast News .
+[0429] [09:36] mn017: Well
+[0430] [09:37] fe016: I mean there 's a bunch of things in this note to various people
+[0431] [09:39] fe016: especially
+[0432] [09:43] fe016: since we have this new data now uh in order to go from the transcripts more easily to um just the words that the recognizer would use for scoring .
+[0433] [09:53] fe016: I
+[0434] [09:58] me013: Oh one thing I guess I didn't get
+[0435] [09:59] me013: so you know the language model was straight from from bigram from Switchboard
+[0436] [10:03] me013: the acoustic models were also from Switchboard or or
+[0437] [10:05] mn017: Yeah .
+[0438] [10:06] fe016: Yeah .
+[0439] [10:06] fe008: That 's amazing .
+[0440] [10:06] me013: So they didn't have anything from this acoustic data in yet ?
+[0441] [10:07] me011: Yeah , so that 's great .
+[0442] [10:08] fe016: No .
+[0443] [10:09] fe016: And actually we actually um used Switchboard telephone bandwidth models
+[0444] [10:09] fe008: That 's amazing .
+[0445] [10:09] me013: OK .
+[0446] [10:13] me013: Yeah .
+[0447] [10:13] fe016: which I guess
+[0448] [10:13] me018: I was just gonna say ,
+[0449] [10:14] mn017: Well that 's those are the only we ones there are ,
+[0450] [10:14] me018: yeah .
+[0451] [10:15] fe016: so that 's the on that 's the only acoustic training data that we have a lot of
+[0452] [10:16] me011: Yeah .
+[0453] [10:16] mn017: I mean
+[0454] [10:17] mn017: Right .
+[0455] [10:18] fe016: and I guess Ramana ,
+[0456] [10:20] fe016: so
+[0457] [10:25] fe016: it 's it 's not like we probably lose a huge amount
+[0458] [10:25] me013: Right .
+[0459] [10:27] fe016: but we won't know
+[0460] [10:27] fe016: because we don't have any full band models for s conversational speech .
+[0461] [10:30] me018: It 's probably not as bad as going f using full band models on telephone band speech
+[0462] [10:32] fe016: So .
+[0463] [10:35] mn017: Oh yeah .
+[0464] [10:35] me018: right ?
+[0465] [10:35] fe016: Right .
+[0466] [10:36] fe016: Right , so it 's so
+[0467] [10:36] me013: Yeah ,
+[0468] [10:36] mn017: Yeah .
+[0469] [10:36] me013: but for Broadcast News when we we played around between the two there wasn't a huge loss .
+[0470] [10:40] me011: Right , it was not a big deal .
+[0471] [10:40] fe016: Yeah
+[0472] [10:41] fe016: so I wou
+[0473] [10:41] mn017: I should I should say that the language model is not just Switchboard
+[0474] [10:41] fe016: so that 's good .
+[0475] [10:42] me011: Although combining em worked well .
+[0476] [10:44] mn017: it
+[0477] [10:46] mn017: I mean there 's uh actually more data is from Broadcast News
+[0478] [10:50] mn017: but with a little less weight
+[0479] [10:51] fe016: Yeah .
+[0480] [10:52] me013: Uh - huh .
+[0481] [10:52] fe016: Like Trent Lott must have been from
+[0482] [10:52] mn017: uh because
+[0483] [10:54] fe016: I guess Switchboard was before
+[0484] [10:54] mn017: mm - hmm ,
+[0485] [10:54] mn017: right .
+[0486] [10:56] mn017: Um By the way just for fun we also ran ,
+[0487] [10:56] fe016: uh .
+[0488] [10:58] me013: Good point .
+[0489] [11:00] mn017: I mean our complete system starts by doing ge a gender detection
+[0490] [11:03] me013: Mm - hmm .
+[0491] [11:04] mn017: so just for the heck of it I ran that
+[0492] [11:05] me011: And it said a hundred percent male ?
+[0493] [11:07] mn017: um and it might be reassuring for everybody to know that it got all the genders right .
+[0494] [11:11] fe016: The j
+[0495] [11:11] me011: Oh it did ?
+[0496] [11:12] mn017: Yeah so
+[0497] [11:13] fe008: Oh that 's I 'm glad .
+[0498] [11:13] me011: It got all two genders ?
+[0499] [11:14] fe016: Yeah
+[0500] [11:15] fe016: but you know Jane and Adam have you kn about equal performance
+[0501] [11:16] mn017: Yeah .
+[0502] [11:16] mn017: Yes .
+[0503] [11:19] fe016: and uh and that 's interesting
+[0504] [11:21] fe016: cuz I think the their language models are quite different
+[0505] [11:24] fe016: so
+[0506] [11:24] fe016: and I I 'm pretty sure from listening to Eric that , you know given the words he was saying and given his pronunciation that the reason that he 's so much worse is the lapel .
+[0507] [11:34] me011: Right .
+[0508] [11:34] fe008: That makes a lot of sense ,
+[0509] [11:34] me013: Yeah .
+[0510] [11:35] fe016: So it 's nice now if we can just sort of eliminate the lapel one when when we get new microphones
+[0511] [11:35] fe008: yeah .
+[0512] [11:37] fe008: Very possible .
+[0513] [11:39] me013: Yeah
+[0514] [11:39] me013: I I I would bet on that too
+[0515] [11:39] fe016: that would be worth it
+[0516] [11:41] fe016: um
+[0517] [11:41] me013: cuz he certainly in that when as a as a burp user he was he was a pretty uh strong one .
+[0518] [11:46] me011: Sheep .
+[0519] [11:46] fe016: Yeah
+[0520] [11:47] fe016: he he he sounded to me just from he sounded like a ,
+[0521] [11:47] me013: Yeah .
+[0522] [11:49] fe016: what 's it a sheep or a goat ?
+[0523] [11:50] me011: A sheep .
+[0524] [11:51] me011: Baah .
+[0525] [11:51] me013: Sheep .
+[0526] [11:51] fe016: Sheep ,
+[0527] [11:51] fe016: right .
+[0528] [11:51] me013: Yeah .
+[0529] [11:52] me013: Sheep is good .
+[0530] [11:52] fe016: Sounded good .
+[0531] [11:53] me013: Yeah .
+[0532] [11:53] fe016: Right so um so I guess the good news is that
+[0533] [11:54] fe008: Mm - hmm .
+[0534] [11:57] fe016: and and again this is without a lot of the sort of bells and whistles that we c can do with the SRI system
+[0535] [12:02] fe016: and we 'll have more data and we can also start to maybe adapt the language models once we have enough meetings .
+[0536] [12:09] fe016: So this is only twenty minutes of one meeting with no no tailoring at all .
+[0537] [12:12] mn017: I mean clearly there are um with just a small amount of uh actual meeting transcriptions uh thrown into the language model you can probably do quite a bit better
+[0538] [12:23] fe016: Yeah .
+[0539] [12:23] mn017: because
+[0540] [12:24] me011: Or just dictionary .
+[0541] [12:24] fe016: The voca the vocabulary especially
+[0542] [12:26] fe016: yeah .
+[0543] [12:28] fe016: Yeah , so .
+[0544] [12:28] mn017: Not that much the vocabulary actually
+[0545] [12:30] mn017: I think um well we have to see
+[0546] [12:32] mn017: but
+[0547] [12:32] fe016: Yeah .
+[0548] [12:33] fe016: It 's pretty good
+[0549] [12:35] fe016: um so then
+[0550] [12:35] me013: Have to add PZM and so on
+[0551] [12:36] me011: And I have to try it on the far field mike
+[0552] [12:37] me013: but
+[0553] [12:37] me011: yeah .
+[0554] [12:38] fe016: PZM
+[0555] [12:38] fe016: and then there 's things like for the transcription I got when someone has a digit in the transcript I don't know if they said , you know one one or eleven
+[0556] [12:45] fe016: and I don't know if they said Tcl or TCL .
+[0557] [12:49] fe016: there 's things like that where , you know the um we 'll probably have to ask the transcribers to indicate some of those kinds of things
+[0558] [12:55] fe016: but in general it was really good
+[0559] [12:57] fe016: and
+[0560] [12:58] fe016: and this is this is good news
+[0561] [13:01] fe016: because that means the force alignments should be good
+[0562] [13:03] fe016: and if the force alignments ,
+[0563] [13:05] fe016: I mean it 's good news anyway
+[0564] [13:06] fe016: but if the force alignments are good we can get all kinds of information .
+[0565] [13:10] fe016: For example about , you know prosodic information
+[0566] [13:13] fe016: and speaker overlaps and so forth directly from the aligned times .
+[0567] [13:18] fe016: Um so that 'll be something that
+[0568] [13:20] fe016: actually in order to assess the forced alignment um we need s some linguists or some people to look at it and say are these boundaries in about the right place .
+[0569] [13:29] fe016: Because it 's just gonna give us time marks
+[0570] [13:30] me011: Well we 've done that for one meeting .
+[0571] [13:30] me018: But
+[0572] [13:31] fe016: so .
+[0573] [13:33] fe016: For forced alignment .
+[0574] [13:35] me011: Uh oh oh
+[0575] [13:36] me011: f not for words
+[0576] [13:36] fe016: Ye - right .
+[0577] [13:37] me011: I 'm sorry just for overlaps is we did it for not not for words .
+[0578] [13:38] fe016: Right .
+[0579] [13:39] fe016: So this would be like if you take the words um you know and force align them on all the individual close talk uh close talking mikes then how good are these sort of in reality
+[0580] [13:49] me011: Right .
+[0581] [13:50] fe016: and
+[0582] [13:51] me011: So we might want to take twenty minutes and do a closer word level transcription .
+[0583] [13:55] me011: Maybe actually mark the word boundaries .
+[0584] [13:58] fe016: Oh
+[0585] [13:58] fe016: or i have someone look at the alignments
+[0586] [14:00] fe016: uh maybe a linguist who can say um you know roughly if these are OK and how far away they are .
+[0587] [14:06] me013: Yeah .
+[0588] [14:07] fe016: Um but I think it 's gotta be pretty good
+[0589] [14:09] fe016: because otherwise the word recognition would be really b crummy .
+[0590] [14:11] me011: Right , right .
+[0591] [14:11] fe016: It wouldn't necessarily be the other way around ,
+[0592] [14:13] fe016: if the wor word recognition was crummy the alignment might be OK
+[0593] [14:16] fe016: but if the word recognition is this good the alignment should be pretty good .
+[0594] [14:21] fe016: So that 's about it .
+[0595] [14:22] me018: I wonder if this is a good thing or a bad thing though ,
+[0596] [14:22] me013: I r
+[0597] [14:24] me018: I mean if we 're pr
+[0598] [14:24] me011: That we 're starting so well ?
+[0599] [14:25] me018: yeah if we 're producing a database that everybody 's gonna do well on
+[0600] [14:26] me013: Oh
+[0601] [14:27] me011: Don't worry about it
+[0602] [14:27] me011: w d that 's that 's the close talking mikes .
+[0603] [14:30] me011: Try it on the P Z Ms and and
+[0604] [14:31] me013: Yeah ,
+[0605] [14:32] me013: which I would which well n n n n
+[0606] [14:32] mn005: Yeah , yeah , yeah , yeah .
+[0607] [14:32] me018: So the real value of the database is these ?
+[0608] [14:34] me011: Yeah , abso
+[0609] [14:34] me011: well no but
+[0610] [14:36] me013: I mean there 's still just the w the percentages
+[0611] [14:38] me013: and , I mean they 're not a
+[0612] [14:40] fe016: This i
+[0613] [14:40] me013: as we 've talked about before there 's probably overlaps
+[0614] [14:40] fe016: yeah .
+[0615] [14:41] fe016: This is not that good .
+[0616] [14:42] me013: there 's probably overlaps in in uh in fair number in Switchboard as well
+[0617] [14:46] me013: so
+[0618] [14:47] me013: but but there 's other phenomena ,
+[0619] [14:48] me013: it 's a meeting ,
+[0620] [14:49] me013: it 's a different thing and there 's lots of stuff to learn with the close talking mikes
+[0621] [14:52] me013: but uh
+[0622] [14:53] me013: yeah certainly I 'd like to see as soon as we could ,
+[0623] [14:56] me013: I mean maybe get some of the glitches out of the way
+[0624] [14:58] me013: but soon as we could how well it does with say with the P Z Ms or maybe even one of the
+[0625] [15:02] fe016: Right .
+[0626] [15:03] me013: and uh see if it 's , you know
+[0627] [15:04] me013: is it a hundred twenty percent
+[0628] [15:05] me013: or maybe it 's not
+[0629] [15:06] me013: maybe if with some adaptation you get this down to fifty percent or forty - five percent or something
+[0630] [15:11] me013: and and then if for the PZM it 's seventy or something like that
+[0631] [15:14] me013: that 's actually something we could sort of work with a little bit
+[0632] [15:17] fe016: Yeah .
+[0633] [15:17] fe016: No I think it 's really ,
+[0634] [15:18] me013: so
+[0635] [15:18] fe016: I mean this way we least have a baseline
+[0636] [15:21] fe016: we know that for instance the transcripts are very good
+[0637] [15:23] fe016: so once you can get to the words that the recognizer which is a total subset of the things you need to understand the the text
+[0638] [15:31] fe016: um yeah they 're pretty good
+[0639] [15:33] fe016: so and and it 's converting automatically from the XML to the chopping up the wave forms and so forth
+[0640] [15:38] fe016: it 's not the case that the end of one utterance is in the next segment and things like that which we had more problems with in Switchboard
+[0641] [15:46] fe016: so that 's good .
+[0642] [15:47] fe016: And um let 's see
+[0643] [15:48] fe016: there
+[0644] [15:51] fe016: I can't remember
+[0645] [15:52] fe016: um
+[0646] [15:56] fe016: Sorry can't remember .
+[0647] [15:59] fe016: anyway
+[0648] [16:00] fe008: Congratulations
+[0649] [16:00] fe008: is really great .
+[0650] [16:01] fe016: well it was , I mean I really didn't do this myself
+[0651] [16:01] me013: Yeah .
+[0652] [16:01] me011: Yeah , it 's really good .
+[0653] [16:04] fe016: so
+[0654] [16:06] fe016: by the way the recognizer all the files I 'm moving to SRI and running everything there
+[0655] [16:11] fe016: so I brought back just these result files
+[0656] [16:14] fe016: and people can look at them
+[0657] [16:15] fe016: um so
+[0658] [16:17] mn017: We we talked about setting up the SRI recognizer here .
+[0659] [16:22] mn017: That 's you know if if there are more machines um uh here
+[0660] [16:28] mn017: plus people can could run their own uh you know variants of of of the recognition runs
+[0661] [16:35] mn017: um
+[0662] [16:36] mn017: certainly doable .
+[0663] [16:37] mn017: Um .
+[0664] [16:38] me013: Yeah
+[0665] [16:38] me013: well certainly if the recognition as opposed to training ,
+[0666] [16:41] me013: yeah .
+[0667] [16:41] me013: Seems reasonable .
+[0668] [16:41] fe008: I need t Hmm . I need to ask one question .
+[0669] [16:41] mn017: Yeah .
+[0670] [16:44] mn017: Yeah .
+[0671] [16:45] fe008: Which
+[0672] [16:53] fe008: Yeah , well , so what I mean is
+[0673] [16:55] fe008: um
+[0674] [16:56] fe008: the uh the data that you take into SRI , first first question ,
+[0675] [16:59] fe008: you 're maintaining it in in a place that wouldn't be publicly readable that that kind of stuff ,
+[0676] [17:03] fe008: right ?
+[0677] [17:04] mn017: U um
+[0678] [17:05] fe016: From the outside world or
+[0679] [17:07] fe008: By uh people uh who are not associated with this project .
+[0680] [17:11] me011: It 's human subjects issues ,
+[0681] [17:11] mn017: Oh .
+[0682] [17:12] me011: I told you about that .
+[0683] [17:12] fe008: Exactly .
+[0684] [17:12] fe016: Um oh .
+[0685] [17:13] fe016: Well OK
+[0686] [17:14] fe016: we have n no names .
+[0687] [17:17] fe016: Although I sh um
+[0688] [17:17] me011: That that 's not the issue ,
+[0689] [17:18] me011: it 's just the audio data itself ,
+[0690] [17:18] fe016: de audio data itself ?
+[0691] [17:19] me011: until people have a chance to edit it .
+[0692] [17:21] fe008: Mm - hmm , exactly .
+[0693] [17:22] fe016: Uh so well I can I can protect my directories through there .
+[0694] [17:23] fe008: Yeah .
+[0695] [17:25] fe008: Great .
+[0696] [17:26] fe016: Right
+[0697] [17:30] fe016: I didn't know that actually .
+[0698] [17:31] me013: Yeah so we just have to go through this process of having people approve the transcriptions ,
+[0699] [17:32] fe016: Yeah OK .
+[0700] [17:34] me013: say it 's OK .
+[0701] [17:34] fe008: Yeah , we had to get them to approve em
+[0702] [17:34] fe016: Right OK .
+[0703] [17:35] fe008: and then i cuz cuz the other question I was gonna ask is if we 're having um you know it 's
+[0704] [17:40] fe008: but this this meeting that you have , no problem
+[0705] [17:41] fe008: cuz I I well I mean I I speak for myself
+[0706] [17:43] me011: It 's us .
+[0707] [17:44] fe008: but but I think that we didn't do anything that but
+[0708] [17:47] fe008: well anyway so uh I wouldn't be too concerned about it with respect to that
+[0709] [17:50] fe008: although we should clear it with Eric and Dan of course
+[0710] [17:52] fe008: but these results are based on data which haven't had the uh haven't had the chance to be reviewed by the subjects
+[0711] [17:58] fe016: That 's true .
+[0712] [17:59] fe008: and I don't know how that stands ,
+[0713] [18:00] fe008: I mean if you if you get fantastic results and it 's involving data which which later end up being lessened by , you know certain elisions , then I don't know
+[0714] [18:09] fe008: but I wanted to raise that issue ,
+[0715] [18:10] fe008: that 's all .
+[0716] [18:10] me013: Well we ,
+[0717] [18:11] me013: I
+[0718] [18:13] me013: hopefully it will be fairly quick
+[0719] [18:15] me013: but we get the transcriptions , people approve them and so on
+[0720] [18:18] me011: Alright
+[0721] [18:19] me013: it 's just that we 're
+[0722] [18:19] me011: we need to work at a system for doing that approval so that we can send people the transcripts
+[0723] [18:19] fe008: Great .
+[0724] [18:21] mn017: Mmm .
+[0725] [18:21] fe008: Yeah .
+[0726] [18:23] me011: and get back any bleeps that they want
+[0727] [18:26] fe016: Yeah actually the bleeps are also an issue I thought .
+[0728] [18:27] me013: It 's gonna be a rare thing that there 's a bleep for the most part .
+[0729] [18:29] mn017: U uh actually I had a question about the downsampling ,
+[0730] [18:31] mn017: um I don't know who , I mean how this was done
+[0731] [18:34] mn017: but is is there are there any um issues with downsampling
+[0732] [18:34] fe016: Don did this .
+[0733] [18:39] mn017: because I know that the recognizer um that we use h can do it sort of on the fly
+[0734] [18:46] mn017: um
+[0735] [18:47] mn017: so we wouldn't have to have it eh you know do it uh explicitly beforehand .
+[0736] [18:53] mn017: And is there any um i
+[0737] [18:55] mn017: are there other d sev uh is there more than one way to do the downsampling where one might be better than another ?
+[0738] [19:00] me001: There are lots of w there are lots of ways to do the downsampling um different filters to put on ,
+[0739] [19:03] mn017: OK .
+[0740] [19:06] mn017: Right .
+[0741] [19:07] me001: like anti - aliasing stuff .
+[0742] [19:07] mn017: OK .
+[0743] [19:08] mn017: So so the th
+[0744] [19:09] me011: I don't think we even know which one
+[0745] [19:12] me011: I assume you 're using syncat to do it ?
+[0746] [19:13] me001: No , I 'm using uh SN SND uh are resample .
+[0747] [19:14] me011: Or sound resample ?
+[0748] [19:17] fe016: Re - re ref
+[0749] [19:17] me011: Resample .
+[0750] [19:18] fe016: yeah .
+[0751] [19:18] me011: Yeah and Dan 's archaic acronyms .
+[0752] [19:19] me001: RSMP .
+[0753] [19:20] me001: Yeah , I don't really .
+[0754] [19:22] fe016: Missing all the vowels .
+[0755] [19:22] me001: I just yeah I found it .
+[0756] [19:23] me011: Not all of them .
+[0757] [19:23] fe016: Some of the vowels ,
+[0758] [19:24] fe016: almost all the vowels ,
+[0759] [19:25] fe016: that 's the hard part .
+[0760] [19:26] mn017: So so the other thing we should try is to just take the original wave forms ,
+[0761] [19:28] me011: And a few of the consonants .
+[0762] [19:30] mn017: I mean segment them but not downsample them .
+[0763] [19:33] fe016: Yeah we could we could try that and and compare
+[0764] [19:33] me001: Yeah
+[0765] [19:33] mn017: And and feed them to feed them to the SRI recognizer and see if if the SRI front - end does something .
+[0766] [19:37] fe016: Yeah .
+[0767] [19:39] me011: I suspect that 's sort of premature optimization ,
+[0768] [19:41] me011: but
+[0769] [19:42] me011: Sure .
+[0770] [19:43] fe016: We can try it .
+[0771] [19:43] fe016: I I only downsampled them first cuz I was
+[0772] [19:44] me001: I mean that 's just one line that 's one line of code to comment at
+[0773] [19:44] mn017: Well
+[0774] [19:46] fe016: yeah
+[0775] [19:46] mn017: Right and and it doesn't is no more work for um you know for us .
+[0776] [19:47] me001: so
+[0777] [19:49] me011: Mm - hmm .
+[0778] [19:50] me001: Yeah .
+[0779] [19:51] fe016: Well they 're just bigger to transfer ,
+[0780] [19:53] fe016: that 's why I s downsampled them before but
+[0781] [19:54] mn017: Well but they 're only twice as big
+[0782] [19:55] mn017: so
+[0783] [19:57] fe016: Well I mean that was if it 's the same then we can downsample here
+[0784] [19:59] mn017: I mean it 's it 's just a
+[0785] [20:00] fe016: but
+[0786] [20:00] me001: Although those eighty meg files take a while to copy into my directories
+[0787] [20:03] me001: so ,
+[0788] [20:04] fe016: Yeah .
+[0789] [20:04] me001: but
+[0790] [20:04] me001: no ,
+[0791] [20:04] me001: I
+[0792] [20:05] fe016: We could try that .
+[0793] [20:07] me001: it
+[0794] [20:07] mn017: Yeah I mean it would be uh you know it would probably take uh about um you know
+[0795] [20:12] mn017: minus the transfer time it would it would take uh you know ten minutes to try and and and
+[0796] [20:14] me001: Yeah .
+[0797] [20:17] me011: It 's about a fifty minute drive ,
+[0798] [20:18] me011: right ?
+[0799] [20:20] fe016: Well it takes more disk space too
+[0800] [20:20] mn017: And and if for some reason we see that it works better then we might investigate why
+[0801] [20:22] fe016: so
+[0802] [20:26] mn017: and
+[0803] [20:30] me001: Mmm .
+[0804] [20:30] mn017: Yeah .
+[0805] [20:30] me001: In the front - end we could do that .
+[0806] [20:31] mn017: Yeah .
+[0807] [20:32] me013: So you just train just different filters
+[0808] [20:32] me001: Yeah
+[0809] [20:34] me013: and so you 're just wondering whether the filter is
+[0810] [20:34] me001: Yeah
+[0811] [20:35] mn017: Right .
+[0812] [20:36] mn017: Right .
+[0813] [20:36] me001: I
+[0814] [20:37] fe016: So we could try that with this particular twenty minutes of speech and sort of see if there 's any differences .
+[0815] [20:41] mn017: You know a at some point someone might have optimized whatever filtering is done for the actual recognition um performance .
+[0816] [20:46] me001: Hmm .
+[0817] [20:49] mn017: So in other words
+[0818] [20:51] me013: Right .
+[0819] [20:51] mn017: right ,
+[0820] [20:51] me011: It just seems to me that , you know small changes to the language model and the vocabulary will so swamp that that it may be premature to worry about that .
+[0821] [20:52] mn017: so
+[0822] [20:59] me011: I mean so one is a half a percent better than the other
+[0823] [21:02] me011: I don't think that gives you any information .
+[0824] [21:05] fe016: Well it 's just as easy to to give you the sixteen K individual ,
+[0825] [21:07] me011: Yep .
+[0826] [21:08] fe016: it was just more disk space you know for storing them
+[0827] [21:11] me013: Are you are you using uh uh mel cepstrum or PLP over there ?
+[0828] [21:12] fe016: so
+[0829] [21:17] mn017: Mel cepstrum .
+[0830] [21:18] me013: So probably doesn't matter .
+[0831] [21:22] fe016: Well we could try .
+[0832] [21:22] me001: There 's there 's your answer .
+[0833] [21:23] me013: But but it wouldn't hurt to try ,
+[0834] [21:24] fe016: Could easily try
+[0835] [21:24] mn017: That 's what I would assume but you never know ,
+[0836] [21:25] me013: yeah .
+[0837] [21:25] fe016: so
+[0838] [21:26] mn017: you know .
+[0839] [21:26] me013: Sure .
+[0840] [21:28] fe008: Just Mm - hmm .
+[0841] [21:28] me013: No the reason I say this
+[0842] [21:28] me013: PLP uses uh auto - regressive filtering and uh modeling and so it can be sensitive to the kind of filtering that you 're doing
+[0843] [21:31] mn017: Mm - hmm .
+[0844] [21:35] me013: but uh uh mel cepstrum uh might not b you wouldn't expect to be so much
+[0845] [21:42] me013: but
+[0846] [21:43] fe016: Well we can try it if you generate like the same set of files just up to that point where we stopped anyway
+[0847] [21:48] fe016: and just sti stick them somewhere
+[0848] [21:48] me001: Yeah , it 's it 's really not a problem .
+[0849] [21:50] fe016: and I 'll rerun it with
+[0850] [21:50] mn017: Actually , no .
+[0851] [21:51] mn017: Don't stop .
+[0852] [21:52] me001: Keep going .
+[0853] [21:53] mn017: Don't stop at that part because we 're actually using the entire conversation to estimate the speaker parameters ,
+[0854] [21:57] me001: Yeah .
+[0855] [21:58] mn017: so shouldn't use you should s you know , get
+[0856] [22:02] me001: Yeah , I mean I 'll I have to do is eh e the reference file would stay the same ,
+[0857] [22:03] fe016: OK .
+[0859] [22:05] mn017: Right .
+[0860] [22:05] me001: it 's just the individual segments would be approximately twice as long
+[0861] [22:06] mn017: Mmm .
+[0862] [22:08] fe016: Right .
+[0863] [22:09] fe016: Right .
+[0864] [22:09] me001: and I could just replace them with the bigger ones in the directory ,
+[0865] [22:11] me001: that 's not a problem .
+[0866] [22:11] me011: Yeah .
+[0867] [22:12] mn017: Right .
+[0868] [22:12] fe016: I
+[0869] [22:13] fe016: I mean I hand - edited the whole the whole meeting
+[0870] [22:16] fe016: so that can be run
+[0871] [22:17] fe016: it
+[0872] [22:18] fe016: Once we get the the bug out .
+[0873] [22:20] mn017: Mmm .
+[0874] [22:21] fe008: One one question which is I I had the impression from this from this meeting that w that I transcribed that um that there was already automatic downsampling occurring ,
+[0875] [22:22] mn017: Yeah .
+[0876] [22:25] mn017: Mm - hmm .
+[0877] [22:30] fe008: is that
+[0878] [22:30] fe008: I thought that in order to
+[0879] [22:31] me011: Yep .
+[0880] [22:32] fe008: so it was so it 's like there 's already down
+[0881] [22:33] me011: There 's one level that 's already happening right here .
+[0882] [22:35] fe008: OK .
+[0883] [22:35] me013: This is being recorded at forty - eight kilohertz . Which is more that anybody needs
+[0884] [22:37] me001: Oh .
+[0885] [22:37] me011: Right .
+[0886] [22:38] me011: And it gets downsampled to sixteen .
+[0887] [22:38] fe008: OK .
+[0888] [22:40] fe016: And that 's actually said in your meeting ,
+[0889] [22:40] me013: so
+[0890] [22:40] me001: Hmm .
+[0891] [22:40] fe008: Oh OK .
+[0892] [22:41] fe016: that 's how I know that .
+[0893] [22:42] fe008: That 's exactly , and that 's how I know it .
+[0894] [22:43] me013: Yeah .
+[0895] [22:43] fe016: I I It 's like are we downsampling to sixteen ?
+[0896] [22:45] me013: It 's a digital audio orientation for the board
+[0897] [22:47] fe016: Right .
+[0898] [22:48] me013: it 's in the monitor so it 's
+[0899] [22:48] mn017: Mmm .
+[0900] [22:48] fe016: Thank God it 's not more than that .
+[0901] [22:49] me011: So
+[0902] [22:51] me001: Is eight kilohertz is is eighty kilohertz generally accepted as like standard for voice ?
+[0903] [22:51] me013: Yeah .
+[0904] [22:51] me011: And I have no idea what filter it 's using ,
+[0905] [22:53] me011: so
+[0906] [22:56] me011: Telephone .
+[0907] [22:56] me013: For telephone stuff .
+[0908] [22:56] me018: Telephone .
+[0909] [22:56] me001: Yeah that 's what I was gonna say ,
+[0910] [22:57] me001: I
+[0911] [22:59] me001: so
+[0912] [22:59] me013: So it 's it 's it 's just that they were operating from Switchboard which was a completely telephone database
+[0913] [23:03] me001: Oh , I see ,
+[0914] [23:03] me001: so .
+[0915] [23:04] me001: OK .
+[0916] [23:04] me013: and so that was a standard for that sixteen s
+[0917] [23:05] me011: So sixteen seems to be pretty typical for with this sort of thing .
+[0918] [23:08] me001: Right .
+[0919] [23:08] me013: Sixteen
+[0920] [23:12] me011: That isn't music .
+[0921] [23:14] me013: that isn't music and isn't telephone ,
+[0922] [23:14] fe016: And I guess if you 're comparing like uh if you wanna run recognition on the PZM stuff you would want you don't want to downsample the wh that
+[0923] [23:16] me013: yeah .
+[0924] [23:24] me011: Why is that ?
+[0925] [23:24] fe016: right ?
+[0926] [23:25] me013: I don't know .
+[0927] [23:26] fe016: Well I don I mean if it 's any better
+[0928] [23:28] me013: No actually I would think that you would you would get better you 'd get better high frequencies in the local mike .
+[0929] [23:29] me011: All the way around I 'd think .
+[0930] [23:34] me013: Uh but who knows ?
+[0931] [23:35] fe016: Yeah
+[0932] [23:35] me011: Yeah .
+[0933] [23:35] me013: I mean we do we we we we we wanna find all this stuff out ,
+[0934] [23:35] fe016: well we could try it .
+[0935] [23:38] me013: we don't know .
+[0936] [23:38] me011: We 're gonna have plenty of low frequency on the P Z Ms with the fans .
+[0937] [23:38] fe016: OK .
+[0938] [23:40] fe016: Yeah .
+[0939] [23:41] me013: Uh yeah .
+[0940] [23:42] me013: Yeah .
+[0941] [23:42] fe016: Oh yeah
+[0942] [23:43] fe016: there was just one more thing I wanted to say which is totally unrelated to the recognition except that
+[0943] [23:47] fe016: um
+[0944] [23:48] fe016: well well it 's sort of related
+[0945] [23:50] fe016: but um
+[0946] [23:51] fe016: good news also
+[0947] [23:52] fe016: uh
+[0948] [23:54] fe016: well Chuck Fillmore agreed to record meetings but he had too many people in his meetings
+[0949] [23:58] fe016: and that 's too bad cuz they 're very animated
+[0950] [24:00] fe016: and but uh Jerry also agreed so uh we 're starting on on
+[0951] [24:05] mn017: They 're less animated .
+[0952] [24:07] fe016: Well
+[0953] [24:08] fe016: he he won't have more than eight
+[0954] [24:10] fe016: and it 's a meeting on even deeper understanding , EDU ,
+[0955] [24:13] fe016: so that sounds interesting .
+[0956] [24:14] me011: Dot EDU ?
+[0957] [24:14] fe016: As a compliment to our front - end meeting
+[0958] [24:17] fe016: and um so that 's gonna start Monday
+[0959] [24:19] fe016: and one of the things that I was realizing is um it would be really great if anyone has any ideas on some kind of time synchronous way that people in the meeting can make a comment to the person whose gonna transcribe it
+[0960] [24:34] fe016: or or put a push a button or something when they wanna make a note about " oh boy you should probably erase those last few "
+[0961] [24:41] fe016: or uh " wait I want this not to be recorded now "
+[0962] [24:45] fe016: or uh something like that s
+[0963] [24:47] me013: Weren't we gonna do something with a pad at one point ?
+[0964] [24:50] fe008: The cross pads ?
+[0965] [24:50] me011: Yeah , we could do it with the cross pads .
+[0966] [24:51] fe016: Cuz I was thinking you know if if the person who sets up the meeting isn't there and it 's a group that we don't know
+[0967] [24:58] fe016: um and this came up talking to to Jerry also
+[0968] [25:01] fe016: that you know is there any way for them to indicate to make sure that the qu request that they have that they make explicitly get addressed somehow
+[0969] [25:08] me013: Yeah .
+[0970] [25:09] fe016: so I don't know if anyone has ideas
+[0971] [25:10] fe016: or
+[0972] [25:13] me013: Well what I was just suggesting is is we have these this cross pad just for this purpose
+[0973] [25:16] me011: Yeah , and use that .
+[0974] [25:17] me011: Not a bad idea .
+[0975] [25:17] me013: and just use that
+[0976] [25:17] fe016: That would be great .
+[0977] [25:18] me013: and
+[0978] [25:19] me013: The other thing is eh
+[0979] [25:19] fe016: That be great .
+[0980] [25:20] me013: I don't know if you know this or if it 's a question for the mail to Dan
+[0981] [25:24] me013: but is this thing of two eight channel boards a maximum for this setup or could we go to a third board ?
+[0982] [25:28] me011: I don't know .
+[0983] [25:29] me011: I don't know .
+[0984] [25:31] me011: I 'll send mail to Dan and ask .
+[0985] [25:32] me011: I I think that it 's the maximum we can do without a lot of effort
+[0986] [25:37] me011: because it 's one board with two digital channels .
+[0987] [25:39] me013: Oh it is one board .
+[0988] [25:41] me011: E eight each .
+[0989] [25:42] me011: So it it takes two fibers in to the one board .
+[0990] [25:45] me011: And so w I think if we wanna do that more than that we 'd have to have two boards ,
+[0991] [25:49] me011: and then you have the synchronization issue .
+[0992] [25:52] me013: But
+[0993] [25:54] me013: if it was possible cuz it is i
+[0994] [25:56] me013: you know already we have a a a group of people in this room that cannot all be miked
+[0995] [26:00] me011: Right .
+[0996] [26:00] me013: and it 's not just cuz we haven't been to the store ,
+[0997] [26:02] me013: right
+[0998] [26:02] me013: it
+[0999] [26:02] me018: What is the limit on each of those f fiber channels ,
+[1000] [26:05] me018: is it the
+[1001] [26:06] me011: Eight .
+[1002] [26:07] me018: It just it 's eight channels come in ,
+[1003] [26:08] me011: It 's eight .
+[1004] [26:08] me018: does it have do with the sampling rate ?
+[1005] [26:10] me011: I have no idea .
+[1006] [26:12] me011: But each each fiber channel has eight eight channels
+[1007] [26:16] me011: and there are two ch two fibers that go in to the card .
+[1008] [26:21] me013: It might be a hard limitation ,
+[1009] [26:22] me011: So
+[1010] [26:22] me013: I mean one thing is it the whole thing as I said is is all structured in terms of forty - eight kilohertz sampling
+[1011] [26:27] me013: so that pushes requirements up a bit
+[1012] [26:28] me011: Yeah .
+[1013] [26:29] me018: I was just wondering if if that could change .
+[1014] [26:30] me013: but
+[1015] [26:30] me011: I mean then we 'd also have to get another ADD and another mixer and all that sort of stuff .
+[1016] [26:32] me018: If we could drop that .
+[1017] [26:35] me013: Yeah .
+[1018] [26:35] me011: So I I 'll send a mail to Dan and ask him .
+[1019] [26:38] me013: Yeah .
+[1020] [26:38] me011: OK on the uh
+[1021] [26:39] me011: are we done with that ?
+[1022] [26:40] me011: So the oth topic is uh getting more mikes and different mikes ,
+[1023] [26:44] me011: so I got a quote
+[1024] [26:45] me011: um
+[1025] [26:46] me011: We can fit we have room for one more wireless
+[1026] [26:49] me011: and the wireless ,
+[1027] [26:50] me011: this unit here is three fifty three hundred fifty dollars ,
+[1028] [26:53] me011: it I didn't realize but we also have to get a tuner the receiver the other end ,
+[1029] [26:56] me011: that 's uh four thirty
+[1030] [26:58] me011: um and then also
+[1031] [26:59] me018: Wow .
+[1032] [26:59] fe016: For for each ?
+[1033] [27:01] fe016: I mean the tuner is four thirty for each .
+[1034] [27:03] me011: Yep .
+[1035] [27:03] fe016: Wow .
+[1036] [27:04] me011: And we just need one more so so
+[1037] [27:05] me013: Yeah at least w we got the good ones .
+[1038] [27:07] me011: Yeah .
+[1039] [27:08] me011: So that 's you know something like seven hundred eighty bucks for one more of these .
+[1040] [27:09] me013: Yeah .
+[1041] [27:11] me013: OK .
+[1042] [27:11] me011: Um and then also um It turns out that the connector that this thing uses is proprietary of Sony
+[1043] [27:18] me018: Oh .
+[1044] [27:19] me011: believe it or not
+[1045] [27:19] me011: and Sony only sells this headset .
+[1046] [27:20] fe008: Mmm .
+[1047] [27:23] me011: So if we wanna use a different set headset the solution that the guy suggested and they apparently lots of people have done is Sony will sell you the jack with just wires coming out the end
+[1048] [27:32] me011: and then you can buy a headset that has pigtail and solder it yourself .
+[1049] [27:37] me011: And that 's the other solution
+[1050] [27:39] me011: and so the jacks are forty bucks apiece
+[1051] [27:41] me011: and the he recommended um a crown CM three eleven AE headset for two hundred bucks apiece .
+[1052] [27:49] me013: There isn't this some sort of thing that plugs in ,
+[1053] [27:51] me013: you actually have to go and do the soldering yourself ?
+[1054] [27:54] me011: Becau - the reason is the only only thing you can get that will plug into this is this mike or just the connector .
+[1055] [28:00] me013: No I understand .
+[1056] [28:02] me013: The reason I ask is these sort of handmade uh wiring jobs fall apart in use
+[1057] [28:09] me013: so the other thing is to see if we can uh get them to do a custom job and put it together for this .
+[1058] [28:15] me011: Oh I 'm sure they would , they would just charge us ,
+[1059] [28:17] me018: Well , and they 'd probably want quantity too ,
+[1060] [28:17] me011: so .
+[1061] [28:18] me018: they 'd
+[1062] [28:19] me013: Well
+[1063] [28:20] me013: no they 'll just charge us more ,
+[1064] [28:21] me013: so it 's this
+[1065] [28:21] me018: Mmm .
+[1066] [28:22] me011: So so my question is should we go ahead and get na nine identical head - mounted crown mikes ?
+[1067] [28:28] me013: Not before having one come here and have some people try it out .
+[1068] [28:32] me011: OK .
+[1069] [28:34] me013: Because there 's no point in doing that if it 's not gonna be any better .
+[1070] [28:36] me011: So why don't we get one of these with the crown with a different headset ?
+[1071] [28:41] me013: Yeah .
+[1072] [28:42] me011: And and see if that works .
+[1073] [28:43] me013: And see if it 's preferable and if it is then we 'll get more .
+[1074] [28:45] fe016: Comfort .
+[1075] [28:46] me011: Yeah .
+[1076] [28:47] me013: Yeah .
+[1077] [28:48] fe016: Cuz I mean I think the microphones are OK
+[1078] [28:50] fe016: it 's just the the
+[1079] [28:51] me011: Right ,
+[1080] [28:51] me011: it 's just they 're not comfortable to wear .
+[1081] [28:54] me013: Right .
+[1082] [28:54] fe016: Could make our own handbands and
+[1083] [28:55] me011: Um , and he said they don't have any of these in stock but they have them in LA
+[1084] [28:59] me011: and so it will take about a week to get here .
+[1085] [29:01] me013: Yeah
+[1086] [29:02] me011: Um so OK to just go order ?
+[1087] [29:02] me013: We 're in this for the long term ,
+[1088] [29:04] me013: yeah .
+[1089] [29:04] me013: Just order it .
+[1090] [29:05] me011: OK
+[1091] [29:05] fe016: It 's a lot of money for a handband .
+[1092] [29:05] me011: and who is the contact if I wanna do an invoice
+[1093] [29:06] me001: Yeah .
+[1094] [29:08] me011: cuz I think that 's how we did it before .
+[1095] [29:10] me013: Uh we 'll do this off - line , yeah .
+[1096] [29:10] me001: It 's a long time to get from LA .
+[1097] [29:11] me011: OK .
+[1098] [29:15] me011: And then nine channels is the maximum we can do ,
+[1099] [29:18] me011: so .
+[1100] [29:19] me013: Uh y right
+[1101] [29:19] me011: Without getting more stuff .
+[1102] [29:20] me013: cuz
+[1103] [29:20] me013: so one is for the daisy chain so that 's fifteen instead of sixteen
+[1104] [29:23] me013: and there 's six on the table
+[1105] [29:24] me011: Right .
+[1106] [29:24] me013: so that 's nine .
+[1107] [29:25] fe016: Can I ask a really dumb question ?
+[1108] [29:27] me013: Yeah .
+[1109] [29:27] me011: Probably .
+[1110] [29:27] fe016: Is
+[1111] [29:39] fe016: I
+[1112] [29:39] me013: That 's a good idea .
+[1113] [29:41] me013: That 's not a dumb question ,
+[1114] [29:42] me013: it 's a good idea ,
+[1115] [29:42] fe016: Well
+[1116] [29:43] mn017: Like uh like you know Jerry Springer thing ,
+[1117] [29:43] me011: I 'm just not sure how we would handle that in the
+[1118] [29:43] me013: yeah .
+[1119] [29:43] me001: That 's like the Conch .
+[1120] [29:45] fe016: Well
+[1121] [29:45] me018: Like at conferences
+[1122] [29:46] fe016: well but there might be a way to say that there are gonna be these different people
+[1123] [29:46] mn017: you know r
+[1124] [29:47] me001: See , look .
+[1125] [29:50] me018: so nail the chairs down .
+[1126] [29:50] fe016: um and I don't know identifying somehow ?
+[1127] [29:51] mn017: Yeah .
+[1128] [29:53] me011: Yeah , somehow .
+[1129] [29:53] fe016: You know I was just thinking of Jerry Springer .
+[1130] [29:54] me011: It 's not a bad idea .
+[1131] [29:55] me013: No that no no
+[1133] [29:56] me013: that
+[1134] [29:57] me013: if we can't get another board and even if we can I have a feeling they 'll be some work .
+[1135] [29:58] me018: The Springer mike .
+[1136] [29:58] fe016: I mean for the few times that you might wanna have that .
+[1137] [30:01] me013: Let 's figure that we have eight which are set up
+[1138] [30:04] me013: and
+[1139] [30:06] me011: A hand - held ,
+[1140] [30:07] me011: yeah .
+[1141] [30:08] me013: that 's a good idea
+[1142] [30:08] me018: Infinite expansion .
+[1143] [30:11] me013: Right .
+[1144] [30:12] me013: Kind of rules out overlap
+[1145] [30:13] me013: but but uh
+[1146] [30:14] fe016: Well or also for you know if people are not
+[1147] [30:15] me013: Yeah .
+[1148] [30:16] me011: Well we could just hand around the lapel .
+[1149] [30:18] me013: Uh
+[1150] [30:19] me011: Rather
+[1151] [30:19] me013: no
+[1152] [30:19] me011: do you want a handset ?
+[1153] [30:20] fe016: No not the lapel .
+[1154] [30:21] me013: No .
+[1155] [30:22] me011: Well I mean is the is the hand - held really any better ?
+[1156] [30:22] me018: Liz hates the lapel .
+[1157] [30:24] me013: Yes .
+[1158] [30:25] me011: OK .
+[1159] [30:25] fe016: I don't know
+[1160] [30:25] fe016: but I d I know the lapel is really suboptimal .
+[1161] [30:27] me013: No
+[1162] [30:27] me011: Is awful ?
+[1163] [30:27] me013: no it depends on the hand - held
+[1164] [30:29] me013: but hand many hand - helds are built wi with sort of uh anti - shock sort of things so that it it is less uh susceptible to hand noises .
+[1165] [30:37] me018: Mm - hmm .
+[1166] [30:37] me013: If you hold the lapel mike i you just get all k sorts of junk .
+[1167] [30:39] fe016: Right .
+[1168] [30:41] me011: OK .
+[1169] [30:41] fe016: I mean the ones they really pass around must be sort of OK .
+[1170] [30:42] me013: so
+[1171] [30:43] me011: So I wonder if they have one that will hook up .
+[1172] [30:44] me013: Yeah .
+[1173] [30:45] me013: They
+[1174] [30:47] me013: What ?
+[1175] [30:48] me011: I wonder if they have one that will hook up to this or whether again we 'll have to wire it ourselves .
+[1176] [30:50] me018: Well , you wouldn't want it to hook there
+[1177] [30:51] me018: you 'd just want it to hook into the receiver in the other room ,
+[1178] [30:53] me018: right ?
+[1179] [30:54] me013: No
+[1180] [30:55] me013: you need a transmitter .
+[1181] [30:55] me011: What ?
+[1182] [30:56] me018: Is th isn't that built into the mike ?
+[1183] [30:57] me013: Oh I see .
+[1184] [30:58] me013: Get a get a different radio ,
+[1185] [31:00] me013: yeah .
+[1186] [31:00] fe016: Yeah just these ones that they pass around with no you know wireless
+[1187] [31:02] me013: Yeah .
+[1188] [31:05] me013: But you need a ra but it has to correspond to the receiver .
+[1189] [31:05] me018: Have a little antenna coming out the bottom .
+[1190] [31:07] me011: It 's gonna be much easier to get one of these and just plug in a mike ,
+[1191] [31:10] me011: isn't it ?
+[1192] [31:11] me018: But then the mike has to h
+[1193] [31:12] mn017: Do you have to hand it around
+[1194] [31:13] mn017: and if you have two pieces of
+[1195] [31:14] me001: Yeah .
+[1196] [31:14] me013: No
+[1197] [31:14] fe016: Right .
+[1198] [31:15] me013: so right ,
+[1200] [31:15] me013: so this is a good point ,
+[1201] [31:16] me013: so yeah you have these these mikes with a little antenna on the end
+[1202] [31:19] me011: OK .
+[1203] [31:19] me013: right ?
+[1204] [31:19] me011: And do you think you would be able to use the same receiver ?
+[1205] [31:22] me013: I don't know .
+[1206] [31:23] me011: OK I 'll I 'll ask .
+[1207] [31:23] me013: You 'll have to check with them ,
+[1208] [31:24] me011: Yeah .
+[1209] [31:24] me013: yeah .
+[1210] [31:24] me018: It 's just a frequency .
+[1211] [31:24] me013: But that 's that 's a great idea
+[1212] [31:26] me013: and then just sort of have that as the and then you can have groups of twenty people or whatever
+[1213] [31:31] me013: and and uh
+[1214] [31:31] fe016: Yeah
+[1215] [31:33] mn017: Pretty soon .
+[1216] [31:39] me018: Mmm , yeah .
+[1217] [31:40] fe016: it just there might be a lot of people that speak once or twice
+[1218] [31:44] fe016: and
+[1219] [31:45] me013: Right .
+[1220] [31:50] mn017: Um Gotta go .
+[1221] [31:51] me013: Off you go ,
+[1222] [31:52] me013: yeah .
+[1223] [31:53] me011: OK
+[1224] [31:53] me011: so I guess people who have to leave can leave
+[1225] [31:55] me011: and do we have anything else to discuss or should we just do digits ?
+[1226] [31:57] fe008: I I thought of some extra a couple of extra things I 'd like to mention .
+[1227] [31:59] me011: OK .
+[1228] [32:01] fe008: One of them is to give you a status in terms of the transcriptions so far .
+[1229] [32:04] fe008: So um as of last night um I 'd assigned twelve hours and they 'd finished nine
+[1230] [32:06] me011: uh Yep ,
+[1231] [32:09] fe008: and my goal was to have eleven done by the end of the month ,
+[1232] [32:11] fe008: I think that by tomorrow we 'll have ten .
+[1233] [32:13] fe016: Uh
+[1234] [32:14] fe008: So they 're still working .
+[1235] [32:14] me013: Pretty close ,
+[1236] [32:14] me018: Wow .
+[1237] [32:14] fe016: I j and this I got this email from Jane at like two in the morning or something
+[1238] [32:14] me013: that 's good .
+[1239] [32:14] me011: that 's good .
+[1240] [32:18] fe016: so it 's really great
+[1241] [32:18] fe008: It 's working out , thanks .
+[1242] [32:20] fe016: It 's really great .
+[1243] [32:20] fe008: Thanks .
+[1244] [32:21] fe008: And then um also an idea for another meeting , which would be to have the transcribers talk about the data
+[1245] [32:27] fe008: It 's sort of a a little bit a little bit
+[1246] [32:28] fe016: That 's a great idea .
+[1247] [32:28] me011: Yep ,
+[1248] [32:28] me013: Super idea .
+[1249] [32:29] me011: that 'd be very interesting .
+[1250] [32:29] me001: Yeah .
+[1251] [32:29] fe016: That 's a great idea cuz I 'd like to g have it recorded so that we can remember all the little things ,
+[1252] [32:30] me011: I 'd love to hear what they have to say .
+[1253] [32:32] fe008: Yeah .
+[1254] [32:33] me018: So if we got them to talk about this meeting , it would be a meta meta meeting .
+[1255] [32:33] fe016: that 's a great idea .
+[1256] [32:34] fe008: Yeah .
+[1257] [32:35] fe008: Yeah , exa exactly
+[1258] [32:37] fe008: I guess nested several layers ,
+[1259] [32:38] me013: Now you have eight transcribers and there 's ten of us
+[1260] [32:39] fe008: but
+[1261] [32:40] me013: so how do we do this , is the only thing .
+[1262] [32:43] fe016: Or just have them talk amongst themselves .
+[1263] [32:43] me018: Have them have their own meeting .
+[1264] [32:45] fe008: Well that 's what I 'm thinking ,
+[1265] [32:45] fe016: And have
+[1266] [32:46] fe008: yeah .
+[1267] [32:46] me013: Oh .
+[1268] [32:46] fe008: Have them talk about the data and they and they 've made observations to me
+[1269] [32:47] fe016: that would be great .
+[1270] [32:49] fe008: like they say uh you know this meeting that we think has so much overlap , in fact it does
+[1271] [32:54] fe008: but there are other groups of similar size that have very little ,
+[1272] [32:56] fe008: you know it 's part of it 's it 's the norm of the group and all that
+[1273] [32:58] fe008: and they have various observations that would be fun , I think .
+[1274] [33:00] fe016: That 's a great idea .
+[1275] [33:01] me011: Yeah , I 'd like to hear what they s say .
+[1276] [33:01] fe008: Yeah .
+[1277] [33:02] fe016: Be great .
+[1278] [33:02] fe008: OK .
+[1279] [33:03] me013: So maybe we could they could have a meeting more or less without us that to do this and we should record it
+[1280] [33:08] me013: and then maybe one or two of them could come to one of these meetings and and could you know could tell us about it .
+[1281] [33:08] fe008: Yeah .
+[1282] [33:11] me011: Give us a status .
+[1283] [33:13] fe016: Yeah .
+[1284] [33:13] fe008: Oh good .
+[1285] [33:14] fe008: OK .
+[1286] [33:15] me013: Yeah .
+[1287] [33:16] fe008: What what
+[1288] [33:16] me011: That would be weird .
+[1289] [33:16] fe016: It 's they will get to transcribe their own meeting but they also get paid for having a break
+[1290] [33:18] fe008: yeah that 's right .
+[1291] [33:20] fe016: and I think that 's a good idea ,
+[1292] [33:20] fe008: Yeah exactly ,
+[1293] [33:21] fe008: yeah .
+[1294] [33:21] fe016: get them involved .
+[1295] [33:22] me013: Yeah .
+[1296] [33:22] fe008: Great .
+[1297] [33:23] fe016: Um that 's a great idea .
+[1298] [33:23] fe008: Great .
+[1299] [33:24] me013: Super .
+[1300] [33:25] fe016: I 'm really sorry I have to g
+[1301] [33:27] fe016: no I have to go as well .
+[1302] [33:28] me013: OK .
+[1303] [33:29] fe008: And then I wanted to also um say something about the Fiscus uh uh John John Fiscus visit tomorrow .
+[1304] [33:36] fe008: And Which is to say that w it 'll be from nine to one
+[1305] [33:39] fe008: that I 'm going to uh uh offer the organization allow him to uh adjust it if he wishes
+[1306] [33:44] fe008: but to be basically in three parts ,
+[1307] [33:46] fe008: the acoustic part coming first which would be basically the room engineering aspects
+[1308] [33:50] fe008: um other things
+[1309] [33:52] fe008: and he 'll be also presenting what NIST is doing
+[1310] [33:54] fe008: and and uh then uh
+[1311] [33:56] fe008: number two would be sort of a the the transcription process
+[1312] [33:59] fe008: so this would be a focus on like presegmentation and the modifications to the the multitrans interface
+[1313] [34:04] fe008: which allows more refined encoding of the beginnings and ends of the overlapping segments
+[1314] [34:09] fe008: which uh Dave Gelbart 's been doing
+[1315] [34:10] fe008: and then um uh and of course the presegmentation Thilo 's been doing
+[1316] [34:14] fe008: and
+[1317] [34:16] fe008: and again he has some stuff that 's i relevant with respect to NIST
+[1318] [34:19] fe008: and then the third one would be focus on transcription standards
+[1319] [34:22] fe008: so at NIST he 's interested in this establishment of a global encoding standard I guess I would say
+[1320] [34:27] fe008: and I want it ,
+[1321] [34:28] fe008: you know k
+[1322] [34:29] fe008: yeah
+[1323] [34:29] fe008: see what they 're doing and also present what what we 've chosen as ours and and discuss that kind of thing .
+[1324] [34:35] fe008: And so but he 's only here until until one
+[1325] [34:38] fe008: and actually we 're thinking of noon being uh lunch time
+[1326] [34:40] fe008: so basically hoping that we can get as much of this done as possible before noon .
+[1327] [34:45] fe008: S
+[1328] [34:48] me013: OK .
+[1329] [34:49] fe008: And everybody who wants to attend is welcome .
+[1330] [34:52] fe008: So
+[1331] [34:52] fe008: yeah .
+[1332] [34:52] me011: Oh , where you 're gonna meet ?
+[1333] [34:54] fe008: Here mostly
+[1334] [34:54] fe008: but I 've also reserved the BARCO room um eh to figure out how that works in terms of like maybe having a live demonstration .
+[1335] [35:01] me013: OK
+[1336] [35:01] me013: but the nine o ' cl nine o ' clock will be i be in here .
+[1337] [35:03] fe008: Yeah .
+[1338] [35:03] fe008: Mm - hmm .
+[1339] [35:03] me013: Yeah , OK .
+[1340] [35:04] me011: I assume we 're not gonna try to record it ?
+[1341] [35:06] fe008: Oh I think that would be hard , yeah .
+[1342] [35:07] me013: Yeah
+[1343] [35:08] me011: Alright .
+[1344] [35:09] fe008: Yeah .
+[1345] [35:09] me013: Um good .
+[1346] [35:10] fe008: Thank you though ,
+[1347] [35:11] fe008: uh - huh .
+[1348] [35:11] me013: So maybe do digits and recess ?
+[1349] [35:14] fe008: Yeah .
+[1350] [35:14] me011: Unless there 's anything else ?
+[1351] [35:16] fe008: Yeah .
+[1352] [35:17] me018: Do digital ones ?
+[1353] [35:20] me013: Uh OK .
+[1354] [35:20] fe008: Yeah .
+[1355] [35:21] me011: Uh should y we make him wear Andreas ' mike or would that just be too confusing ?
+[1356] [35:22] me013: Yeah .
+[1357] [35:25] me013: No I don't think it 's confusing .
+[1358] [35:26] me013: Well , it doesn't confuse me .
+[1359] [35:27] fe008: When we do this in the key in the key in the key it has to indicate that channel change ,
+[1360] [35:28] me018: Does it mess up the forms ?
+[1361] [35:31] fe008: right ?
+[1362] [35:31] me011: Uh yeah I just don't know how we would do that ,
+[1363] [35:33] me011: so .
+[1364] [35:34] fe008: Well i have a time mark .
+[1365] [35:35] me011: I mean other than free free form .
+[1366] [35:35] me018: The on switch is here on the on the top there .
+[1367] [35:37] fe008: Yeah .
+[1368] [35:40] me013: OK .
+[1369] [35:40] me011: And just clip it to your collar .
+[1370] [35:43] me013: That 's fine .
+[1371] [35:46] mn009: OK , my name is uh Espen Eriksen .
+[1372] [35:49] mn009: I 'm a Norwegian .
+[1373] [35:50] mn009: Um uh this is my second semester at Berkeley .
+[1374] [35:54] mn009: Currently I 'm taking uh my first graduate level courses in DSP
+[1375] [35:59] mn009: and um when I come back to Norway I 'm gonna continue with the more of a research project work kind of work .
+[1376] [36:05] mn009: So this semester I 'm starting up with a with a small project through uh Dave Gelbart which I 'm taking a course with
+[1377] [36:13] mn009: I got in touch with him and he told me about this project .
+[1378] [36:15] mn009: So with the help of uh Dan Ellis I 'm gonna do small project associated to this .
+[1379] [36:23] mn009: What I 'm gonna try to do is uh use use ech echo cancellation to uh to handle the periods where you have overlapping talk .
+[1380] [36:33] mn009: To try to do something about that .
+[1381] [36:35] mn009: So currently I 'm um I 'm just reading up on echo cancellation ,
+[1382] [36:39] mn009: s looking into the theory behind that
+[1383] [36:42] mn009: and then uh hopefully I get some results .
+[1384] [36:46] mn009: So it it 's a it 's a project goes over the course of one semester .
+[1385] [36:50] me011: Great .
+[1386] [36:50] mn009: So I 'm just here today to introduce myself .
+[1387] [36:53] mn009: Tell about
+[1388] [36:53] mn009: I 'll be I 'll be working on this .
+[1389] [36:55] me011: And are you staying at Berkeley
+[1390] [36:57] me011: or is are you just here a semester ?
+[1391] [36:59] mn009: This is my second semester and last .
+[1392] [37:01] me011: Ah second and last ,
+[1393] [37:01] mn009: So I leave
+[1394] [37:02] me011: OK .
+[1395] [37:02] me013: Yeah .
+[1396] [37:02] me013: He 's in the he 's in the cour two two five D course .
+[1397] [37:05] mn009: Yeah , I 'm in Morgan 's course ,
+[1398] [37:06] me013: So ,
+[1399] [37:06] mn009: yeah .
+[1400] [37:07] me013: yeah .
+[1401] [37:08] me011: Good .
+[1402] [37:09] fe008: Then you then you go back to Norway ,
+[1403] [37:09] me018: Welcome .
+[1404] [37:10] fe008: that 's
+[1405] [37:10] mn009: Yeah .
+[1406] [37:10] fe008: OK .
+[1407] [37:11] me001: We were just talking about something like this yesterday
+[1408] [37:14] me001: or
+[1409] [37:15] me001: yeah yesterday with Liz .
+[1410] [37:17] me001: About doing some of the echo cancellation stuff or possibly the spectroanalysis over the overlaps ,
+[1411] [37:21] me001: so .
+[1412] [37:23] me001: Cool .
+[1413] [37:23] mn009: Yeah .
+[1414] [37:26] me013: OK ,
+[1415] [37:26] me011: Digits ?
+[1416] [37:27] me013: let 's do digits .
+[1417] [37:31] me013: OK .
+[1418] [41:57] me011: And stop .

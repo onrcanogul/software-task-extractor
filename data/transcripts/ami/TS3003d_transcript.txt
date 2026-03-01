@@ -1,0 +1,1030 @@
+================================================================================
+AMI Meeting Transcript: TS3003d
+================================================================================
+
+Total Utterances: 1018
+Unique Speakers: 4
+Duration: 43.15 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:02] A: Uh-huh it's it's Uh-huh Uh-huh So i Uh-huh But i
+[0002] [00:23] D: That's true
+[0003] [00:24] D: Sorry i'm the like
+[0004] [00:26] A: No problem
+[0005] [00:27] D: That's the kind of
+[0006] [00:28] D: traffic
+[0007] [00:29] A: Okay
+[0008] [00:31] A: That's possible um This time of day
+[0009] [00:35] A: starts at three o'clock
+[0010] [00:37] D: Yeah
+[0011] [00:39] A: Uh huh any
+[0012] [00:41] A: c.
+[0013] [00:42] A: r. for the last meeting
+[0014] [00:47] A: They're ears
+[0015] [00:51] A: Yes
+[0016] [00:55] A: Okay
+[0017] [00:55] A: is our last meeting
+[0018] [00:57] A: And this meeting we'll discuss
+[0019] [00:59] A: our final Design
+[0020] [01:02] A: And we'll do some evaluation about the um Not lonely
+[0021] [01:07] A: the product Mm but also the project
+[0022] [01:10] A: And there are going to a close the project today as well
+[0023] [01:14] A: So i
+[0024] [01:15] A: suppose we'll be uh free to go
+[0025] [01:18] A: and spend all your money
+[0026] [01:20] A: Um this the design detail design meeting Uh we'll discuss Uh the look and feel of the design The usability interface design
+[0027] [01:32] A: and we'll do the product evaluation
+[0028] [01:36] A: Um In order to do that we have this agenda
+[0029] [01:41] A: We'll have the prototype presentation first
+[0030] [01:44] A: then we also that some evaluation week or uh criterium
+[0031] [01:48] A: Then to look at the finance
+[0032] [01:51] A: Um enough to see if
+[0033] [01:53] A: Everything we wanna do is also possible within our budget
+[0034] [01:58] A: Because everything "'cause" money
+[0035] [01:59] A: and the more functions you wanna have to more money is a cost
+[0036] [02:02] A: so we have to see if it Fits within that twelve and a half euro For Remotes
+[0037] [02:09] A: Those see that later
+[0038] [02:11] A: Then we'll do the project uh evaluation
+[0039] [02:13] A: And the closing off of that
+[0040] [02:16] A: They've got forty minutes
+[0041] [02:17] A: So we will we finished other half past three
+[0042] [02:23] A: But first um People do the To prototype presentation
+[0043] [02:30] A: so
+[0044] [02:32] A: Some some utterance
+[0045] [02:33] C: Okay
+[0046] [02:34] A: of four
+[0047] [02:37] C: Well
+[0048] [02:38] C: this is what Me and rich it came up with
+[0049] [02:43] C: The default spot for the on off button
+[0050] [02:46] C: The mute button just below that
+[0051] [02:49] C: Then there's the volume and channel selector "'s"
+[0052] [02:52] C: Simple Plus minus button
+[0053] [02:56] C: Uh we fought of a help button
+[0054] [02:58] C: if you hold it and you press another button
+[0055] [03:01] C: Uh d. help Goes to the
+[0056] [03:03] C: l.
+[0057] [03:03] C: c.
+[0058] [03:03] C: d. screen
+[0059] [03:05] C: Then there's the Zero to
+[0060] [03:08] C: one to zero buttons a button for teletext a button for the subtitles And the company logo
+[0061] [03:16] C: So Sorta simple prototype
+[0062] [03:21] C: And uh we'll have to see from testing
+[0063] [03:23] C: uh How do you just take it
+[0064] [03:26] A: Okay
+[0065] [03:30] D: It's just a moment or we ask Recognise question about the functionality
+[0066] [03:33] C: Sure
+[0067] [03:34] B: Yeah yeah
+[0068] [03:34] C: Just pop in at any time
+[0069] [03:37] D: When you're in teletext are using your Buttons where you just You just press it then you go to the next teletext Page
+[0070] [03:48] B: Yes just a normal uh As the normal uh remote control so
+[0071] [03:53] B: uh So
+[0072] [03:54] B: um You posted do
+[0073] [03:56] B: you
+[0074] [03:57] B: um And and uh page uh one on that Yeah you can use the um Normal uh want to zero buttons
+[0075] [04:00] D: Uh-huh
+[0076] [04:04] B: and
+[0077] [04:05] B: the you can also uh used uh Um But on the four uh changing the um The channel that is so uh the shifting
+[0078] [04:14] B: uh button Uh for uh yeah shift shifting
+[0079] [04:15] D: Okay
+[0080] [04:17] B: up and uh and and take a a teletext and
+[0081] [04:20] B: shifts
+[0082] [04:20] B: in and out
+[0083] [04:22] D: Okay
+[0084] [04:29] A: Okay Uh but
+[0085] [04:31] A: Um I still then uh a few meetings earlier we uh And try to give it to
+[0086] [04:38] A: uh Simple Just a few buttons and large buttons
+[0087] [04:40] B: Yeah
+[0088] [04:43] A: But uh i think these are all together Quite a
+[0089] [04:48] A: quite a few buttons
+[0090] [04:51] A: I'm wondering if we If we need we really need all those buttons
+[0091] [04:57] C: I think if you look at so Most controls have got more buttons than this
+[0092] [05:02] A: That's right
+[0093] [05:03] C: And well
+[0094] [05:04] C: the on off button it's it's a necessity
+[0095] [05:06] C: you can drop that one
+[0096] [05:08] C: The volume And channel buttons you need you obviously need to go to those
+[0097] [05:13] A: Yeah
+[0098] [05:14] C: The mute button could be replaced
+[0099] [05:16] C: but um By pressing the volume down button twice
+[0100] [05:20] C: So we could Cancel
+[0101] [05:21] C: that one
+[0102] [05:22] C: I think the hell button Really is necessary
+[0103] [05:26] C: because There's no other way too No when someone wants to know what a button does
+[0104] [05:34] A: Hmm
+[0105] [05:34] B: Or or or you can build and uh when you press that one button
+[0106] [05:38] A: Long time
+[0107] [05:39] B: yeah
+[0108] [05:40] A: Yeah
+[0109] [05:40] A: if you put
+[0110] [05:41] B: Yeah
+[0111] [05:42] B: We disk discuss that already
+[0112] [05:44] B: but uh we think uh all people uh don't know that uh option
+[0113] [05:48] B: so uh It just put in uh what Right so the the banana
+[0114] [05:54] A: Yeah Okay
+[0115] [05:56] C: Well
+[0116] [05:57] C: you count Leave out the number buttons i guess
+[0117] [06:01] A: Yeah
+[0118] [06:02] C: And
+[0119] [06:02] A: Right teletext a subtitles or
+[0120] [06:04] C: Yeah
+[0121] [06:04] A: yeah that's very
+[0122] [06:05] D: Yeah
+[0123] [06:05] A: okay
+[0124] [06:05] C: So which rather basic already
+[0125] [06:08] D: Yeah Think so
+[0126] [06:10] D: That's what i pointed out earlier
+[0127] [06:11] D: if you just make control for just a
+[0128] [06:13] D: t.
+[0129] [06:13] D: v. there's just not much to gain
+[0130] [06:15] D: here
+[0131] [06:15] B: No
+[0132] [06:15] A: Yep
+[0133] [06:17] A: Okay so
+[0134] [06:18] A: uh yeah that's uh what about And do something with the design of the buttons there
+[0135] [06:23] C: Yeah and
+[0136] [06:23] C: there
+[0137] [06:24] C: it's Rather hard to draw on the whiteboard
+[0138] [06:24] A: It's normal plain Buttons
+[0139] [06:27] C: but They're supposed to be equal
+[0140] [06:29] C: size round We've um We have a little Logo on it for them for the volume the the triangle one stuff
+[0141] [06:36] A: Yeah
+[0142] [06:37] B: Just to recognise it
+[0143] [06:38] C: Just for recognition
+[0144] [06:38] B: so
+[0145] [06:39] B: Uh yeah
+[0146] [06:40] B: and now we don't need uh let's
+[0147] [06:41] B: were um Us
+[0148] [06:42] A: No
+[0149] [06:44] B: some uh uh remote control so do it i have so
+[0150] [06:47] B: but um Yeah because we use the little display
+[0151] [06:50] B: we don't uh have to use it's
+[0152] [06:52] A: Yeah Okay
+[0153] [06:54] C: Sound
+[0154] [06:54] C: for the materials we've just chosen for rubber buttons We have uh A different colour then the case
+[0155] [07:01] C: so they Jump out
+[0156] [07:05] A: Okay
+[0157] [07:05] C: And uh that's about it
+[0158] [07:07] A: It's nice
+[0159] [07:08] A: them because we only have thirty minutes left
+[0160] [07:12] A: I'll move on to the finance part
+[0161] [07:15] A: Which is pretty exciting to see if it's all possible what we wanna do
+[0162] [07:20] A: And I can tell you
+[0163] [07:25] A: Those are going to have uh Pretty hard time producing this for twelve and a half euros
+[0164] [07:33] B: Uh-huh
+[0165] [07:34] A: If we see it
+[0166] [07:35] A: i don't know if if holding correctly
+[0167] [07:36] A: so this is
+[0168] [07:37] A: greg
+[0169] [07:37] A: mean if you see uh something wrong
+[0170] [07:40] A: I counted two batteries
+[0171] [07:42] A: but maybe we can also use one
+[0172] [07:44] A: i dunno if that's possible
+[0173] [07:45] D: Since it rechargeable
+[0174] [07:46] A: That's rechargeable that's right
+[0175] [07:47] B: Yeah you can
+[0176] [07:48] B: you just know
+[0177] [07:51] A: Okay yeah
+[0178] [07:52] A: that's two euros so
+[0179] [07:55] A: We need the advanced chip
+[0180] [07:57] A: So there's not much to
+[0181] [07:59] A: uh Hmmm to say there
+[0182] [08:04] A: Here we have to single curves
+[0183] [08:06] A: Uh we can see that the difference between and curves
+[0184] [08:09] A: in the single curved is one euro
+[0185] [08:12] B: Uh-huh
+[0186] [08:15] A: I don't know
+[0187] [08:16] A: but i think the single curved
+[0188] [08:18] A: It's a good for the design And also for the display true Have a prominent place on the remote control
+[0189] [08:25] C: Yes
+[0190] [08:26] A: I think we have to keep that
+[0191] [08:27] B: Yeah
+[0192] [08:28] A: Then we have to uh uh case material supplements
+[0193] [08:32] A: It's plastic
+[0194] [08:32] A: as the cheapest one we need
+[0195] [08:35] A: So that's uh not much to say that either
+[0196] [08:38] A: But then the biggest costs Are the buttons
+[0197] [08:43] A: So maybe we really should try to
+[0198] [08:46] B: Okay
+[0199] [08:47] A: This card some buttons to uh keep our costs low
+[0200] [08:51] A: Because you have to No have to get the twelve and a half euros at the end
+[0201] [08:58] A: Um So if we
+[0202] [09:02] A: that's for first count the buttons we have now
+[0203] [09:05] A: "'cause" it
+[0204] [09:05] B: Seen a bit
+[0205] [09:06] A: Sixteen
+[0206] [09:07] A: that's
+[0207] [09:07] A: will be even more than
+[0208] [09:10] A: Mm Eighteen euros
+[0209] [09:16] A: So
+[0210] [09:16] B: Fifteen Yeah with a look at
+[0211] [09:18] A: So i think
+[0212] [09:22] A: Are we including the help
+[0213] [09:23] A: Yeah uh seventy
+[0214] [09:25] A: I think we can um This card to help and the mute button Uh by pressing down volume long or pressing down uh a number Long
+[0215] [09:37] C: Yep
+[0216] [09:38] A: that say this is uh one euro already
+[0217] [09:41] A: "'cause" then we have got fifteen i think
+[0218] [09:43] C: Yep
+[0219] [09:44] D: Wouldn't
+[0220] [09:45] D: yeah
+[0221] [09:45] A: Thing buttons
+[0222] [09:46] D: Hmmm be an option
+[0223] [09:49] A: And this is
+[0224] [09:49] D: And a shame it Count the volume and channel thing is for two buttons each
+[0225] [09:53] D: right
+[0226] [09:54] A: No that's a one I think
+[0227] [09:55] B: Yeah
+[0228] [09:57] D: I
+[0229] [09:57] D: think actually the two buttons
+[0230] [09:59] B: Uhuh Yeah it's just one but
+[0231] [09:59] D: And
+[0232] [10:01] B: but Um Yeah
+[0233] [10:05] B: or uh to uh For a one big bear on
+[0234] [10:08] B: but They are uh More expensive than the small ones
+[0235] [10:12] B: i
+[0236] [10:14] A: Yeah
+[0237] [10:14] A: but that's not stated in this Flies
+[0238] [10:16] B: Just uh Reference it
+[0239] [10:17] A: so maybe we can We can even make one button But the volume and the channel In one by pressing
+[0240] [10:25] D: Well i
+[0241] [10:25] D: was thinking maybe you could just integrate three of those numbers to one button
+[0242] [10:30] A: that's a possibility as well
+[0243] [10:32] D: That would Cut the costs
+[0244] [10:34] A: So
+[0245] [10:35] A: And it's good for the design as well
+[0246] [10:37] A: so you can make
+[0247] [10:39] A: Uh uh let's see
+[0248] [10:42] A: If you make this
+[0249] [10:46] A: Uh-huh Uh-huh That's a bit like uh huh Across
+[0250] [11:10] A: Mm yes I mean
+[0251] [11:14] B: But i don't Do note of if it Cheaper
+[0252] [11:17] A: It's yeah
+[0253] [11:17] A: channel
+[0254] [11:18] B: so
+[0255] [11:19] A: Yeah i
+[0256] [11:19] B: You still got four buttons
+[0257] [11:19] A: would
+[0258] [11:21] B: but Just um So
+[0259] [11:25] A: Yeah
+[0260] [11:25] A: i think they count the the materials
+[0261] [11:27] B: You got uh uh not not a better better itself but um On the
+[0262] [11:32] A: Yeah
+[0263] [11:33] A: on the chip there
+[0264] [11:33] B: Yeah
+[0265] [11:34] B: on the chip you got still uh for uh Four buttons
+[0266] [11:34] A: yeah
+[0267] [11:34] C: Yeah
+[0268] [11:35] D: Uh-huh
+[0269] [11:36] A: That's right that's right
+[0270] [11:38] B: so
+[0271] [11:38] D: Yeah
+[0272] [11:38] A: But i think because we have the advanced chip
+[0273] [11:41] B: Yeah
+[0274] [11:42] B: but
+[0275] [11:42] A: You can just count as as one button
+[0276] [11:44] A: That
+[0277] [11:45] A: now
+[0278] [11:45] A: but i think
+[0279] [11:46] D: I think that's really as for buttons and you know
+[0280] [11:49] C: Yes
+[0281] [11:51] A: Yeah Maybe it is
+[0282] [11:54] A: but Then it seems to me that is impossible to get at twelve and a half euros
+[0283] [12:01] A: Also the
+[0284] [12:01] D: Yes
+[0285] [12:01] A: l.
+[0286] [12:01] A: c. display I think it's I think it's too expensive for the display we use
+[0287] [12:03] C: And that's that's a big cost
+[0288] [12:08] A: i think they Um try it
+[0289] [12:11] C: If we leave out to display we can also save money on the chip
+[0290] [12:17] A: That's right
+[0291] [12:18] A: but what's the
+[0292] [12:19] A: e. big advantage of our Remote then Yeah
+[0293] [12:25] D: Only the docking station i guess
+[0294] [12:27] A: Yeah
+[0295] [12:29] C: Which isn't it the docking station isn't even in the scripts schematic
+[0296] [12:35] C: So
+[0297] [12:35] A: No
+[0298] [12:35] C: it's not even taken into the price
+[0299] [12:36] A: This extra That's extra
+[0300] [12:39] A: that's right
+[0301] [12:40] D: Maybe we should move to a different colour
+[0302] [12:44] A: That's an option
+[0303] [12:45] A: Poland
+[0304] [12:45] A: Poland something Polished
+[0305] [12:48] D: Yeah
+[0306] [12:49] A: okay
+[0307] [12:51] A: Don't you think you can If we can Count this as well as one button then integrate the these buttons in three
+[0308] [13:01] A: Then it's a lot of money as well
+[0309] [13:02] C: We could save money on it
+[0310] [13:04] C: but Would it make the remote more usable for elderly people
+[0311] [13:09] D: Yeah that's what i'm
+[0312] [13:11] C: My mother can't even send send an
+[0313] [13:13] C: s.
+[0314] [13:13] C: m.
+[0315] [13:13] C: s. message
+[0316] [13:15] C: So
+[0317] [13:15] A: Yeah That's the point
+[0318] [13:18] B: And we gonna buy um A remote control um when you can uh use it
+[0319] [13:23] B: so um Yeah
+[0320] [13:27] B: We aim uh uh he must um Stay below the um below um Twelve uh uh a fifty
+[0321] [13:36] B: or Can't
+[0322] [13:39] A: That
+[0323] [13:41] D: Well
+[0324] [13:41] D: since market research Indicator the older people Spend their money easier More easy
+[0325] [13:49] D: maybe it's feasible to just put the price of the Remote up a little
+[0326] [13:54] D: Especially since we have those nice Features
+[0327] [13:58] A: Yeah
+[0328] [13:58] A: but Uh we have to stick to that often audience
+[0329] [14:02] A: we don't have any more but yeah Two
+[0330] [14:05] C: the margin will get too small
+[0331] [14:05] A: Charlotte
+[0332] [14:05] B: Is it possible to
+[0333] [14:07] A: Yeah
+[0334] [14:09] B: But it's possible to make one uh for uh twelve fifty
+[0335] [14:14] B: I don't think so
+[0336] [14:14] A: It is if you're leave out the
+[0337] [14:15] D: Yeah Really one
+[0338] [14:16] A: l.
+[0339] [14:16] A: c. display And if you use less buttons So anyway Oh you can To the single chip
+[0340] [14:20] B: Yeah
+[0341] [14:24] C: Ten
+[0342] [14:24] B: But You can't use
+[0343] [14:31] A: There it is
+[0344] [14:32] B: Yeah
+[0345] [14:37] A: But then
+[0346] [14:43] A: Good looking
+[0347] [14:45] B: With uh with uh um Attractive uh option
+[0348] [14:49] A: Yeah
+[0349] [14:50] B: so
+[0350] [14:51] B: uh You can stay uh do do uh tell fifty
+[0351] [14:55] B: so
+[0352] [14:56] A: I think it's a difficult as well
+[0353] [14:56] D: hour
+[0354] [14:58] D: But actually becoming a choice between like I we're good Remote um Higher
+[0355] [15:05] D: production costs are just Any other remote control
+[0356] [15:07] C: No remote
+[0357] [15:09] A: Or we can leave out the ten buttons
+[0358] [15:12] A: And take one scroll wheel for the programme numbers
+[0359] [15:17] B: Was one
+[0360] [15:18] A: Because then we save ten buttons
+[0361] [15:19] C: That's
+[0362] [15:19] B: Right
+[0363] [15:21] A: then we have Five In one
+[0364] [15:26] A: And See
+[0365] [15:28] A: if we have this one and we've got the advanced
+[0366] [15:34] C: Right getting closer
+[0367] [15:34] A: Uh-huh We can close
+[0368] [15:38] D: But how would a scroll-wheel work here
+[0369] [15:43] A: And then you will Uh maybe you can
+[0370] [15:52] A: Uh Scroll
+[0371] [15:54] A: if you scroll you'll see the numbers on the
+[0372] [15:56] A: l.
+[0373] [15:56] A: c.
+[0374] [15:56] A: d. display
+[0375] [15:58] A: Until you've got the right number then you push it
+[0376] [15:58] C: Yeah
+[0377] [16:01] D: That would Bring up the price of the scroll-wheels so Integrated scroll-wheel Pushbutton
+[0378] [16:05] A: but
+[0379] [16:05] A: it's a scroll push
+[0380] [16:07] A: Okay
+[0381] [16:08] A: but then you you can We should uh uh Some other bits and as well
+[0382] [16:08] D: But yeah
+[0383] [16:13] C: could just not scroll for a half a second
+[0384] [16:16] A: Yeah That's right so
+[0385] [16:18] C: You want me to button
+[0386] [16:18] A: if you scroll
+[0387] [16:18] A: to a number and then you wait a second then it could And so that channel
+[0388] [16:22] D: I think that would be like the end of or usability
+[0389] [16:25] B: Yeah
+[0390] [16:27] A: That would definitely
+[0391] [16:30] A: Crop
+[0392] [16:30] A: cost a lot
+[0393] [16:31] D: Yeah
+[0394] [16:32] D: but
+[0395] [16:35] A: we need to battery
+[0396] [16:41] A: And the regular chip is not possible
+[0397] [16:44] A: It has to be advanced
+[0398] [16:46] C: If you want to use an
+[0399] [16:47] C: l.
+[0400] [16:47] C: c.
+[0401] [16:48] C: d. screen you you need an advanced chip guess
+[0402] [16:48] A: Yes that's all Yeah okay
+[0403] [16:52] A: Oh you can save a euro
+[0404] [16:54] A: by Uh flats Design
+[0405] [16:59] A: That's an option we can
+[0406] [17:01] C: Yeah
+[0407] [17:01] B: Yeah
+[0408] [17:04] A: Then we're almost there
+[0409] [17:06] C: Yeah if you could just Leave out one more button
+[0410] [17:10] A: Yeah
+[0411] [17:12] A: So
+[0412] [17:12] A: if you
+[0413] [17:13] B: Yeah
+[0414] [17:13] B: we have to uh skip the
+[0415] [17:14] B: subtitle
+[0416] [17:15] B: uh a button
+[0417] [17:16] C: Yeah
+[0418] [17:17] A: Yeah
+[0419] [17:17] A: but i think that's That is a big advantage
+[0420] [17:18] B: Yeah
+[0421] [17:20] A: for
+[0422] [17:20] B: it's a big french
+[0423] [17:22] B: But
+[0424] [17:22] A: But
+[0425] [17:23] A: Can we used
+[0426] [17:24] A: can't integrate that teletext and a subtitles in one button
+[0427] [17:28] C: I think so yeah
+[0428] [17:28] B: yeah
+[0429] [17:29] D: Well i
+[0430] [17:29] A: If you push it Three times
+[0431] [17:30] D: think it's pretty much The teletext subtitles or
+[0432] [17:33] D: Right now you just push the teletext button
+[0433] [17:35] D: Go to page eighty eight
+[0434] [17:37] A: Yeah
+[0435] [17:37] D: And teletext
+[0436] [17:38] D: disappears
+[0437] [17:38] D: but the
+[0438] [17:39] D: subtitle
+[0439] [17:39] D: say there
+[0440] [17:41] B: But if you push the teletext button twice
+[0441] [17:42] D: In this case and most
+[0442] [17:44] C: What if you have to scroll to page eighty eight eight hundred eighty eight From
+[0443] [17:48] A: That that's not really yes
+[0444] [17:48] B: One uh one but but if you
+[0445] [17:49] D: Well
+[0446] [17:49] D: that could be just the like the scroll to eight click
+[0447] [17:52] D: scroll to eight click scroll to eight Click
+[0448] [17:55] C: Yeah okay
+[0449] [17:56] D: But then again that would be that was just pretty much trouble option for older people
+[0450] [18:01] D: Would turn you know what a scroll wheel is
+[0451] [18:02] C: No
+[0452] [18:04] B: No
+[0453] [18:05] D: Oh yeah Remote with that With respect to have like Ten buttons for the numbers one two zero
+[0454] [18:05] A: No
+[0455] [18:16] D: It only five buttons on it And the scroll wheel
+[0456] [18:21] A: I think if you make uh That advertisement Uh on television and And uh In the guide
+[0457] [18:31] A: You can explain to people are to use the scroll-wheel
+[0458] [18:35] A: Just make a real simple
+[0459] [18:40] A: "'cause" it's a it's it's a it's a lot of money
+[0460] [18:42] A: we can keep a
+[0461] [18:43] A: l.
+[0462] [18:43] A: c.
+[0463] [18:43] A: d. screen
+[0464] [18:44] A: which can provide extra information how to use a scroll-wheel How to use
+[0465] [18:48] A: the other but buttons as subtitles
+[0466] [18:48] D: True
+[0467] [18:53] A: And it's good for the In over to the design as well If you would the race these
+[0468] [19:02] A: Mm Really
+[0469] [19:06] A: Uh-huh Uh-huh Uh-huh Uh-huh Yeah but that's a a
+[0470] [19:26] A: Looks a bit well maybe
+[0471] [19:30] D: It's pretty big scroll wheel
+[0472] [19:42] A: is
+[0473] [19:46] A: Mm Something like that
+[0474] [19:53] A: Then Yeah You've got the scroll wheel
+[0475] [19:57] A: one two three four five buttons if we
+[0476] [20:02] A: Or is this one
+[0477] [20:08] A: Mm Uh-huh And these are two buttons then
+[0478] [20:27] C: It could wake Two buttons out of that
+[0479] [20:31] C: And just Um If you press the volume button you can control the volume with the scroll wheel
+[0480] [20:36] A: Yeah
+[0481] [20:39] C: That would save two buttons If you do the same for the channel
+[0482] [20:41] A: Yeah That's really a good good idea I think
+[0483] [20:51] A: And that will make the use the scroll-wheel
+[0484] [20:55] C: More obvious
+[0485] [20:55] A: Uh a more obvious indeed
+[0486] [20:59] A: So it might want For the volume One for channel
+[0487] [21:11] A: Those scroll
+[0488] [21:14] C: So
+[0489] [21:15] C: if we
+[0490] [21:15] A: That's right
+[0491] [21:16] A: so we've got one two three
+[0492] [21:18] A: Yeah
+[0493] [21:19] A: we can use the teletext in if we want
+[0494] [21:22] C: Yeah
+[0495] [21:23] A: That's and that's better
+[0496] [21:23] C: So
+[0497] [21:24] D: So this is fine but
+[0498] [21:25] C: If we Leave out all those buttons press you can go with a flat Flat case
+[0499] [21:31] C: And make it smaller overall
+[0500] [21:35] C: So if you put the the volume And channel buttons On the same height as the on off button Screen right
+[0501] [21:35] A: Yeah
+[0502] [21:41] A: Yeah
+[0503] [21:42] C: be a hundred and then the scroll button
+[0504] [21:45] A: Yeah
+[0505] [21:46] C: You get uh a much more remote
+[0506] [21:46] A: You can
+[0507] [21:48] B: Yeah
+[0508] [21:48] A: That's right
+[0509] [21:50] C: And it
+[0510] [21:51] A: So we can Decrease this want to Four buttons
+[0511] [21:57] C: Yeah
+[0512] [21:57] D: Right now we have a
+[0513] [21:58] B: But You can make uh quite uh a big uh Remote control for uh just the same price as a small one
+[0514] [22:07] A: Yeah that's the problem
+[0515] [22:07] B: Just uh you only have to pay for the
+[0516] [22:09] B: double curved or single curved
+[0517] [22:12] A: Yeah
+[0518] [22:12] B: A bit
+[0519] [22:14] A: Yeah
+[0520] [22:14] A: it's uh it's more the malls in which they are being made i think
+[0521] [22:18] A: Single curved it's really easy to just fill in
+[0522] [22:21] A: then Cases come right out of the machine
+[0523] [22:24] A: and Single curved you have to have a different a different machine Then a flat one
+[0524] [22:30] A: I think this is really easy one
+[0525] [22:33] A: Um Well does everybody think about the flat Or a single curves Design
+[0526] [22:42] A: Fake Do you think
+[0527] [22:44] D: Well
+[0528] [22:45] D: I still think we should go for a single curve design
+[0529] [22:47] C: Yeah
+[0530] [22:48] D: the Then again i think All these changes are not really Okay with me
+[0531] [22:49] C: Which it argument
+[0532] [22:50] C: was very good yeah
+[0533] [22:51] A: Yeah
+[0534] [22:53] A: Yeah
+[0535] [22:54] D: but Since We just have to
+[0536] [22:57] A: We have to cut costs
+[0537] [22:58] B: Yeah
+[0538] [22:59] A: Yeah yeah
+[0539] [23:01] D: I'd rather just go to the board
+[0540] [23:01] A: i mean
+[0541] [23:04] A: Well for more money
+[0542] [23:04] D: Just to have eighteen dollars or Remote
+[0543] [23:06] A: Yeah
+[0544] [23:08] A: Yeah i'm agreeing with the usability
+[0545] [23:09] D: Or do some market research and see what the options are
+[0546] [23:15] A: But um i think we can
+[0547] [23:17] A: and keep the single curved one just to Express our
+[0548] [23:21] A: l.
+[0549] [23:21] A: c.
+[0550] [23:22] A: d. screen a bit more
+[0551] [23:23] D: Yeah
+[0552] [23:24] A: Some people will use it more and specially for the hell functions
+[0553] [23:27] A: will be good if we have scroll bar Scroll button
+[0554] [23:32] A: Mm will be necessary to have a good help function as well
+[0555] [23:38] A: Uh-huh Uh-huh So
+[0556] [23:44] A: this is scroll
+[0557] [23:56] A: I think it does better to have this price this the bit earlier Before went on to that For the whole design
+[0558] [24:00] D: Yes definitely
+[0559] [24:05] A: But I'm glad you could make a bit
+[0560] [24:10] D: Yeah
+[0561] [24:11] A: It's pretty different fits all the last one i had this one
+[0562] [24:12] D: Three different
+[0563] [24:13] D: but This is not really like For the group we were making a remote
+[0564] [24:18] B: Oh
+[0565] [24:19] D: It's all really require a lot of marketing To get this To sell
+[0566] [24:22] A: Yeah and well
+[0567] [24:27] D: "'cause" if older people like Familiar forms and familiar stuff
+[0568] [24:32] D: this is not familiar for that
+[0569] [24:35] A: No
+[0570] [24:36] A: but i think
+[0571] [24:36] D: So we're gonna have to do a lotta
+[0572] [24:37] D: convincing
+[0573] [24:38] D: them
+[0574] [24:38] A: I think the most
+[0575] [24:39] B: But they know the scroll buttons from my uh alt radios
+[0576] [24:42] B: the they call also uh uh buttons like that's for uh changing a chance
+[0577] [24:45] D: Yeah
+[0578] [24:45] A: That's right
+[0579] [24:46] B: oh Maybe it's a
+[0580] [24:47] A: We can look
+[0581] [24:48] A: We can stick
+[0582] [24:49] A: a that's a bit Like a old old buttons Yeah
+[0583] [24:52] B: Yeah
+[0584] [24:54] A: Maybe that's
+[0585] [24:55] A: recognisable for them as well
+[0586] [24:57] A: yeah that's a good one
+[0587] [24:59] A: So
+[0588] [25:00] A: um Afraid we have to move on
+[0589] [25:03] A: And it's a it's Let's Frightening i think
+[0590] [25:07] A: if they see this design i think um The only five buttons and
+[0591] [25:13] A: But you'll see
+[0592] [25:13] D: That's true
+[0593] [25:14] D: but it might be confusing to
+[0594] [25:16] A: Yeah That's definitely right
+[0595] [25:17] D: Could be like what only five buttons
+[0596] [25:20] A: Yeah
+[0597] [25:21] B: That's very special
+[0598] [25:22] B: so
+[0599] [25:24] A: I would buy
+[0600] [25:27] D: Yeah
+[0601] [25:27] D: but you're not sixty
+[0602] [25:28] A: That's right
+[0603] [25:29] A: I would buy it if it was six
+[0604] [25:31] A: No i don't know
+[0605] [25:33] A: Like uh standards of of euros
+[0606] [25:35] A: now
+[0607] [25:37] A: Uh uh yes they are
+[0608] [25:39] B: No
+[0609] [25:40] A: Now
+[0610] [25:41] A: that We can go on with the project Evaluation
+[0611] [25:49] A: Let's see
+[0612] [25:50] A: i can sit down and think
+[0613] [25:51] A: we still uh fifty minutes left
+[0614] [25:53] A: so the master schedule
+[0615] [25:57] A: Um The project process
+[0616] [26:00] D: So
+[0617] [26:00] D: um i like Set up all these criteria And evaluation of the Thingy
+[0618] [26:04] A: evaluation criteria that's right
+[0619] [26:07] A: that was And that point i forgot
+[0620] [26:10] A: Shit
+[0621] [26:13] A: There we are evaluation could do it here
+[0622] [26:15] D: Thank you
+[0623] [26:16] A: But
+[0624] [26:19] A: It's got five minutes i think it's good to
+[0625] [26:22] D: Five more minutes
+[0626] [26:24] A: Now we've got fifteen minutes
+[0627] [26:25] A: but
+[0628] [26:25] D: Okay
+[0629] [26:36] A: Yes
+[0630] [26:43] D: "'kay" so
+[0631] [26:43] D: that's um which which are still a study Um analysis of the requirements we set up earlier
+[0632] [26:48] A: Yeah
+[0633] [26:49] D: Translated
+[0634] [26:50] D: into criteria
+[0635] [26:52] D: Which would be these
+[0636] [26:53] D: Um Is remote fancy The shape look and feel
+[0637] [26:57] D: Enough to have But new functions are out there
+[0638] [27:01] D: Uh easy to use
+[0639] [27:03] D: Uh the learnability is very important factor here
+[0640] [27:07] D: Uh it's functional
+[0641] [27:09] D: Oh there Not too many functions uh Amount of functions
+[0642] [27:13] D: and i'd get those functions that are there are they useful
+[0643] [27:17] D: Um the costs
+[0644] [27:20] D: The target group is uh Remote really for the group we're making it for
+[0645] [27:26] D: And Great probability If
+[0646] [27:30] D: are Company is If it is easily recognisable their company made it
+[0647] [27:37] D: Um So we're supposed to evaluated right now
+[0648] [27:41] A: Okay
+[0649] [27:44] D: Let's see
+[0650] [27:47] D: Oh
+[0651] [27:47] D: i have the same This was a little Hard
+[0652] [27:50] D: because The minutes of our last meeting We're not here
+[0653] [27:54] A: Yeah
+[0654] [27:54] A: it does because my pen filter
+[0655] [27:56] A: applaud his data
+[0656] [27:57] D: Okay
+[0657] [27:58] B: Yeah
+[0658] [27:59] D: And shine
+[0659] [27:59] A: And try to
+[0660] [28:00] A: but it's uh it's giving errors But that adding the software
+[0661] [28:03] D: So I
+[0662] [28:06] B: "'kay"
+[0663] [28:07] D: It's a design fancy On a scale of one to seven
+[0664] [28:10] A: I think it's fancy
+[0665] [28:12] C: Six
+[0666] [28:14] B: Yes
+[0667] [28:14] D: We'll go for six
+[0668] [28:15] A: Six
+[0669] [28:22] D: Is the design innovative
+[0670] [28:24] A: Very
+[0671] [28:25] D: I think so
+[0672] [28:25] D: what are
+[0673] [28:26] D: L.
+[0674] [28:26] D: c.
+[0675] [28:26] D: d. screen docking station scroll buttons
+[0676] [28:26] A: Subtitles
+[0677] [28:27] A: buttons
+[0678] [28:29] A: Yep
+[0679] [28:29] C: Yeah
+[0680] [28:30] A: Seven
+[0681] [28:31] D: Seven
+[0682] [28:31] B: Yeah
+[0683] [28:32] A: So i've got twenty cents for a docking station
+[0684] [28:35] A: I think
+[0685] [28:38] D: Should be do
+[0686] [28:39] A: Yeah that's it
+[0687] [28:40] D: Is to design easy to use
+[0688] [28:42] B: And not really
+[0689] [28:43] A: That's a bit But she
+[0690] [28:45] D: Well
+[0691] [28:47] D: Would be for us
+[0692] [28:48] D: but
+[0693] [28:49] B: For people are right
+[0694] [28:50] A: I would say four Four five between between four
+[0695] [28:52] C: Four or five yes
+[0696] [28:53] B: Yeah
+[0697] [28:55] D: I'd go for for two
+[0698] [29:01] A: It's it's functional
+[0699] [29:02] D: Is a design functional
+[0700] [29:04] D: Um do we have all functions that we want to include
+[0701] [29:07] A: Yes
+[0702] [29:08] B: Yeah
+[0703] [29:08] D: I think we do
+[0704] [29:09] D: do we have too many functions
+[0705] [29:10] C: No
+[0706] [29:11] A: No
+[0707] [29:11] D: I don't think so
+[0708] [29:12] D: pretty soon
+[0709] [29:12] A: think it's a seven
+[0710] [29:15] D: Seven
+[0711] [29:18] D: Alan
+[0712] [29:18] D: do we um Take care
+[0713] [29:22] D: of the uh Biggest frustrations of the uh Remote control Like it getting lost and Yes i
+[0714] [29:29] B: Hmm
+[0715] [29:30] C: we haven't thought of that one
+[0716] [29:31] D: Inferences
+[0717] [29:32] A: As well as
+[0718] [29:32] D: Think we do
+[0719] [29:33] A: I had them with
+[0720] [29:34] A: um Mm They're actually not very functional in getting lots
+[0721] [29:45] D: But the production costs within the pre set limits
+[0722] [29:47] D: Well
+[0723] [29:47] D: they are now
+[0724] [29:54] D: Does the design fit the group focus
+[0725] [29:58] C: think that's a free
+[0726] [30:00] B: Yeah
+[0727] [30:00] D: Yeah
+[0728] [30:00] A: No i
+[0729] [30:01] A: think with our new Radio button i think it's uh I think it's better
+[0730] [30:01] D: I think it doesn't
+[0731] [30:05] B: Yeah You have to test it
+[0732] [30:08] B: somewhere
+[0733] [30:08] D: no
+[0734] [30:09] C: I still i think it's To want to fancy Two Too flashy
+[0735] [30:10] D: I think
+[0736] [30:11] A: I think it
+[0737] [30:15] D: I think a radio button is not exactly what Older people expect of uh Remote control
+[0738] [30:20] B: Yeah
+[0739] [30:21] A: Uh-huh
+[0740] [30:23] A: I would give it a four
+[0741] [30:29] D: I'm not sure
+[0742] [30:30] D: i think it go for two
+[0743] [30:32] B: To go for tree
+[0744] [30:33] A: Then we have to do the three
+[0745] [30:35] A: It's a
+[0746] [30:43] D: Is a country company recognisable
+[0747] [30:45] A: Yes it's
+[0748] [30:46] D: Well
+[0749] [30:46] D: we have the logo there
+[0750] [30:48] D: So
+[0751] [30:52] A: And they wanna put fashion in their products Uh in the slogan of the company
+[0752] [30:58] A: and we have the Removable Front cases
+[0753] [31:02] A: So i think it's very recognisable
+[0754] [31:02] D: Yeah
+[0755] [31:10] D: So that would be yes
+[0756] [31:15] D: I was also supposed to calculate the score
+[0757] [31:17] D: but Thought we would have another private Thingy after this
+[0758] [31:21] A: We've got like a look at it
+[0759] [31:25] C: In to
+[0760] [31:26] D: Is this
+[0761] [31:26] C: say even into into
+[0762] [31:26] D: like
+[0763] [31:26] D: after this are we done or
+[0764] [31:29] A: we've got that we're going to evaluate it
+[0765] [31:29] D: And then go to a rubber room again
+[0766] [31:32] D: Well i'm you know
+[0767] [31:33] D: these are seven
+[0768] [31:33] D: factors time seven is forty Something to
+[0769] [31:39] D: No
+[0770] [31:39] D: no it
+[0771] [31:40] A: forty nine
+[0772] [31:42] D: minus one Minus three or four Yeah yeah Minus four
+[0773] [31:53] D: So that would be minus eight
+[0774] [31:56] D: Forty one Uh to forty nine
+[0775] [31:56] A: Forty one
+[0776] [31:59] A: But that's Alright eighty percent
+[0777] [32:06] D: Okay
+[0778] [32:08] D: It's uh just tie that in Okay
+[0779] [32:14] A: There's a
+[0780] [32:15] A: d. Four percent
+[0781] [32:22] A: I think that's uh Pretty nice score
+[0782] [32:25] C: Yeah
+[0783] [32:39] D: Okay So
+[0784] [32:40] D: that would be if the mission
+[0785] [32:41] A: Okay
+[0786] [32:42] A: thank you
+[0787] [32:46] A: So
+[0788] [32:46] A: uh That brings us to the project evaluation
+[0789] [32:56] A: Thank you
+[0790] [32:58] A: Project process
+[0791] [32:59] A: Did we move through the right faces you think Long process
+[0792] [33:04] C: Yes
+[0793] [33:05] B: Yeah and
+[0794] [33:06] B: the
+[0795] [33:06] D: think we should have uh Should have the finance
+[0796] [33:10] D: thing you have thought earlier In the design phase
+[0797] [33:11] B: Yeah
+[0798] [33:12] A: That's right
+[0799] [33:15] A: So like of information But prices
+[0800] [33:18] D: Yeah Definitely
+[0801] [33:19] C: That's true
+[0802] [33:20] A: Okay
+[0803] [33:23] A: Uh huh Okay
+[0804] [33:31] A: Satisfaction
+[0805] [33:33] A: Was a room for creativity
+[0806] [33:36] A: No
+[0807] [33:37] D: But in fact no
+[0808] [33:40] A: Because of the finance sheet
+[0809] [33:41] B: Yeah
+[0810] [33:41] C: Yeah that was an oval room but the fine and so
+[0811] [33:42] D: Yeah true
+[0812] [33:43] D: but
+[0813] [33:43] A: The room was yeah
+[0814] [33:49] D: And i would've like to go for the Younger users also
+[0815] [33:56] D: And just to be able to access internet and Get something of your own
+[0816] [34:04] A: You cushions Internet access
+[0817] [34:13] A: Okay
+[0818] [34:15] A: Leadership
+[0819] [34:16] A: Was
+[0820] [34:16] A: Was it was everybody had to do Uh according to our roles and Functions
+[0821] [34:24] C: Yes
+[0822] [34:26] A: Teamwork
+[0823] [34:26] A: Teamwork didn't work out Working together also you to review
+[0824] [34:30] A: it uh Bastard
+[0825] [34:31] C: Yeah as what okay
+[0826] [34:34] A: Nice
+[0827] [34:41] C: Tasks are very structured
+[0828] [34:42] C: sure you can just to step by step
+[0829] [34:44] C: and It's very easy
+[0830] [34:45] D: Uh-huh
+[0831] [34:49] A: tasks
+[0832] [34:51] A: Okay
+[0833] [34:53] A: Well you mean sufficient for the tasks that we had to do
+[0834] [34:56] A: or were they Too much
+[0835] [34:59] C: Well
+[0836] [35:00] C: The smartboard the the the drawing is just a pain in the us
+[0837] [35:03] C: but The digital
+[0838] [35:05] A: Smart board
+[0839] [35:06] C: the digital pen is very nice
+[0840] [35:08] A: It has wants to download it's a Data
+[0841] [35:09] D: Yeah Yeah
+[0842] [35:10] C: Yes
+[0843] [35:18] A: Uh-huh uh-huh
+[0844] [35:23] A: Smartboard files Irritating
+[0845] [35:32] A: So you Rather also have a flip over Or Something else
+[0846] [35:38] C: The flip over or a more precise uh Digit
+[0847] [35:39] B: If you're
+[0848] [35:39] B: so
+[0849] [35:41] B: Yeah
+[0850] [35:42] A: Foster's
+[0851] [35:43] A: well i think
+[0852] [35:43] C: yes
+[0853] [35:44] A: yeah
+[0854] [35:49] A: It off or
+[0855] [35:50] B: But if you want to share uh Of uh when you make a
+[0856] [35:54] B: um Uhuh Picture like this uh one the presentation It's easier to uh share it with other people
+[0857] [36:02] B: um so
+[0858] [36:03] B: you can should save it
+[0859] [36:04] B: uh and uh Put it on the internet or a Yeah and she writes
+[0860] [36:09] B: for uh for uh Oh sure director
+[0861] [36:12] D: Yeah
+[0862] [36:12] D: i try to open the file Well my laptop
+[0863] [36:15] D: but Not possible
+[0864] [36:15] C: No i didn't work
+[0865] [36:16] B: No
+[0866] [36:17] A: Hey need to the smartboards uh Vacation i think a
+[0867] [36:19] D: Yeah
+[0868] [36:22] B: Can i can't you export that uh like
+[0869] [36:22] A: But i think you can
+[0870] [36:23] A: yeah Should be possible Yeah you can
+[0871] [36:25] D: Uh huh
+[0872] [36:26] A: x. for the speech
+[0873] [36:28] A: Best
+[0874] [36:29] A: yeah
+[0875] [36:29] A: but he
+[0876] [36:29] D: Should of them that
+[0877] [36:33] A: So
+[0878] [36:34] A: the sharing of information was uh was okay
+[0879] [36:38] D: That's true
+[0880] [36:38] C: Yeah
+[0881] [36:38] A: network
+[0882] [36:38] B: Oh
+[0883] [36:39] A: Yeah tennessee on the table
+[0884] [36:48] B: Yeah
+[0885] [36:51] B: See Yeah
+[0886] [36:52] A: Yeah
+[0887] [36:53] A: J. peg And they It's possible
+[0888] [36:57] A: Okay
+[0889] [37:00] A: It's nice
+[0890] [37:01] A: Have
+[0891] [37:01] A: Have we found new ideas for
+[0892] [37:05] A: I think this kind of meetings
+[0893] [37:07] A: or
+[0894] [37:10] B: Yeah
+[0895] [37:11] B: maybe um Uh when we need a just a a gift
+[0896] [37:15] B: uh Numbers of of uh At uh oh wow of uh i would've said uh as as as it is But
+[0897] [37:23] A: Yeah
+[0898] [37:24] B: So that you should to uh It was uh Things uh like that on the computer So uh just uh uh Like
+[0899] [37:30] A: Yeah
+[0900] [37:32] A: So Yeah So
+[0901] [37:33] B: uh T. university
+[0902] [37:37] A: everybody puts is on score
+[0903] [37:38] A: and then of You'd need yeah it's the score
+[0904] [37:38] B: Yeah
+[0905] [37:39] D: Yeah
+[0906] [37:41] A: and you can get one
+[0907] [37:43] C: Yeah
+[0908] [37:44] A: That's better
+[0909] [37:46] A: So it's
+[0910] [37:47] A: uh How do you call Yes she Yeah
+[0911] [38:14] A: Okay Hmmm
+[0912] [38:17] A: any more ideas
+[0913] [38:18] A: Oh questions about the project or But the product
+[0914] [38:28] A: He goes i think Yeah that's me Get to our last sheet
+[0915] [38:40] A: Are the costs within the budget
+[0916] [38:43] B: Yeah
+[0917] [38:44] A: Yeah
+[0918] [38:44] D: They are
+[0919] [38:46] C: Considering we are not going to make a docking station
+[0920] [38:46] A: Do we
+[0921] [38:50] A: Docking
+[0922] [38:50] A: Docking station
+[0923] [38:51] A: That's a good point
+[0924] [38:53] A: But maybe because of the docking station the Price of the remote can also be a bit higher
+[0925] [39:00] D: Yeah
+[0926] [39:01] C: Perhaps
+[0927] [39:02] A: and i think you can come to say that as well
+[0928] [39:05] A: So i think that shouldn't be the biggest problem
+[0929] [39:08] A: because it's very cheap To make as well
+[0930] [39:10] C: Uh-huh
+[0931] [39:12] A: Do we think we gonna get the twelve and a half million
+[0932] [39:15] A: what was it Yeah
+[0933] [39:16] D: Fifty grand
+[0934] [39:17] A: Fifteen fifteen million
+[0935] [39:20] A: I think we will If you can export this product
+[0936] [39:24] A: It's innovative
+[0937] [39:24] D: Yeah
+[0938] [39:26] A: Push it in america People are pretty take it then Sometime
+[0939] [39:32] D: Yeah
+[0940] [39:32] D: so i think
+[0941] [39:33] D: I mean
+[0942] [39:34] D: if we didn't gonna make a scroll button anyway
+[0943] [39:38] A: You can do more
+[0944] [39:38] D: It be more for the younger people are for the older people
+[0945] [39:41] A: Yeah
+[0946] [39:42] D: So maybe it's just
+[0947] [39:43] D: refocus
+[0948] [39:45] A: Just put it on the market for everybody
+[0949] [39:47] A: You can You can change market somewhere by changing the front Cover
+[0950] [39:47] D: Or specifically for younger people
+[0951] [39:54] A: That's one thing you can change it is
+[0952] [39:55] D: That's true
+[0953] [39:56] A: So you can also try to
+[0954] [39:58] A: Uh ritzy younger people but uh yeah putting fancy covers on on the market Just as a test
+[0955] [40:05] A: c.
+[0956] [40:06] A: r. it works
+[0957] [40:07] A: That's i think it could advantage
+[0958] [40:09] D: Yeah
+[0959] [40:09] D: i think Then it would be way more Uh popular
+[0960] [40:15] D: With younger people are those that would be with All the people Even if it were there covers
+[0961] [40:20] A: Yeah
+[0962] [40:23] A: Uh-huh
+[0963] [40:25] A: I then i think we can have our little celebration Right now
+[0964] [40:30] A: That's it
+[0965] [40:30] D: Party party
+[0966] [40:32] A: I think we still have to fill in one more questionnaire I think
+[0967] [40:34] B: This is sitting
+[0968] [40:35] D: Okay
+[0969] [40:37] A: i don't know
+[0970] [40:37] A: i didn't get the message
+[0971] [40:40] A: From
+[0972] [40:40] A: d. Uh one ending
+[0973] [40:43] A: of the uh huh
+[0974] [40:43] B: Yeah i believe it
+[0975] [40:44] A: oh
+[0976] [40:44] D: Oh
+[0977] [40:44] A: i think i have one or
+[0978] [40:44] D: you did
+[0979] [40:46] A: Five four minutes
+[0980] [40:47] A: uh it's nice
+[0981] [40:51] A: Then we so some questions
+[0982] [40:54] A: Somebody has some questions you can ask "'em" now
+[0983] [40:58] A: We can put these In the project folder as well
+[0984] [41:01] D: Uh-huh
+[0985] [41:01] A: Hmmm it's
+[0986] [41:10] A: Uh-huh And for that Picture i think
+[0987] [41:22] D: Yeah
+[0988] [41:22] B: Yeah
+[0989] [41:36] A: Hmm This is another that's where i guess
+[0990] [41:46] A: Uh-huh Somebody see the project folder
+[0991] [41:53] A: I don't
+[0992] [41:57] A: Hmm My documents
+[0993] [42:07] B: maybe uh they will save it
+[0994] [42:08] B: so
+[0995] [42:09] A: Yeah
+[0996] [42:09] A: i just put it in my documents
+[0997] [42:10] D: Yeah but no
+[0998] [42:11] A: and
+[0999] [42:11] A: uh That's okay
+[1000] [42:22] A: Okay
+[1001] [42:26] A: I think i'm going to make our Final presentation now
+[1002] [42:31] D: Yeah
+[1003] [42:31] D: you're supposed to make File
+[1004] [42:33] A: And
+[1005] [42:33] A: And then i will be back in about ten minutes To show you the Final presentation Summary of the project
+[1006] [42:40] B: Okay
+[1007] [42:40] C: Okay
+[1008] [42:44] D: Are we supposed to go Into our own rooms again
+[1009] [42:46] B: Yeah maybe if the full uh another questionnaire
+[1010] [42:48] A: Yeah Questionnaire
+[1011] [42:49] B: sure
+[1012] [42:50] A: i think you'll get a christian In your room
+[1013] [42:50] D: Yeah
+[1014] [42:54] A: And then uh meet you in I think about ten minutes Something
+[1015] [42:57] C: Okay
+[1016] [43:03] A: Hopefully my pen of download this software Or data
+[1017] [43:07] D: Yeah
+[1018] [43:10] D: Something nice

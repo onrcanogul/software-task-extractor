@@ -1,0 +1,794 @@
+================================================================================
+ICSI Meeting Transcript: Bed017
+================================================================================
+
+Total Utterances: 782
+Unique Speakers: 6
+Duration: 38.51 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:10] fe004: Why ?
+[0002] [00:11] me003: I
+[0003] [00:11] fn050: Um .
+[0004] [00:12] fe004: No , cuz she already told me it , before she told you .
+[0005] [00:14] me003: No , she told me a long time ago . She told me she told me like two weeks ago .
+[0006] [00:16] fe004: Oh , well , it doesn't matter what time .
+[0007] [00:18] mn015: OK .
+[0008] [00:20] mn015: You
+[0009] [00:20] fn050: Wow .
+[0010] [00:20] fe004: Well maybe she hadn't just started transcribing me yet .
+[0011] [00:23] fe004: Anyway .
+[0012] [00:23] fn050: What is it ?
+[0013] [00:24] me003: Let me explain something to you .
+[0014] [00:25] fn050: Um ,
+[0015] [00:26] me003: My laugh is better than yours .
+[0016] [00:27] fn050: there .
+[0017] [00:28] mn015: Yo .
+[0018] [00:28] fe004: I beg to differ .
+[0019] [00:30] fn050: Um , OK .
+[0020] [00:31] fe004: But you have to say something genuinely funny before you 'll get an example .
+[0021] [00:31] me003: Yeah .
+[0022] [00:34] fn050: The thing is I don't know how to get to the next page . Here .
+[0023] [00:35] me003: No .
+[0024] [00:37] me003: You should be at least be self - satisfied enough to laugh at your own jokes .
+[0025] [00:38] fn050: Actually
+[0026] [00:41] fn050: There .
+[0027] [00:41] fe004: No , it 's a different laugh .
+[0028] [00:43] fn050: How weird .
+[0029] [00:44] fe004: Ooh , wow !
+[0030] [00:44] me003: Oh ! Holy mackerel .
+[0031] [00:45] fe004: Wow . Whoa !
+[0032] [00:45] fn050: What ? !
+[0033] [00:47] fn050: Oh .
+[0034] [00:49] fn050: OK . I
+[0035] [00:51] fn050: wasn't even doing anything . OK .
+[0036] [00:52] fe004: Uh .
+[0037] [00:52] me003: Eva 's got a laptop , she 's trying to show it off .
+[0038] [00:56] fn050: That was r actually Robert 's idea . But anyhow .
+[0039] [01:00] fn050: Um
+[0040] [01:05] me010: O K . So , here we are .
+[0041] [01:06] me003: Once again .
+[0042] [01:07] me010: Once again ,
+[0043] [01:07] me010: right ,
+[0044] [01:07] me010: together .
+[0045] [01:08] me010: Um , so we haven't had a meeting for a while ,
+[0046] [01:12] me010: and and probably won't have one next week ,
+[0047] [01:14] me010: I think a number of people are gone .
+[0048] [01:16] me010: Um , so Robert , why don't you bring us up to date on where we are with EDU ?
+[0049] [01:24] mn015: Um ,
+[0050] [01:26] mn015: uh in a in a smaller group we had uh , talked and decided about continuation of the data collection .
+[0051] [01:33] mn015: So Fey 's time with us is almost officially over ,
+[0052] [01:39] mn015: and she brought us some thirty subjects and , t collected the data ,
+[0053] [01:43] mn015: and ten dialogues have been transcribed
+[0054] [01:48] mn015: and can be looked at .
+[0055] [01:49] mn015: If you 're interested in that , talk to me .
+[0056] [01:53] mn015: Um , and we found another uh , cogsci student who 's interested in playing wizard for us .
+[0057] [02:00] mn015: Here we 're gonna make it a little bit more complicated for the subjects , uh this round .
+[0058] [02:06] mn015: She 's actually suggested to look um , at the psychology department students ,
+[0059] [02:12] mn015: because they have to partake in two experiments in order to fulfill some requirements .
+[0060] [02:19] mn015: So they have to be subjected , before they can actually graduate .
+[0061] [02:24] mn015: And um ,
+[0062] [02:26] mn015: we want to design it so that they really have to think about having some time ,
+[0063] [02:31] mn015: two days , for example ,
+[0064] [02:33] mn015: to plan certain things and figure out which can be done at what time ,
+[0065] [02:37] mn015: and ,
+[0066] [02:38] mn015: um , sort of package the whole thing in a in a re in a few more complicated um , structure .
+[0067] [02:46] mn015: That 's for the data collection .
+[0068] [02:48] mn015: As for SmartKom , I 'm the last SmartKom meeting I mentioned that we have some problems with the synthesis ,
+[0069] [02:55] mn015: which as of this morning should be resolved .
+[0070] [02:59] me010: Good .
+[0071] [02:59] mn015: And , so ,
+[0072] [03:02] mn015: " should be " means they aren't yet ,
+[0073] [03:03] mn015: but but I think I have the info now that I need .
+[0074] [03:07] mn015: Plus , Johno and I are meeting tomorrow ,
+[0075] [03:09] mn015: so maybe uh uh , when tomorrow is over , we 're done .
+[0076] [03:16] mn015: And ha n hav we 'll never have to look at it again
+[0077] [03:20] mn015: Maybe it 'll take some more time ,
+[0078] [03:22] mn015: to be realistic ,
+[0079] [03:23] mn015: but at least we 're we 're seeing the end of the tunnel there .
+[0080] [03:27] mn015: That was that .
+[0081] [03:28] mn015: Um ,
+[0082] [03:31] mn015: the uh ,
+[0083] [03:34] mn015: uh I don't think we need to discuss the formalism
+[0084] [03:37] mn015: that 'll be done officially s once we 're done .
+[0085] [03:41] mn015: Um ,
+[0086] [03:43] mn015: something happened , in on Eva 's side with the PRM that we 're gonna look at today ,
+[0087] [03:49] mn015: and um ,
+[0088] [03:51] mn015: we have a visitor from Bruchsal from the International University .
+[0089] [03:54] mn015: Andreas , I think you 've met everyone except Nancy .
+[0090] [03:56] fe004: Sorry .
+[0091] [03:57] mn059: Yeah .
+[0092] [03:57] fe004: Hi . Hi .
+[0093] [03:58] mn015: Hi . Hi .
+[0094] [03:59] mn015: And , um ,
+[0095] [03:59] fe004: So when you said " Andreas " I thought you were talking about Stolcke .
+[0096] [04:03] fe004: Now I know that we aren't ,
+[0097] [04:04] fe004: OK .
+[0098] [04:05] mn015: Andy , you actually go by Andy ,
+[0099] [04:06] mn015: right ?
+[0100] [04:06] mn059: Yeah .
+[0101] [04:06] mn015: Oh , OK .
+[0102] [04:07] mn059: Cuz there is another Andreas around ,
+[0103] [04:07] mn015: Eh
+[0104] [04:09] fe004: Hmm .
+[0105] [04:09] mn059: so , to avoid some confusion .
+[0106] [04:12] mn015: That will be Reuter ?
+[0107] [04:13] mn059: Yeah .
+[0108] [04:13] mn015: Oh , OK .
+[0109] [04:15] mn015: So my scientific director of the EML is also the dean of the International University ,
+[0110] [04:21] mn015: one of his many occupations that just contributes to the fact that he is very occupied .
+[0111] [04:27] mn015: And , um ,
+[0112] [04:29] mn015: the
+[0113] [04:31] mn015: um , he @ @ might tell us a little bit about what he 's actually doing ,
+[0114] [04:34] mn015: and why it is s somewhat related ,
+[0115] [04:37] mn015: and by uh using maybe some of the same technologies that we are using .
+[0116] [04:42] mn015: And um . Was that enough of an update ?
+[0117] [04:45] me010: I think so .
+[0118] [04:50] mn015: In what order shall we proceed ?
+[0119] [04:51] fn050: OK .
+[0120] [04:52] mn015: Maybe
+[0121] [04:54] fn050: Uh ,
+[0122] [04:55] fn050: yeah , sure .
+[0123] [04:56] fn050: Um , so , I 've be just been looking at , um ,
+[0124] [05:00] fn050: Ack !
+[0125] [05:02] fn050: What are you doing ?
+[0126] [05:02] fn050: Yeah .
+[0127] [05:03] fn050: OK .
+[0128] [05:04] fn050: Um ,
+[0129] [05:05] fn050: I 've been looking at the PRM stuff .
+[0130] [05:06] fn050: Um ,
+[0131] [05:08] fn050: so , this is , sort of like the latest thing I have on it ,
+[0132] [05:12] fn050: and
+[0133] [05:14] fn050: I sorta constructed a couple of classes .
+[0134] [05:16] fn050: Like , a user class , a site class , and and you know , a time , a route , and then and a query class .
+[0135] [05:22] fn050: And I tried to simplify it down a little bit ,
+[0136] [05:26] fn050: so that I can actually um , look at it more .
+[0137] [05:28] fn050: It 's the same paper that I gave to Jerry last time .
+[0138] [05:31] fn050: Um ,
+[0139] [05:33] fn050: so basically I took out a lot of stuff , a lot of the decision nodes ,
+[0140] [05:37] fn050: and
+[0141] [05:39] fn050: The red lines on the , um , graph are the um , relations between the different um , classes .
+[0142] [05:49] fn050: Like , a user has like , a query ,
+[0143] [05:52] fn050: and then , also has , you know um , reference slots to its preferences ,
+[0144] [05:57] fn050: um , the special needs and , you know , money , and the user interest .
+[0145] [06:04] fn050: And so
+[0146] [06:07] fn050: this is more or less similar to the flat Bayes - net that I have , you know , with the input nodes and all that .
+[0147] [06:12] fn050: And
+[0148] [06:14] fn050: So I tried to construct the dependency models ,
+[0149] [06:17] fn050: and
+[0150] [06:19] fn050: a lot of these stuff I got from the flat Bayes - net ,
+[0151] [06:21] fn050: and what they depend on ,
+[0152] [06:22] fn050: and it turns out , you know , the CPT 's are really big , if I do that ,
+[0153] [06:25] fn050: so I tried to see how I can do , um put in the computational nodes in between .
+[0154] [06:31] fn050: And what that would look like in a PRM .
+[0155] [06:35] fn050: And
+[0156] [06:40] fn050: Actually , you know , a class of with different attributes that are the intermediate nodes ,
+[0157] [06:46] fn050: and one of them is like , time affordability money affordability , site availability , and the travel compatibility .
+[0158] [06:55] fn050: And
+[0159] [06:59] fn050: s some of these attributes only depend on stuff from , say , the user ,
+[0160] [07:03] fn050: or s f just from , I don't know , like the site .
+[0161] [07:06] fn050: S like , um , these here ,
+[0162] [07:10] fn050: it 's only like , user ,
+[0163] [07:12] fn050: but , if you look at travel compatibility for each of these factors , you need to look at a pair of , you know , what the um , preference of the user is
+[0164] [07:23] fn050: versus , you know , what type of an event it is ,
+[0165] [07:26] fn050: or you know , which form of transportation the user has
+[0166] [07:31] fn050: and whether , you know , the onsite parking matters to the user , in that case .
+[0167] [07:36] fn050: And that makes the scenario a little different in a PRM ,
+[0168] [07:41] fn050: because , um , then you have one - user objects
+[0169] [07:45] fn050: and potentially you can have many different sites in in mind .
+[0170] [07:50] fn050: And so
+[0171] [07:52] fn050: for each of the site you 'll come up with this rating , of travel compatibility .
+[0172] [07:57] fn050: And , they all depend on the same users , but different sites ,
+[0173] [08:00] fn050: and
+[0174] [08:03] fn050: I 'm tr I w I wa have been trying to see whether the PRM would make it more efficient if we do inferencing like that .
+[0175] [08:10] fn050: And so ,
+[0176] [08:13] fn050: I guess you end up having fewer number of nodes than in a flat Bayes - net ,
+[0177] [08:18] fn050: cuz otherwise you would c
+[0178] [08:20] fn050: well , it 's probably the same .
+[0179] [08:22] fn050: But um ,
+[0180] [08:27] fn050: No
+[0181] [08:30] fn050: be able to re - use , like , um , all the user stuff ,
+[0182] [08:35] fn050: and not not having to recompute a lot of the stuff ,
+[0183] [08:39] fn050: because it 's all from the user side .
+[0184] [08:41] fn050: So if you changed sites , you you can , you know , save some work on that .
+[0185] [08:46] fn050: But ,
+[0186] [08:47] fn050: you know , in the case where , it depends on both the user and the site , then I 'm still having a hard time trying to see how um , using the PRM will help .
+[0187] [08:59] fn050: Um , so anyhow , using those intermediate nodes then , this this would be the class that represent the intermediate nodes .
+[0188] [09:09] fn050: And that would basically it 's just another class in the model ,
+[0189] [09:12] fn050: with , you know , references to the user and the site and the time .
+[0190] [09:18] fn050: And
+[0191] [09:20] fn050: no the dependencies would of the queries would be reduced to this .
+[0192] [09:27] fn050: And so , you know , it 's easier to specify the CPT and all .
+[0193] [09:33] fn050: Um , so I think that 's about as far as I 've gone on the PRM stuff .
+[0194] [09:38] me010: Well
+[0195] [09:39] fn050: Right .
+[0196] [09:40] me010: No .
+[0197] [09:42] me010: So y you didn't yet tell us what the output is .
+[0198] [09:46] fn050: The output .
+[0199] [09:47] me010: So what decisions does this make ?
+[0200] [09:49] fn050: OK . So it only makes two decisions , in this model .
+[0201] [09:53] fn050: And one is basically how desirable a site is
+[0202] [09:58] fn050: meaning , um , how good it matches the needs of a user .
+[0203] [10:02] fn050: And the other is the mode of the visit ,
+[0204] [10:05] fn050: whether th It 's the EVA decision .
+[0205] [10:08] fn050: Um ,
+[0206] [10:09] fn050: so , instead of um , doing a lot of , you know , computation about , you know , which one site it wants of the user wants to visit , I 'll come well , try to come up with like , sort of a list of sites .
+[0207] [10:23] fn050: And for each site , you know , where h how how well it fits ,
+[0208] [10:26] fn050: and basically a rating of how well it fits and what to do with it .
+[0209] [10:31] fn050: So .
+[0210] [10:34] fn050: Anything else I missed ?
+[0211] [10:37] me010: So that was pretty quick .
+[0212] [10:38] me010: She 's ac uh uh Eva 's got a little write - up on it
+[0213] [10:41] me010: that uh , probably gives the the details to anybody who needs them .
+[0214] [10:48] me010: Um ,
+[0215] [10:50] me010: so
+[0216] [10:54] me010: the You you didn't look at all yet to see if there 's anybody has a implementation .
+[0217] [10:59] fn050: No , not yet ,
+[0218] [11:00] fn050: um
+[0219] [11:00] me010: OK .
+[0220] [11:01] me010: So one so one of the questions , you know , about these P R Ms is
+[0221] [11:03] fn050: Mm - hmm .
+[0222] [11:04] me010: uh , we aren't gonna build our own interpreter ,
+[0223] [11:08] me010: so if if we can't find one , then we uh , go off and do something else and wait until s one appears .
+[0224] [11:14] me010: Uh , so one of the things that Eva 's gonna do over the next few weeks is see if we can track that down .
+[0225] [11:18] me010: Uh ,
+[0226] [11:20] me010: the people at Stanford write papers as if they had one ,
+[0227] [11:24] me010: but , um , we 'll see .
+[0228] [11:28] me010: So w Anyway . So that 's a a major open issue .
+[0229] [11:32] me010: If there is an interpreter , it looks like you know , what Eva 's got should run
+[0230] [11:38] me010: and we should be able to actually um , try to solve , you know , the problems ,
+[0231] [11:43] me010: to actually take the data , and do it .
+[0232] [11:45] me010: Uh , and we 'll see .
+[0233] [11:47] me010: Uh , I actually think it is cleaner ,
+[0234] [11:50] me010: and the ability to instantiate , you know , instance of people and sites and stuff , um , will help in the expression .
+[0235] [12:00] me010: Whether the inference gets any faster or not I don't know .
+[0236] [12:04] me010: Uh , it wouldn't surprise me if it if it doesn't .
+[0237] [12:07] fn050: Mm - hmm .
+[0238] [12:07] me010: You know , it 's the same kind of information .
+[0239] [12:09] me010: I think there are things that you can express this way which you can't express in a normal belief - net ,
+[0240] [12:15] me010: uh , without going to some incredible hacking
+[0241] [12:18] me010: of sort of rebuilding it on the fly .
+[0242] [12:21] me010: I mean , the notion of instantiating your el elements from the ontology and stuff fits this very nicely and doesn't fit very well into the extended belief - net .
+[0243] [12:32] me010: So that was one of the main reasons for doing it .
+[0244] [12:35] me010: Um .
+[0245] [12:42] me010: I don't know .
+[0246] [12:43] me010: So , uh , people who have thought about the problem , like Robert
+[0247] [12:46] me010: i it looked to me like if Eva were able to come up with a you know , value for each of a number of uh , sites plus its EVA thing ,
+[0248] [13:01] me010: that a travel planner should be able to take it from there .
+[0249] [13:04] me010: And you know , with some other information about how much time the person has and whatever ,
+[0250] [13:09] me010: and then plan a route .
+[0251] [13:12] mn015: Um - hmm , um , well , first of all uh , uh , great looks , mu much cleaner ,
+[0252] [13:17] mn015: nnn , nnn ,
+[0253] [13:18] mn015: Certain certain beauty in it ,
+[0254] [13:20] mn015: so , um , if beauty is truth , then , uh we 're in good shape .
+[0255] [13:24] mn015: But ,
+[0256] [13:25] mn015: the um ,
+[0257] [13:28] mn015: as , uh , mentioned before we probably should look at t the details .
+[0258] [13:31] mn015: So if you have a write - up then uh , I 'd love to read it
+[0259] [13:32] fn050: Mm - hmm .
+[0260] [13:34] mn015: and
+[0261] [13:35] mn015: because , um ,
+[0262] [13:37] mn015: i Can you go all the way back to the the very top ?
+[0263] [13:40] fn050: Yeah .
+[0264] [13:42] mn015: Um , uh these @ @ these w w when these are instantiated they take on the same values ? that we had before ?
+[0265] [13:44] fn050: I can't really see the whole thing .
+[0266] [13:49] mn015: or are they have they changed , in a sense ?
+[0267] [13:53] fn050: Well I think I basically leave them to similar things .
+[0268] [13:56] mn015: Uh - huh .
+[0269] [13:58] fn050: Some of the things might that might be different , maybe like are that the hours for the site .
+[0270] [14:05] mn015: Hmm .
+[0271] [14:05] fn050: And , eventually I meant that to mean whether they 're open at this hour or not .
+[0272] [14:12] fn050: And status would be , you know , more or less like , whether they 're under construction ,
+[0273] [14:12] mn015: Uh - huh .
+[0274] [14:16] fn050: and and or stuff like that .
+[0275] [14:18] mn015: And the , uh , other question I would have is that presumably , from the way the Stanford people talk about it , you can put the probabilities also on the relations .
+[0276] [14:31] mn015: If
+[0277] [14:31] fn050: Which is the structural uncertainty ?
+[0278] [14:34] me010: Yeah .
+[0279] [14:35] me010: Yeah
+[0280] [14:38] me010: That I think was actually in the previous the Ubenth stuff .
+[0281] [14:42] me010: I don't remember whether they carried that over to this or not ,
+[0282] [14:43] fe004: Mmm .
+[0283] [14:46] me010: uh , structural uncertainty .
+[0284] [14:48] mn015: It 's sort of in the definition or in the in Daphne 's definition of a PRM
+[0285] [14:52] mn015: is that classes and relations ,
+[0286] [14:53] me010: OK .
+[0287] [14:54] mn015: and you 're gonna have CPT 's over the classes and their relations .
+[0288] [15:00] me010: Alright .
+[0289] [15:02] mn015: More
+[0290] [15:02] me010: Uh ,
+[0291] [15:04] fn050: I remember them learning when , you know , you don't know the structure for sure ,
+[0292] [15:04] mn015: I should say .
+[0293] [15:07] me010: Yeah .
+[0294] [15:08] fn050: but I don't remember reading how you specify
+[0295] [15:11] me010: Right .
+[0296] [15:11] mn015: Yeah , that would be exactly my question .
+[0297] [15:11] fn050: wh to start with .
+[0298] [15:12] fn050: Yeah .
+[0299] [15:13] mn015: Well
+[0300] [15:13] me010: Yeah .
+[0301] [15:13] fn050: Yeah .
+[0302] [15:14] me010: So , uh , the the plan is is when Daphne gets back , we 'll get in touch
+[0303] [15:18] me010: and supposedly , um , we 'll actually get s deep seriously connected to to their work
+[0304] [15:27] me010: and
+[0305] [15:28] mn015: Yep .
+[0306] [15:28] me010: somebody 'll Uh , you know If it 's a group meeting once a week probably someone 'll go down and , whatever .
+[0307] [15:33] me010: So , we 'll actually figure all this out .
+[0308] [15:36] mn015: OK .
+[0309] [15:44] mn015: OK .
+[0310] [15:46] mn015: Then I think the w long term perspective is is pretty clear .
+[0311] [15:52] mn015: We get rocking and rolling on this again , once we get a package ,
+[0312] [15:57] mn015: if , when , and how ,
+[0313] [15:59] mn015: then this becomes foregrounded
+[0314] [15:59] fn050: Mm - hmm .
+[0315] [16:04] mn015: profiled ,
+[0316] [16:05] mn015: focused , again .
+[0317] [16:08] me003: Designated ?
+[0318] [16:09] fe004: Of course .
+[0319] [16:10] mn015: And um ,
+[0320] [16:14] mn015: until then we 'll come up with a something that 's @ @ that 's way more complicated for you .
+[0321] [16:21] mn015: Right ?
+[0322] [16:22] fn050: OK .
+[0323] [16:23] mn015: Because this was laughingly easy ,
+[0324] [16:25] mn015: right ?
+[0325] [16:26] fn050: Actually I had to take out a lot of the complicated stuff ,
+[0326] [16:30] fn050: cuz I I made it really complicated in the beginning ,
+[0327] [16:32] fn050: and Jerry was like , " this is just too much " .
+[0328] [16:37] me010: Yeah . So , um ,
+[0329] [16:39] me010: you could , from this , go on and say suppose there 's a group of people traveling together
+[0330] [16:45] me010: and
+[0331] [16:50] fe004: That 's good .
+[0332] [16:52] fe004: That 's definitely a job for artificial intelligence .
+[0333] [16:55] me010: uh
+[0334] [16:56] mn015: Well
+[0335] [16:56] fe004: Except for humans can't really solve it either , so .
+[0336] [16:58] mn015: yeah .
+[0337] [16:58] me010: Right .
+[0338] [16:59] me010: Right .
+[0339] [17:00] me010: Well
+[0340] [17:02] fe004: Yeah .
+[0341] [17:02] me010: OK
+[0342] [17:06] fe004: And then you can blame the computer .
+[0343] [17:07] me010: w Exactly .
+[0344] [17:07] mn015: Hmm .
+[0345] [17:08] fe004: So .
+[0346] [17:09] mn015: But what does it uh Would a pote potential result be to to split up and never talk to each other again ?
+[0347] [17:15] mn015: You know .
+[0348] [17:16] fe004: That should be one of them .
+[0349] [17:16] mn015: Yeah .
+[0350] [17:17] me010: Yeah . Right .
+[0351] [17:18] me003: That 'd be nice .
+[0352] [17:19] fe004: Mmm .
+[0353] [17:19] me010: Anyway .
+[0354] [17:20] me010: So . So there i there are some some u uh , you know , uh , elaborations of this
+[0355] [17:26] me010: that you could try to put in to this structure ,
+[0356] [17:30] me010: but I don't think it 's worth it now .
+[0357] [17:32] me010: Because we 're gonna see what what else uh what else we 're gonna do .
+[0358] [17:38] me010: Anyway .
+[0359] [17:39] me010: But uh ,
+[0360] [17:41] me010: it 's good , yeah
+[0361] [17:41] me010: and and there were a couple other ideas of of uh , things for Eva to look at
+[0362] [17:49] me010: in in the interim .
+[0363] [17:52] mn015: Good . Then , we can move on and see what Andreas has got out his sleeve .
+[0364] [17:59] mn015: Or Andy , for that matter ?
+[0365] [18:01] mn059: OK . So uh , uh , well , thanks for having me here , first of all .
+[0366] [18:06] mn059: Um , so maybe just a a little background on on my visit .
+[0367] [18:10] mn059: So , uh , I 'm not really involved in any project , that 's uh that 's relevant to you uh , a at the moment ,
+[0368] [18:16] mn059: uh , the the reason is really for me uh , to have an opportunity to talk to some other researchers in the field .
+[0369] [18:22] mn059: And and so I 'll just n sort of give you a real quick introduction to what I 'm working on ,
+[0370] [18:26] mn059: and um , I just hope that you have some comments
+[0371] [18:30] mn059: or , maybe you 're interested in it to find out more ,
+[0372] [18:32] mn059: and and so I 'll be uh , happy to talk to you
+[0373] [18:35] mn059: and and uh , I 'd also like to find out some more
+[0374] [18:37] mn059: and and maybe I 'll just walk around the office
+[0375] [18:39] mn059: and
+[0376] [18:41] mn059: and then and ask some some questions , uh , in a couple days .
+[0377] [18:44] mn059: So I 'll be here for uh , tomorrow and then uh , the remainder of uh , next week .
+[0378] [18:48] mn059: OK , so , um , what I started looking at , uh , to begin with is just uh , content management systems uh , i i in general .
+[0379] [18:55] mn059: So
+[0380] [18:56] mn059: um , uh what 's uh Sort of the state of the art there is to um uh you have a bunch of of uh documents or learning units or learning objects ,
+[0381] [19:05] mn059: um , and you store meta - data uh , associate to them .
+[0382] [19:08] mn059: So there 's some international standards
+[0383] [19:09] mn059: like the I - triple - E , uh There 's an I - triple - E , LON standard ,
+[0384] [19:14] mn059: and um , these fields are pretty straightforward , you have uh author information , you have uh , size information , format information and so on .
+[0385] [19:21] mn059: Uh , but they 're two uh fields that are um , more interesting .
+[0386] [19:25] mn059: One is uh you store keywords associated with the uh with the document ,
+[0387] [19:29] mn059: and one is uh , you have sort of a , um ,
+[0388] [19:31] mn059: well , what is the document about ? So it 's some sort of taxonomic uh , ordering of of the of the units .
+[0389] [19:38] mn059: Now , if you sort of put on your semantic glasses , uh you say , well that 's not all that easy ,
+[0390] [19:45] mn059: because there 's an implicit um , uh , assumption behind that
+[0391] [19:49] mn059: is that uh , all the users of this system share the same interpretation of the keyword and the same interpretation of uh , whichever taxonomy is used ,
+[0392] [19:58] mn059: and uh ,
+[0393] [19:59] mn059: I think that 's a that 's a very that 's a key point of these systems
+[0394] [20:02] mn059: and they sort of always brush over this real quickly without really elaborating much of that
+[0395] [20:07] mn059: and uh As a matter of fact , the only thing that m apparently really works out so far are library ordering codes ,
+[0396] [20:14] mn059: which are very , very coarse grain ,
+[0397] [20:15] mn059: so
+[0398] [20:18] mn059: But that 's really all that we have at the moment .
+[0399] [20:21] mn059: So I think there 's a huge , um , uh need for improvement there .
+[0400] [20:25] mn059: Now , what this uh a standard like this would give us is we could um , sort of uh with a search engine just query uh , different repositories all over the world .
+[0401] [20:34] mn059: But
+[0402] [20:36] mn059: Um , so what I 'm what I try to do is um , to have um ,
+[0403] [20:40] mn059: uh So . So the scenario is the following , you you 're working on some sort of project and you encounter a certain problem .
+[0404] [20:45] mn059: Now , what what we have at our university quite a bit is that uh , students um , try to u program a certain assignment , for example ,
+[0405] [20:52] mn059: they always run into the same problems ,
+[0406] [20:55] mn059: uh , and they always come running to us ,
+[0407] [20:57] mn059: and they 'll say why 's it not it 's not working ,
+[0408] [20:58] mn059: and we always give out the same answer ,
+[0409] [20:59] mn059: so we thought , well , it 'd be nice to have a system that could sort of take care of this ,
+[0410] [21:02] mn059: and so , what I want to build is basically a a smart F A Q system .
+[0411] [21:08] mn059: Now , what you uh need to do here is you need to provide some context information
+[0412] [21:12] mn059: which is more elaborate than " I 'm looking for this and this and this keyword . "
+[0413] [21:16] mn059: So .
+[0414] [21:17] mn059: And I think that I don't need to tell you this .
+[0415] [21:19] mn059: I 'm I 'm sure you have the same when when somebody utters a sentence in a certain , uh , context
+[0416] [21:24] mn059: it , and and the same sentence in another context makes a huge difference .
+[0417] [21:28] mn059: So , I want to be able to model information like , um , so in the in the context of in the context of developing distributed systems , of a at a computer science school ,
+[0418] [21:37] mn059: um , what kind of software is the person using ,
+[0419] [21:40] mn059: which homework assignment is he or she working on at the moment ,
+[0420] [21:43] mn059: um , maybe what 's the background of that student 's
+[0421] [21:46] mn059: um , which um , which error message was encountered .
+[0422] [21:50] mn059: So this sort of information I think should be transmitted , uh , when a certain document is retrieved .
+[0423] [21:56] mn059: Now ,
+[0424] [21:57] mn059: um ,
+[0425] [21:58] mn059: basically giving this um Uh
+[0426] [22:01] mn059: so we somehow need to have a formalized um , way of writing this down basically ,
+[0427] [22:05] mn059: and that 's where the shared interpretation of of certain terms and keywords comes in again .
+[0428] [22:10] mn059: And , using this and some some uh , knowledge about the domain I think you can do some some simple inferences .
+[0429] [22:17] mn059: Like you know that when somebody 's working about uh , working on on servlets for example ,
+[0430] [22:21] mn059: he 's using Java , cuz servlets are used are written in Java .
+[0431] [22:25] mn059: So some some inferences like that ,
+[0432] [22:26] mn059: now , um , u using this you can infer more information ,
+[0433] [22:31] mn059: and you could then match this to the meta - data of um off the documents you 're you 're searching against .
+[0434] [22:37] mn059: So , uh what I wanna do is basically have some sort of um given these inputs ,
+[0435] [22:42] mn059: and then I can compute how many documents match ,
+[0436] [22:45] mn059: and use this as a metric in the search .
+[0437] [22:48] mn059: Now , what I plan to do is I want to uh sort of do a uh uh try to improve the quality of the search results ,
+[0438] [22:56] mn059: and I want to do this by having a depth uh , um , um steepest descent approach .
+[0439] [23:01] mn059: So if I knew which operating system the person was working on , would this improve my search result ?
+[0440] [23:06] mn059: And and having uh , uh a symbolic formalized model of this I could simply compute that ,
+[0441] [23:11] mn059: and find out which um which questions are worth um , asking .
+[0442] [23:17] mn059: And that 's what I then propagate back to the user ,
+[0443] [23:20] mn059: and and sort of try to optimize the search in this way .
+[0444] [23:23] mn059: Now , the big problem that I 'm facing right now is um , it 's fairly easy to hack up a system uh quickly , that that works in the small domain ,
+[0445] [23:32] mn059: but the problem is obviously the scalability .
+[0446] [23:34] mn059: And uh uh , so Robert was mentioning uh , earlier today is that uh , Microsoft for example with their printer set up program has a Bayesian network ,
+[0447] [23:42] mn059: which does exactly this ,
+[0448] [23:43] mn059: but there you face a problem that these are very hard to extend .
+[0449] [23:46] mn059: And so , uh what I 'm What I try to do is basically try to model this uh , in a way that you could really combine uh , knowledge from very different sources ,
+[0450] [23:55] mn059: and and um , sort of looking into some of the ideas that the semantic web community uh , came up with .
+[0451] [24:02] mn059: Trying to to have uh , an approach how to integrate s uh certain uh representation of certain concepts and also some computational rules ,
+[0452] [24:12] mn059: um , what you can do with those .
+[0453] [24:14] mn059: Um .
+[0454] [24:16] mn059: What I 'm also looking into is a probabilistic approach into this
+[0455] [24:19] mn059: because document retrievals is a very fuzzy procedure ,
+[0456] [24:22] mn059: so it 's probably not that easy to simply have a symbolic uh , computational model .
+[0457] [24:26] mn059: That that probably isn't expressive enough .
+[0458] [24:28] mn059: So . So that 's another thing ,
+[0459] [24:30] mn059: um , which I think you 're also uh , uh looking into right now .
+[0460] [24:35] mn059: And then um , uh sort of as an add - on to this whole idea , um , uh that would be
+[0461] [24:41] mn059: now , depending on what the search engine or the content repository depending on which um , uh , which uh , rules and which ontologies it it uses , or basically its view of the world , uh you can get very different results .
+[0462] [24:54] mn059: So it might ma make a lot of sense to actually query a lot of different search engines .
+[0463] [24:58] mn059: And there you could have an idea where you actually have sort of a a peer to peer approach ,
+[0464] [25:02] mn059: where we 're all sort of carrying around our individual bookshelves ,
+[0465] [25:06] mn059: and um , if you have a question about a homework , it 's probably makes sense to ask somebody who 's in your class with you , sort of the guru in the certain area ,
+[0466] [25:14] mn059: rather than going to some Yahoo - like uh , search engine .
+[0467] [25:18] mn059: So these are some of the just in a nutshell , some of the ideas .
+[0468] [25:22] mn059: And I think a lot of the even though it 's a it 's a very different domain , but I think a lot of the , um , issues are are fairly similar .
+[0469] [25:30] mn059: So .
+[0470] [25:33] mn059: OK .
+[0471] [25:40] fe004: And so some of the I don't know how much you know about the larger Heidelberg project ,
+[0472] [25:44] fe004: I
+[0473] [25:44] mn059: Uh I know , yeah I know abou about it .
+[0474] [25:45] fe004: So it seems like a lot of some of the issues are the same .
+[0475] [25:48] fe004: It 's like , um , you know , the c context - based factors that influence how you interpret ,
+[0476] [25:53] mn059: Mm - hmm . Mm - hmm .
+[0477] [25:54] fe004: um , s how to interpret .
+[0478] [25:56] fe004: In in this case , infer in in knowing wanting to know what kinds of things to ask .
+[0479] [25:59] fe004: We - we 've kind of talked about that ,
+[0480] [26:00] fe004: but we haven't worried too much about that end of the discourse .
+[0481] [26:02] mn015: Mm - hmm .
+[0482] [26:04] fe004: But maybe you guys had that in the previous models .
+[0483] [26:05] mn015: Well , in a in one t one s mmm , small difference in a in a way , is that he doesn't have to come up with an answer ,
+[0484] [26:13] mn015: but he wants to point to the places w w
+[0485] [26:15] mn059: Yeah
+[0486] [26:15] fe004: Documents that have the answers .
+[0487] [26:17] mn059: Uh , I want to build a smart librarian , basically
+[0488] [26:18] fe004: Mm - hmm .
+[0489] [26:18] fe004: Right .
+[0490] [26:20] mn059: that can point you to the right reference .
+[0491] [26:20] fe004: Right .
+[0492] [26:21] mn059: I don't wanna compute the answer ,
+[0493] [26:23] mn059: so it 's a little bit easier for me .
+[0494] [26:25] mn015: Well
+[0495] [26:30] fe004: Mm - hmm .
+[0496] [26:32] mn059: Mm - hmm .
+[0497] [26:32] fe004: So you also don't have to figure out what the content is .
+[0498] [26:34] fe004: You 're just taking the keywords as a topic text ,
+[0499] [26:38] mn059: I I assume that that the there will be learning systems that that tag their their content .
+[0500] [26:38] fe004: as
+[0501] [26:42] fe004: OK .
+[0502] [26:43] mn059: And um , um ,
+[0503] [26:43] fe004: Right .
+[0504] [26:46] mn059: m @ @ and basically what I what I envision is that you rather than just supplying a bunch of keywords you could basically for for an FAQ for example you could state sort of like a logic condition , when this document applies .
+[0505] [26:56] mn059: So " this document explains how to set up your uh , mail account on Linux " or something like this .
+[0506] [27:03] fe004: Mm - hmm .
+[0507] [27:05] mn059: So
+[0508] [27:09] mn059: But the I think that the key point with these uh , learning systems is that uh , a learning system is only as good as uh the amount of content it it carries .
+[0509] [27:18] fe004: Mmm ,
+[0510] [27:18] fe004: mm - hmm .
+[0511] [27:18] mn059: You can have the best learning system with the best search interface ,
+[0512] [27:21] mn059: if there 's no content inside of it , it 's not very useful .
+[0513] [27:24] mn059: So I think ultimately because um , uh developing these these rules and these inference uh inferences I think is very costly ,
+[0514] [27:32] mn059: so um , uh I think you must be able to reuse some some existing um , domain domain information , or or or ontologies that that uh other people wrote
+[0515] [27:44] mn059: and then try to integrate them ,
+[0516] [27:45] mn059: and then also search the entire web basically , rather than just the small uh , content management system .
+[0517] [27:53] fe004: OK .
+[0518] [27:54] fe004: Mm - hmm .
+[0519] [27:55] mn059: So
+[0520] [28:03] fe004: So
+[0521] [28:04] fe004: I guess I 'm trying to figure out how how it maps to the kinds of things that we 've talked about in this group , and , actually associated groups ,
+[0522] [28:07] mn059: Mm - hmm .
+[0523] [28:10] fe004: cuz some of us do pretty detailed linguistic analyses ,
+[0524] [28:13] fe004: and I 'm guessing that you you won't be doing that ?
+[0525] [28:17] mn059: No .
+[0526] [28:17] fe004: OK .
+[0527] [28:17] fe004: Just checking .
+[0528] [28:18] fe004: So , OK .
+[0529] [28:18] mn015: Hmm .
+[0530] [28:18] mn059: No .
+[0531] [28:19] fe004: So
+[0532] [28:24] me010: On the other hand , uh , FrameNet could well be useful .
+[0533] [28:30] me010: So do you know the FrameNet story ?
+[0534] [28:31] mn059: Um , yeah .
+[0535] [28:33] mn059: Uh , not not too much ,
+[0536] [28:33] me010: OK .
+[0537] [28:34] mn059: but uh ,
+[0538] [28:35] me010: Oh . Th - that 's another thing you might wanna look into while you 're here .
+[0539] [28:35] mn059: I have a rough overview .
+[0540] [28:38] me010: Because , um , you know , the standard story is that keyworks keywords evoke frames , and the frames may well give you additional keywords
+[0541] [28:47] me010: or
+[0542] [29:00] mn059: Mmm . Mmm .
+[0543] [29:01] me010: So there 's a lot of stuff ,
+[0544] [29:02] me010: and people are looking at that .
+[0545] [29:03] me010: Most of the work here is just trying to get the frames right .
+[0546] [29:08] me010: There 's linguists and stuff
+[0547] [29:09] me010: and there 's a lot of it
+[0548] [29:10] me010: and they 're they 're busily working away .
+[0549] [29:12] me010: But there are some application efforts trying to exploit it .
+[0550] [29:17] me010: And this looks t it seems to be that this is a place where you might be able to do that .
+[0551] [29:20] mn059: Yeah . Yeah .
+[0552] [29:22] mn059: Yeah . I 'm sure I could learn a lot about um , yeah , just how to how to come up with these structures ,
+[0553] [29:23] fe004: Mmm .
+[0554] [29:26] mn059: cuz it 's it 's very easy to whip up something quickly ,
+[0555] [29:28] mn059: but it maybe then makes sense to to me , but not to anybody else ,
+[0556] [29:32] mn059: and and if we want to share and integrate things , they must well , they must be well designed really .
+[0557] [29:39] mn015: Remember the uh , Prashant story ?
+[0558] [29:42] me010: Right .
+[0559] [29:43] mn015: The absolutely no no linguistic background person that the IU sent over here .
+[0560] [29:47] me010: Right .
+[0561] [29:48] mn015: And Andreas and I tried to come up wi or we had come up actually with a eh with him working on an interface for FrameNet , as it was back then , that would p do some of the work for this machine ,
+[0562] [29:56] me010: Right .
+[0563] [30:00] me010: Yeah .
+[0564] [30:01] mn015: which uh , never got done because Prashant found a happy occupation
+[0565] [30:03] me010: W yeah , I know , I mean it it he w he did w what what he did was much more s sensible for him .
+[0566] [30:04] mn015: which
+[0567] [30:08] me010: I think uh ,
+[0568] [30:08] mn015: Absolutely . Yeah .
+[0569] [30:09] mn015: But so I 'm just saying , the uh , we had that idea
+[0570] [30:09] me010: you
+[0571] [30:11] me010: Yeah .
+[0572] [30:12] me010: The idea was there . Yeah , OK .
+[0573] [30:13] mn015: uh to to exploit FrameNet there as well .
+[0574] [30:14] me010: Yeah .
+[0575] [30:14] fe004: Hmm .
+[0576] [30:17] mn015: And um .
+[0577] [30:20] me010: Yeah
+[0578] [30:23] mn015: And Srini 's doing information extraction also ,
+[0579] [30:25] mn015: right ?
+[0580] [30:25] me010: Right .
+[0581] [30:26] mn015: with that FrameNet base .
+[0582] [30:26] mn059: Mmm .
+[0583] [30:26] me010: Yeah .
+[0584] [30:27] me010: So you you guys never sent anybody else from I U .
+[0585] [30:27] mn015: Mm - hmm .
+[0586] [30:31] me010: You
+[0587] [30:31] mn059: Except except Prashant ?
+[0588] [30:32] me010: Yeah .
+[0589] [30:34] me010: Uh , this was supposedly an exchange program ,
+[0590] [30:34] mn059: Um ,
+[0591] [30:36] me010: and I we you know , it 's fine . We don't care ,
+[0592] [30:38] me010: but it just I 'm a little surprised that uh , Andreas didn't come up with anyone else he wanted to send .
+[0593] [30:45] me010: Alright .
+[0594] [30:45] mn059: Uh
+[0595] [30:45] me010: I mean I had forgotten a I To be honest with you , I 'd totally forgotten we had a program .
+[0596] [30:45] fe004: Hmm .
+[0597] [30:50] mn015: Uh it 's in the program ?
+[0598] [30:51] mn059: Uh I I think it 's it 's really the lack of students uh , at IU at the moment .
+[0599] [30:52] me010: Yeah .
+[0600] [30:53] me010: Yeah .
+[0601] [30:54] me010: No , no . There was a whole co There was a little contract signed .
+[0602] [30:56] me010: It
+[0603] [30:56] me010: Yeah .
+[0604] [30:58] mn059: Yeah , yeah . I think it 's ju it 's more the lack of of students , really ,
+[0605] [31:03] mn059: and w we have all these sponsors that are always sort of eager to get some teams .
+[0606] [31:03] me010: Yeah , I know .
+[0607] [31:03] fe004: Mmm .
+[0608] [31:06] me010: Right .
+[0609] [31:07] mn059: But
+[0610] [31:07] me010: Right .
+[0611] [31:08] mn059: Well
+[0612] [31:11] me010: Yeah .
+[0613] [31:14] me010: Right .
+[0614] [31:16] mn015: You are being recorded right now , so beware .
+[0615] [31:19] me010: Oh , right !
+[0616] [31:22] mn059: Well
+[0617] [31:24] mn059: well , except for the sponsors maybe ,
+[0618] [31:25] mn059: but
+[0619] [31:25] me010: Right .
+[0620] [31:26] me010: Anyway .
+[0621] [31:28] me010: Right . So I thi tha that 's that 's one of the things that might be worth looking into while you 're here .
+[0622] [31:31] mn059: Mm - hmm .
+[0623] [31:33] me010: Uh , unfortunately , Srini , who is heavily involved in DAML and all this sort of stuff is himself out of town .
+[0624] [31:44] mn059: Mm - hmm .
+[0625] [31:45] mn059: Well I 'll go to the uh , Semantic Web Workshop , uh , in two weeks .
+[0626] [31:48] me010: Right ,
+[0627] [31:48] me010: and
+[0628] [31:50] me010: Yeah , for for some reason he 's not doing that .
+[0629] [31:53] fe004: Yeah .
+[0630] [31:54] me010: I
+[0631] [31:54] fe004: Well , he had other things to do .
+[0632] [31:55] me010: oh , I , who knows ?
+[0633] [31:56] me010: Anyway , s yeah , you 'll see you 'll certainly see a lot of the people there .
+[0634] [31:57] fe004: The
+[0635] [31:58] fe004: The other person I thought of is Dan Gildea ?
+[0636] [32:01] fe004: because he did some work on topic spotting
+[0637] [32:01] me010: Yeah .
+[0638] [32:03] me010: St - statistical stuff .
+[0639] [32:04] me010: That would be a very good idea .
+[0640] [32:05] fe004: w um , which is , I mean , you I mean . I don't Depending on how well you wanna integrate with that end ,
+[0641] [32:05] mn059: Mm - hmm .
+[0642] [32:10] fe004: you
+[0643] [32:13] fe004: We There 's someone in ICSI who actually has been working on has worked on that kinda stuff ,
+[0644] [32:17] fe004: and he 's worked with frame net ,
+[0645] [32:18] fe004: so you could talk to him about , you know , both of those things at once .
+[0646] [32:18] mn059: Mm - hmm . Mm - hmm .
+[0647] [32:20] fe004: So .
+[0648] [32:21] fe004: And he just finished writing a draft of his thesis .
+[0649] [32:23] fe004: So .
+[0650] [32:24] mn059: So , uh , who is that again ?
+[0651] [32:24] fe004: I u Dan Gildea , GILDEA .
+[0652] [32:28] fe004: And , he 's in one of the rooms on the fifth floor and stuff ,
+[0653] [32:28] mn015: Who ?
+[0654] [32:29] mn015: I can take you to his office .
+[0655] [32:30] mn015: It 's just around the corner .
+[0656] [32:30] fe004: and
+[0657] [32:31] mn059: OK , great .
+[0658] [32:38] fe004: Hmm .
+[0659] [32:39] fe004: Well , if you fal solve the problem , hope you can do one for us too .
+[0660] [32:46] me010: Alright , was there anything else for this ?
+[0661] [32:51] me010: One of these times soon we 're gonna hear about construal .
+[0662] [32:57] mn015: Yeah . I 'm sure .
+[0663] [32:58] mn015: I
+[0664] [33:02] mn015: No . Wh - I had something in my calendar .
+[0665] [33:04] me010: Oh , OK . Right .
+[0666] [33:06] mn015: Um ,
+[0667] [33:08] me003: Wait a second .
+[0668] [33:09] me003: That 's a long way away .
+[0669] [33:10] me010: Good thinking !
+[0670] [33:13] mn015: Uh well , maybe I can I can bribe my way out of this .
+[0671] [33:16] mn015: So .
+[0672] [33:17] mn015: So I did some double checking
+[0673] [33:19] mn015: and it seems like spring break in two thousand one .
+[0674] [33:22] fe004: Talk about changing the topic .
+[0675] [33:25] mn015: No .
+[0676] [33:25] me010: Well , no , but he 's he 's he 's he 's as you said , he 's , like the state legislature , he 's trying to offer us bribes .
+[0677] [33:27] fe004: At least this is a private meeting .
+[0678] [33:29] fe004: Right , exactly ,
+[0679] [33:30] fe004: OK , that 's the link .
+[0680] [33:31] mn015: This uh Oh , they refused the budget again ?
+[0681] [33:34] mn015: Is it so about CITRIS ?
+[0682] [33:36] mn015: Yeah , still nothing .
+[0683] [33:38] me010: Uh , this this this t the s
+[0684] [33:41] me010: we 're , uh , involved in a literally three hundred million dollar uh , program .
+[0685] [33:49] me010: Uh , with the State of California .
+[0686] [33:51] me010: And , the State of California is now a month and a half behind its legis its legally required date to approve a budget .
+[0687] [34:01] me010: So the budget has not been approved .
+[0688] [34:03] me010: And two days ago There 's two l you know , so , two branches of legislature . One branch approved it ,
+[0689] [34:09] mn059: Mm - hmm .
+[0690] [34:10] me010: and , um ,
+[0691] [34:13] me010: yesterdayday there was this uh uh I thought that the other branch would just approve it ,
+[0692] [34:17] me010: but now there 's actually a little back sliding to people who who approved it got flak from there ,
+[0693] [34:22] me010: eh anyway .
+[0694] [34:23] me010: So
+[0695] [34:25] me010: Oh ! I have to tell you a wonderful story about this ,
+[0696] [34:27] me010: OK ?
+[0697] [34:28] me010: And then we 'll go .
+[0698] [34:29] me010: So , I it turns out I wound up having lunch today with a guy named Tom Kalil .
+[0699] [34:37] me010: KILL
+[0700] [34:39] me010: KALIL .
+[0701] [34:41] me010: And , uh , he now works at Berkeley .
+[0702] [34:46] me010: In fact he 's hired to run a lot of CITRIS ,
+[0703] [34:50] me010: even though we don't have the money they So they 've been hiring people right and left ,
+[0704] [34:53] me010: so , uh , they think the money 's coming .
+[0705] [34:56] me010: So and he was , I think , the chief staffer to Clinton on technology matters .
+[0706] [35:05] me010: He was in the White House ,
+[0707] [35:06] me010: I don't remember what he was saying .
+[0708] [35:06] me010: A anyway , like that .
+[0709] [35:08] me010: And , is now doing all the politics for CITRIS ,
+[0710] [35:12] me010: but also , has a uh , a lot of interest in uh , actually doing things for society ,
+[0711] [35:21] me010: so digital divide and stuff like that .
+[0712] [35:23] me010: So that 's s interesting to me but maybe not to you .
+[0713] [35:26] me010: But the really interesting thing was , he st he s he s said something about , you know I 'm interested in things that have high social multiplier ,
+[0714] [35:35] me010: something that is of great social value .
+[0715] [35:37] me010: He said , " for example " ,
+[0716] [35:40] me010: this was his only example ,
+[0717] [35:41] me010: " if you had a adult literacy program that was as good as an individual tutor ,
+[0718] [35:48] me010: and as compelling as a video game ,
+[0719] [35:51] me010: then that would have a huge social impact " .
+[0720] [35:56] me010: I said , " Oh great ! That 's a good problem to work on . "
+[0721] [35:58] me010: Anyway . So it was nice that uh , he 's got this view , of A , that 's what you should try to do , and B , uh , language would be a good way to do it .
+[0722] [36:10] me010: So
+[0723] [36:10] fe004: Mmm . Definitely .
+[0724] [36:13] me010: So anyway , that 's the end of the story .
+[0725] [36:16] fe004: But for adults and not for the children .
+[0726] [36:18] me010: This
+[0727] [36:18] me010: Yeah . I didn't push him on the ch on the child thing ,
+[0728] [36:20] fe004: Uh - huh .
+[0729] [36:21] me010: but , uh ,
+[0730] [36:23] me010: you know , a again , if if you if you
+[0731] [36:24] fe004: Oh .
+[0732] [36:26] me010: um ,
+[0733] [36:29] me010: and this was this was literacy ,
+[0734] [36:31] me010: which actually is somewhat different problem .
+[0735] [36:32] fe004: Mm - hmm .
+[0736] [36:32] me010: Maybe easier .
+[0737] [36:33] me010: I don't know .
+[0738] [36:34] me010: So
+[0739] [36:38] me010: Another project we started on , and and didn't get funded for was , uh , to try to build an automatic tutoring program , for kids whose first language wasn't English .
+[0740] [36:51] me010: Which is like half the school population in California .
+[0741] [36:54] me010: Something like that ,
+[0742] [36:55] me010: isn't it ?
+[0743] [36:55] fe004: Mm - hmm .
+[0744] [36:56] me010: Yeah .
+[0745] [36:56] me010: So ,
+[0746] [36:58] me010: enormous problem in California ,
+[0747] [37:01] me010: and the idea was if we 're so smart about language understanding and speech understanding , couldn't we build uh , programs that would be tutors for the kids .
+[0748] [37:11] me010: We think we could .
+[0749] [37:12] me010: Anyway . So so But this is a slightly different problem ,
+[0750] [37:15] fe004: Mm - hmm .
+[0751] [37:15] me010: and
+[0752] [37:17] me010: um ,
+[0753] [37:19] me010: I know none of us have the spare time to look at it right now ,
+[0754] [37:21] me010: but it i it 's it 's interesting
+[0755] [37:22] me010: and I may um , talk to him some more about is em somebody already doing this , and stuff like that .
+[0756] [37:31] me010: So anyway , that was that was today 's little story .
+[0757] [37:33] me003: Hmm .
+[0758] [37:36] mn015: OK . So I I did manage to get pull my head out of the sling by sidetracking into CITRIS ,
+[0759] [37:42] me010: No , no .
+[0760] [37:43] mn015: but uh or a temporarily putting it out of the sling
+[0761] [37:46] me010: Right .
+[0762] [37:47] mn015: but , I I 'll volunteer to put it right back in by stating that I am n uh among some other things in the process of writing up stuff that we have been discussing at our daily meetings ,
+[0763] [37:59] me010: Yeah .
+[0764] [38:00] mn015: and also revising ,
+[0765] [38:02] mn015: thanks for all the comments ,
+[0766] [38:04] mn015: the c the original construal proposal .
+[0767] [38:07] mn015: And , if I put one and one together , I may end up with a number that 's greater than one and that I I can potentially present once you get back .
+[0768] [38:14] fe004: Greater than two ?
+[0769] [38:15] me010: You 're good .
+[0770] [38:16] mn015: Nnn
+[0771] [38:19] fe004: Uh , right , right .
+[0772] [38:20] me010: Right .
+[0773] [38:21] me010: Right .
+[0774] [38:22] me010: Anyway . Yeah , so OK , so that 'd be great ,
+[0775] [38:24] me010: but I 'd I think it 's it 's time again ,
+[0776] [38:29] me010: right ?
+[0777] [38:30] mn015: Absolutely . Yeah .
+[0778] [38:30] me010: Yeah . OK .
+[0779] [38:30] mn015: But um , and hopefully all sidetracking um , other things will have disappeared , soon .
+[0780] [38:38] me010: Good .
+[0781] [38:39] me010: Yep .
+[0782] [38:41] me010: Done ?

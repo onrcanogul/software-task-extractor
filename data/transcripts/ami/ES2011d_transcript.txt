@@ -1,0 +1,821 @@
+================================================================================
+AMI Meeting Transcript: ES2011d
+================================================================================
+
+Total Utterances: 809
+Unique Speakers: 4
+Duration: 32.90 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:01] A: It's "'kay"
+[0002] [01:07] A: Hmm
+[0003] [01:09] A: Never very welcome to the detailed design meeting
+[0004] [01:14] A: Um It's a
+[0005] [01:17] A: region that
+[0006] [01:18] A: Last
+[0007] [01:18] A: Last time we discussed the squishy fruity mess of a remote controls and how We were to see that
+[0008] [01:27] A: um and i think it's okay if you come up with some ideas
+[0009] [01:31] A: Um And we also talked about materials we
+[0010] [01:34] A: t. is and what kind of chip would be necessary
+[0011] [01:38] A: Um so From it
+[0012] [01:40] A: in the meeting i've done a a spreadsheet of Production costs
+[0013] [01:45] A: so i'll take a look at that
+[0014] [01:47] A: Um and see if that's changed off from from last discuss that
+[0015] [01:52] A: Um Same Actually i think
+[0016] [02:01] A: Yeah um We
+[0017] [02:04] A: you guys wanna give a prototype presentation
+[0018] [02:09] B: Okay
+[0019] [02:09] B: well
+[0020] [02:10] B: um So we're designing something like this
+[0021] [02:15] B: Uh this been we'll they used to uh change channels or volume or whatever
+[0022] [02:20] B: There's a button serves as a power button if you hold it down and You just tap
+[0023] [02:25] B: i i think it brings up the menu
+[0024] [02:28] B: And uh they base of the remote control It has a squishy
+[0025] [02:32] B: spongy rubber you feel Is interchangeable
+[0026] [02:34] B: so you can change colour According to yeah to see your living room or whatever
+[0027] [02:39] B: And it comes
+[0028] [02:39] C: You can change the vegetable
+[0029] [02:41] B: Yeah which is a vegetable
+[0030] [02:42] A: I was
+[0031] [02:42] A: uh broadway
+[0032] [02:43] B: So i think
+[0033] [02:45] B: So the
+[0034] [02:45] B: snaps
+[0035] [02:45] B: off then you can put on whichever one you want
+[0036] [02:48] B: this is not a scale that we have the battery inside it
+[0037] [02:51] B: There's a mango
+[0038] [02:52] B: it's trendy fruit it's not just ordinary fruity
+[0039] [02:54] B: all have already have mango
+[0040] [02:57] B: Um I guess draw there is not as trendy but
+[0041] [02:59] A: It's very bright star
+[0042] [03:01] B: So well Come up with a variety of trendy an exciting fruit designs For the remote control
+[0043] [03:09] C: It's a little
+[0044] [03:09] B: And then people will be encouraged
+[0045] [03:10] B: to buy three or five of them because only to switch to that
+[0046] [03:14] C: It's a little bit difficult to um Make sure that it's a hand hold a ball
+[0047] [03:19] C: and that the user can Use it you know it's not too big
+[0048] [03:23] C: uh but it's We think that that's You know the size will be okay
+[0049] [03:29] C: and We will have to fit the battery case and they're so now
+[0050] [03:32] B: Uh-huh
+[0051] [03:33] C: and i guess the On the other thing that we've really didn't Talk about was our design yet
+[0052] [03:33] A: Uh-huh
+[0053] [03:39] C: actually would be the um I think the locator
+[0054] [03:43] C: so
+[0055] [03:44] B: Locator's just chip that's inside there
+[0056] [03:46] C: Okay
+[0057] [03:46] C: so that's just
+[0058] [03:47] B: And the
+[0059] [03:47] B: beepers
+[0060] [03:48] B: also inside the case um or
+[0061] [03:49] C: So you have to have a button on your on your it give to it has a button to the
+[0062] [03:53] B: Yeah
+[0063] [03:54] B: we didn't design that
+[0064] [03:54] C: Yeah we have that that is yes you have to be designed
+[0065] [03:56] B: But it would be
+[0066] [03:57] B: coordinating
+[0067] [03:57] B: with that right
+[0068] [03:58] C: Yeah okay that like you know match the handset
+[0069] [03:59] A: Yeah
+[0070] [04:01] B: Uh-huh
+[0071] [04:03] C: You could a broccoli
+[0072] [04:04] C: We could have a mango
+[0073] [04:08] C: To
+[0074] [04:13] A: If you wanna but in your project documents folder There's an excel spreadsheet
+[0075] [04:20] A: Mm It on the one that's in the production costs
+[0076] [04:25] A: And if you open it up
+[0077] [04:27] A: Um i've just start numbers
+[0078] [04:28] A: and as a real time so
+[0079] [04:31] A: But
+[0080] [04:31] A: f. five Missed anything that we've done a fair where If you see something that Has changed
+[0081] [04:39] A: i mean we decided on batteries
+[0082] [04:41] A: And The regular chip would be necessary for the more Advanced ipod like button
+[0083] [04:50] A: Um I said uncurved and flat
+[0084] [04:55] A: i think that's what you have to
+[0085] [04:56] A: answer right
+[0086] [04:57] A: For the for plastic power would be
+[0087] [04:58] B: My impression was a flat mid like like whoa square remotes
+[0088] [05:03] B: But it's really not very clear
+[0089] [05:04] A: okay
+[0090] [05:05] B: because you that single curved and double curved then
+[0091] [05:07] A: Right
+[0092] [05:08] B: Yeah i don't know what that means
+[0093] [05:10] B: One side is curved and then the other side
+[0094] [05:14] A: Well yeah
+[0095] [05:15] A: Ever talking about the area just
+[0096] [05:18] A: Ah I dunno
+[0097] [05:20] A: i guess we'd have to contact the company that makes them and see
+[0098] [05:27] A: Um So what else
+[0099] [05:28] A: is plastic for a very round button
+[0100] [05:33] A: Um and then rubber would be the squishy like thing right
+[0101] [05:36] B: Uh-huh
+[0102] [05:38] A: and lots of special colours actually
+[0103] [05:43] A: Um scroll wheel
+[0104] [05:44] A: to see anything but i've missed
+[0105] [05:47] B: No
+[0106] [05:47] B: i think that's alright
+[0107] [05:49] A: Yeah so that would make
+[0108] [05:51] A: our total of eleven point nine
+[0109] [05:53] A: which is I'm less than twelve point five Since it can make you more profit
+[0110] [05:59] A: And if it's a lot of squishy things
+[0111] [06:01] C: Uh-huh
+[0112] [06:02] A: True yeah
+[0113] [06:05] A: Um mm "'kay"
+[0114] [06:09] A: It's
+[0115] [06:13] A: So
+[0116] [06:14] A: um Uh-huh
+[0117] [06:28] A: It is what did you work um huh
+[0118] [06:30] D: evaluation criteria
+[0119] [06:32] A: Okay
+[0120] [06:33] A: yeah
+[0121] [06:33] D: I've got a presentation
+[0122] [06:36] D: Sonny
+[0123] [06:36] D: Sonny Okay
+[0124] [06:37] A: It's
+[0125] [06:49] D: But what happens is we have to um Decide whether this This whole This whole project we've been working on actually Um Meets the standards we Was set at the start
+[0126] [07:06] D: Um And stuff
+[0127] [07:11] D: Okay
+[0128] [07:13] D: Um the method is we uh well i'd analyse the user requirements and Integrated
+[0129] [07:18] D: them to the trends found in marketing reports and A in a company strategy marketing
+[0130] [07:25] D: And um the findings while the We need it to look in
+[0131] [07:30] D: s. that's my feeling is that somewhere
+[0132] [07:32] D: in the city everything's messed it down
+[0133] [07:35] D: Um they're gonna start my feeling is that some way It has to be technologically innovative And it has to be easy to use
+[0134] [07:43] D: these well things we looked at uh the
+[0135] [07:45] D: stopped
+[0136] [07:46] D: Um then criteria that have to be
+[0137] [07:47] D: mapped
+[0138] [07:48] D: we have to use a table
+[0139] [07:50] D: a
+[0140] [07:50] D: chef
+[0141] [07:50] D: that late
+[0142] [07:51] D: it's got that's decide what the It needs to start that's
+[0143] [07:55] D: And We we have That for entirely at all um Well i have five Yeah they laugh
+[0144] [08:05] D: and points According to which this should be evaluated
+[0145] [08:09] D: And um the quite well basically the findings of the same as the evaluation criterium
+[0146] [08:16] D: I would like to say the table we have to use
+[0147] [08:19] D: Um No
+[0148] [08:24] D: This is the table
+[0149] [08:25] D: can you see this yeah
+[0150] [08:26] B: Uh-huh
+[0151] [08:28] D: so the quite the questions are giving you could you write that down
+[0152] [08:32] D: sure is one and and false is
+[0153] [08:34] D: sapa
+[0154] [08:35] D: and And we'll just go through each point to go there Have you
+[0155] [08:42] D: Um I think it each of us "'cause" the mapping and then they can be makes some how how
+[0156] [08:50] D: the networks that their own been told
+[0157] [08:52] C: Yeah
+[0158] [08:53] C: Is it possible that we can bring this up on our own
+[0159] [08:57] D: Yeah it's end um It's in the project documents
+[0160] [09:01] C: Is it meeting three minutes
+[0161] [09:03] C: uh so that's
+[0162] [09:03] D: It's called evaluation criteria
+[0163] [09:08] D: And it's On the evaluation
+[0164] [09:13] A: the powerpoint one
+[0165] [09:15] C: Okay cool
+[0166] [09:16] D: And at all
+[0167] [09:24] D: So it was
+[0168] [09:24] D: um Yeah choose one
+[0169] [09:34] C: Choose one false seven
+[0170] [09:35] D: Do you want us to discuss is together do you want us to
+[0171] [09:38] D: singly
+[0172] [09:39] A: we can do it separately and then discuss
+[0173] [09:41] D: Yeah okay
+[0174] [09:41] A: enough If that's a good moment
+[0175] [09:50] C: So it's actually a scale
+[0176] [09:52] A: But one is true and
+[0177] [09:56] A: So these are questions or insane
+[0178] [09:58] D: Yes
+[0179] [09:58] A: And one is
+[0180] [09:58] D: it's if it's fancy you put one
+[0181] [10:01] A: One right okay
+[0182] [10:01] D: It it's really um fancy itself uh-huh
+[0183] [10:03] A: If it's somewhere between you put four
+[0184] [10:05] D: Yeah something
+[0185] [10:06] C: Okay
+[0186] [11:01] C: Does it feel fifty Uh-huh
+[0187] [11:03] B: Here's like later
+[0188] [11:06] C: No no Uh-huh
+[0189] [11:18] D: Mission really be questions
+[0190] [11:20] D: Should i mean
+[0191] [11:53] D: For the batteries easy to and sat
+[0192] [11:56] B: I'm gonna say yes
+[0193] [11:57] D: Yes very very true
+[0194] [11:59] B: I imagine there somewhere on the front
+[0195] [12:01] B: we have a little Keys you stop and then
+[0196] [12:03] D: Okay
+[0197] [13:05] A: We just very
+[0198] [13:08] D: part um supposed to use a white board
+[0199] [13:11] D: Do we
+[0200] [13:11] D: um is a nasa
+[0201] [13:14] A: I don't think so
+[0202] [13:16] D: Well just do
+[0203] [13:16] A: Yeah the the markers i kinda
+[0204] [13:18] A: stopped
+[0205] [13:18] A: working Last time we
+[0206] [13:19] C: Yeah
+[0207] [13:21] A: And walls forever be there
+[0208] [13:22] D: Okay
+[0209] [13:25] A: And unless you really need it Yeah
+[0210] [13:27] D: I don't feel like
+[0211] [13:28] A: Okay okay
+[0212] [13:31] D: Right
+[0213] [13:31] D: um Right so one point one
+[0214] [13:35] D: Would just gonna circle
+[0215] [13:37] C: One
+[0216] [13:38] B: Five
+[0217] [13:39] D: We want to
+[0218] [13:39] D: uh Right One
+[0219] [13:43] B: Five
+[0220] [13:44] A: Five
+[0221] [13:45] D: Five
+[0222] [13:47] D: Two
+[0223] [13:48] D: Okay said do is that
+[0224] [13:49] D: the top divided by four
+[0225] [13:51] D: is that what the company colours
+[0226] [13:53] A: I i think we should
+[0227] [13:54] B: It's for you wanna do that
+[0228] [13:56] A: Yeah
+[0229] [13:57] D: Yeah
+[0230] [13:57] B: It has to sixteen slots for
+[0231] [14:00] D: And and and stuff
+[0232] [14:02] D: that mean One five five two
+[0233] [14:05] B: Well attach to
+[0234] [14:07] D: On five five to use that to be of the for for now
+[0235] [14:10] D: That's
+[0236] [14:11] D: Um Next
+[0237] [14:15] C: three
+[0238] [14:16] B: Six
+[0239] [14:17] A: Six But i
+[0240] [14:19] D: Okay
+[0241] [14:20] D: Two
+[0242] [14:21] A: wasn't you do with their yeah
+[0243] [14:23] D: Right
+[0244] [14:23] D: one point three Is
+[0245] [14:28] C: So it's a one was true and seven was false
+[0246] [14:32] D: Yeah
+[0247] [14:33] C: Okay so is really didn't like it
+[0248] [14:35] D: I really
+[0249] [14:35] A: Oh i thought it
+[0250] [14:35] B: Wait a minute
+[0251] [14:36] A: was the other way right
+[0252] [14:36] B: I thought i was in a way around to
+[0253] [14:39] A: It's a
+[0254] [14:39] D: Well i
+[0255] [14:40] A: way to a that the same thing we have i
+[0256] [14:42] B: Yeah
+[0257] [14:43] B: i have I was thinking one means know points see all of the time
+[0258] [14:43] D: Yeah yeah
+[0259] [14:43] D: it was one is true and False is seven
+[0260] [14:47] D: i should've
+[0261] [14:47] D: got the tape a lot
+[0262] [14:49] B: I'll just Well let's reverse the malls
+[0263] [14:49] A: cache okay well
+[0264] [14:51] B: a row
+[0265] [14:52] A: Yeah
+[0266] [14:55] D: Well i'm glad this came out
+[0267] [14:56] C: That's quite nice design it that way if you hit it I
+[0268] [14:58] D: Yeah
+[0269] [14:58] B: I i say it's
+[0270] [15:00] D: Yeah
+[0271] [15:00] A: I
+[0272] [15:00] D: yeah
+[0273] [15:02] D: it's quite funny
+[0274] [15:03] C: Yeah i
+[0275] [15:23] B: Okay
+[0276] [15:24] D: Okay uh huh
+[0277] [15:27] D: Okay So So at the end and one point one
+[0278] [15:31] C: One
+[0279] [15:33] B: Stayed
+[0280] [15:33] B: two
+[0281] [15:35] A: Three
+[0282] [15:37] D: Two
+[0283] [15:37] D: okay one point eight
+[0284] [15:41] C: three
+[0285] [15:42] B: Two
+[0286] [15:42] A: Two
+[0287] [15:47] D: One point three
+[0288] [15:49] C: One
+[0289] [15:50] A: One
+[0290] [15:51] B: One
+[0291] [15:54] D: Two point one
+[0292] [15:56] C: That too
+[0293] [15:58] B: Oh two
+[0294] [16:01] A: Two point i think i missed two
+[0295] [16:04] A: Where is that two point one
+[0296] [16:06] B: Yeah i put it down as one point for for some reason
+[0297] [16:07] D: Yeah
+[0298] [16:08] A: One point four point five okay right
+[0299] [16:08] D: the
+[0300] [16:09] D: I can sorry
+[0301] [16:10] A: that's i have to have fun
+[0302] [16:11] B: And there's all kinds of problems
+[0303] [16:12] D: To win one
+[0304] [16:13] D: Sorry about that
+[0305] [16:14] D: Two point to a which is one point five
+[0306] [16:17] A: One
+[0307] [16:19] B: A three
+[0308] [16:21] B: They wanna put three
+[0309] [16:23] C: one
+[0310] [16:24] B: And then one on mine too
+[0311] [16:26] D: Three point one
+[0312] [16:27] D: is that correct on my slide
+[0313] [16:28] A: Yeah yeah
+[0314] [16:30] C: That one
+[0315] [16:32] B: You know and
+[0316] [16:33] B: i have four
+[0317] [16:35] A: Three
+[0318] [16:35] D: One for three For a
+[0319] [16:38] D: three point to it
+[0320] [16:41] B: Three
+[0321] [16:41] A: Three
+[0322] [16:44] C: One
+[0323] [16:46] D: Three point three
+[0324] [16:48] C: One
+[0325] [16:48] B: One
+[0326] [16:50] A: Two
+[0327] [16:53] D: Four point one
+[0328] [16:54] C: One
+[0329] [16:55] B: Two
+[0330] [16:56] A: Five
+[0331] [16:59] D: Two
+[0332] [17:00] D: Four point two
+[0333] [17:02] C: Do
+[0334] [17:03] B: Three
+[0335] [17:03] A: Four
+[0336] [17:05] D: Two
+[0337] [17:06] D: and four point three
+[0338] [17:09] B: Two
+[0339] [17:09] D: One
+[0340] [17:10] C: One
+[0341] [17:11] A: Two
+[0342] [17:13] D: Right so i put one on that
+[0343] [17:15] D: okay on the um i'll just Do the calculations
+[0344] [17:18] D: know
+[0345] [17:19] D: if you want to continue
+[0346] [17:20] A: Okay
+[0347] [17:20] D: Or is it
+[0348] [17:21] D: t.
+[0349] [17:21] D: v. is
+[0350] [17:22] D: on the i'm sorry this facility
+[0351] [17:23] D: d. is everyone
+[0352] [17:23] A: No no that's
+[0353] [17:25] D: But in the house to the
+[0354] [17:26] A: I think we should look at the ones that Like worse
+[0355] [17:30] A: where people said forward Um and looks like we might wanna discuss changing an aspect of the remote
+[0356] [17:38] D: Okay
+[0357] [17:39] D: well the worst ones were a three point one
+[0358] [17:42] B: Uh-huh
+[0359] [17:43] D: Do it
+[0360] [17:43] D: does everyone have the slide
+[0361] [17:46] D: Three point one
+[0362] [17:46] A: The
+[0363] [17:47] A: That was material
+[0364] [17:49] D: Slide show
+[0365] [17:53] D: But do it technologically relative
+[0366] [17:56] D: Okay
+[0367] [17:58] D: Um you want to change it
+[0368] [18:00] D: Well that's just
+[0369] [18:03] C: Which one is that again so it's
+[0370] [18:05] C: cheaper one
+[0371] [18:06] A: Uh-huh
+[0372] [18:07] D: Yeah that it's three point one was not that good
+[0373] [18:10] D: Four point one
+[0374] [18:12] A: "'cause" the shape
+[0375] [18:14] D: The shape
+[0376] [18:15] C: I think
+[0377] [18:15] D: O.
+[0378] [18:15] D: O. point to
+[0379] [18:17] A: See i'm having i'm having trouble matched
+[0380] [18:19] A: mean
+[0381] [18:21] A: That
+[0382] [18:21] A: is it gonna be the size like that The controller
+[0383] [18:25] A: it
+[0384] [18:25] B: I think the wheel would probably be uh-huh
+[0385] [18:25] A: or bigger
+[0386] [18:27] A: Because
+[0387] [18:27] C: What if we just
+[0388] [18:28] C: smash all vegetables down flat
+[0389] [18:30] C: And like in and if you could hold in your hand that or
+[0390] [18:34] B: I think the base we did maybe larger
+[0391] [18:35] B: to so is it not it's easy to hold
+[0392] [18:38] A: Yeah
+[0393] [18:38] B: Okay is smallish
+[0394] [18:39] A: Yeah but i imagine even if it is bigger like a that around that that's big maybe you can get
+[0395] [18:44] C: Yeah
+[0396] [18:44] A: That's why remote control so long because you have but some kind of
+[0397] [18:45] C: The flat one yeah
+[0398] [18:45] B: Yeah
+[0399] [18:49] A: So you could make it a bit bananas think you can do that
+[0400] [18:52] C: Yeah
+[0401] [18:53] A: but i don't see
+[0402] [18:55] A: I i personally don't think this is comfortable To to sit there and like it's an awkward position
+[0403] [18:58] C: I didn't
+[0404] [18:59] C: yeah
+[0405] [19:00] C: But like if if you just squash
+[0406] [19:01] C: some flat like can you make it flat
+[0407] [19:04] B: Of say that it's Uh stress balls that they would be pretty squishy well
+[0408] [19:10] C: But it's still too big i think yeah and
+[0409] [19:12] A: Yeah
+[0410] [19:15] A: And what it even resemble fruit that way
+[0411] [19:18] A: i mean
+[0412] [19:18] C: Yeah i like certain once you have to limit the fruit selection
+[0413] [19:22] C: like you could tell it to a strawberry still
+[0414] [19:24] A: Yeah
+[0415] [19:25] C: think the broader would be out
+[0416] [19:27] C: You can see how that
+[0417] [19:28] C: all the
+[0418] [19:28] C: broccoli
+[0419] [19:29] C: is quite comparable i had to say
+[0420] [19:30] C: like So like a joystick
+[0421] [19:31] A: Yeah but i i i we knew where you're holding out for like so but
+[0422] [19:33] D: Yeah that that really good
+[0423] [19:35] C: Yeah so
+[0424] [19:38] D: And then you fruits of a lot of broccoli know
+[0425] [19:43] B: I can think of
+[0426] [19:46] C: Yeah
+[0427] [19:48] C: Uh these obscure fruits
+[0428] [19:48] D: I am i draw can leave my favourite actually
+[0429] [19:51] A: Hmm
+[0430] [19:51] D: Despite
+[0431] [19:53] C: I think we need
+[0432] [19:53] A: What i found the It was just patterns on like
+[0433] [19:58] A: we will we chose the shape or The chip could do whatever One it
+[0434] [20:02] A: and then It would just be like a design on the rubber
+[0435] [20:09] A: You know like it like just the printed yeah or a college yeah
+[0436] [20:09] C: Oh okay
+[0437] [20:10] B: There's just colour and not necessarily the shape of a strawberry
+[0438] [20:12] C: Yeah that could work
+[0439] [20:14] D: Yeah
+[0440] [20:15] A: Or or i mean we could even Have fruit like around
+[0441] [20:20] C: Yeah
+[0442] [20:21] A: I mean
+[0443] [20:22] C: Yeah i don't know
+[0444] [20:23] A: But if we if we need
+[0445] [20:23] D: Yeah
+[0446] [20:23] D: just have the colour match or something
+[0447] [20:25] A: Yeah
+[0448] [20:26] A: and if we wanna incorporate the fruit thing somehow
+[0449] [20:29] A: There might be
+[0450] [20:30] A: I mean if it if it it is it
+[0451] [20:32] A: Uh conflicts
+[0452] [20:33] A: with the comfort of actual hold it hold in me
+[0453] [20:35] C: Yeah because yeah no one wants to hold a remote or three
+[0454] [20:41] C: I like
+[0455] [20:41] C: i dunno
+[0456] [20:42] C: some uh we can kind of thing see as like
+[0457] [20:46] C: Like you could If it was only this Yeah fruit shaped like that and it just had a
+[0458] [20:51] C: press the problems you have to attach that in this has to be
+[0459] [20:52] A: Yeah
+[0460] [20:54] C: detachable
+[0461] [20:54] A: Yeah
+[0462] [20:56] C: So like maybe that's just too big
+[0463] [20:57] A: Was it it isn't about the works as you can come a whole like that
+[0464] [20:57] C: because
+[0465] [21:01] C: Yeah it's sorta like a joystick
+[0466] [21:01] A: which is a nice kind of
+[0467] [21:01] D: Yeah
+[0468] [21:03] A: Yeah
+[0469] [21:06] A: That
+[0470] [21:07] C: Yeah i dunno
+[0471] [21:08] C: i guess
+[0472] [21:08] A: I mean is there some way we could make it this kind of shape
+[0473] [21:11] A: because like Kind of
+[0474] [21:13] B: We can make it that shape but just have different colours and call them the different fruits
+[0475] [21:15] A: Yeah yeah
+[0476] [21:15] C: Yeah
+[0477] [21:17] A: I like even
+[0478] [21:17] B: We what we shape because we're having fun with the play-doh and
+[0479] [21:19] A: Or even like Yeah like it's like a joystick like that
+[0480] [21:23] C: Yeah
+[0481] [21:24] A: Yeah
+[0482] [21:24] C: Yeah
+[0483] [21:25] C: Like uh we should do
+[0484] [21:27] C: have a sure thing for the shape like fruits there are the shape
+[0485] [21:30] A: "'cause" that I think
+[0486] [21:33] A: I mean that's that's the whole round ipod idea
+[0487] [21:36] C: Yeah
+[0488] [21:37] A: And you still have the comfort of holding it like that
+[0489] [21:37] D: Yeah
+[0490] [21:43] A: And you could like if it's like
+[0491] [21:45] A: bessie could Put fruit designs have fun That right
+[0492] [21:48] C: Yeah Yeah
+[0493] [21:51] C: Right
+[0494] [21:52] A: But i mean it
+[0495] [21:53] A: into we have any other ideas about that
+[0496] [22:02] C: We should She
+[0497] [22:03] C: uh huh
+[0498] [22:07] D: Think the critical ones come out to be Yeah that one that
+[0499] [22:13] D: mm Batteries
+[0500] [22:16] D: Batteries easy to insert the summaries in
+[0501] [22:20] D: Which can be easily
+[0502] [22:22] D: I mean that's on the problem
+[0503] [22:23] A: That or is it going In the back
+[0504] [22:24] B: Hello
+[0505] [22:24] B: everyone give that a one or two
+[0506] [22:26] B: Yeah that that would be either on the front of the side of the remote
+[0507] [22:26] D: Yeah
+[0508] [22:29] A: The reason i i i i think you know what
+[0509] [22:31] A: i think i'd give it a three because i played have to like i mean Clip
+[0510] [22:34] B: No I imagine there'd
+[0511] [22:35] A: know you could
+[0512] [22:36] B: be so our uh hatch
+[0513] [22:37] A: Just like any other one
+[0514] [22:37] B: door
+[0515] [22:38] B: I am i gonna normal remote
+[0516] [22:38] A: okay
+[0517] [22:41] A: Right
+[0518] [22:41] B: So it can be good enough
+[0519] [22:43] B: No can infer "'cause" you heard that there
+[0520] [22:44] B: will be on one side probably
+[0521] [22:46] A: Uh-huh
+[0522] [22:47] D: I think everyone's on the three anywhere
+[0523] [22:51] D: So i think it's
+[0524] [22:53] D: Yeah there's any two points
+[0525] [22:57] C: Cool
+[0526] [22:57] C: well
+[0527] [23:00] C: Yeah the broccoli
+[0528] [23:02] C: I guess when it's
+[0529] [23:03] D: Yeah
+[0530] [23:03] B: Yeah i agree with changing the shape
+[0531] [23:05] B: Um i was just having fun making strawberries to have
+[0532] [23:06] A: Hmm
+[0533] [23:09] C: We're better off task
+[0534] [23:11] C: Um So uh I can think of any
+[0535] [23:17] C: Slash like
+[0536] [23:23] C: Mm Yeah i don't know
+[0537] [23:27] C: You could make the
+[0538] [23:28] C: touchpad in in different shapes
+[0539] [23:30] C: but then that kind of we designs the whole project like
+[0540] [23:34] C: But you could do like
+[0541] [23:34] B: That's a sort of annoying
+[0542] [23:35] B: people get used to having buttons In one shape
+[0543] [23:37] C: Yeah that's true
+[0544] [23:40] C: Yeah
+[0545] [23:40] A: And of
+[0546] [23:41] A: holocaust
+[0547] [23:41] A: want to do this Yes there in the yeah
+[0548] [23:42] C: Yeah that's true
+[0549] [23:46] B: About having
+[0550] [23:47] B: different colours a lot cheaper than having different shapes and
+[0551] [23:49] A: Yeah
+[0552] [23:51] A: Which is what
+[0553] [23:52] A: containment be like just printing yeah Fruit
+[0554] [24:08] A: Mm No We've done finance evaluation okay Production evaluation
+[0555] [24:26] A: It's our project evaluation
+[0556] [24:27] D: You want this and we can
+[0557] [24:33] A: I guess we're supposed to discuss um The price the process of the project and has other side
+[0558] [24:42] A: Uh that's right
+[0559] [24:44] D: That's alright yeah
+[0560] [24:45] A: Yeah it's
+[0561] [24:45] A: um Did you sure there's a lot of room for creativity and Sort of
+[0562] [24:52] B: Sure
+[0563] [24:55] C: Is it
+[0564] [24:57] A: I mean fruit must be seen as high bit more creative him get a
+[0565] [25:00] B: Sponginess
+[0566] [25:01] C: The prototype making was very creative play Stimulating
+[0567] [25:06] C: and I think We've come up with
+[0568] [25:09] C: products that's fine and Need to look at it yeah
+[0569] [25:15] A: And how was a real leadership and teamwork
+[0570] [25:18] B: I think it was good
+[0571] [25:19] B: we knew what we're doing
+[0572] [25:20] B: it was very democratic process everyone got to contribute
+[0573] [25:25] A: Well i thought my leadership was crap personally
+[0574] [25:29] A: Six
+[0575] [25:29] B: Well
+[0576] [25:29] A: months
+[0577] [25:29] A: months to that
+[0578] [25:29] B: utah's
+[0579] [25:30] B: wanna start window and then that's all of that is
+[0580] [25:31] A: Yeah yeah
+[0581] [25:34] C: I think you're fine
+[0582] [25:35] C: you could
+[0583] [25:35] C: jeopardy
+[0584] [25:36] A: One never gonna do management position and uh that now
+[0585] [25:40] A: Um yeah that we'll work very well together
+[0586] [25:41] D: Yeah we didn't we
+[0587] [25:42] D: uh ilk sort of planted
+[0588] [25:44] C: Yeah i think it was a thing we don't really have our set also watches which is to
+[0589] [25:47] C: be like I don't know all have ideas about it but
+[0590] [25:48] A: Yeah
+[0591] [25:50] A: Very democratic
+[0592] [25:52] C: Yeah
+[0593] [25:52] A: Yes that's that was good
+[0594] [25:54] C: No
+[0595] [25:58] A: And that means for like the materials we used to have a convenient way there
+[0596] [26:04] A: Like that depends the whiteboard
+[0597] [26:07] A: I mean we we use
+[0598] [26:07] B: Well i'm not a big fan of Any microsoft powerpoint or any of this stuff
+[0599] [26:11] A: You are
+[0600] [26:11] A: macros and
+[0601] [26:12] B: No oh no i never touch max either
+[0602] [26:14] B: I just use the
+[0603] [26:16] B: Unix
+[0604] [26:16] B: it off market Sort of
+[0605] [26:18] B: wordperfect
+[0606] [26:19] B: and all these other things
+[0607] [26:21] D: Which isn't our user friendly
+[0608] [26:24] B: Well from as if you don't like it when you computer never has
+[0609] [26:27] B: wordperfect
+[0610] [26:27] B: have to track someone down has all this gonna have to
+[0611] [26:30] B: reinstall are
+[0612] [26:31] B: several they start with the can't use to have
+[0613] [26:35] B: But yeah i mean i guess that's okay
+[0614] [26:37] C: thought like my
+[0615] [26:38] C: i don't know if it's just my role
+[0616] [26:40] C: but but uh at the white the information that was available to me was kind just like
+[0617] [26:44] C: maybe it's just the idea that we had
+[0618] [26:46] C: but there's kinda
+[0619] [26:47] C: it's kinda like okay I'm really in think Hello not Doing here
+[0620] [26:51] C: so i didn't know i think it's helpful
+[0621] [26:54] C: So i kind of just Made up my own Stuff
+[0622] [26:58] C: and I mean really like the powerpoint presentations
+[0623] [27:02] C: so i kind of are a lot of notes instead
+[0624] [27:04] C: but That i i don't really like powerpoint Personally It's kinda stupid
+[0625] [27:04] A: Yeah
+[0626] [27:08] B: Yeah
+[0627] [27:09] B: I never use it
+[0628] [27:10] C: Yeah but
+[0629] [27:11] A: I can't say i found is Everything which which really helpful
+[0630] [27:16] C: Yeah i
+[0631] [27:16] A: Okay
+[0632] [27:16] C: generally
+[0633] [27:17] B: Yeah
+[0634] [27:17] C: yeah
+[0635] [27:18] D: I talked to was pretty uh and
+[0636] [27:18] B: The first information is like this child
+[0637] [27:19] A: Yeah
+[0638] [27:20] B: drawn take sure how of remote works
+[0639] [27:22] D: Yeah mine as well be helpful is and My stuff is quite no okay
+[0640] [27:27] C: So like if
+[0641] [27:27] A: I mean not my problem
+[0642] [27:28] D: I think it depends on the role
+[0643] [27:29] D: no
+[0644] [27:29] C: Yeah i think so
+[0645] [27:29] A: Yeah Yeah
+[0646] [27:29] B: Yeah it probably does
+[0647] [27:30] A: "'cause" my mother was see you guys have access to like they put send you the sites and stuff
+[0648] [27:35] A: right
+[0649] [27:35] B: Yeah
+[0650] [27:36] A: See i can do that so
+[0651] [27:37] A: i don't really know you guys are doing
+[0652] [27:38] A: and and you're talking about is just like
+[0653] [27:41] A: Yeah but so the voice is so
+[0654] [27:43] A: ignorant men and women to explain things
+[0655] [27:45] A: as a
+[0656] [27:45] B: Yeah mine was was a made up
+[0657] [27:47] B: except when they do we like you know titanium cost more than word to make a remote control
+[0658] [27:50] A: Yeah
+[0659] [27:52] B: But if you wanted to
+[0660] [27:52] D: Yeah
+[0661] [27:53] D: But it
+[0662] [27:54] D: must've
+[0663] [27:54] D: been quite difficult for them to build the whole
+[0664] [27:57] A: System
+[0665] [27:58] D: Whole
+[0666] [27:58] D: Whole system
+[0667] [27:59] D: "'cause" of course they can't give you a a Anything compatible with the internet
+[0668] [28:03] C: Yeah i mean it plays it
+[0669] [28:04] B: I think it's interesting that all went together
+[0670] [28:07] B: like i had that Stuff about how not power rubber is cheap
+[0671] [28:10] B: you have a people want it to be spongy in
+[0672] [28:10] D: Uhuh
+[0673] [28:12] A: Yeah
+[0674] [28:12] A: yeah
+[0675] [28:13] B: It seems point to go
+[0676] [28:14] A: Yeah
+[0677] [28:14] C: Yeah i kinda thought that
+[0678] [28:16] C: Um i like i would go and actually use mine for a send
+[0679] [28:19] C: a like a break the stupid little presentation
+[0680] [28:21] C: and then i think I just don't are talking about something completely unrelated
+[0681] [28:25] C: because
+[0682] [28:26] C: i
+[0683] [28:26] C: have uh like uh soft ask all the time
+[0684] [28:28] C: But
+[0685] [28:30] A: I mean we really get into talking about like personal practicality
+[0686] [28:34] A: like it wasn't necessarily what was like
+[0687] [28:37] A: We would never thought of fruit or sponginess yeah uh huh
+[0688] [28:40] D: Yeah yeah
+[0689] [28:40] C: Yeah
+[0690] [28:41] B: Yeah
+[0691] [28:41] A: So it's
+[0692] [28:41] B: and and all the fruit was
+[0693] [28:43] D: But i think that it and it might be to see what that people actually will come up with the same
+[0694] [28:50] A: Oh right
+[0695] [28:51] A: given certain information there
+[0696] [28:54] D: Yeah like if everyone's given the same input
+[0697] [28:54] A: Yes
+[0698] [28:54] A: yeah
+[0699] [28:56] D: i don't know but anyway
+[0700] [28:58] D: um What's that
+[0701] [29:01] D: And then that's know
+[0702] [29:04] A: Would you guys think about hands
+[0703] [29:06] A: and uh so that
+[0704] [29:06] B: They're pretty cool
+[0705] [29:08] C: Unless
+[0706] [29:08] B: Okay hard to write with the
+[0707] [29:10] A: Yeah
+[0708] [29:10] D: Yeah
+[0709] [29:10] A: And i i Forgotten once or twice as well as a
+[0710] [29:15] C: I i'd like to see what what it looks like Uh-huh
+[0711] [29:20] B: They're nicer than that and then i'm using
+[0712] [29:22] B: "'cause" like your stuff actually so the pure rather than having to look at the screen right
+[0713] [29:26] A: Uh-huh
+[0714] [29:28] B: That is so i don't know
+[0715] [29:33] A: And new ideas found
+[0716] [29:38] D: And some very new
+[0717] [29:39] A: Yeah
+[0718] [29:39] D: No
+[0719] [29:41] D: That's where in
+[0720] [29:44] C: Yeah i think i'd like to
+[0721] [29:46] C: um No
+[0722] [29:51] C: Like it was but
+[0723] [29:52] C: i think the microphones okay when you're sitting down
+[0724] [29:54] C: but like The kind of clumsy
+[0725] [29:56] C: i guess in it we can just have to wait for the
+[0726] [29:56] B: Oh yeah
+[0727] [29:59] B: Well you drop off if you like wood too much
+[0728] [30:01] C: Yeah
+[0729] [30:02] C: i dunno but there okay
+[0730] [30:02] B: I don't think we should just be testing these microphones
+[0731] [30:06] B: Maybe we are
+[0732] [30:06] B: i don't know
+[0733] [30:08] C: I think and i think that
+[0734] [30:09] C: uh Well this technology like I guess some people must be adjusted using it
+[0735] [30:14] C: but i can imagine Finding it Any more useful than like looking at someone's notes
+[0736] [30:19] A: Yeah
+[0737] [30:19] C: or like Or
+[0738] [30:19] B: Well i think is Like i i actually worked in a company
+[0739] [30:22] B: gonna have a role wanna have a good meetings
+[0740] [30:25] B: And like the last thing i would want it would be to have to watch a video "'cause" i missed meeting
+[0741] [30:30] B: You
+[0742] [30:31] B: jonas
+[0743] [30:31] B: meetings too but really
+[0744] [30:32] B: there's just
+[0745] [30:33] B: So not that much information actually goes through real meeting like when you're actually a real meeting a real company
+[0746] [30:36] A: Yeah
+[0747] [30:38] C: Hmm
+[0748] [30:38] B: It's mostly like
+[0749] [30:39] B: rehashing
+[0750] [30:39] B: old stuff
+[0751] [30:41] B: I just are going over general stuff that anybody who's we want asks
+[0752] [30:44] B: you already know
+[0753] [30:46] B: Is like the
+[0754] [30:46] B: this just fill in a lot of information because there
+[0755] [30:47] A: Since kind of like an excessive
+[0756] [30:49] B: It seems like the way overkill
+[0757] [30:49] A: reiteration
+[0758] [30:50] A: Yeah
+[0759] [30:51] B: like five has to be a
+[0760] [30:51] B: i could probably get it summed up like one sentence
+[0761] [30:54] A: Yeah
+[0762] [30:55] B: I would need have to watch like and to our video with the sound of the
+[0763] [30:58] B: transcript and
+[0764] [31:00] C: I guess that would be
+[0765] [31:04] C: It's gotta be worth it to add
+[0766] [31:06] C: nice
+[0767] [31:06] C: and this was the case well look what kind of per cent
+[0768] [31:09] C: I like company would would really find it useful
+[0769] [31:12] C: "'cause" Can you imagine no
+[0770] [31:17] C: About that Or peter
+[0771] [31:22] C: Or um or uh huh
+[0772] [31:28] A: Oh It's in one talk about fruit were well we saw of time
+[0773] [31:33] A: And the other
+[0774] [31:35] D: What what's the and
+[0775] [31:35] A: India's
+[0776] [31:35] A: yeah
+[0777] [31:36] D: uh we are we supposed
+[0778] [31:37] D: um Use plus what the pool
+[0779] [31:40] D: or we and then
+[0780] [31:42] D: Uh the end
+[0781] [31:44] A: We still have time if they say you have a input
+[0782] [31:49] A: I mean i
+[0783] [31:50] A: i think we did really well personally
+[0784] [31:52] A: which is why we have
+[0785] [31:55] A: You know come to the same quickly
+[0786] [31:57] A: "'cause" i mean we've all we all kind of agree about our product is Satisfaction if it's the budget and It's
+[0787] [32:05] A: trendy
+[0788] [32:07] C: Yeah
+[0789] [32:09] A: So
+[0790] [32:13] D: And a meeting
+[0791] [32:13] D: now
+[0792] [32:16] A: So i think that's all for today Yeah
+[0793] [32:19] D: Okay have to fill in all this stuff
+[0794] [32:23] C: Meeting adjourned
+[0795] [32:24] A: Maybe a giant
+[0796] [32:24] D: Yeah
+[0797] [32:26] B: I think of are not to bring
+[0798] [32:28] B: planar
+[0799] [32:28] B: to me see
+[0800] [32:32] C: I think it would be good idea like it
+[0801] [32:35] B: But i dunno to get people are actually paying attention
+[0802] [32:38] B: especially if you have to to
+[0803] [32:44] A: So i guess we're supposed to right Final reports
+[0804] [32:48] A: Yes
+[0805] [32:48] B: All that
+[0806] [32:49] A: I don't know
+[0807] [32:50] D: Well as well eight nine
+[0808] [32:52] D: mm Yeah
+[0809] [32:55] A: Is that just me

@@ -1,0 +1,1466 @@
+================================================================================
+ICSI Meeting Transcript: Bed014
+================================================================================
+
+Total Utterances: 1460
+Unique Speakers: 6
+Duration: 52.80 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:04] fe004: Sorry .
+[0002] [00:21] fe004: Mental mental Palm Pilot .
+[0003] [00:24] fe004: Right .
+[0004] [00:28] fe004: Hence no problem .
+[0005] [00:30] fn050: Let 's see .
+[0006] [00:36] fn050: So . What ?
+[0007] [00:36] fn050: I 'm supposed to be on channel five ?
+[0008] [00:39] fn050: Her . Nope .
+[0009] [00:40] fn050: Doesn't seem to be ,
+[0010] [00:41] fn050: yeah .
+[0011] [00:41] fe004: Hello I 'm channel one .
+[0013] [00:42] mn015: What does your thing say on the back ?
+[0014] [00:44] fn050: Nnn , five .
+[0015] [00:44] me003: Testing .
+[0016] [00:45] fn050: Alright , I 'm five .
+[0017] [00:46] me003: Sibilance .
+[0018] [00:48] me003: Sibilance . Three , three .
+[0019] [00:51] me003: I am three .
+[0020] [00:53] fe004: Eh .
+[0021] [00:54] me003: See , that matches the seat up there .
+[0022] [00:56] fn050: Yeah
+[0023] [00:56] me003: So .
+[0024] [01:00] me003: Cuz it 's That starts counting from zero
+[0025] [01:03] me003: and these start counting from one .
+[0026] [01:08] me003: Ergo , the classic off - by - one error .
+[0027] [01:12] fe004: But mine is correct .
+[0028] [01:14] me003: Is it ?
+[0029] [01:14] mn015: No .
+[0030] [01:15] fe004: It 's one .
+[0031] [01:16] fe004: Channel one .
+[0032] [01:17] mn015: Look at the back .
+[0033] [01:18] me003: Your mike number is what we 're t
+[0034] [01:18] fe004: Oh , oh , oh !
+[0035] [01:20] fe004: Oh .
+[0036] [01:21] me003: Ho !
+[0037] [01:22] fe004: So
+[0038] [01:23] me003: I 've bested you again , Nancy .
+[0039] [01:24] fe004: But your p
+[0040] [01:25] fe004: No , but the paper 's correct .
+[0041] [01:26] me003: The paper is correct .
+[0042] [01:27] fe004: Look at the paper .
+[0043] [01:28] me003: I didn't det I was saying the microphone , not the paper .
+[0044] [01:29] me010: Nnn ,
+[0045] [01:30] me010: it 's n
+[0046] [01:30] fe004: Oh .
+[0047] [01:32] me010: It 's always offset . Yeah .
+[0048] [01:32] fe004: OK .
+[0049] [01:33] fe004: Yes , you 've bested me again .
+[0050] [01:35] fe004: That 's how I think of our continuing interaction .
+[0051] [01:39] fe004: Damn !
+[0052] [01:39] fe004: Foiled again !
+[0053] [01:43] me003: So is Keith showing up ?
+[0054] [01:43] me003: He 's talking with George right now .
+[0055] [01:44] me003: Uh , is he gonna get a rip uh rip himself away from from that ?
+[0056] [01:45] me010: What
+[0057] [01:46] fe004: He 'll probably come later .
+[0058] [01:48] me010: He - he he 's
+[0059] [01:49] me010: probably not , is my guess .
+[0060] [01:52] me003: Oh , then it 's just gonna be the five of us ?
+[0061] [01:53] mn015: Well , he he was very affirmative in his way of saying he will be here at four .
+[0062] [01:54] me010: Yeah .
+[0063] [01:57] mn015: But you know , that was before he knew about that George lecture probably .
+[0064] [02:01] me010: Right .
+[0065] [02:03] me010: This this is not It 's not bad for the project if Keith is talking to George .
+[0066] [02:10] me010: OK . So my suggestion is we just
+[0067] [02:13] fe004: Forge ahead .
+[0068] [02:13] me010: Forge ahead , yeah .
+[0069] [02:15] mn015: Cool .
+[0070] [02:20] fe004: Are you in charge ?
+[0071] [02:21] mn015: Sure .
+[0072] [02:25] mn015: Um .
+[0073] [02:27] mn015: Well , I sort of had informal talks with most of you .
+[0074] [02:31] mn015: So , Eva just reported she 's really happy about the CBT 's being in the same order in the XML
+[0075] [02:36] mn015: as in the um be Java declaration format
+[0076] [02:36] fn050: Yeah .
+[0077] [02:40] fn050: The e
+[0078] [02:41] mn015: so you don't have to do too much in the style sheet transversion .
+[0079] [02:42] fn050: Uh , yeah .
+[0080] [02:45] fn050: Yeah , so .
+[0081] [02:46] mn015: The uh , Java the embedded Bayes wants to take input uh , uh , a Bayes - net in in some Java notation
+[0082] [02:54] mn015: and Eva is using the Xalan style sheet processor to convert the XML that 's output by the Java Bayes for the into the , uh , E Bayes input .
+[0083] [03:07] me003: Mmm .
+[0084] [03:07] fn050: Actually , maybe I could try , like , emailing the guy
+[0085] [03:10] fn050: and see if he has any something already .
+[0086] [03:12] me010: Sure .
+[0087] [03:12] mn015: Hmm .
+[0088] [03:13] fn050: That
+[0089] [03:17] fn050: Yeah .
+[0090] [03:18] me003: But that 's some sort of conversion program ?
+[0091] [03:19] fn050: Yeah .
+[0092] [03:21] fn050: And put them into different formats .
+[0093] [03:23] fn050: Oh
+[0094] [03:24] fn050: Yep , he could do that , too .
+[0095] [03:25] me003: I think you should demand things from him .
+[0096] [03:28] me010: He charges so much . Right .
+[0097] [03:29] me003: Yeah .
+[0098] [03:30] me010: No , I think it 's a good idea that you may as well ask . Sure .
+[0099] [03:31] fn050: Yeah .
+[0100] [03:36] mn015: And , um , well pretty mu pretty much on t on the top of my list , I would have asked Keith how the " where is X ? " hand parse is standing .
+[0101] [03:47] mn015: Um . But we 'll skip that .
+[0102] [03:55] mn015: Uh , there 's good news from Johno .
+[0103] [03:56] mn015: The generation templates are done .
+[0104] [03:58] me003: So
+[0105] [04:01] me003: the XML trees for the for the gene for the synthesizer are written .
+[0106] [04:06] me003: So I just need to do the , uh write a new set of tree combining rules .
+[0107] [04:11] me003: But I think those 'll be pretty similar to the old ones .
+[0108] [04:15] me003: So .
+[0109] [04:16] me003: Just
+[0110] [04:17] me010: Oh !
+[0111] [04:20] me010: You
+[0112] [04:24] mn015: Yes .
+[0113] [04:28] me010: I didn't finish the sentence
+[0114] [04:29] me010: but he understood it .
+[0115] [04:30] me003: I know what he 's talking about .
+[0116] [04:31] me010: OK .
+[0117] [04:32] me010: But Nancy doesn't .
+[0118] [04:33] fe004: Hiring somebody .
+[0119] [04:35] mn015: We
+[0120] [04:36] me003: The guy .
+[0121] [04:37] mn015: OK , so natural language generation produces not a just a surface string that is fed into a text - to - speech but , a surface string with a syntax tree that 's fed into a concept - to - speech .
+[0122] [04:38] me010: No .
+[0123] [04:45] fe004: Yeah .
+[0124] [04:49] fe004: Mm - hmm .
+[0125] [04:51] mn015: Now and this concept - to - speech module has certain rules on how if you get the following syntactic structure , how to map this onto prosodic rules .
+[0126] [04:51] fe004: Better .
+[0127] [04:57] fe004: Mm - hmm .
+[0128] [04:59] fe004: Sure .
+[0129] [05:00] fe004: Mm - hmm .
+[0130] [05:01] mn015: And
+[0131] [05:10] fe004: I didn't know she spoke German .
+[0132] [05:13] mn015: No , she doesn't .
+[0133] [05:13] fe004: Oh , OK .
+[0134] [05:14] mn015: But she speaks English .
+[0135] [05:15] fe004: Oh . Rewrite the German ones into English .
+[0136] [05:17] mn015: Into English .
+[0137] [05:17] fe004: OK , got it .
+[0138] [05:18] mn015: And um therefore the ,
+[0139] [05:22] mn015: uh
+[0140] [05:23] mn015: if it 's OK that we give her a couple of more hours per week , then she 'll do that .
+[0141] [05:25] fe004: OK , got it .
+[0142] [05:29] me003: What language is that written
+[0143] [05:31] me003: i Is that that Scheme thing that you showed me ?
+[0144] [05:32] mn015: Yeah .
+[0145] [05:33] mn015: That 's the LISP - type scheme .
+[0146] [05:35] me003: She knows how to program in Scheme ?
+[0147] [05:36] me003: I hope ?
+[0148] [05:38] mn015: No
+[0149] [05:39] mn015: My guess is I I asked for a commented version of that file ?
+[0150] [05:44] mn015: If we get that , then it 's doable ,
+[0151] [05:47] mn015: even without getting into it , even though the Scheme li uh , stuff is really well documented in the Festival .
+[0152] [05:52] me003: Well , I guess if you 're not used to functional programming , Scheme can be completely incomprehensible .
+[0153] [05:57] me003: Cuz
+[0154] [05:58] me003: Like there 's lots of unnamed functions
+[0155] [05:59] me010: Syntax .
+[0156] [05:59] me010: Yeah .
+[0157] [06:00] me003: and
+[0158] [06:01] me003: You know ?
+[0159] [06:01] fe004: Mm - hmm .
+[0160] [06:03] me010: Anyway , it We 'll sort this out .
+[0161] [06:05] me010: Um .
+[0162] [06:06] me010: But anyway , send me the note
+[0163] [06:07] me010: and then I 'll - I 'll check with , uh , Morgan on the money .
+[0164] [06:10] me010: I I don't anticipate any problem
+[0165] [06:12] me010: but we have to ask .
+[0166] [06:15] me010: Oh , so this was You know , on the generation thing ,
+[0167] [06:19] me010: um
+[0168] [06:20] me010: if sh y she 's really going to do that , then we should be able to get prosody as well .
+[0169] [06:27] me010: So it 'll say it 's nonsense with perfect intonation .
+[0170] [06:33] me003: Are we gonna Can we change the voice of the of the thing ,
+[0171] [06:37] me003: because right now the voice sounds like a murderer .
+[0172] [06:39] mn015: Yep . We ha we have to change the voice .
+[0173] [06:40] fe004: Wh - Which one ?
+[0174] [06:41] me003: The
+[0175] [06:42] me003: Smarticus sounds like a murderer .
+[0176] [06:44] fe004: Oh .
+[0177] [06:45] me045: That 's good to know .
+[0178] [06:46] me003: " I have your reservations . "
+[0179] [06:49] me045: But I will not give them to you unless you come into my lair .
+[0180] [06:52] mn015: It is Uh , we have the choice between the , uh , usual Festival voices ,
+[0181] [06:57] mn015: which I already told the SmartKom people we aren't gonna use because they 're really bad .
+[0182] [07:01] fe004: Festival ?
+[0183] [07:02] me010: It 's the name of some program ,
+[0184] [07:03] me010: the the synthesizer .
+[0185] [07:03] fe004: Oh , oh . Got it . OK .
+[0186] [07:04] mn015: But , um
+[0187] [07:05] me045: You know , the usual party voices .
+[0188] [07:06] fe004: Yeah , I know .
+[0189] [07:06] fe004: That doesn't sound , exactly right either .
+[0190] [07:08] mn015: OGI has , uh , crafted a couple of diphone type voices that are really nice
+[0191] [07:13] mn015: and we 're going to use that .
+[0192] [07:15] mn015: We can still , um , d agree on a gender , if we want .
+[0193] [07:20] mn015: So we still have male or female .
+[0194] [07:21] fe004: I
+[0195] [07:22] fe004: Well , let 's just pick whatever sounds best .
+[0196] [07:23] mn015: Hmm ?
+[0197] [07:24] fe004: Whatever sounds best .
+[0198] [07:25] mn015: Uh .
+[0199] [07:26] me003: Does OGI stand for ? Original German Institute ?
+[0200] [07:27] fe004: Unfortunately , probably male voices , a bit more research on .
+[0201] [07:28] me010: Orego
+[0202] [07:30] fe004: So .
+[0203] [07:31] me010: Or
+[0204] [07:31] mn015: Oregon .
+[0205] [07:32] me010: Oregon @ @ Graduate Institute
+[0206] [07:32] mn015: Try Oregon .
+[0207] [07:32] me003: Oh .
+[0208] [07:32] fe004: Oregon Graduate Insti
+[0209] [07:33] me003: Ah .
+[0210] [07:35] me010: It turns out there 's the long - standing links with these guys in the speech group .
+[0211] [07:40] fe004: Hmm !
+[0212] [07:40] me010: Very long .
+[0213] [07:41] me003: Hmm !
+[0214] [07:41] mn015: Hmm .
+[0215] [07:42] me010: In fact , there 's this guy who 's basically got a joint appointment ,
+[0216] [07:45] me010: Hynek Hermansky .
+[0217] [07:49] me010: He 's - spends a fair amount of time here .
+[0218] [07:51] me010: Anyway .
+[0219] [07:52] me010: Leave it .
+[0220] [07:53] me010: Won't be a problem .
+[0221] [07:55] mn015: OK .
+[0222] [07:55] mn015: And it 's probably also absolutely uninteresting for all of you to , um learn that as of twenty minutes ago , David and I , per accident , uh managed to get the whole SmartKom system running on the uh , ICSI Linux machines with the ICSI NT machines
+[0223] [08:15] mn015: thereby increasing the number of running SmartKom systems in this house from one on my laptop to three .
+[0224] [08:22] fe004: Mmm , that 's good .
+[0225] [08:22] me003: How was this by accident ?
+[0226] [08:23] fe004: Yeah , I know .
+[0227] [08:23] fe004: Tha - that 's the part I didn't understand .
+[0228] [08:24] mn015: Um
+[0229] [08:28] mn015: even though against better knowledge shouldn't have worked ,
+[0230] [08:30] mn015: but it worked .
+[0231] [08:33] fe004: Hmm !
+[0232] [08:34] mn015: Intuition .
+[0233] [08:35] mn015: Maybe maybe maybe a bit for the AI i intuition thing .
+[0234] [08:35] fe004: Will it work again ,
+[0235] [08:35] me045: Yeah .
+[0236] [08:36] fe004: or ?
+[0237] [08:37] me003: Yeah .
+[0238] [08:39] mn015: OK .
+[0239] [08:41] mn015: And , um , we 'll never found out why .
+[0240] [08:43] mn015: It - it 's just like why why the generation ma the presentation manager is now working ?
+[0241] [08:48] me045: Hmm !
+[0242] [08:49] mn015: Which
+[0243] [08:49] me045: This is something you ha you get used to as a programmer , right ?
+[0244] [08:52] me045: You know , and it 's cool , it works out that way .
+[0245] [08:55] mn015: Hmm .
+[0246] [08:55] mn015: So , the the people at Saarbruecken and I decided not to touch it ever again .
+[0247] [09:00] mn015: Yeah , that would work .
+[0248] [09:04] mn015: OK .
+[0249] [09:05] mn015: Um I was gonna ask you where something is
+[0250] [09:09] mn015: and what we know about that .
+[0251] [09:10] me045: Where
+[0252] [09:11] fe004: Where the " where is " construction is .
+[0253] [09:11] me045: OK .
+[0254] [09:11] mn015: Where is X ?
+[0255] [09:12] me045: What what thing is this ?
+[0256] [09:14] me045: OK .
+[0257] [09:15] mn015: Oh ,
+[0258] [09:15] mn015: but by Uh , we can ask , uh , did you get to read all four hundred words ?
+[0259] [09:20] mn015: Was it OK ?
+[0260] [09:20] me010: I did .
+[0261] [09:21] mn015: Was it ?
+[0262] [09:22] me003: I I wa I was looking at it .
+[0263] [09:22] me010: Yeah .
+[0264] [09:23] me003: It doesn't follow logically .
+[0265] [09:26] me003: It doesn't The first paragraph doesn't seem to have any link to the second paragraph .
+[0266] [09:29] me045: And so on .
+[0267] [09:30] mn015: Hmm .
+[0268] [09:30] mn015: That
+[0269] [09:30] me010: Yeah .
+[0270] [09:30] me003: Yeah .
+[0271] [09:31] me010: You
+[0272] [09:32] me003: Each paragraph is good , though .
+[0273] [09:33] me003: I li
+[0274] [09:34] me010: I i
+[0275] [09:35] me010: Yeah . Well , it it 's fine .
+[0276] [09:37] me045: It was written by committee .
+[0277] [09:39] me010: Anyway .
+[0278] [09:40] me010: Um .
+[0279] [09:42] me010: But c the meeting looks like it 's , it 's gonna be good .
+[0280] [09:44] me010: So .
+[0281] [09:45] mn015: Yeah .
+[0282] [09:46] me010: I
+[0283] [09:47] fe004: Yeah , I didn't know about it until Robert told me , like ,
+[0284] [09:49] me010: Yeah , I I ra I ran across it in I don't even know where ,
+[0286] [09:52] me010: you know some just some weird place .
+[0287] [09:55] me010: And , uh , yeah , I I 'm surprised I didn't know about it
+[0288] [09:58] fe004: Y yeah . Well , yeah . I was like , why didn't Dan tell me ?
+[0289] [09:59] me010: since we know all the invited speakers ,
+[0290] [10:00] me010: an
+[0291] [10:01] me010: Right , or some
+[0292] [10:02] me045: Right .
+[0293] [10:02] me010: Anyway .
+[0294] [10:03] me010: So But anyway ,
+[0295] [10:04] me010: yeah .
+[0296] [10:05] me010: I so I I did see that .
+[0297] [10:06] me010: Oh wha Yeah . Before we get started on this st
+[0298] [10:08] me010: so I also had a nice email correspondence with Daphne Kohler , who said yes indeed she would love to work with us on the , um , you know , using these structured belief - nets and stuff
+[0299] [10:25] me010: but starting in August ,
+[0300] [10:27] me010: that she 's also got a new student working on this and that we should get in touch with them again in August
+[0301] [10:32] me010: and then we 'll figure out a way for you uh you to get seriously connected with , um their group .
+[0302] [10:39] me010: So
+[0303] [10:41] me010: that 's , uh looks pretty good .
+[0304] [10:45] me010: And
+[0305] [10:50] me010: Yeah , I 'll say it now .
+[0306] [10:51] me010: So
+[0307] [10:55] me010: And it looks to me like we 're now at a good point to do something start working on something really hard .
+[0308] [11:05] me010: We 've been so far working on things that are easy .
+[0309] [11:07] me045: Oh !
+[0310] [11:10] me010: Uh
+[0311] [11:19] me045: Hmm !
+[0312] [11:20] fe004: It 's hard .
+[0313] [11:21] me010: Huh ?
+[0314] [11:22] fe004: Yeah , it 's hard .
+[0315] [11:22] me010: It 's a hard puzzle .
+[0316] [11:22] fe004: Yeah .
+[0317] [11:22] me045: Yeah .
+[0318] [11:23] me010: But the other part of it is the way they connect to these , uh , probabilistic relational models .
+[0319] [11:32] me010: So there 's all the problems that the linguists know about , about mental spaces , and the cognitive linguists know about ,
+[0320] [11:39] me010: but then there 's this problem of the belief - net people have only done a moderately good job of dealing with temporal belief - nets .
+[0321] [11:51] me010: Uh
+[0322] [11:53] me010: they incorrectly call dynamic belief - nets .
+[0323] [11:54] fe004: Mmm .
+[0324] [11:55] me010: So there 's a term " dynamic belief - net " , doesn't mean that .
+[0325] [11:58] me010: It means time slices .
+[0326] [12:00] me010: And Srini used those and people use them .
+[0327] [12:04] me010: Uh . But
+[0328] [12:07] me010: one of the things I w would like to do over the next , uh , month , it may take more , is to st understand to what extent we can not only figure out the constructions for them for multiple worlds
+[0329] [12:21] me010: and
+[0330] [12:23] me010: uh sort of what the formalism will look like and where the slots and fillers will be , but also what that would translate into in terms of belief - net and the inferences .
+[0331] [12:33] me010: So the story is that if you have these probabilistic relational models , they 're set up , in principle , so that you can make new instances
+[0332] [12:42] me010: and instances connect to each other , and all that sort of stuff ,
+[0333] [12:45] me010: so it should be feasible to set them up in such a way that if you 've got the past tense and the present tense and each of those is a separate uh , belief structure that they do their inferences with just the couplings that are appropriate .
+[0334] [13:03] me010: But that 's g that 's , as far as I can tell , it 's it 's putting together two real hard problems .
+[0335] [13:07] me010: One is the linguistic part of what are the couplings
+[0336] [13:12] me010: and and when you have a certain , uh , construction , that implies certain couplings and other couplings ,
+[0337] [13:17] me010: you know , between let 's say between the past and the present ,
+[0338] [13:19] me010: or any other one of these things
+[0339] [13:21] me010: and then we have this inference problem of exactly technically how does the belief - net work
+[0340] [13:29] me010: if it 's got um , let 's say one in in , you know , different tenses
+[0341] [13:34] me010: or my beliefs and your beliefs ,
+[0342] [13:36] me010: or any of these other ones of of multiple models .
+[0343] [13:40] me010: So um
+[0344] [13:44] me010: you know , in the long run we need to solve both of those
+[0345] [13:46] me010: and my suggestion is that we start digging into them both , uh , in a way we that , you know , th
+[0346] [13:56] me010: hopefully turns out to be consistent ,
+[0347] [13:58] me010: so
+[0348] [14:00] me010: Um .
+[0349] [14:02] me010: And sometimes it 's actually easier to solve two hard problems than one
+[0350] [14:06] me045: Yeah .
+[0351] [14:07] me010: because they constrain each other .
+[0352] [14:08] me010: I mean if you 've got huge ra huge range of possible choices
+[0353] [14:14] me010: um
+[0354] [14:15] me010: We 'll see .
+[0355] [14:16] me010: But
+[0356] [14:18] me045: Oh
+[0357] [14:24] me045: various issues of how come a plural noun gets to quote " count as a noun phrase " ,
+[0358] [14:28] me045: you know , occur as an argument of a higher construction , but a bare singular stem doesn't get to act that way .
+[0359] [14:29] me010: Right .
+[0360] [14:34] me045: Um ,
+[0361] [14:35] me045: and it would take a really long time to explain it now ,
+[0362] [14:37] me045: but I 'm about to write it up this evening .
+[0363] [14:39] me045: I solved that at the same time as " how do we keep adjectives from floating to the left of determiners and how do we keep all of that from floating outside the noun phrase " to get something like " I the kicked dog " .
+[0364] [14:50] me045: Um .
+[0365] [14:52] me010: That 's great .
+[0366] [14:52] me045: Did it did it at once .
+[0367] [14:53] me045: So maybe maybe it 'll be a similar thing .
+[0368] [14:53] me010: Yeah .
+[0369] [14:54] fe004: Cool .
+[0370] [14:54] me010: No , I know , I th I I think that is gonna be sort of the key to this wh to th the big project of the summer of of getting the constructions right
+[0371] [15:05] me010: is that people do manage to do this
+[0372] [15:09] me010: so there probably are some , uh , relatively clean rules ,
+[0373] [15:14] me010: they 're just not context - free trees .
+[0374] [15:16] me045: Right .
+[0375] [15:16] me010: And if we if the formalism is is good , then we should be able to have , you know , sort of moderate scale thing .
+[0376] [15:26] me010: And that by the way is is , Keith , what I encouraged George to be talking with you about .
+[0377] [15:31] me010: Not the formalism yet
+[0378] [15:32] me045: Mm - hmm .
+[0379] [15:33] me010: but the phenomena .
+[0380] [15:35] me045: Yeah .
+[0381] [15:36] me010: The p
+[0382] [15:36] me010: And
+[0383] [15:37] me010: Oh , another thing ,
+[0384] [15:38] me010: um
+[0385] [15:41] me010: there was this , uh thing that Nancy agreed to in a in a weak moment this morning that
+[0386] [15:47] me045: Hmm !
+[0387] [15:48] fe004: I was really strong .
+[0388] [15:49] me045: Hmm !
+[0389] [15:49] fn050: Hmm .
+[0390] [15:50] me010: Uh , sorry . In a in a friendly moment .
+[0391] [15:53] me045: Same thing .
+[0392] [15:56] me010: Anyway , uh , that we were that we 're gonna try to get a uh , first cut at the revised formalism by the end of next week .
+[0393] [16:07] me010: OK ?
+[0394] [16:07] me045: Alright .
+[0395] [16:07] me010: Probably skipping the mental spaces part .
+[0396] [16:08] fe004: Seems
+[0397] [16:09] me045: Right . I do .
+[0398] [16:10] me010: Uh , just trying to write up essentially what what you guys have worked out so that everybody has something to look at .
+[0399] [16:18] me010: We 've talked about it , but only the innermost inner group currently , uh ,
+[0400] [16:22] me045: Mm - hmm .
+[0401] [16:24] me045: Knows .
+[0402] [16:24] me010: knows , uh
+[0403] [16:25] me045: OK .
+[0404] [16:25] fe004: Yeah , and and not even all of them really do .
+[0405] [16:27] me045: Yeah .
+[0406] [16:27] fe004: But
+[0407] [16:27] me010: Right .
+[0408] [16:28] me045: There 's The group as a whole knows
+[0409] [16:31] me045: but no individual member kno
+[0410] [16:32] me010: Well that that yeah th there 's one of the advantages of a document , right ? ,
+[0411] [16:35] me045: Yeah .
+[0412] [16:35] me010: is is that it actually transfers from head to head .
+[0413] [16:36] fe004: Right .
+[0414] [16:39] me010: So anyway .
+[0415] [16:39] me045: OK .
+[0416] [16:39] me010: So
+[0417] [16:40] fe004: Ah , communication !
+[0418] [16:41] me010: Huh ?
+[0419] [16:41] fe004: Communication .
+[0420] [16:42] me010: Communication , documentation and stuff .
+[0421] [16:43] me045: Hunh !
+[0422] [16:44] me010: Anyway
+[0423] [16:48] me010: Uh l let 's , let 's have that as a goal anyway .
+[0424] [16:51] me010: And
+[0425] [16:51] me045: So , uh , what was the date there ?
+[0426] [16:53] me045: Monday
+[0427] [16:53] me045: or ?
+[0428] [16:54] me010: No , no , no .
+[0429] [16:54] me045: It 's a Friday .
+[0430] [16:55] me010: No , w uh we 're talking about a week fr e end of next week .
+[0431] [16:58] fe004: But , uh , but but the two of us will probably talk to you at well before th
+[0432] [16:58] me045: End of next week .
+[0433] [16:59] me045: I thought you said beginning of n
+[0434] [17:01] fe004: I mean .
+[0435] [17:01] me045: Yeah .
+[0436] [17:02] fe004: Anyway , w let 's talk separately about how t
+[0437] [17:03] me045: Yeah , I have a busy weekend
+[0438] [17:04] me045: but after that Yeah ,
+[0439] [17:05] me045: gung - ho .
+[0440] [17:06] me010: OK . Yeah , so so someti sometime next week .
+[0441] [17:09] me045: Great ,
+[0442] [17:09] me010: Now if it turns out that that effort leads us into some big hole that 's fine .
+[0443] [17:14] me045: Mm - hmm .
+[0444] [17:15] me045: OK .
+[0445] [17:15] me010: You know , if you say we 're we 're dump dump dump .
+[0446] [17:18] me010: There 's a really hard problem
+[0447] [17:19] me010: we
+[0448] [17:19] me010: that , that 's just fine .
+[0449] [17:20] me045: OK .
+[0450] [17:21] fe004: Mm - hmm .
+[0451] [17:22] me045: But at at least sort of try and work out what the state of the art is right now .
+[0452] [17:25] me010: Right , t t if to the extent that we have it , let 's write it
+[0453] [17:29] me045: OK .
+[0454] [17:29] me010: and to the extent we don't , let 's find out what we need to do .
+[0455] [17:31] me045: OK .
+[0456] [17:34] me010: So , uh
+[0457] [17:35] mn015: Can
+[0458] [17:48] me010: I think it is ,
+[0459] [17:48] me010: but uh but I interrupted before Keith got to tell us what happened with " where is the Powder - Tower ? " or whatever
+[0460] [17:55] fe004: Right .
+[0461] [17:56] me045: Well . Uh , what was supposed to happen ?
+[0462] [17:58] me045: I 've sort of been actually caught up in some other ones ,
+[0463] [18:00] me045: so , um , you know , I don't have a write - up of or I haven't elaborated on the ideas that we were already talking about
+[0464] [18:06] mn015: Hmm , yeah . I think I think we already came to the conclusion that we have two alternative paths that we two alternative ways of representing it .
+[0465] [18:07] me045: which
+[0466] [18:17] mn015: One is sort of a has a
+[0467] [18:19] mn015: um
+[0468] [18:21] me045: It 's gone .
+[0469] [18:23] mn015: um
+[0470] [18:24] me045: The question of whether the polysemy is sort of like in the construction or pragmatic .
+[0471] [18:24] fe004: One of them was th
+[0472] [18:27] fe004: Right .
+[0473] [18:27] mn015: or
+[0474] [18:29] mn015: is resolved later .
+[0475] [18:29] fe004: Right .
+[0476] [18:31] mn015: Yeah .
+[0477] [18:32] me045: I think it has to be the the second case .
+[0478] [18:34] mn015: Yeah .
+[0479] [18:35] me045: Um , so d ' you Is it clear what we 're talking about here ?
+[0480] [18:35] fe004: I agree .
+[0481] [18:39] me010: Uh
+[0482] [18:39] me045: The question is whether the construction is semantic or like ambiguous between asking for location and asking for path .
+[0483] [18:39] mn015: It
+[0484] [18:39] fe004: So you might be yeah , y And asking for directions .
+[0485] [18:45] me045: Um
+[0486] [18:46] mn015: Should
+[0487] [18:47] me045: or or whether the construction semantically , uh , is clearly only asking for location
+[0488] [18:51] fe004: Uh
+[0489] [18:51] me045: but pragmatically that 's construed as meaning " tell me how to get there " .
+[0490] [18:54] me010: Mm - hmm .
+[0491] [18:54] mn015: So assume these are two , uh , nodes we can observe in the Bayes - net .
+[0492] [18:54] me010: Yep .
+[0493] [18:55] fe004: Yeah .
+[0494] [18:57] me010: Right .
+[0495] [18:58] mn015: So these are either true or false
+[0496] [19:01] mn015: and it 's also just true or false .
+[0497] [19:04] mn015: If we encounter a phrase such as " where is X ? " , should that set this to true and this to true ,
+[0498] [19:10] mn015: and the Bayes - net figures out which under the c situation in general is more likely ?
+[0499] [19:15] mn015: Um , or should it just activate this , have this be false ,
+[0500] [19:21] mn015: and the Bayes - net figures out whether this actually now means ?
+[0501] [19:25] me010: Uh w that 's a s
+[0502] [19:26] me010: OK , so that 's a that 's a separate issue .
+[0503] [19:26] fe004: Slightly different .
+[0504] [19:28] me045: OK .
+[0505] [19:29] me010: So I a I I th I agree with you that , um , it 's a disaster to try to make separate constructions for every uh , pragmatic reading ,
+[0506] [19:42] me045: Mm - hmm .
+[0507] [19:42] me010: although there are some that will need to be there .
+[0508] [19:43] fe004: Good .
+[0509] [19:46] fe004: Mm - hmm .
+[0510] [19:47] me045: Right .
+[0511] [19:48] fe004: Right .
+[0512] [19:48] me010: I
+[0513] [19:49] fe004: Or have every construction list all the possible pragmatic implications of the same one .
+[0514] [19:53] me010: You can't do that either .
+[0515] [19:54] me010: Yeah .
+[0516] [19:54] fe004: Right .
+[0517] [19:54] fe004: Yeah .
+[0518] [19:54] me010: But , you know , c um almost certainly " can you pass the salt " is a construction worth noting that there is this th this this this uh
+[0519] [19:58] me045: Yeah .
+[0520] [20:01] fe004: Request .
+[0521] [20:02] me045: Mm - hmm . Yeah .
+[0522] [20:03] fe004: Very yeah .
+[0523] [20:04] me045: So right , this one is maybe in the gray area .
+[0524] [20:06] me045: Is it is it like that or is it just sort of obvious from world knowledge that no one you wouldn't want to know the location without wanting to know how to get there or whatever .
+[0525] [20:08] me010: Ri
+[0526] [20:08] fe004: Mmm .
+[0527] [20:09] me010: Yeah .
+[0528] [20:09] mn015: One
+[0529] [20:16] mn015: Or in some cases , it 's it 's quite definitely
+[0530] [20:18] me010: Yeah .
+[0531] [20:18] mn015: s so that you just know wanna know where it is .
+[0532] [20:20] me045: Yeah .
+[0533] [20:21] me045: Well the question is basically , is this conventional or conversational implicature ?
+[0534] [20:24] me010: Exactly . Yeah .
+[0535] [20:26] fe004: Might be , yeah .
+[0536] [20:26] me010: And I guess , see , the more important thing at this stage is that we should be able to know how we would handle it in ei
+[0537] [20:34] me010: f in the short run it 's more important to know how we would treat technically what we would do if we decided A and what we would do if we decided B , than it is t to decide A or B r right now .
+[0538] [20:42] fe004: Right .
+[0539] [20:42] me045: OK , right .
+[0540] [20:43] fe004: Right .
+[0541] [20:44] fe004: Which one it is .
+[0542] [20:44] me045: Which of that is . Yeah , OK
+[0543] [20:45] mn015: Hmm .
+[0544] [20:46] fe004: Cuz there will be other k examples that are one way or the other . Right .
+[0545] [20:47] me010: W we know for sure that we have to be able to do both .
+[0546] [20:48] me045: Yeah .
+[0547] [20:51] me010: So I guess In the short run , let 's let 's be real clear on h what the two alternatives would be .
+[0548] [20:58] me045: OK .
+[0549] [20:59] mn015: And then the we had another idea floating around um , which we wanted to , uh , get your input on ,
+[0550] [21:05] mn015: and
+[0551] [21:09] mn015: But the nice thing is w we would have a person that would like to work on it ,
+[0552] [21:13] mn015: and that 's Ir - Irina Gurevich from EML who is going to be visiting us , uh , the week before , uh , August
+[0553] [21:21] mn015: and a little bit into August .
+[0554] [21:24] mn015: And she would like to apply the ontology that is , um being crafted at EML .
+[0555] [21:33] mn015: That 's not the one I sent you .
+[0556] [21:34] mn015: The one I sent you was from GMD , out of a European CRUMPET .
+[0557] [21:37] me010: It was terrible .
+[0558] [21:39] mn015: Agreed .
+[0559] [21:40] mn015: Um , and one of the reas one of the those ideas was ,
+[0560] [21:46] mn015: so ,
+[0561] [21:47] mn015: back to the old Johno observation that if y if you have a dialogue history and it said the word " admission fee " was uh , mentioned um , it 's more likely that the person actually wants to enter than just take a picture of it
+[0562] [22:04] mn015: from the outside .
+[0563] [22:05] mn015: Now what could imagine to , you know , have a list for each construction of things that one should look up in the discourse history , yeah ?
+[0564] [22:13] mn015: That 's the really stupid way .
+[0565] [22:15] mn015: Then there is the really clever way that was suggested by Keith
+[0566] [22:19] mn015: and then there is the , uh , middle way that I 'm suggesting
+[0567] [22:22] mn015: and that is you you get X , which is whatever ,
+[0568] [22:25] mn015: the castle .
+[0569] [22:26] mn015: The ontology will tell us that castles have opening hours ,
+[0570] [22:30] mn015: that they have admission fees ,
+[0571] [22:32] mn015: they have whatever .
+[0572] [22:34] mn015: And then , this is We go via a thesaurus
+[0573] [22:39] mn015: and look up certain linguistic surface structures that are related to these concepts
+[0574] [22:44] mn015: and feed those through the dialogue history
+[0575] [22:46] mn015: and check dynamically
+[0576] [22:48] mn015: for each e entity . We look it up check whether any of these were mentioned and then activate the corresponding nodes on the discourse side .
+[0577] [22:58] mn015: But Keith suggested that a a much cleaner way would be is , you know , to keep track of the discourse in such a way that you if you know that something like that ha has been mentioned before , this just a continues to add up ,
+[0578] [23:10] mn015: you
+[0579] [23:11] me045: So if someone mentions admission f fees , that activates an Enter schema which sticks around for a little while in your rep in the representation of what 's being talked about .
+[0580] [23:21] me045: And then when someone asks " where is X ? " you 've already got the the Enter schema activated
+[0581] [23:25] me010: Mm - hmm .
+[0582] [23:25] fe004: Kind of a priming
+[0583] [23:26] me045: and you 're able to to conclude on it .
+[0584] [23:26] me010: Yeah .
+[0585] [23:27] fe004: priming a spreading activation
+[0586] [23:28] me010: Right .
+[0587] [23:28] me045: Yeah .
+[0588] [23:29] me010: Yeah . So that 's certainly more realistic .
+[0589] [23:33] me010: I m I mean psychologically .
+[0590] [23:33] me045: Right .
+[0591] [23:35] me010: Now technically
+[0592] [23:37] me045: Yeah .
+[0593] [23:38] me010: Um
+[0594] [23:40] me003: Well
+[0595] [23:49] me003: I mean , cuz it would the the thread would know what nodes like , needed to be activated ,
+[0596] [23:53] me003: so it could just keep track of how long it 's been since something 's been mentioned , and automatically load it in .
+[0597] [23:59] me010: Yeah .
+[0598] [24:00] me010: You could do that .
+[0599] [24:01] me010: Um .
+[0600] [24:05] me010: But
+[0601] [24:07] me010: in th in the bl Bayes - net you could you could think about it this way , that if um at the time " admissions fee " was mentioned you could increase the probability that someone wanted to enter .
+[0602] [24:22] fe004: Turn prior on .
+[0603] [24:25] me003: We - yeah th th that 's what I wa I wasn't I was I wasn't thinking in terms of Enter schemas .
+[0604] [24:29] me003: I
+[0605] [24:30] me010: Fair enough , OK ,
+[0606] [24:30] me010: but
+[0607] [24:33] me010: right ?
+[0608] [24:34] me010: so that
+[0609] [24:35] me010: um
+[0610] [24:37] fe004: It would already be higher in the context .
+[0611] [24:38] me010: th
+[0612] [24:42] me010: So
+[0613] [24:44] me010: This is this is essentially the Bayes - net equivalent of the spreading activation .
+[0614] [24:46] me045: Mm - hmm .
+[0615] [24:49] me045: Yeah .
+[0616] [24:49] me010: It 's In some ways it 's not as good
+[0617] [24:51] me010: but it 's the implementation we got .
+[0618] [24:53] me045: Yeah , sure .
+[0619] [24:53] me010: We don't have a connectionist implementation .
+[0620] [24:53] me045: No , I mean
+[0621] [24:55] me010: Now Now my guess is that it 's not a question of time but it is a question of whether another intervening object has been mentioned .
+[0622] [25:04] fe004: Yeah , relevance .
+[0623] [25:05] fe004: Yeah .
+[0624] [25:06] me010: I mean , we could look at dialo
+[0625] [25:06] me045: Yeah .
+[0626] [25:07] me010: this
+[0627] [25:07] me010: Of course the other thing we ha we do is , is we have this data coming
+[0628] [25:11] me045: Yeah .
+[0629] [25:11] me010: which probably will blow all our theories ,
+[0630] [25:13] me010: but
+[0631] [25:13] me045: Yeah , right .
+[0632] [25:15] me010: so so but my guess is what what 'll probably will happen , Here 's a here 's a proposed design . is that there 're certain constructions which , uh , for our purposes do change the probabilities of EVA decisions and various other kinds
+[0633] [25:32] me010: and
+[0634] [25:33] me010: th that the , uh , standard way that that the these contexts work is sort of stack - like or whatever ,
+[0635] [25:41] me010: but that 's sort of the most recent thing .
+[0636] [25:44] me010: And so it could be that when another uh , en tourist entity gets mentioned , you
+[0637] [25:52] fe004: Renew
+[0638] [25:52] me010: re re essentially re - initiali you know , re - i essentially re - initialize the state .
+[0639] [25:53] me003: Mmm .
+[0640] [25:54] fe004: Yeah .
+[0641] [25:54] me045: Mm - hmm .
+[0642] [25:59] me010: And of course i if we had a fancier one with multiple worlds you could have uh , you could keep track of what someone was uh saying about this and that .
+[0643] [26:12] me010: You know , " I wanna go in the morning
+[0644] [26:12] me045: Yeah .
+[0645] [26:13] me010: I wanna "
+[0646] [26:13] me045: " Here 's my plan for today .
+[0647] [26:14] me045: Here 's my plan for tomorrow . "
+[0648] [26:15] me010: Yeah , or Yeah , in the morning morning I I 'm planning t to go shopping ,
+[0649] [26:16] me045: hypothetically .
+[0650] [26:18] me010: in
+[0651] [26:20] me045: Yeah .
+[0652] [26:20] me010: Uh , tal so I 'm talking about shopping
+[0653] [26:22] me010: and then you say , uh , you know , well , um " What 's it cost ? " or something .
+[0654] [26:27] me045: Mm - hmm .
+[0655] [26:28] me010: Or
+[0656] [26:29] me010: Anyway .
+[0657] [26:29] me010: So one could well imagine ,
+[0658] [26:30] me010: but not yet .
+[0659] [26:31] me045: Yeah .
+[0660] [26:32] me010: But I do th think that the It 'll turn out that it 's gonna be depend pretty much on whether there 's been an override .
+[0661] [26:43] mn015: Yeah , I mean , if if you ask " how much does a train ride and and cinema around the vineyards cost ? " and then somebody tells you it 's sixty dollars and then you say " OK How much is , uh I would like to visit the " whatever , something completely different , " then I go to , you know , Point Reyes " ,
+[0662] [27:01] me010: Yeah .
+[0663] [27:03] mn015: it it 's not more likely that you want to enter anything ,
+[0664] [27:06] mn015: but it 's , as a matter of fact , a complete rejection of entering by doing that .
+[0665] [27:07] me010: Right .
+[0666] [27:09] fe004: Right .
+[0667] [27:09] me010: Right .
+[0668] [27:09] me045: Yeah .
+[0669] [27:10] fe004: So when you admit have admission fee and it changes something , it 's only for that particular It 's relational , right ?
+[0670] [27:15] fe004: It 's only for that particular object .
+[0671] [27:16] me010: Yeah , I th th
+[0672] [27:16] me010: Yeah .
+[0673] [27:17] me010: Well , and and and the simple idea is that it 's on it 's only for m for the current uh , tourist e entity of instre interest .
+[0674] [27:21] fe004: Yeah .
+[0675] [27:22] me045: Yeah .
+[0676] [27:24] fe004: Right .
+[0677] [27:25] mn015: Yeah
+[0678] [27:26] mn015: I mean this this function ,
+[0679] [27:28] mn015: so
+[0680] [27:33] me010: No , no . It 's it It goes the other d it goes in the other direction .
+[0681] [27:36] me010: Is
+[0682] [27:38] me010: When th When the this is mentioned , the uh probability of of , let 's say , entering changes
+[0683] [27:47] fe004: Of that object .
+[0684] [27:48] me010: changes .
+[0685] [27:48] fe004: For
+[0686] [27:49] fe004: Right .
+[0687] [27:51] me003: You could just hav uh , just basically , ob it It observes an er , it sets the a node for " entered " or " true " or something ,
+[0688] [27:54] me010: Yeah .
+[0689] [27:56] me010: Yeah .
+[0690] [27:57] me010: Now , uh But I think Ro - Robert 's right , that to determine that , OK ? you may well want to go through a th thesaurus
+[0691] [27:58] me003: " discourse enter " .
+[0692] [28:06] me010: and
+[0693] [28:07] me010: So , if the issue is , if so now th this construction has been matched and you say " OK . Does this actually have any implications for our decisions ? " Then there 's another piece of code that presumably does that computation .
+[0694] [28:22] fe004: So , sort of forward chaining in a way , rather than backward .
+[0695] [28:24] me010: Yeah . Yeah .
+[0696] [28:26] fe004: OK .
+[0697] [28:28] me010: But but what 's Robert 's saying is is ,
+[0698] [28:31] me010: and I think he 's right , is you don't want to try to build into the construction itself all the synonyms and all you know , all the wo
+[0699] [28:40] me010: Uh
+[0700] [28:42] me010: maybe .
+[0701] [28:44] me010: I 'll have to think about that .
+[0702] [28:46] fe004: Hmm .
+[0703] [28:48] me010: I don't know .
+[0704] [28:49] me010: I mean it th I can thi I can think of arguments in either direction on that .
+[0705] [28:53] me010: But somehow you want to do it .
+[0706] [28:54] mn015: Mm - hmm .
+[0707] [29:00] mn015: Well , it 's just another , sort of , construction side is how to get at the possible inferences we can draw from the discourse history
+[0708] [29:07] mn015: or
+[0709] [29:13] fe004: Guess it 's like I g The other thing is , whether you have a m m user model that has , you know , whatever , a current plan , whatever , plans that had been discussed ,
+[0710] [29:24] fe004: and
+[0711] [29:25] fe004: I don't know ,
+[0712] [29:25] fe004: I
+[0713] [29:27] me003: What uh , what 's the argument for putting it in the construction ?
+[0714] [29:29] me003: Is it just that the s synonym selection is better , or ?
+[0715] [29:31] me010: Oh
+[0716] [29:38] me010: If you 've recognized the word ,
+[0717] [29:42] me010: you 've recognized the word , which means you have a lexical construction for it ,
+[0718] [29:45] me010: so you could just as well tag the lexical construction with the fact that it 's a uh , you know , thirty percent increase in probability of entering .
+[0719] [29:57] me010: You So you could you could you could invert invert the whole thing , so you s you tag that information on to the lexicon
+[0720] [29:57] me003: Mmm .
+[0721] [29:58] me003: Oh , I see .
+[0722] [30:04] me010: since you had to recognize it anyway .
+[0723] [30:08] me010: That that 's the argument in the other direction .
+[0724] [30:10] me010: at
+[0725] [30:11] me010: Yeah
+[0726] [30:12] mn015: Even though uh the lexical construction itself out out of context , uh , won't do it .
+[0727] [30:19] mn015: I mean , y you have to keep track whether the person says
+[0728] [30:21] mn015: " But I but I 'm not interested in the opening times "
+[0729] [30:21] fe004: Yeah .
+[0730] [30:24] mn015: is sort of a more a V type .
+[0731] [30:26] me010: Yeah there 's , yeah ther there 's that as well .
+[0732] [30:28] mn015: Yep .
+[0733] [30:28] mn015: Hmm .
+[0734] [30:29] mn015: So .
+[0735] [30:33] mn015: But
+[0737] [30:35] mn015: uh
+[0738] [30:37] mn015: This is a s just a sidetrack ,
+[0739] [30:38] mn015: but uh
+[0740] [30:40] mn015: I think it 's also something that people have not done before , is um , sort of abuse an ontology for these kinds of , uh , inferences , on
+[0741] [30:50] mn015: whether anything relevant to the current something has been uh , has crept up in the dialogue history already , or not .
+[0742] [30:59] mn015: And , um
+[0743] [31:01] mn015: I have the , uh If we wanted to have that function in the dialogue hi dialogue module of SmartKom , I have the written consent of Jan to put it in there .
+[0744] [31:09] me010: Good .
+[0745] [31:10] me010: OK . Well , this this is highly relevant to someone 's thesis .
+[0746] [31:15] mn015: Yes ,
+[0747] [31:16] mn015: um . That 's uh , I 'm I 'm keeping on good terms with Jan .
+[0748] [31:17] me010: You 've noticed that .
+[0749] [31:21] mn015: Yeah .
+[0750] [31:21] me010: OK .
+[0751] [31:21] me010: So the point is , it 's very likely that Robert 's thesis is going to be along these lines ,
+[0752] [31:26] me010: and the local rules are if it 's your thesis , you get to decide how it 's done .
+[0753] [31:26] fe004: Oh , s
+[0754] [31:33] me010: OK . So if , you know if this is seriously , if this becomes part of your thesis , you can say , hey we 're gonna do it this way , that 's the way it 's done .
+[0755] [31:35] mn015: Mmm .
+[0756] [31:40] fe004: Yay , it 's not me .
+[0757] [31:42] fe004: It 's always me when it 's someone 's thesis .
+[0758] [31:45] me010: No , no , no !
+[0759] [31:46] me010: No , no . We 've got a lot we 've got a lot of theses going .
+[0760] [31:47] me045: There 's a few of us around now .
+[0761] [31:47] fe004: Now it 's not . Yay !
+[0762] [31:48] fe004: I know it is .
+[0763] [31:48] me010: Yeah .
+[0764] [31:50] me010: Right .
+[0765] [31:51] mn015: Well , let 's let 's talk after Friday the twenty - ninth .
+[0766] [31:54] mn015: Then we 'll see how f f
+[0767] [31:55] me010: Right . So h he 's got a th he 's got a meet meeting in Germany with his thesis advisor .
+[0768] [31:58] fe004: Yeah , he said he 's gonna f finish his thesis by then .
+[0769] [32:00] me045: Oh yeah .
+[0770] [32:00] mn015: Yeah .
+[0771] [32:02] mn015: I should try to finish it by then . Yeah .
+[0772] [32:04] me010: Oh , right .
+[0773] [32:04] mn015: So .
+[0774] [32:27] me010: Um .
+[0775] [32:29] me010: Yeah . So I think in fact , That 's the other thing .
+[0776] [32:32] me010: uh , this is this is , speaking of hard problems , this is a very good time um , to start trying to make explicit where construal comes in
+[0777] [32:43] me010: and you know , where c where the construction per - se ends and where construal comes in ,
+[0778] [32:49] me045: Mm - hmm .
+[0779] [32:49] mn015: Mm - hmm .
+[0780] [32:50] me010: cuz this is clearly part of th
+[0781] [32:50] fe004: Yeah , we 've we 've done quite a bit of that .
+[0782] [32:52] me010: Huh ?
+[0783] [32:52] me045: Yeah .
+[0784] [32:52] fe004: We 've been doing quite a bit of that .
+[0785] [32:53] me045: Yeah .
+[0786] [32:53] me010: Well I said . But that 's part of what the f
+[0787] [32:54] fe004: We have many jobs for you , Ro - Robert .
+[0788] [32:55] me010: Yeah . Well , he 's gonna need this .
+[0789] [32:56] fe004: The conclusion .
+[0790] [32:56] me045: Yeah , it seems to always land in your category .
+[0791] [32:58] fe004: Yeah .
+[0792] [32:58] me010: Right . So . Right . So thing That 's part of why we want the formalism ,
+[0793] [32:58] me045: You 're lucky .
+[0794] [33:02] me010: is is because th it is gonna have implicit in it
+[0795] [33:02] me045: Yeah .
+[0796] [33:05] mn015: Was I ? In the room ?
+[0797] [33:06] fe004: No , you weren't there on purpose .
+[0798] [33:08] me010: Yeah .
+[0799] [33:08] fe004: Like
+[0800] [33:09] me045: Made it much easier to make these decisions .
+[0801] [33:10] fe004: Obviously .
+[0802] [33:11] me045: Uh .
+[0803] [33:11] fe004: Yeah .
+[0804] [33:11] me010: Right . Well I That 's tentative .
+[0805] [33:13] me010: They aren't decisions ,
+[0806] [33:13] me045: Yeah . Right , right , right .
+[0807] [33:14] me010: they 're ju they 're just proposals .
+[0808] [33:15] fe004: No , they 're decisions .
+[0809] [33:15] me045: Yes . Excuse me .
+[0810] [33:16] fe004: OK .
+[0811] [33:17] me010: Yeah , that That 's the point , is is th
+[0812] [33:18] me045: Yeah .
+[0813] [33:18] mn015: Constraints .
+[0814] [33:19] mn015: Let
+[0815] [33:20] me010: Yeah .
+[0816] [33:21] me010: Yeah . Anyway . But so that 's that 's w
+[0817] [33:21] fe004: Actually ,
+[0818] [33:21] fe004: yeah . There 's a problem with that word , too , though .
+[0819] [33:23] me003: Yeah , but it he the decisions I made wer had to do with my thesis .
+[0820] [33:23] me010: Yeah .
+[0821] [33:26] me003: So consequently don't I get to decide then that it 's Robert 's job ?
+[0822] [33:30] me010: No .
+[0823] [33:32] me010: Uh .
+[0824] [33:33] me045: Anyhow .
+[0825] [33:34] fe004: Well , I 'll just pick a piece of the problem and then just push the hard stuff into the center and say it 's Robert 's .
+[0826] [33:38] mn015: I 've always been completely in favor of consensus decisions ,
+[0827] [33:38] fe004: Like .
+[0828] [33:41] mn015: so we 'll we 'll find a way .
+[0829] [33:41] me010: Right .
+[0830] [33:41] fe004: I
+[0831] [33:43] me010: Well , we we we will ,
+[0832] [33:44] me010: but um
+[0833] [33:46] fe004: I haven't . OK .
+[0834] [33:47] me010: not
+[0835] [33:47] mn015: It it might even be interesting then to say that I should be forced to um , sort of pull some of the ideas that have been floating in my head out of the , uh out of the top hat
+[0836] [34:02] me010: Yes .
+[0837] [34:02] mn015: and
+[0838] [34:04] me045: Always good .
+[0839] [34:05] me010: Right .
+[0840] [34:05] mn015: That metaphor is not going anywhere , you know .
+[0841] [34:06] me010: So
+[0842] [34:08] me045: Yeah .
+[0843] [34:08] me010: Ri - No . Absolutely .
+[0844] [34:09] me010: So , uh , wh you had you know you ha You had done one draft .
+[0845] [34:14] mn015: Yes , and , um , it 's Ha - None of that is basically still around ,
+[0846] [34:15] me010: And a another draft
+[0847] [34:15] fe004: I didn't get
+[0848] [34:18] mn015: but
+[0849] [34:19] me010: OK .
+[0850] [34:20] me010: D i
+[0851] [34:20] me045: That 's normal .
+[0852] [34:20] fe004: Oh , I guess it 's good I didn't read it .
+[0853] [34:20] me010: I i
+[0854] [34:21] me010: I this is I 'm shocked .
+[0855] [34:23] me010: This is the first time I 've seen a thesis proposal change .
+[0856] [34:26] me010: Right . Anyway , uh . So .
+[0857] [34:27] fe004: Really ?
+[0858] [34:29] me010: But , yeah , a second that would be great .
+[0859] [34:31] me010: So , uh , a sec I mean you 're gonna need it anyway .
+[0860] [34:31] mn015: Hmm .
+[0861] [34:34] mn015: Yeah , and I would like to d discuss it
+[0862] [34:34] me010: and
+[0863] [34:36] mn015: and , you know , get you guys 's input
+[0864] [34:36] me010: Right .
+[0865] [34:37] mn015: and make it sort of bomb - proof .
+[0866] [34:39] me010: Yep .
+[0867] [34:40] fe004: Bomb proof !
+[0868] [34:41] me045: Good .
+[0869] [34:41] mn015: Bullet - proof .
+[0870] [34:41] fe004: Oh ! Oh , OK .
+[0871] [34:42] mn015: That 's the word I was looking for .
+[0872] [34:43] me010: Both proof .
+[0873] [34:44] me045: Either way .
+[0874] [34:44] fe004: Both .
+[0875] [34:46] me010: Right .
+[0876] [34:46] me010: Uh
+[0877] [34:47] fe004: Good luck . Really .
+[0878] [34:47] me010: So that , so th thi this I mean , so this is the point , is we we 're going to have to cycle through this ,
+[0879] [34:51] me010: but th the draft of the p proposal on the constructions is is going to tell us a lot about what we think needs to be done by construal .
+[0880] [34:51] me045: Yeah .
+[0881] [35:04] me010: And , um , we oughta be doing it .
+[0882] [35:04] mn015: OK .
+[0883] [35:06] mn015: Yeah , we need we need some Then we need to make some dates .
+[0884] [35:10] mn015: Um .
+[0886] [35:13] mn015: Meeting regular meeting time for the summer ,
+[0887] [35:15] mn015: we really haven't found one .
+[0888] [35:16] mn015: We did Thursdays one for a while .
+[0889] [35:20] mn015: I just talked to Ami .
+[0890] [35:21] mn015: It 's - it 's a coincidence that he can't do couldn't do it today here .
+[0892] [35:25] fe004: Usually , he can .
+[0893] [35:26] mn015: Usually he has no real constraints .
+[0894] [35:28] mn015: So
+[0895] [35:28] me010: And the NTL meeting moved to Wednesday ,
+[0896] [35:30] me010: cuz of of , uh
+[0897] [35:32] mn015: Yeah , it was just an exception .
+[0898] [35:33] me010: Yeah , you weren't here ,
+[0899] [35:34] me010: but but but s uh , And so , if that 's OK with you ,
+[0900] [35:36] me010: you
+[0901] [35:36] me045: It 's i Is it staying basically at the Wednesday noon ?
+[0902] [35:39] me010: Yeah , it was th
+[0903] [35:40] me045: OK . It was th off this week ,
+[0904] [35:40] fe004: Yeah . I always thought it was staying .
+[0905] [35:41] me045: yeah .
+[0906] [35:42] me010: Right .
+[0907] [35:42] fe004: Yeah , I thought it was just this week that we were changing it .
+[0908] [35:42] mn015: Mmm . Yeah .
+[0909] [35:43] me010: OK .
+[0910] [35:45] mn015: And , um . How do we feel about doing it Wednesdays ?
+[0911] [35:49] mn015: Because
+[0912] [35:55] mn015: they seem to be s tons of people around .
+[0913] [35:58] me010: The only disadvantage is that it may interfere with other
+[0914] [35:58] mn015: Or
+[0915] [36:03] mn015: subgroup meetings
+[0916] [36:04] me010: s
+[0917] [36:05] me010: No , you Uh , people in this group connecting with with
+[0918] [36:08] fe004: Those people who happen to be around .
+[0919] [36:09] me010: those people who who might not be around so much .
+[0920] [36:12] me010: Uh , I don't care .
+[0921] [36:14] me010: I
+[0922] [36:16] me045: To tell you the truth , I 'd rath I 'd , I 'd would like to avoid more than one ICSI meeting per day , if possible .
+[0923] [36:22] me010: OK .
+[0924] [36:23] me045: But I mean . I don't know .
+[0925] [36:24] me045: Whatever .
+[0926] [36:25] me010: No , that 's fine .
+[0927] [36:25] me010: I
+[0928] [36:26] mn015: The I 'd like to have them all in one day ,
+[0929] [36:27] mn015: so
+[0930] [36:27] me045: Yeah , I can understand that .
+[0931] [36:28] me010: Well p
+[0932] [36:29] me010: people people differ in their tastes in this matter .
+[0933] [36:30] me045: Yeah .
+[0934] [36:31] me010: I I 'm neutral .
+[0935] [36:32] me045: Yeah .
+[0936] [36:33] fe004: Yeah . I 'm always here anyway ,
+[0937] [36:33] mn015: It
+[0938] [36:35] fe004: so
+[0939] [36:35] me010: Yeah . @ @ That 's Me too .
+[0940] [36:36] fe004: It doesn't matter .
+[0941] [36:37] me010: I 'm basically I 'm here .
+[0942] [36:37] me010: So .
+[0943] [36:38] mn015: Well , if one sort of thing is , this room is taken at after three - thirty pr pretty much every day
+[0944] [36:45] mn015: by the data collection .
+[0945] [36:46] fe004: Oh .
+[0946] [36:46] mn015: So we have subjects anyway Except for this week , we have subjects in here .
+[0947] [36:49] mn015: That 's why it was one .
+[0948] [36:49] fe004: Oh .
+[0949] [36:50] me010: OK .
+[0950] [36:51] mn015: So we just knew i
+[0951] [36:52] fe004: So did you just say that Ami can't make one o '
+[0952] [36:54] mn015: No , he can .
+[0953] [36:54] fe004: Oh , OK .
+[0954] [36:55] me045: Oh .
+[0955] [36:55] mn015: So let 's say Thursday one .
+[0956] [36:57] mn015: But for next week , this is a bit late .
+[0957] [37:01] mn015: So
+[0958] [37:03] fe004: Oh , oh ,
+[0959] [37:04] fe004: OK .
+[0960] [37:05] mn015: OK . About the c the th
+[0961] [37:05] fe004: Could we do Thursday at one - thirty ?
+[0962] [37:07] fe004: Would that that be horrible ?
+[0963] [37:08] mn015: No .
+[0964] [37:10] mn015: Yes .
+[0965] [37:10] fe004: Oh really ?
+[0966] [37:11] mn015: Because , uh , this room is again taken at two - thirty by Morgan .
+[0967] [37:13] fe004: Oh , OK . OK . You didn't tell me that .
+[0968] [37:15] fe004: OK , that 's fine .
+[0969] [37:17] mn015: And
+[0970] [37:19] fe004: OK , OK , OK . OK . Yeah .
+[0971] [37:23] mn015: So .
+[0972] [37:24] me010: Interesting .
+[0973] [37:25] me045: Ah , yeah .
+[0974] [37:25] me010: So you 're proposing that we meet Tuesday .
+[0975] [37:28] mn015: How about that ?
+[0976] [37:29] me010: I I could
+[0977] [37:29] me045: Next week .
+[0978] [37:29] fe004: Well , we 're meeting Tuesday .
+[0979] [37:31] fe004: I mean we usually meet Tuesday or l like , linguists um , at two .
+[0980] [37:31] me003: Would
+[0981] [37:33] me045: That 's right .
+[0982] [37:35] fe004: So .
+[0983] [37:36] me003: And the s
+[0984] [37:37] fe004: Do you want to meet again here bef
+[0985] [37:37] mn015: I mean w
+[0986] [37:38] me003: Is the Speech - Gen meeting still at on Tuesdays ?
+[0987] [37:40] mn015: Well , actually we w we we did scrap our Monday time just because Bhaskara couldn't come Monday .
+[0988] [37:42] fe004: Hhh . Maybe I do need a Palm Pilot .
+[0989] [37:46] mn015: So there 's Nothing 's impeding Monday anymore either .
+[0990] [37:47] me045: That
+[0991] [37:50] mn015: Get
+[0992] [37:50] me003: Although I thought you wanted to go camping on Monday er , take off Mondays a lot so you could go camping .
+[0993] [37:54] mn015: Yeah , that 's another s thing . Yeah .
+[0994] [37:57] mn015: But , um . I mean , there are also usually then holidays anyways .
+[0995] [38:01] mn015: I mean like Sometimes it works out that way .
+[0996] [38:01] fe004: Usually ?
+[0997] [38:06] mn015: So . Hmm !
+[0998] [38:07] fe004: Well , I mean , the linguists ' meeting i happens to be at two ,
+[0999] [38:11] fe004: but I think that 's I mean .
+[1000] [38:12] me045: That should be relatively flexible be
+[1001] [38:19] fe004: pretty flexible , I think .
+[1002] [38:20] me045: Yeah . There 's just sort of the two to four of us .
+[1003] [38:20] fe004: So .
+[1004] [38:23] fe004: The multiple meetings
+[1005] [38:24] me045: Right ?
+[1006] [38:24] me045: Yeah .
+[1007] [38:25] fe004: yeah .
+[1008] [38:25] me045: So .
+[1009] [38:26] fe004: Right .
+[1010] [38:26] me045: And , you know , of course Nancy and I are just sort of always talking anyway and sometimes we do it in that room .
+[1011] [38:30] fe004: Yeah .
+[1012] [38:31] me045: So , you know , I mean .
+[1013] [38:33] mn015: OK , so l forget about the b the camping thing .
+[1014] [38:36] mn015: So let 's eh , any other problems w w w ?
+[1015] [38:40] mn015: But , I suggested Monday .
+[1016] [38:41] mn015: If that 's a problem for me then I shouldn't suggest it .
+[1017] [38:43] me003: Ha - ha - ha .
+[1018] [38:44] me010: OK .
+[1019] [38:45] mn015: So .
+[1020] [38:45] me045: Um , all of the proposed times sound fine with me .
+[1021] [38:48] fe004: Same here .
+[1022] [38:48] mn015: Monday ?
+[1023] [38:49] me010: OK , whate I mean What I think Robert 's saying is that
+[1024] [38:53] me045: Earlier in the week
+[1025] [38:54] me010: earlier
+[1026] [38:54] me010: At least for next week , there 's a lot of stuff we want to get done ,
+[1027] [38:55] me045: Mm - hmm . Yeah .
+[1028] [38:56] me010: so why don't we plan to meet Monday
+[1029] [38:56] mn015: Mmm .
+[1030] [38:58] me010: and we 'll see if we want to meet any more than that .
+[1031] [39:00] me045: OK .
+[1032] [39:01] mn015: OK .
+[1033] [39:01] fe004: What time ?
+[1034] [39:02] fe004: At o o o o one , two , three ?
+[1035] [39:04] mn015: One , two , three ?
+[1036] [39:05] mn015: Three 's too late .
+[1037] [39:06] mn015: Two - thirty ?
+[1038] [39:07] me010: Oh , I i Yeah , I actually Two is the earliest I can meet on Monday .
+[1039] [39:10] mn015: OK , two .
+[1040] [39:14] me010: Here I 'm blissfully agreeing to things and realizing that I actually do have some stuff scheduled on Monday .
+[1041] [39:18] me045: Sure . Sounds great .
+[1042] [39:21] me045: Uh , so that 's the eighteenth .
+[1043] [39:22] fe004: You guys will still remind me , right ?
+[1044] [39:24] me003: No way !
+[1045] [39:26] fe004: Y you 'll come and take all the the headph the good headphones first and then remind me .
+[1046] [39:26] mn015: W why do you ?
+[1047] [39:29] me045: Yeah , exactly .
+[1048] [39:31] mn015: And
+[1049] [39:31] me045: Sorry , two PM .
+[1050] [39:32] fe004: Why do I have this unless I 'm gonna write ?
+[1051] [39:33] mn015: do I get to see th uh , your formalism before that ?
+[1052] [39:33] fe004: Fine .
+[1053] [39:34] fe004: Yes .
+[1054] [39:38] fe004: Uh . Would you like to ?
+[1055] [39:40] mn015: Mm - hmm .
+[1056] [39:42] mn015: I wo I would like I would sort of get a get a notion of what what you guys have in store for me .
+[1057] [39:42] fe004: OK . I was actually gonna work on it for tomorrow like this this weekend .
+[1058] [39:46] fe004: Yeah .
+[1059] [39:47] me010: Well m @ @ you know , w maybe Mond - Maybe we can put This is part of what we can do Monday , if we want .
+[1060] [39:47] fe004: Yeah . I
+[1061] [39:51] fe004: OK .
+[1062] [39:51] me045: Alright .
+[1063] [39:51] mn015: OK .
+[1064] [39:51] fe004: I
+[1065] [39:52] me010: Is some some version
+[1066] [39:53] fe004: Yeah , so there was like , you know , m m in my head the goal to have like an intermediate version , like , everything I know .
+[1067] [39:59] me045: Mm - hmm .
+[1068] [39:59] fe004: And then , w I would talk to you and figure out everything you know , that you know , see if they 're consistent .
+[1069] [40:01] me045: Yeah .
+[1070] [40:02] me045: OK .
+[1071] [40:03] me045: Why don't w Maybe you and I should meet sort of more or less first thing Monday morning and then we can work on this .
+[1072] [40:05] fe004: Yes . Yeah .
+[1073] [40:07] fe004: That 's f fine with me .
+[1074] [40:08] me045: OK .
+[1075] [40:08] fe004: So .
+[1076] [40:10] fe004: I might I might um ,
+[1077] [40:10] mn015: You - y
+[1078] [40:11] fe004: s You said you 're busy over th until the weekend , right ?
+[1079] [40:13] me045: Yeah , sort of through the weekend
+[1080] [40:14] me045: because Kate has a photography show .
+[1081] [40:15] fe004: That 's fine . So we might continue our email thing
+[1082] [40:18] me045: Yeah .
+[1083] [40:19] fe004: and that might be fine , too .
+[1084] [40:20] fe004: So
+[1085] [40:20] me045: Um , if you have time after this I 'll show you the noun phrase thing .
+[1086] [40:22] fe004: OK . That would be cool .
+[1087] [40:23] fe004: So .
+[1088] [40:24] fe004: OK , and we 'll You wanna m
+[1089] [40:26] mn015: So the idea is on Monday at two we 'll we 'll see an intermediate version of the formalism for the constructions ,
+[1090] [40:32] me045: Yeah .
+[1091] [40:32] fe004: So
+[1092] [40:33] mn015: and do an on - line merging with my construal ideas .
+[1093] [40:38] fe004: Sure , sure .
+[1094] [40:38] me010: OK .
+[1095] [40:39] me045: Alright .
+[1096] [40:40] mn015: So it won't be , like , a for semi - formal presentation of my proposal .
+[1097] [40:41] fe004: That 's OK .
+[1098] [40:44] mn015: It 'll be more like towards finalizing that proposal .
+[1099] [40:47] mn015: OK , that 's fine .
+[1100] [40:47] me045: OK .
+[1101] [40:48] fe004: Cuz then you 'll find out more of what we 're making you do .
+[1102] [40:49] mn015: Yep
+[1103] [40:50] me045: Yeah .
+[1104] [40:50] me003: Hmm , hmm .
+[1105] [40:52] mn015: Yikes .
+[1106] [40:53] me045: Oy , deadlines .
+[1107] [40:53] fe004: We 'll make a presentation of your propo of your proposal .
+[1108] [40:57] mn015: Perfect . Can you also write it up ?
+[1109] [40:58] fe004: It 's like , " this is what we 're doing .
+[1110] [40:59] me010: Abso
+[1111] [40:59] fe004: And the complement is Robert . "
+[1112] [41:00] mn015: I
+[1113] [41:00] mn015: I 'll I 'll send you a style file , right ?
+[1114] [41:02] fe004: OK .
+[1115] [41:03] mn015: You
+[1116] [41:03] fe004: I already sent you my fi my bib file .
+[1117] [41:06] fe004: So .
+[1118] [41:07] mn015: OK .
+[1119] [41:08] mn015: And , um .
+[1120] [41:11] mn015: Sounds good .
+[1121] [41:13] me045: Someday we also have to we should probably talk about the other side of the " where is X " construction ,
+[1122] [41:18] me045: which is the issue of , um , how do you simulate questions ?
+[1123] [41:21] me045: What does the simspec look like for a question ?
+[1124] [41:21] mn015: Yeah .
+[1125] [41:23] me010: Mm - hmm .
+[1126] [41:24] me045: Because it 's a little different .
+[1127] [41:24] fe004: Yeah .
+[1128] [41:25] me010: Yeah , now , we we w
+[1129] [41:26] me045: We had to we had an idea for this which seemed like it would probably work .
+[1130] [41:27] me010: Great . OK .
+[1131] [41:29] me010: Yeah . Simspec may need we may n need to re - name that .
+[1132] [41:32] fe004: I
+[1133] [41:32] me045: Yeah .
+[1134] [41:33] me010: OK ? So let 's think of a name for for whatever the this intermediate structure is .
+[1135] [41:37] me010: Oh , we talked about semspec , for " semantic spec specification "
+[1136] [41:40] me045: Mmm .
+[1137] [41:41] me010: and
+[1138] [41:43] me010: Um .
+[1139] [41:44] me045: It 's more general
+[1140] [41:46] me010: You know , so it 's a m minimal change .
+[1141] [41:47] fe004: Only have to change one vowel .
+[1142] [41:49] fe004: That 's great .
+[1143] [41:49] me010: Yeah
+[1144] [41:49] fe004: All the old like graphs ,
+[1145] [41:51] me010: Right .
+[1146] [41:52] fe004: just
+[1147] [41:53] me045: Cool .
+[1148] [41:53] me010: Right , a little substi substi
+[1149] [41:54] me010: You know , that 's what text substitution uh macros are for .
+[1150] [41:56] me045: Yeah . It 's good for you .
+[1151] [41:56] fe004: Yeah .
+[1152] [41:58] me010: Anyway , uh , so let 's let 's for the moment call it that until we think of something better .
+[1153] [42:01] me045: OK .
+[1154] [42:02] me010: And
+[1155] [42:05] me010: Part of what was missing were markings of all sorts that weren't in there ,
+[1156] [42:09] me010: incl
+[1157] [42:10] me010: We didn't we never did figure out how we were gonna do emphasis in in uh , the semspec .
+[1158] [42:11] me045: Mm - hmm .
+[1159] [42:14] me045: Yeah .
+[1160] [42:17] fe004: Yeah , we 've talked a little bit about that , too ,
+[1161] [42:20] fe004: which
+[1162] [42:20] fe004: uh , uh , it 's hard for me to figure out with sort of our general linguistic issues , how they map onto this particular one ,
+[1163] [42:26] fe004: but
+[1164] [42:27] me045: Yeah .
+[1165] [42:27] fe004: OK , yeah , understood .
+[1166] [42:28] me010: But
+[1167] [42:30] me010: is got to be uh , how things like that get marked .
+[1168] [42:34] me045: Mm - hmm .
+[1169] [42:35] fe004: W do you have data , like the the You have preliminary data ?
+[1170] [42:39] fe004: Cuz I know , you know , we 've been using this one easy sentence
+[1171] [42:42] fe004: and
+[1172] [42:45] me045: Um , I
+[1173] [42:45] fe004: it 'd it 'd be useful for me , if we want to have it a little bit more data oriented .
+[1174] [42:48] me045: To tell you the truth , what I 've been looking at has not been the data so far ,
+[1175] [42:53] fe004: Yeah .
+[1176] [42:56] fe004: Mm - hmm mm - hmm .
+[1177] [42:58] me045: I just sort of said " alright let 's see if I can get noun phrases and , uh , major verb co uh , constructions out of the way first . " And I have not gotten them out of the way yet .
+[1178] [42:58] fe004: Mm - hmm .
+[1179] [43:00] me045: Surprise .
+[1180] [43:00] me045: So , um .
+[1181] [43:00] fe004: Yeah .
+[1182] [43:02] me045: So , I have not really approached a lot of the data ,
+[1183] [43:04] me045: but I mean obviously like these the the question one ,
+[1184] [43:07] me045: since we have this idea about the indefinite pronoun thing and all that , you know , I ca can try and , um run with that ,
+[1185] [43:14] me045: you know , try and do some of the sentence constructions now .
+[1186] [43:16] mn015: OK . Do you wanna run the indefinite pronoun idea past Jerry ?
+[1187] [43:16] me045: It would make sense .
+[1188] [43:17] fe004: OK .
+[1189] [43:20] me045: Oh yeah , the basic idea is that
+[1190] [43:22] me045: um
+[1191] [43:24] me045: Uh , let 's see if I can formulate this .
+[1192] [43:25] mn015: So Mary fixed the car with a wrench .
+[1193] [43:27] me045: Yeah .
+[1194] [43:28] mn015: So you perform the mental sum
+[1195] [43:30] mn015: and then , you know , " who fixed the car with a wrench ? "
+[1196] [43:33] mn015: You basically are told , to to do this
+[1197] [43:37] mn015: In the in analogously to the way you would do " someone fixed the car with a wrench " .
+[1198] [43:42] mn015: And then you hand it back to your hippocampus
+[1199] [43:44] mn015: and find out what that , you know ,
+[1200] [43:47] me045: Means .
+[1201] [43:47] mn015: means ,
+[1202] [43:48] mn015: and then come up with that so who that someone was .
+[1203] [43:50] me045: The WH question has this as sort of extra thing which says " and when you 're done , tell me who fills that slot " or w you know .
+[1204] [43:55] me010: Mm - hmm .
+[1205] [43:55] me045: So , um .
+[1206] [43:57] me045: And , you know , this is sort of a nice way to do it ,
+[1207] [43:59] me045: the idea of sort of saying that you treat from the simulation point of view or whatever you treat , uh , WH constructions similarly to uh , indefinite pronouns
+[1208] [44:08] me045: like " someone fixed the car "
+[1209] [44:09] me045: because lots of languages , um , have WH questions with an indefinite pronoun in situ or whatever ,
+[1210] [44:12] fe004: Use actually the same one .
+[1211] [44:15] me045: and you just get intonation to tell you that it 's a question .
+[1212] [44:18] me010: Alright , which is
+[1213] [44:18] me045: So it makes sense
+[1214] [44:20] me045: um
+[1215] [44:20] me010: Skolemization .
+[1216] [44:22] me045: Hmm ?
+[1217] [44:22] me010: In in logic , it 's it 's @ @ it 's actual Huh ?
+[1218] [44:23] fe004: Mmm .
+[1219] [44:23] fe004: Right . Let 's put a Skolem Skolem constant in ,
+[1220] [44:24] me045: Yeah .
+[1221] [44:27] me045: shko
+[1222] [44:27] me010: What ?
+[1223] [44:28] fe004: yeah .
+[1224] [44:28] me045: Sure .
+[1225] [44:29] fe004: Yeah . Right .
+[1226] [44:29] me045: OK .
+[1227] [44:30] me010: That - that 's not that 's not saying it 's bad ,
+[1228] [44:31] me010: it
+[1229] [44:31] me045: Right . Right . No . Of course .
+[1230] [44:32] me010: that
+[1231] [44:32] fe004: Mmm .
+[1232] [44:36] me045: That 's right .
+[1233] [44:37] mn015: come up with this
+[1234] [44:37] me045: It makes sense from that point of view , too , which is actually better .
+[1235] [44:39] me045: So yeah , um .
+[1236] [44:41] me045: Anyway , but just that kind of thing
+[1237] [44:43] me045: and we 'll figure out exactly how to write that up and so on ,
+[1238] [44:45] me010: Good .
+[1239] [44:45] me045: but
+[1240] [44:52] me045: Uh , no , all the focus stuff .
+[1241] [44:53] me045: We sort of just dropped that
+[1242] [44:55] me045: cuz it was too weird
+[1243] [44:56] me045: and we didn't even know , like , what we were talking about exactly ,
+[1244] [44:58] me045: what the object of study was .
+[1245] [44:58] fe004: Um - mmm .
+[1246] [44:59] me045: So .
+[1247] [44:59] me010: Yeah . Well , if if I mean , i part of of what the exercise is , t by the end of next week , is to say what are the things that we just don't have answers for yet .
+[1248] [45:06] me045: Yeah .
+[1249] [45:08] me010: That 's fine .
+[1250] [45:08] me045: Yep .
+[1251] [45:08] me010: I mean
+[1252] [45:09] fe004: Mm - hmm .
+[1253] [45:09] mn015: Well , if you if you do wanna discuss focus background and then get me into that
+[1254] [45:18] mn015: because I mean , I wo I w scientifically worked on that for for almost two years .
+[1255] [45:21] me045: Yeah .
+[1256] [45:22] me045: OK , then certainly we will .
+[1257] [45:24] fe004: Yeah
+[1258] [45:24] me045: Good .
+[1259] [45:27] fe004: maybe
+[1260] [45:30] me045: Yeah . w We should figure out what our questions are , for example , to ask you .
+[1261] [45:32] fe004: Yeah . Yeah .
+[1262] [45:34] me045: So .
+[1263] [45:34] fe004: OK .
+[1264] [45:36] me045: OK .
+[1265] [45:43] me010: Wel - then t Hans .
+[1266] [45:45] me010: Has I haven't seen Hans Boas ?
+[1267] [45:47] fe004: He 's been around .
+[1268] [45:48] me045: Yeah .
+[1269] [45:49] me010: OK . So has he been been involved with this ,
+[1270] [45:49] fe004: Just maybe not today .
+[1271] [45:50] me010: or ?
+[1272] [45:51] fe004: Eh . with us ?
+[1273] [45:52] fe004: Yeah .
+[1274] [45:52] me045: Yeah .
+[1275] [45:52] me010: Yeah .
+[1276] [45:53] fe004: I would say that tha that those discussions have been primarily , um , Keith and Keith and me ,
+[1277] [45:58] fe004: but um
+[1278] [46:00] fe004: like in th the meeting I mean , he sort of I thin like the last meeting we had , I think we were all very much part of it
+[1279] [46:04] me045: Yeah .
+[1280] [46:06] fe004: but um
+[1281] [46:06] me045: Sometimes Hans has been sort of coming in there as sort of like a devil 's advocate type role or something ,
+[1282] [46:09] fe004: but different perspec
+[1283] [46:10] fe004: Yeah .
+[1284] [46:11] me045: like " This make you know , I 'm going to pretend I 'm a linguist who has nothing to do with this .
+[1285] [46:15] me045: This makes no sense . "
+[1286] [46:16] me045: And he 'll just go off on parts of it which definitely need fixing
+[1287] [46:16] fe004: Right .
+[1288] [46:18] me045: but aren't where we 're at right now ,
+[1289] [46:20] fe004: Like like what you call certain things ,
+[1290] [46:20] me045: so it 's
+[1291] [46:21] fe004: which we decided long ago we don't care that much right now .
+[1292] [46:22] me045: Yeah .
+[1293] [46:23] me010: Right .
+[1294] [46:24] me010: OK .
+[1295] [46:24] fe004: But
+[1296] [46:27] fe004: you know , like maybe a lot of people would have m much stronger reactions ,
+[1297] [46:30] fe004: so , you know , he 's like a relatively friendly linguist
+[1298] [46:30] me045: Yeah .
+[1299] [46:32] fe004: and yet a word like " constraint " causes a lot of problems .
+[1300] [46:33] me045: Yeah .
+[1301] [46:36] fe004: And , so . Right . So .
+[1302] [46:36] me010: OK . This is consistent with um the role I had suggested that he he play ,
+[1303] [46:47] fe004: Ah .
+[1304] [46:48] me045: Mm - hmm .
+[1305] [46:48] me010: OK , which was that o one of the things I would like to see happen is a paper that was tentatively called " Towards a formal cognitive semantics "
+[1306] [47:01] me010: which was addressed to these linguists uh who haven't been following this stuff at all .
+[1307] [47:10] me045: Yeah .
+[1308] [47:10] me010: So
+[1309] [47:13] me045: Yeah .
+[1310] [47:18] me045: Yeah .
+[1311] [47:19] me010: So , internally , we should just do whatever works ,
+[1312] [47:21] me045: Yeah .
+[1313] [47:22] me010: cuz it 's hard enough .
+[1314] [47:23] me045: Yeah .
+[1315] [47:24] me010: But
+[1316] [47:29] fe004: Mm - hmm .
+[1317] [47:29] me045: Mm - hmm .
+[1318] [47:36] me045: Yeah .
+[1319] [47:46] fe004: Mm - hmm . Sure .
+[1320] [47:46] me045: Yeah .
+[1321] [47:49] me010: I mean , it 's gonna be plenty hard for for people to understand it as it is ,
+[1322] [47:53] me010: but y y you don't want to make it worse .
+[1323] [47:53] me045: Yeah .
+[1324] [47:55] me045: Yeah .
+[1325] [47:56] me010: So .
+[1326] [47:56] me045: No , right . I mean , tha that role is is , uh , indispensable
+[1327] [47:59] me045: but that 's not where sort of our heads were at in these meetings .
+[1328] [48:01] me010: Right .
+[1329] [48:03] me010: Yeah , yeah . No , that 's fine .
+[1330] [48:03] me045: It was a little strange .
+[1331] [48:04] me010: I just wanted t to
+[1332] [48:06] me010: I have to catch up with him , and I wanted t to get a feeling for that . OK .
+[1333] [48:08] me045: Yeah .
+[1334] [48:08] fe004: Mm - hmm .
+[1335] [48:10] me045: So I don't know what his take will be on these meetings exactly , you know .
+[1336] [48:13] me010: OK . Good .
+[1337] [48:15] me045: Cuz sometimes he sort of sounds like we 're talking a bunch of goobledy - gook from his point of view .
+[1338] [48:16] fe004: I
+[1339] [48:18] fe004: when we 're into data and looking at the some specific linguistic phenomenon in in English or in German , in particular , whatever , that 's great ,
+[1340] [48:21] me010: Yeah .
+[1341] [48:24] me045: Mm - hmm .
+[1342] [48:26] fe004: and Ben and and Hans are , if if anything , more you know , they have more to say than , let 's say , I would about some of these things .
+[1343] [48:31] me010: Right .
+[1344] [48:32] fe004: But
+[1345] [48:37] me010: Well , that 's good . That 's I I I think that should be the the core group
+[1346] [48:37] me045: Mm - hmm .
+[1347] [48:39] fe004: s Which is fine .
+[1348] [48:40] me045: Yeah .
+[1349] [48:42] fe004: Mm - hmm .
+[1350] [48:42] me010: and um
+[1351] [48:45] me010: that 's , you know , I think very close to the maximum number of people working together that can get something done .
+[1352] [48:50] me045: Yeah .
+[1353] [48:50] fe004: Yes .
+[1354] [48:51] fe004: Yeah . We actually have I think we have been making progress ,
+[1355] [48:53] fe004: and its sort of surprising .
+[1356] [48:53] me045: Yeah .
+[1357] [48:54] me010: I I I I definitely get that impression . Yeah .
+[1358] [48:55] fe004: You
+[1359] [48:56] me010: That 's great .
+[1360] [48:56] me045: Yep .
+[1361] [48:57] fe004: Yeah .
+[1362] [48:58] fe004: So
+[1363] [49:02] fe004: Anyway .
+[1364] [49:02] me010: Well , but Well . But th th then w then we have to come back to the bigger group .
+[1365] [49:06] fe004: Right .
+[1366] [49:06] me045: Yeah .
+[1367] [49:07] me010: Yeah
+[1368] [49:10] me010: because of this other big thing we haven't talked about is actually implementing this stuff ?
+[1369] [49:15] me010: So that I guess the three of us are gonna connect tomorrow about that .
+[1370] [49:16] fe004: Yeah , we could talk tomorrow .
+[1371] [49:17] fe004: I was just gonna say , though , that , for instance , there was you know , out of a meeting with Johno came the suggestion that " oh , could it be that the meaning constraints really aren't used for selection ? "
+[1372] [49:27] fe004: which has sort of been implicit in the parsing strategy we talked about .
+[1373] [49:30] me010: Right .
+[1374] [49:31] fe004: In which case we w we can just say that they 're the effects or the bindings .
+[1375] [49:34] fe004: Which uh , so far , in terms of like putting up all the constraints as , you know , pushing them into type constraints , the when I 've , you know , propo then proposed it to linguists who haven't yet given me you know , we haven't yet thought of a reason that that wouldn't work .
+[1376] [49:47] fe004: Right ? As long as we allow our type constraints to be reasonably complex .
+[1377] [49:50] me010: Well
+[1378] [49:51] fe004: So Anyway , to be to talk about later .
+[1379] [49:52] me010: Yeah , it has to in the sense that you 're gonna use them eventu
+[1380] [49:58] me010: it 's you know , it 's sort of a , um , generate and test kind of thing ,
+[1381] [50:02] fe004: Mm - hmm . Mm - hmm .
+[1382] [50:03] me010: and if you over - generate then you 'll have to do more .
+[1383] [50:06] me010: I
+[1384] [50:12] fe004: Mm - hmm . Mm - hmm .
+[1385] [50:15] me010: I mean , I I d I don't think there 's any way that it could completely fail .
+[1386] [50:18] me010: It
+[1387] [50:21] me010: I
+[1388] [50:23] me010: The original bad idea of purely context - free grammars died because there were just vastly too many parses .
+[1389] [50:32] me010: You know , exponentially num num many parses .
+[1390] [50:35] me010: And
+[1391] [50:36] fe004: Mm - hmm .
+[1392] [50:38] fe004: Mm - hmm .
+[1393] [50:39] fe004: That it would still generate too many . Right ?
+[1394] [50:41] me010: it would still genera
+[1395] [50:41] fe004: So by just having semantic even bringing semantics in for matching just in the form of j semantic types , right ?
+[1396] [50:48] fe004: Like " conceptually these have to be construed as this , this , and this " might still give us quite a few possibilities
+[1397] [50:51] me010: Yeah .
+[1398] [50:53] me010: We don't know ,
+[1399] [50:54] fe004: that , you know And and it certainly helps a lot .
+[1400] [50:54] me010: but , yeah .
+[1401] [50:56] fe004: I mean , le let 's put it that way .
+[1402] [50:57] me010: No question . Yeah .
+[1403] [50:57] fe004: So .
+[1404] [50:58] me010: And I think it 's a it 's a perfectly fine place to start .
+[1405] [51:01] me010: You know , and say , let let 's see how far we can go this way .
+[1406] [51:03] fe004: Mm - hmm . Mm - hmm .
+[1407] [51:06] me010: And
+[1408] [51:07] me003: Well it definitely makes the problem easier .
+[1409] [51:09] me010: I 'm I 'm in favor of that .
+[1410] [51:12] me010: Uh
+[1411] [51:16] me010: Right .
+[1412] [51:25] fe004: So Friday ,
+[1413] [51:27] fe004: Monday
+[1414] [51:28] me045: Yeah .
+[1415] [51:28] fe004: Monday .
+[1416] [51:29] me045: Yeah .
+[1417] [51:29] fe004: So . OK , that 's Tuesday .
+[1418] [51:31] me010: Yeah .
+[1419] [51:31] me045: Yeah .
+[1420] [51:31] fe004: Like th that 's the conclusion . OK .
+[1421] [51:34] mn015: So , you your dance card is completely filled now ?
+[1422] [51:37] me003: Mm - hmm .
+[1423] [51:38] me045: Shoot .
+[1424] [51:38] fe004: Yeah , and I have nothing to do this weekend but work .
+[1425] [51:39] mn015: Why
+[1426] [51:41] fe004: No , that 's not really true ,
+[1427] [51:42] fe004: but
+[1428] [51:42] me045: Bummer .
+[1429] [51:42] me003: What about What about DDR ?
+[1431] [51:43] fe004: It 's almost true .
+[1432] [51:44] fe004: Oh , I don't have it this weekend ,
+[1433] [51:45] fe004: so , tsk don't have to worry about that .
+[1434] [51:46] me003: Mmm .
+[1435] [51:49] me010: DDR , he asked ?
+[1436] [51:49] fe004: Speaking of dance ,
+[1437] [51:51] fe004: Dance Dance Revolution
+[1438] [51:53] fe004: I
+[1439] [51:53] fe004: It 's a it 's like a game , but it 's for , like , dancing .
+[1440] [51:58] fe004: Hard to It 's like karaoke , but for dancing ,
+[1441] [52:01] fe004: and
+[1442] [52:02] fe004: It 's amazing .
+[1443] [52:03] fe004: It 's so much fun .
+[1444] [52:04] fe004: Yeah , it 's so good .
+[1445] [52:06] fe004: My friend has a home version and he brought it over ,
+[1446] [52:08] fe004: and we are so into it .
+[1447] [52:10] fe004: It 's so amazing .
+[1448] [52:14] fe004: Well , y you know of it ?
+[1449] [52:15] fe004: I i i it 's one of your hobbies ?
+[1450] [52:21] fe004: It 's great exercise , I must say .
+[1451] [52:29] fe004: I can't wait to hear this .
+[1452] [52:32] fe004: Uh - huh .
+[1453] [52:35] fe004: Oh , definitely . They have , like , places instead of like Yeah , instead of karaoke bars now that have , like , DDR ,
+[1454] [52:39] fe004: like
+[1455] [52:42] fe004: Yeah , yeah , I didn't until I started hanging out with this friend , who 's like " Oh , well , I can bring over the DDR if you want . "
+[1456] [52:47] fe004: Oh , oh , Dance Dance Revolution OK .
+[1457] [52:49] fe004: He actually brought a clone called Stepping Selection ,
+[1458] [52:51] fe004: but it 's just as good .
+[1459] [52:52] fe004: So .
+[1460] [52:52] fe004: Anyw

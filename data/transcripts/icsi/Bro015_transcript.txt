@@ -1,0 +1,257 @@
+================================================================================
+ICSI Meeting Transcript: Bro015
+================================================================================
+
+Total Utterances: 247
+Unique Speakers: 6
+Duration: 16.88 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:01] me018: OK
+[0002] [00:04] me013: Uh . Alright .
+[0003] [00:05] me013: So . I uh uh wanted to mention a couple little bits of news .
+[0004] [00:14] me013: Um Hynek is supposed to come for a couple days next week .
+[0005] [00:18] me013: Don't know which days yet .
+[0006] [00:20] me013: So hopefully he 'll have some intensive time to to work with people .
+[0007] [00:24] me013: Um . The second thing is that um we 're starting to talk about maybe having Sunil come here uh for some chunk of the summer .
+[0008] [00:37] me013: So that may or may not happen
+[0009] [00:40] me013: but if he does since actually Pratibha is going to be off at IBM um the uh effort will pretty much shift here ,
+[0010] [00:52] me013: cuz Sunil will be here and other people are working on other things I think .
+[0011] [00:56] me013: So . So .
+[0012] [01:00] me013: Uh . That 's my news .
+[0013] [01:06] mn007: Alright .
+[0014] [01:07] me006: Cool .
+[0015] [01:07] me006: I need a new office mate .
+[0016] [01:09] me013: Oh , OK .
+[0017] [01:09] me006: Yeah .
+[0018] [01:09] me006: That 's cool .
+[0019] [01:12] me013: There you go .
+[0020] [01:13] me006: Right .
+[0021] [01:15] mn007: It will be some sometime in summer .
+[0022] [01:17] mn007: July or August , or .
+[0023] [01:18] me013: Yeah , I mean it may not happen .
+[0024] [01:20] me013: I mean he wants uh I think he wants some experience someplace else and he 's he 's uh thinking of going someplace ,
+[0025] [01:20] mn007: Mm - hmm .
+[0026] [01:26] me013: but it 's I mean Pratibha is getting her experience going to IBM and he may come here .
+[0027] [01:31] me013: So .
+[0028] [01:31] me013: But y I don't know maybe June .
+[0029] [01:34] me013: Maybe earlier .
+[0030] [01:35] me013: But uh .
+[0031] [01:36] me013: Anyway , Hynek will be here next week and maybe he 'll know more about it .
+[0032] [01:45] mn007: Oh yeah .
+[0033] [01:46] mn007: Well , the news more specifically t for Aurora
+[0034] [01:51] mn007: um
+[0035] [01:53] mn007: So I guess there was again a conference call but uh they are not decide on everything yet .
+[0036] [02:02] mn007: For the VAD they probably they will do something like having some kind of idealized VAD that they could run on the channel zero of the SpeechDat - Car
+[0037] [02:16] mn007: and then take the same um end points and apply them on channel one
+[0038] [02:20] me013: Mm - hmm .
+[0039] [02:22] mn007: so
+[0040] [02:22] me013: Oh so take a real VAD but apply it to to to the clean clean data .
+[0041] [02:25] mn007: Uh g
+[0042] [02:26] mn007: Yeah , to the clean and take the end points for the noisy .
+[0043] [02:29] mn007: Mmm .
+[0044] [02:29] me013: OK .
+[0045] [02:32] mn007: But I am not sure this is decided yet .
+[0046] [02:34] mn007: Um .
+[0047] [02:35] me013: And and i when they 're talking about it , do you have the impression that they 're talking about a particular VAD which everybody would use ?
+[0048] [02:43] me013: or or just that everybody would use the same procedure ?
+[0049] [02:48] mn007: Well , probably uh s the same VAD for everybody .
+[0050] [02:51] me013: Mm - hmm .
+[0051] [02:54] mn007: Um .
+[0052] [02:55] me018: So they would just provide that as part of the data .
+[0053] [02:57] mn007: Maybe .
+[0054] [02:58] mn007: But
+[0055] [03:01] me013: Yeah .
+[0056] [03:01] me013: Sounds like they 're still arguing .
+[0057] [03:02] me013: Yeah .
+[0058] [03:02] mn007: Yeah , they 're still not decided .
+[0059] [03:04] me013: Yeah .
+[0060] [03:06] me013: Yeah .
+[0061] [03:07] mn007: Um
+[0062] [03:12] mn007: Yeah .
+[0063] [03:13] mn007: Nothing much .
+[0064] [03:14] mn007: Yeah .
+[0065] [03:15] mn007: Probably the um these weight things , they will apply the same kind of weighting scheme for TI - digits than for the SpeechDat - Car .
+[0066] [03:27] mn007: So it would be weighting of
+[0067] [03:30] mn007: um
+[0068] [03:32] mn007: It would be an average of improvements rather than an average of word error rates which would make the more clean parts of TI - digits more important than they are right now .
+[0069] [03:38] me013: Mm - hmm .
+[0070] [03:50] me013: OK .
+[0071] [03:53] me013: Uh but it sounds like none of this is really decided , that this is how things are leaning
+[0072] [03:56] mn007: This
+[0073] [03:57] me013: and
+[0074] [03:57] mn007: They they t I think they will tend to go this way , but hmm .
+[0075] [04:01] mn007: Uh .
+[0076] [04:04] mn007: Yeah , if we have the result for the tandem with um MSG also
+[0077] [04:12] mn007: So @ @ it was t
+[0078] [04:17] mn007: Yeah there is no surpri there is no surprise .
+[0079] [04:20] mn007: Well , so there is nor significant improvement .
+[0080] [04:26] mn007: Um . Yeah , basically that 's all .
+[0081] [04:32] mn007: We 've started to work on some kind of report for the work so we 've not much more results .
+[0082] [04:35] me013: Mm - hmm .
+[0083] [04:38] me013: Yeah
+[0084] [04:40] mn007: Hmm .
+[0085] [04:42] mn007: Mm - hmm .
+[0086] [04:42] mn007: It 's next week , yeah .
+[0087] [04:42] me013: When is it ?
+[0088] [04:43] me013: Next week ?
+[0089] [04:44] me013: Oh , OK .
+[0090] [04:46] me018: How about the um the thing that you guys were working on before
+[0091] [04:49] me018: the uh Uh voiced - unvoiced
+[0092] [04:53] me018: uh
+[0093] [04:54] fn002: Oh yes .
+[0094] [04:55] fn002: But , no .
+[0095] [04:57] fn002: This
+[0097] [05:01] fn002: I stopped it .
+[0098] [05:02] me018: Ah . You stopped working on it
+[0099] [05:02] fn002: Interfered .
+[0100] [05:03] me018: I see
+[0101] [05:03] fn002: Yeah .
+[0102] [05:07] me013: OK .
+[0103] [05:08] me013: Uh .
+[0104] [05:11] me013: So it sounds like basically things are slowing down a bit ?
+[0105] [05:14] me013: And and and trying to collate results ?
+[0106] [05:18] me013: and get something from it ?
+[0107] [05:19] mn007: Mm - hmm .
+[0108] [05:21] mn007: Yeah .
+[0109] [05:22] me013: Yeah .
+[0110] [05:22] mn007: Um .
+[0111] [05:23] mn007: Yeah .
+[0112] [05:23] mn007: Right now , Sunil seems i is in India actually .
+[0113] [05:26] me013: Right .
+[0114] [05:27] mn007: Uh so there is no progress apparently from their side neither .
+[0115] [05:33] me013: Right .
+[0116] [05:33] mn007: Um
+[0117] [05:33] me013: But that sort of puts it on us to do it .
+[0118] [05:35] me013: But . Kind of puts it on us to put more in , then , really .
+[0119] [05:36] mn007: I 'm sorry ?
+[0120] [05:40] mn007: Yeah .
+[0121] [05:40] me013: I mean . Uh . Who 's who 's was uh looking at the combination of uh spectral s subtraction approaches with what we had for instance .
+[0122] [05:50] mn007: Sunil was working on this .
+[0123] [05:52] me013: OK .
+[0124] [05:53] mn007: Um . He sent a bunch of a bunch of results
+[0125] [05:57] mn007: uh
+[0126] [05:58] mn007: but I don't know what 's the status of this .
+[0127] [06:01] mn007: I guess it was just the result that he sent ,
+[0128] [06:04] mn007: so . Um .
+[0129] [06:05] me013: What was that again ?
+[0130] [06:08] mn007: He just used the spectral subtraction and the LDA filters I guess Mmm .
+[0131] [06:14] me013: Mm - hmm .
+[0132] [06:16] mn007: And it was not better than what we had before .
+[0133] [06:16] me013: And
+[0134] [06:23] mn007: Then he tried to put the on - line normalization and it did not improve further ,
+[0135] [06:29] mn007: putting the on - line normalization ,
+[0136] [06:30] mn007: so .
+[0137] [06:31] mn007: Um .
+[0138] [06:34] mn007: Yeah .
+[0139] [06:34] me013: Hmm .
+[0140] [06:40] me013: Huh .
+[0141] [06:42] me013: OK .
+[0142] [06:43] me013: Well
+[0143] [06:44] mn007: Hmm .
+[0144] [06:46] me013: Yeah .
+[0145] [06:46] me013: I uh , I g so I guess nothing has ever happened about uh making a standardized uh place where the software sits so that people can work with it , and upgrade it ?
+[0146] [06:55] mn007: No .
+[0147] [06:55] mn007: Well
+[0148] [07:03] mn007: Well , we know most what we have to to put in in this .
+[0149] [07:07] mn007: And .
+[0150] [07:10] mn007: Yeah .
+[0151] [07:11] mn007: So , I guess . Yeah , we m
+[0152] [07:13] me013: OK .
+[0153] [07:14] me013: Well , uh . Let 's let 's come back to this uh later .
+[0154] [07:18] me013: Um . OK .
+[0155] [07:20] me013: Um . Chuck , did you get a chance to do anymore stuff with the uh HTK ,
+[0156] [07:25] me018: No . I didn't .
+[0157] [07:27] me018: Um
+[0158] [07:28] me013: or ?
+[0159] [07:29] me018: Uh , no .
+[0160] [07:29] me018: This week I haven't .
+[0161] [07:30] me018: I 've been my whole time 's been taken up with uh Meeting Recorder stuff .
+[0162] [07:34] me013: OK .
+[0163] [07:34] me018: Uh , disk crash and uh covering things .
+[0164] [07:35] me013: u
+[0165] [07:36] me013: OK .
+[0166] [07:38] me013: This may be a very short meeting .
+[0167] [07:39] me013: Uh . Um .
+[0168] [07:44] me013: Anything from your side ?
+[0169] [07:46] me006: Uh , continuing readings we come Uh . We 're doing some background reading on phonetics .
+[0170] [07:49] me013: Uh - huh .
+[0171] [07:52] me013: OK .
+[0172] [07:52] me006: Yeah .
+[0173] [07:53] me013: Dave ?
+[0174] [07:54] me026: Well um . One thing in in the paper Avendano and his collaborators wrote is that is that um they tried doing channel normalization on the reverberant in speech by um subtracting the mean of the log spectral magnitude over a two second window .
+[0175] [08:09] me026: But they didn't do anything with the phase , and they said perhaps that limited their approach that it did not try to normalize the phase in any way .
+[0176] [08:17] me026: So I 'm I 'm going to start thinking about um ways that the ph that the phase could be used .
+[0177] [08:24] me026: Um .
+[0178] [08:25] me026: Si - if if the um channel and the reverberation is multiplicative in the frequency domain with the speech spectrum then the phases should be additive .
+[0179] [08:35] me026: So um perhaps just subtracting the mean of the phase would would help .
+[0180] [08:42] me026: Um but I don't know I th I get the impression that they tried to do some things with the phase and they weren't successful .
+[0181] [08:56] me013: OK .
+[0182] [08:56] me018: Oh . You know , there is one other thing .
+[0183] [08:58] me018: Um Stephane showed me a paper yesterday um where th uh for the Italian system they had done a series of experiments playing around with the um the number of iterations , that I talked about last week ?
+[0184] [09:12] me018: And , um , so , there was a whole series of those that they had done .
+[0185] [09:14] me013: Mm - hmm .
+[0186] [09:16] me018: They didn't , I don't think , reported timing for those ,
+[0187] [09:19] me018: but um it turns out that the one that they 're actually using was not the best , uh in in their series of experiments , which I uh Maybe it 's because they uh wanted to use the same number of iterations across all different languages and this was only done on Italian or something .
+[0188] [09:36] me013: Sure .
+[0189] [09:36] me013: Wh - who 's they they ?
+[0190] [09:38] me018: Uh , I don't know who did it
+[0191] [09:39] me018: do you know , Stephane ?
+[0192] [09:40] me018: Who did that ?
+[0193] [09:40] mn007: Um .
+[0194] [09:43] mn007: I don't know
+[0195] [09:43] mn007: but it 's the company who prepared the Italian database ,
+[0196] [09:47] mn007: so
+[0197] [09:48] mn007: Is it Alcatel ,
+[0198] [09:49] mn007: or ?
+[0199] [09:51] fn002: I think so .
+[0200] [09:51] mn007: I
+[0201] [09:52] me013: Mmm .
+[0202] [09:54] mn007: I don't know .
+[0203] [09:55] me018: So um you know there wasn't a huge difference in terms of the performance across all the different experiments that they did .
+[0204] [10:01] me018: Um . But it varied a little bit .
+[0205] [10:03] me018: And uh So I guess the main thing that I take out of that is that I think that for our purposes here we could definitely you know decrease the number of iterations that we do
+[0206] [10:13] me018: and um ,
+[0207] [10:14] me018: at least while we 're , you know , working on uh all different of kinds of variations , and that would let us , you know , pump through a lot more experiments .
+[0208] [10:22] me018: So um I still have to to send everybody a pointer about uh how to run the um HTK system on the Linux boxes and about changing these number of iterations so that so that you can do that .
+[0209] [10:37] me018: Um . So the the other thing that that I was thinking about maybe trying out next is
+[0210] [10:42] me018: um
+[0211] [10:43] me018: Oh !
+[0212] [10:44] me018: The other th the other experiment that they had in that paper was uh uh playing with the number of Gaussians per state .
+[0213] [10:51] me018: And so .
+[0214] [10:51] mn007: Uh .
+[0215] [10:51] me013: Mm - hmm .
+[0216] [10:52] mn007: I think it 's was playing with the number of states per word .
+[0217] [10:56] mn007: They had sixteen , seventeen , eighteen .
+[0218] [11:00] mn007: Yeah , because it was around between sixteen and twenty
+[0219] [11:03] mn007: or
+[0220] [11:05] me018: OK .
+[0221] [11:06] me018: I
+[0222] [11:06] mn007: Yeah .
+[0223] [11:11] me018: Oh , OK .
+[0224] [11:11] me018: I was thinking it was Gaussians but it 's states .
+[0225] [11:13] mn007: So
+[0226] [11:14] me018: OK .
+[0227] [11:15] mn007: Yeah , apparently , um they had better results when they increased the number of states .
+[0228] [11:22] mn007: From
+[0229] [11:24] me018: Mm - hmm .
+[0230] [11:27] me018: Yeah .
+[0231] [11:27] me018: So . The thing I was thinking about was uh , you know , the number of insertions really goes up when you start adding all the noise in ,
+[0232] [11:34] me018: and maybe the thing to do next would be to try to um uh make the silence model more powerful ,
+[0233] [11:41] me018: you know , increasing the number of Gaussians to the number of states , different different things like that ,
+[0234] [11:44] me018: so . That 's probably the next little thing I 'll play with when I get a chance
+[0235] [11:51] me013: Um .
+[0236] [11:53] me013: Let 's see .
+[0237] [11:55] me013: Um . Why don't why don't we uh if there aren't any other major things , why don't we do the digits , and then then uh turn the mikes off .
+[0238] [12:09] me013: So I 'll start .
+[0239] [12:09] me013: Uh .
+[0240] [14:10] mn007: D ' you put two ?
+[0241] [14:17] fn002: My name is Maria .
+[0242] [14:20] mn007: Oh , yeah .
+[0243] [14:22] fn002: This .
+[0244] [14:26] mn007: Maria Carmen ?
+[0245] [14:27] fn002: Yeah .
+[0247] [16:53] me013: OK .

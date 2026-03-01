@@ -1,0 +1,757 @@
+================================================================================
+AMI Meeting Transcript: ES2011b
+================================================================================
+
+Total Utterances: 745
+Unique Speakers: 4
+Duration: 25.29 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:33] A: "'kay" source has that's a that's a sensor short on time
+[0002] [00:36] A: welcome everybody
+[0003] [00:37] A: Um hope you're sessions
+[0004] [00:39] A: but well
+[0005] [00:41] A: Um So this is our functional design meeting
+[0006] [00:45] A: We're going to consider Um User needs technical fax And the working design of Are Remote control
+[0007] [00:56] A: Um i've been taking meetings and the minute minutes in the meetings
+[0008] [01:01] A: And uh between them in the shared documents folder
+[0009] [01:03] A: so if there's anything you need to refer to it you can find them in there
+[0010] [01:07] A: Um i i look at the ones up next time
+[0011] [01:10] A: Um did not finished yet
+[0012] [01:12] A: Great to
+[0013] [01:13] A: um so we have updates from everyone from what you've worked
+[0014] [01:17] A: on just kind of a quick summary of anything interesting that you like to share We're discussing this
+[0015] [01:23] D: Okay and so you want
+[0016] [01:24] A: sure
+[0017] [01:26] D: Is that all the
+[0018] [01:26] D: no
+[0019] [01:28] D: Yeah and decided on order
+[0020] [01:30] A: No any any order so yeah
+[0021] [01:31] D: Okay
+[0022] [01:32] D: Um i had right Put this
+[0023] [01:35] B: Just yeah
+[0024] [01:35] D: just put the cable and
+[0025] [01:38] A: Oh yes
+[0026] [01:47] D: Was that that
+[0027] [01:48] D: can use
+[0028] [01:48] D: it
+[0029] [01:49] D: uh So what happens that well
+[0030] [01:55] A: That's it takes a few seconds i think
+[0031] [02:04] B: We need to
+[0032] [02:11] C: Is that
+[0033] [02:15] D: As in the right thing
+[0034] [02:15] B: Sometimes you have to do it
+[0035] [02:16] B: it's like a three you said settings cycle So person a couple times All done function and then that's okay
+[0036] [02:22] D: Or it
+[0037] [02:22] D: um Uh we need to help me
+[0038] [02:28] A: And and then Press function
+[0039] [02:32] D: Yeah
+[0040] [02:32] A: And
+[0041] [02:32] A: f. eight
+[0042] [02:36] C: Could you just put it back in the house
+[0043] [02:38] C: because she had
+[0044] [02:38] D: oh wait
+[0045] [02:39] D: that says
+[0046] [02:40] D: that that
+[0047] [02:40] B: Just thing
+[0048] [02:42] A: Yeah
+[0049] [02:45] B: The cable might be loads or something
+[0050] [02:48] D: yeah we
+[0051] [02:48] B: Okay
+[0052] [02:49] A: Yeah so that
+[0053] [02:49] D: Yeah
+[0054] [02:50] A: Okay
+[0055] [02:50] D: okay
+[0056] [02:51] D: um in order to say what the functional requirements But to be found
+[0057] [02:56] D: Um A hundred people were test in the usability That
+[0058] [03:02] D: virtually
+[0059] [03:03] D: through Just the habits so in in the
+[0060] [03:06] D: the habits words that and question as well Given out to
+[0061] [03:10] D: um The findings In in some cases matched what we were talking about to the
+[0062] [03:17] D: customer customers in uses don't like the way remote controls to look
+[0063] [03:22] D: that then uh the way they feel
+[0064] [03:24] D: they don't think they match the operating behaviour up
+[0065] [03:28] D: and then example is what we're talking about the buttons they only use ten percent of the buttons
+[0066] [03:32] D: say later on there's a study of the buttons that they use must
+[0067] [03:36] D: and i think we should design According to these buttons
+[0068] [03:40] D: Easy to use an
+[0069] [03:41] D: i.
+[0070] [03:41] D: r.
+[0071] [03:41] D: s.
+[0072] [03:41] D: i.
+[0073] [03:41] D: i don't know what
+[0074] [03:42] D: r.
+[0075] [03:42] D: s.
+[0076] [03:42] D: i. means
+[0077] [03:43] D: um the person that but the question uh Well basically it i don't know clue
+[0078] [03:48] D: Um According to the frequency
+[0079] [03:51] D: d.s and the relevant it's
+[0080] [03:54] D: At each buttons i've made a list of
+[0081] [03:58] D: The buttons that we should focus on in order of importance
+[0082] [04:01] D: uh the most important buttons of those do with channel selection
+[0083] [04:04] D: They used about
+[0084] [04:05] D: c.
+[0085] [04:06] D: r.s and sixty times per hour
+[0086] [04:09] D: And
+[0087] [04:09] D: um Yeah i said and and people like to zap a lot part
+[0088] [04:14] D: nice uh This is the all the
+[0089] [04:16] D: channel selection teletext volume And power
+[0090] [04:20] D: The other ones at the settings and they
+[0091] [04:22] D: used less than in a zero point eight is up or five times per hour
+[0092] [04:27] D: and this means that i think we couldn't we could have like a a button for all the settings
+[0093] [04:32] D: And then just one
+[0094] [04:33] D: and then from there go one to The audio on the screen either on the remotes on the television
+[0095] [04:38] D: Um About the screen and speech recognition Some people are more willing
+[0096] [04:44] D: they're not just actually pay for that
+[0097] [04:46] D: and we look at the market People from well from fifteen to thirty five euro year olds
+[0098] [04:53] D: i don't know enough to describe this
+[0099] [04:55] D: Um Ninety one To seventy six percent Of people in that age range are willing to pay more for this sort of part that
+[0100] [05:04] D: while people that are about thirty five years all the um years old Go from
+[0101] [05:09] D: thirty five percent eighty percent
+[0102] [05:11] D: said people that is sixty five for example wouldn't actually pay for this sort of thing
+[0103] [05:17] D: Um i don't I don't know uh um well the dishes and we made is
+[0104] [05:22] D: a part I think that the people they actually do you buy remote some more all of those like teenagers and young professionals and Um But slightly
+[0105] [05:31] D: but we should discuss this together
+[0106] [05:34] D: And that's what i have to say about them uh huh
+[0107] [05:41] D: Shall i
+[0108] [05:42] D: want to do
+[0109] [05:43] D: okay this to someone else
+[0110] [05:44] A: Yeah just different on
+[0111] [05:52] C: It's
+[0112] [06:17] C: Okay so I need to press
+[0113] [06:20] C: f. eight what is it
+[0114] [06:22] A: function
+[0115] [06:22] D: Function
+[0116] [06:22] D: f. eight
+[0117] [06:22] A: f. eight
+[0118] [06:30] C: What's function
+[0119] [06:31] A: It's a little blue what it's on the
+[0120] [06:33] C: Oh function see
+[0121] [06:38] A: Yeah
+[0122] [06:45] A: It should be right yeah
+[0123] [06:50] C: Okay
+[0124] [06:51] C: um It's my presentation about the uh Technical functions design
+[0125] [06:58] C: and i basically it's tried to focus on um It's what what functions we need and How do you make that The best function for the user
+[0126] [07:10] C: so Uh so like that about myself and but i mean it
+[0127] [07:15] C: And okay so basically um I think it i like it is really important that we sort of get this done in a user friendly and fashionable way
+[0128] [07:25] C: um So i think things like
+[0129] [07:28] C: uh You're kidding buttons together that like close together that um Are used in the same way
+[0130] [07:36] C: uh Or um Maybe that making the same colour
+[0131] [07:42] C: keeping the number of buttons the uh least you know to a minimum
+[0132] [07:47] C: And also things like
+[0133] [07:48] C: is it Is it um Is it uh can you can You small of large enough
+[0134] [07:55] C: or not sure week
+[0135] [07:56] C: because we would need to Do some research about i would about What size is appropriate and that sort of thing
+[0136] [08:04] C: Um but basically we need to make sure that it turns on off the
+[0137] [08:06] C: t.
+[0138] [08:06] C: v.
+[0139] [08:07] C: Does it have like capacity change the channels
+[0140] [08:10] C: um Does it do we
+[0141] [08:12] C: do need to have like functions for cable or
+[0142] [08:15] C: v.
+[0143] [08:16] C: c.
+[0144] [08:16] C: r.
+[0145] [08:17] C: And then is it
+[0146] [08:18] C: findable
+[0147] [08:19] C: And uh How do you wanna Do that
+[0148] [08:23] C: And
+[0149] [08:24] C: um Is
+[0150] [08:27] C: Is that these two remotes were pretty boring
+[0151] [08:29] C: um i don't know it's
+[0152] [08:34] C: I think we can find something that's more fun to look at and use than i do that's
+[0153] [08:41] C: Just i mean i like the one on the right that are just because it does have fewer buttons
+[0154] [08:45] C: yeah but Yeah i think we should can sort of think about things like Um Like colour in you know size shapes that sort of thing to Best fit the user
+[0155] [09:00] C: That concludes my presentation
+[0156] [09:05] C: Okay you think
+[0157] [10:09] D: And some you
+[0158] [10:14] B: Okay so this is on the working design which is twenty Uh a mechanical functions of the remote
+[0159] [10:21] B: Um the method i used was to Basically look at existing
+[0160] [10:25] B: designs incorporate ideas from our last meeting
+[0161] [10:28] B: Um so i think we need to know basic functions which is just a basic remote functions
+[0162] [10:33] B: User can input a channel or volume setting and it would be a push the
+[0163] [10:37] B: t.
+[0164] [10:37] B: v.
+[0165] [10:38] B: And also we talked about um uh location function where If you could press a button on the
+[0166] [10:43] B: t.
+[0167] [10:43] B: v. in the woods and source signal to the remote Where would beep or flash
+[0168] [10:47] B: or vibrate or whatever to tell you whether remote is
+[0169] [10:51] B: So the components we need an energy source to power the remote
+[0170] [10:55] B: um Input which would probably be buttons
+[0171] [10:58] B: although um we just talk of voice recognition
+[0172] [11:01] B: Processor to take the information
+[0173] [11:04] B: Um something to transmit it to the
+[0174] [11:05] B: t.
+[0175] [11:05] B: v.
+[0176] [11:06] B: And we also need something on a remote that would receive the location signal You have an output Like possibly a beep or a
+[0177] [11:14] B: vibration
+[0178] [11:15] B: And also you need a centre for location signal
+[0179] [11:18] B: which are probably a separate Um thing that we have to sell with the remote and people could stick it on the
+[0180] [11:23] B: t.
+[0181] [11:23] B: v. or stick it on the wall
+[0182] [11:26] B: And this is just sort of an overview of how the remote works
+[0183] [11:30] B: Power
+[0184] [11:30] B: crews
+[0185] [11:30] B: and the battery goes to the chip
+[0186] [11:33] B: Um and then it is Second there's an infrared bulb
+[0187] [11:37] B: would you call it the easiest way to send you the
+[0188] [11:39] B: t.
+[0189] [11:39] B: v.
+[0190] [11:40] B: And then the location function you would have the centre on the
+[0191] [11:43] B: t.
+[0192] [11:43] B: v. Which would uh put some sort of signal
+[0193] [11:47] B: Um we could use
+[0194] [11:47] B: i.
+[0195] [11:47] B: r. but we probably won't use radio instead
+[0196] [11:51] B: That signal a good receiver We should put process it
+[0197] [11:54] B: in would be output in the form of a buzz
+[0198] [11:56] B: or or a light lighting up
+[0199] [12:01] B: Um so my personal preferences for how to build a remote would probably
+[0200] [12:05] B: be A battery for the energy source
+[0201] [12:07] B: that we would have to plug in and
+[0202] [12:09] B: Um a button catherine product
+[0203] [12:12] B: Um we can purchase
+[0204] [12:13] B: at
+[0205] [12:13] B: premade
+[0206] [12:14] B: chip to try and all the processing stuff
+[0207] [12:16] B: I or transmitter to communicate to the
+[0208] [12:18] B: t.
+[0209] [12:18] B: v.
+[0210] [12:18] B: it's just where standard Um so most
+[0211] [12:21] B: t.
+[0212] [12:21] B: v.s have a a receiver
+[0213] [12:23] B: Probably radio receiver it's another location function entry
+[0214] [12:26] B: see that
+[0215] [12:27] B: And I promise
+[0216] [12:28] B: a buzzer
+[0217] [12:29] B: For the location function on the remote itself
+[0218] [12:32] B: So that concludes my presentation
+[0219] [12:36] C: Do you know about like
+[0220] [12:38] C: Alright you see like you know about
+[0221] [12:38] B: Hmm
+[0222] [12:40] B: Yeah i i was an engineer before i came here
+[0223] [12:41] C: Okay Cool
+[0224] [12:48] A: Okay
+[0225] [12:49] A: well thank everybody
+[0226] [12:50] A: um We Have
+[0227] [12:53] A: will discuss that
+[0228] [12:54] A: i don't know i just wanna know Mention some new project requirements that came in
+[0229] [12:59] A: Um Teletext is currently an update it So i do too internet popularity So that's Off the west
+[0230] [13:10] A: Um Also our remote should be used only for television
+[0231] [13:16] A: Um no extra internet kind of fancy Things just The right in the television
+[0232] [13:23] A: Um and also we you need to incorporate or Corporate image on to this
+[0233] [13:29] A: so Um The Phases we put fashion in electronics
+[0234] [13:37] A: so let's be fashionable fall yes
+[0235] [13:40] A: Um if we have something
+[0236] [13:43] A: I mean it's over and and cold or yellow or colour
+[0237] [13:46] A: so if we had like uh Kind of silver on like it's all And You already know that
+[0238] [13:54] A: Okay
+[0239] [13:55] A: um So we need to make some decisions and The remote control functions
+[0240] [14:03] A: Um Yeah Yeah Do it but
+[0241] [14:10] A: i guess we should yeah make some
+[0242] [14:13] A: Kind of brainstorming
+[0243] [14:15] C: Like in terms of
+[0244] [14:15] A: See what we can
+[0245] [14:16] D: I dunno
+[0246] [14:17] C: How it looks are like what Does
+[0247] [14:19] A: What what
+[0248] [14:20] A: um Well probably our target group and How it's gonna going to appeal to our target group
+[0249] [14:28] A: in i don't know that this
+[0250] [14:30] A: the buttons and what it does and That sort of thing so
+[0251] [14:32] C: Yeah
+[0252] [14:37] C: So
+[0253] [14:40] C: As our target group then People
+[0254] [14:43] C: so do you wanna go ahead and design this thing with the finder button
+[0255] [14:48] C: So
+[0256] [14:48] A: I think that's insert yeah
+[0257] [14:48] B: It's easy to implement
+[0258] [14:50] C: Okay
+[0259] [14:50] C: so That
+[0260] [14:51] D: the the bus oh you mean
+[0261] [14:52] C: yeah yeah yeah
+[0262] [14:53] D: yeah shall yeah
+[0263] [14:53] B: Located
+[0264] [14:54] C: So then our target age group would be the nineteen to Thirty five range
+[0265] [14:58] A: Yeah teenagers
+[0266] [14:58] C: was it
+[0267] [14:59] A: and young professionals
+[0268] [15:00] D: Well that's for speech recognition
+[0269] [15:02] C: Oh
+[0270] [15:02] B: Well
+[0271] [15:03] D: On the screen
+[0272] [15:04] D: That's only the speech recognition and screen
+[0273] [15:04] B: I was thinking about that
+[0274] [15:06] B: that uh that they speech recognition is really hard to programme
+[0275] [15:09] B: and also If the
+[0276] [15:09] A: Yeah
+[0277] [15:10] B: t.
+[0278] [15:11] B: v. is on is making sound of the people the
+[0279] [15:13] B: t.
+[0280] [15:13] B: v. you're talking at some reasons like one and the
+[0281] [15:15] B: t.
+[0282] [15:15] B: v.s can switch itself to channel one
+[0283] [15:16] D: Yeah yeah
+[0284] [15:16] B: or
+[0285] [15:17] C: Yeah
+[0286] [15:17] A: Yeah
+[0287] [15:17] B: It seems like a silly
+[0288] [15:17] D: I mean
+[0289] [15:18] C: Yeah
+[0290] [15:18] B: i'm not sure how you'd implement it
+[0291] [15:20] D: I just put the teeth
+[0292] [15:22] A: And if if you consider our budget know how late
+[0293] [15:22] D: That on the screen is the same as well
+[0294] [15:24] B: It's a cool idea
+[0295] [15:25] A: if you consider budget to have a speech recognition program then every single
+[0296] [15:27] C: Yeah
+[0297] [15:29] A: remote Might be a little Praise yeah
+[0298] [15:33] A: Yeah
+[0299] [15:34] D: Really
+[0300] [15:34] C: Yeah
+[0301] [15:34] A: Yeah so
+[0302] [15:39] C: Okay so are we gonna
+[0303] [15:39] C: have to some kind of a like one of the buzzer
+[0304] [15:41] C: on the sun like on the
+[0305] [15:43] C: t.
+[0306] [15:43] C: v. itself
+[0307] [15:44] B: We have to have a button on a
+[0308] [15:45] B: t.
+[0309] [15:45] B: v. or on your wall or
+[0310] [15:47] B: someplace
+[0311] [15:47] B: was thinking since the
+[0312] [15:47] A: Yeah
+[0313] [15:48] B: t.
+[0314] [15:48] B: v. already has power
+[0315] [15:49] C: Yeah
+[0316] [15:50] B: Yeah if you click the button it's gonna send out a signal
+[0317] [15:53] B: I was thinking
+[0318] [15:54] B: i.
+[0319] [15:54] B: r. is one of sight so most remotes like actually in front of the
+[0320] [15:58] B: t.
+[0321] [15:58] B: v. it's not gonna work
+[0322] [15:59] B: Um so probably like a radio signal a kind of On a cell phone
+[0323] [16:01] C: Okay
+[0324] [16:03] D: Okay yeah
+[0325] [16:03] C: Right
+[0326] [16:03] B: So that signal on then The remote Here's a signal and so it beeps probably
+[0327] [16:08] C: Okay
+[0328] [16:09] A: So you you'd need like a separate base for that are like something you can
+[0329] [16:12] B: It would have to be sold separately because if the
+[0330] [16:13] A: Right
+[0331] [16:14] B: centres
+[0332] [16:14] B: on the remote you'd have to find a remote first about the button to find the remote
+[0333] [16:17] A: Yeah yeah
+[0334] [16:19] D: So
+[0335] [16:19] D: d. plug it in the
+[0336] [16:20] D: t. e. plug it in
+[0337] [16:21] D: t.
+[0338] [16:22] D: v. this thing
+[0339] [16:22] B: Yeah that would just again a
+[0340] [16:23] B: t.
+[0341] [16:24] B: v.
+[0342] [16:24] B: so if you need to find the remote click the button
+[0343] [16:24] D: Okay
+[0344] [16:25] D: Okay
+[0345] [16:26] C: So it's allocate
+[0346] [16:27] C: to part Thing
+[0347] [16:27] B: Yeah so would need to power package
+[0348] [16:28] C: okay Right
+[0349] [16:29] D: Okay
+[0350] [16:31] C: Suited to design a tail
+[0351] [16:31] C: Suited
+[0352] [16:34] C: Fashionable
+[0353] [16:35] C: Um Okay
+[0354] [16:38] A: So do you think even though we're not talking not speak speech recognition our target group should still be teenagers
+[0355] [16:44] A: and young professionals
+[0356] [16:44] B: Yeah i think so
+[0357] [16:45] D: Yeah Just yeah
+[0358] [16:47] A: Okay
+[0359] [16:48] D: we um so that thing be on the Thing to put the Used
+[0360] [16:54] D: to talk about time for it
+[0361] [16:56] D: You still want to build a little thing that's that any old town on the wall
+[0362] [16:56] A: Yeah
+[0363] [17:00] D: or shall we leave out from that
+[0364] [17:02] A: The problem is that
+[0365] [17:03] A: i mean i guess one takes care of the other
+[0366] [17:05] D: Okay
+[0367] [17:05] A: like um if you can Yeah if you can call it the notes
+[0368] [17:06] C: Yeah
+[0369] [17:10] C: That i can live anywhere
+[0370] [17:11] A: Yeah
+[0371] [17:12] D: Okay
+[0372] [17:12] D: um For the
+[0373] [17:13] D: um So you have that button
+[0374] [17:16] D: that So what does
+[0375] [17:18] D: it is there a light source only just have a radio
+[0376] [17:21] D: We just having already
+[0377] [17:22] B: on the
+[0378] [17:22] B: t.
+[0379] [17:22] B: v. or on the phone
+[0380] [17:23] D: On the phone
+[0381] [17:26] B: See like a a beeps in the most reasonably
+[0382] [17:26] D: We don't need a light
+[0383] [17:27] D: Yeah yeah
+[0384] [17:28] B: i think that so the phone has
+[0385] [17:28] A: Yeah
+[0386] [17:29] D: Yeah
+[0387] [17:30] A: Yeah
+[0388] [17:30] B: We only need to find it funny set some call it and it starts
+[0389] [17:33] B: raining
+[0390] [17:33] B: somewhere and then you can you go that's in the couch or whatever
+[0391] [17:34] A: And like if they have the
+[0392] [17:35] A: funds under the couch irrelevant in a way it's
+[0393] [17:37] D: You can it's on the couch yeah
+[0394] [17:38] A: yeah
+[0395] [17:39] C: So yeah
+[0396] [17:41] D: On that
+[0397] [17:47] D: So i need the other buttons
+[0398] [17:49] D: So you have this
+[0399] [17:51] A: So i mean the two remotes that you had shown no
+[0400] [17:54] A: i don't remember we shouldn't
+[0401] [17:55] C: Was that was me
+[0402] [17:56] A: yeah you do
+[0403] [17:57] A: Um They
+[0404] [17:59] A: i mean one look like it was for a
+[0405] [18:01] A: v.
+[0406] [18:01] A: c.
+[0407] [18:01] A: r. tape thing in the other way but we just television
+[0408] [18:04] C: I think I think they're both sort of just like general remote that was general remotes
+[0409] [18:07] A: Oh yeah
+[0410] [18:09] C: And
+[0411] [18:09] A: "'cause" that that is
+[0412] [18:10] A: and then we have to decide is whether we want To have a
+[0413] [18:13] A: v.
+[0414] [18:13] A: c.
+[0415] [18:13] A: r. capabilities
+[0416] [18:15] C: Yeah
+[0417] [18:15] B: Does anyone know
+[0418] [18:16] B: v.
+[0419] [18:16] B: c.
+[0420] [18:16] B: r.s are the same across international
+[0421] [18:19] A: Then that Yeah
+[0422] [18:20] D: Yeah no no
+[0423] [18:21] B: Okay seen it like a whole different set of buttons for everybody sees yeah
+[0424] [18:22] A: Yeah that's yeah
+[0425] [18:23] D: Than a
+[0426] [18:24] D: v.
+[0427] [18:24] D: h.
+[0428] [18:24] D: s. yeah
+[0429] [18:24] A: But
+[0430] [18:24] A: d.
+[0431] [18:25] A: v.
+[0432] [18:25] A: d. probably is
+[0433] [18:27] B: Yeah other than that region including thing
+[0434] [18:30] D: But
+[0435] [18:30] D: v.
+[0436] [18:30] D: c.
+[0437] [18:30] A: And and if we're if we're targeting and professionals
+[0438] [18:30] D: r.s
+[0439] [18:33] A: and teenagers i mean it's gonna be
+[0440] [18:35] A: d.
+[0441] [18:35] A: v.
+[0442] [18:35] A: d.s at That's the the technology is this
+[0443] [18:35] D: Yeah Yeah official
+[0444] [18:37] C: Yeah
+[0445] [18:37] B: Uh-huh
+[0446] [18:38] C: So Okay
+[0447] [18:40] C: thank you
+[0448] [18:42] C: I think still though It shouldn't be that hard to like just
+[0449] [18:45] C: reduce the number of buttons you know
+[0450] [18:47] A: Yeah
+[0451] [18:47] C: Like as if you just have like one menu button That works like with
+[0452] [18:52] C: uh You know We can just kind of scroll Through the
+[0453] [18:56] A: Yeah
+[0454] [18:57] C: Options are we come up on the
+[0455] [18:57] D: Well for shall we need the
+[0456] [18:58] C: t.
+[0457] [18:58] C: v.
+[0458] [18:58] D: um I think we can just designed uh Channels
+[0459] [19:05] D: I mean powers just about And it's not use that much
+[0460] [19:07] C: Yeah
+[0461] [19:07] B: Uh-huh
+[0462] [19:09] D: so then it's usually that red
+[0463] [19:10] C: Yeah
+[0464] [19:11] C: Yeah
+[0465] [19:11] D: And i think it's quite nice to keep it like a rat
+[0466] [19:14] C: Yeah
+[0467] [19:14] A: You know i've seen some Remotes that where you just hold one
+[0468] [19:19] A: Like if you hold one down it's a it's a different colour than the other buttons but that turns it on
+[0469] [19:24] A: so you don't actually was
+[0470] [19:25] A: cyber power button It's it's
+[0471] [19:26] D: okay yeah yeah
+[0472] [19:27] C: It seems like that would be hard but
+[0473] [19:29] C: i mean It because unless you know
+[0474] [19:31] A: It might be confusing
+[0475] [19:32] C: Yeah
+[0476] [19:32] A: yeah
+[0477] [19:33] C: It's "'cause" i would
+[0478] [19:34] C: i would probably pick it up just be like
+[0479] [19:36] C: uh wiser no one button Yeah
+[0480] [19:37] A: The sides you like to go to go power
+[0481] [19:38] B: Yeah and everything to hold something down
+[0482] [19:39] A: or i i have that or or
+[0483] [19:39] C: yeah
+[0484] [19:42] C: Yeah
+[0485] [19:42] A: I guess
+[0486] [19:43] A: or in the foreign power button and numbers
+[0487] [19:45] C: Yeah
+[0488] [19:46] A: Right
+[0489] [19:46] D: Or even um I'd
+[0490] [19:48] D: like to
+[0491] [19:49] D: um i dunno if people like this
+[0492] [19:51] D: But if you want to reduce the number Of buttons instead of having like one to Nine have to sort of
+[0493] [20:02] C: That is so like a joystick flat tax thing Yeah
+[0494] [20:02] D: Scrolling
+[0495] [20:02] D: that and
+[0496] [20:03] D: uh Yeah
+[0497] [20:05] D: Because people i think
+[0498] [20:06] D: now the output uh people think like this thing that that's in the
+[0499] [20:11] D: No you don't have one two three four five
+[0500] [20:12] C: Yeah
+[0501] [20:13] C: i think that's an interesting idea "'cause" It's cool
+[0502] [20:15] C: it's it's fine like if like i just
+[0503] [20:18] C: i don't have an ipod
+[0504] [20:18] C: like i you know i just extra messy now on my friends the other day
+[0505] [20:22] C: and you sort of and
+[0506] [20:24] C: It's when you pick it up and you just figure out how to use it quite easily
+[0507] [20:26] C: like it's not that hard you know
+[0508] [20:27] A: Yeah
+[0509] [20:27] D: Yeah it's just and it's one thing which has everything
+[0510] [20:29] C: Yeah and it is Yeah
+[0511] [20:31] C: it as well
+[0512] [20:32] C: but you need a screen and you have to have a screen and
+[0513] [20:34] D: Well content Tell the um like on
+[0514] [20:37] D: t.
+[0515] [20:37] B: Yeah you can have the number going around the corner
+[0516] [20:38] D: v.
+[0517] [20:38] D: You can have the number on the telly go in
+[0518] [20:39] C: Yeah okay
+[0519] [20:40] C: yeah
+[0520] [20:40] D: that one two three four five once you scroll and
+[0521] [20:41] C: Yeah
+[0522] [20:42] C: Okay so we have this like scrolling sort of button
+[0523] [20:43] A: that's gonna
+[0524] [20:45] A: Is that like an on a mouse pad where Like kind of
+[0525] [20:46] C: Like a disk
+[0526] [20:48] C: Yeah yeah it's like it's just like The same technology as a mouse pad
+[0527] [20:49] A: like a
+[0528] [20:50] A: I've never is uh huh
+[0529] [20:50] D: It's like This Like that and then you do that
+[0530] [20:53] A: Yeah
+[0531] [20:55] A: Okay
+[0532] [20:55] C: Yeah
+[0533] [20:56] C: Yeah the
+[0534] [20:56] D: And then you can have
+[0535] [20:58] D: um If you actually just want to stop You can have like a thing Right Barks And i can then it could just be plus and minus
+[0536] [21:11] C: Okay
+[0537] [21:12] C: So like it's like a little part of the circle that
+[0538] [21:16] C: Great
+[0539] [21:17] D: Yeah
+[0540] [21:17] C: Oh so it's just a region of the circle that you can
+[0541] [21:17] D: you can
+[0542] [21:18] A: Well it
+[0543] [21:20] D: Yeah click are actually click on to have
+[0544] [21:20] C: Zap
+[0545] [21:21] C: okay
+[0546] [21:22] A: We can we can even have four buttons
+[0547] [21:24] A: like If that's the that's the mouse you could have the volume and the channels and it's just like on that as well
+[0548] [21:29] D: Yeah
+[0549] [21:30] C: Yeah
+[0550] [21:31] C: So volume could be like the top a in a bottle
+[0551] [21:34] C: said you need to it
+[0552] [21:34] B: That's never okay that's
+[0553] [21:35] C: okay
+[0554] [21:35] B: gonna be Moving around
+[0555] [21:36] C: We you have to you have like be able to change the function of it to like
+[0556] [21:41] D: Well you mean the function
+[0557] [21:42] C: I mean like okay "'cause" so
+[0558] [21:46] C: I dunno i guess okay
+[0559] [21:47] C: so we need to scroll your thumb
+[0560] [21:48] C: like a round it will slow like say you going you got
+[0561] [21:52] C: clockwise
+[0562] [21:53] C: that That means you're gonna go up the channels
+[0563] [21:55] C: and then you scroll the other way you know go down
+[0564] [21:57] B: Uh-huh
+[0565] [21:57] C: But then it
+[0566] [21:58] C: so if you wanna switch to the
+[0567] [21:59] C: t.
+[0568] [21:59] C: v. it you have to switch to a function where
+[0569] [22:02] C: Like See it in that mode where you're in the mode where like
+[0570] [22:05] C: It's just has like the for like you know this is channel that way that's that way and volume is up and down
+[0571] [22:11] D: Yeah but in us for some reason
+[0572] [22:12] C: It's just
+[0573] [22:13] D: The ipod know is
+[0574] [22:14] C: It is no you have partner is
+[0575] [22:16] B: Never works on an ipod the network
+[0576] [22:17] C: Yeah
+[0577] [22:18] C: so you just you just can either do this or like you just touch it if you want
+[0578] [22:19] B: I don't have one
+[0579] [22:21] D: Well for the volume you have to press the middle And then go up
+[0580] [22:24] C: Okay that's what i mean okay
+[0581] [22:26] C: Okay so you have to
+[0582] [22:27] C: like process not a region and then you can scroll up go up and down
+[0583] [22:28] B: Oh
+[0584] [22:31] D: And then what did you do that because
+[0585] [22:31] A: So it's like holding
+[0586] [22:32] D: believe
+[0587] [22:32] D: believe you like that makes more sense
+[0588] [22:35] D: "'cause" as already ones with up and down here But i've seen
+[0589] [22:36] A: You can
+[0590] [22:37] A: uh And you
+[0591] [22:40] A: He
+[0592] [22:41] A: is there an extra actual button
+[0593] [22:42] A: or you actually you just using the mouse to go up and down
+[0594] [22:46] D: Well what do you
+[0595] [22:46] D: for the ipod you press and
+[0596] [22:47] C: It's like it
+[0597] [22:48] D: all right you've you're on the channel that said when you press on the middle and then maybe
+[0598] [22:50] A: Uh-huh
+[0599] [22:52] D: do that again the volume goes up gonna be do that because that
+[0600] [22:56] D: Did you wanna keep it with volume here and here I'm pretty sure all
+[0601] [23:02] A: Well i mean if if we're gonna use this for channels right thing it would and the volume need to be separate Somehow
+[0602] [23:08] A: Like you just have
+[0603] [23:11] D: I don't know
+[0604] [23:11] D: you can click and then have the up and down
+[0605] [23:11] A: Oh oh like
+[0606] [23:13] D: but i think
+[0607] [23:13] A: Are you could actually
+[0608] [23:15] C: I think we can go on the fact that it does just work with the ipod
+[0609] [23:17] D: Yeah
+[0610] [23:18] B: Yeah
+[0611] [23:18] A: Yeah
+[0612] [23:18] C: but the other thing is like i've had are so expensive
+[0613] [23:20] C: like it has to be
+[0614] [23:22] C: Is that part of
+[0615] [23:23] A: Is that would make sense ones
+[0616] [23:23] C: Yeah
+[0617] [23:24] A: think it's all
+[0618] [23:24] C: i don't know i don't know
+[0619] [23:25] A: they have so much memory
+[0620] [23:25] B: I don't think so
+[0621] [23:26] A: that's that's
+[0622] [23:26] C: You know think so
+[0623] [23:26] B: I don't think it's the
+[0624] [23:27] C: okay
+[0625] [23:28] D: I think that
+[0626] [23:28] B: wheel do we
+[0627] [23:29] A: Yeah
+[0628] [23:29] A: i think it's uh it's their capability i mean i can hold what like five thousand
+[0629] [23:30] C: Okay
+[0630] [23:34] B: Yeah
+[0631] [23:34] A: songs
+[0632] [23:35] A: or something
+[0633] [23:35] C: I think we can
+[0634] [23:36] C: if we if we have to be
+[0635] [23:37] C: mean but and i've had just has that circle thing you know
+[0636] [23:37] B: And every program or board they
+[0637] [23:39] B: you can put a
+[0638] [23:39] A: Yeah
+[0639] [23:39] B: nissan
+[0640] [23:40] B: sentra
+[0641] [23:40] A: Yeah
+[0642] [23:40] B: difference that
+[0643] [23:41] B: that's probably what they're expensive They're like little computers
+[0644] [23:41] A: yeah
+[0645] [23:42] C: Yeah
+[0646] [23:43] C: Yeah
+[0647] [23:45] C: Like isn't it just has the circle
+[0648] [23:46] C: think you can make it a car kind of cool shape
+[0649] [23:49] C: like it could be a call sort of You know Because it could be circular Yeah or something weird like that just
+[0650] [23:50] D: Yeah
+[0651] [23:51] B: Uh-huh
+[0652] [23:54] D: Yeah yeah yeah
+[0653] [23:55] D: Well it could just be simple instead of being little less
+[0654] [23:59] D: Because the other thing I didn't at your presentation is that People find that
+[0655] [24:09] D: Find that it's a big waste of time to have to learn how to use your remote
+[0656] [24:13] C: Yeah
+[0657] [24:14] D: That's another thing they complained about
+[0658] [24:14] A: Yeah
+[0659] [24:16] C: Yeah
+[0660] [24:18] D: What are the buttons well
+[0661] [24:19] D: uh Volume
+[0662] [24:21] D: i would it's just said that
+[0663] [24:24] C: So kate
+[0664] [24:24] D: Channel selection
+[0665] [24:25] C: "'s" just for
+[0666] [24:26] C: t.
+[0667] [24:26] C: v. it's not for our it is does need to be compatible with
+[0668] [24:30] B: A
+[0669] [24:30] B: d.
+[0670] [24:30] B: v.
+[0671] [24:30] B: d. is simply it's a clay pot as It's yeah it's
+[0672] [24:32] C: Yeah
+[0673] [24:33] C: So how do you switch
+[0674] [24:34] A: You know actually i i new project requirements
+[0675] [24:36] B: And then you maybe
+[0676] [24:36] A: i'm not sure if they meant All only use only for television as an not a
+[0677] [24:40] A: d.
+[0678] [24:41] A: v.
+[0679] [24:41] A: d. or just not Internet type things
+[0680] [24:42] B: Oh yeah
+[0681] [24:43] A: so i'll i'll check that not be in the next
+[0682] [24:44] C: Okay
+[0683] [24:46] C: So like if we had that
+[0684] [24:47] A: Well hold off on that "'cause"
+[0685] [24:49] C: Yeah
+[0686] [24:50] A: That's it yeah
+[0687] [24:50] D: The
+[0688] [24:51] D: d.
+[0689] [24:51] D: v.
+[0690] [24:51] D: d. players these you have their own remote
+[0691] [24:53] C: That's yeah yeah
+[0692] [24:54] A: Yeah
+[0693] [24:55] C: So i know i'm not really clear on what
+[0694] [24:56] B: But it's called i have it all on one
+[0695] [24:57] B: because you wanna turn it on
+[0696] [24:57] D: Yeah
+[0697] [24:57] C: Yeah yeah
+[0698] [24:58] B: anyone to have the volume and the younger the menu so You wanna switch
+[0699] [25:00] C: So you have to have like
+[0700] [25:01] C: i think You would have to have like a functions which button
+[0701] [25:04] C: you know somewhere so like you can read and
+[0702] [25:06] C: t.
+[0703] [25:06] C: v. or and
+[0704] [25:07] C: d.
+[0705] [25:07] C: v.
+[0706] [25:07] C: d. or yeah and
+[0707] [25:08] C: v.
+[0708] [25:08] C: c.
+[0709] [25:08] C: r. Or you like i said
+[0710] [25:09] A: Yeah
+[0711] [25:10] B: All the
+[0712] [25:10] B: d.
+[0713] [25:10] B: v.
+[0714] [25:10] B: d.s or like four buttons
+[0715] [25:12] D: Yeah a two
+[0716] [25:12] C: Yeah
+[0717] [25:13] C: but i mean like to switch the plot so like To switch the function of the little circle desk
+[0718] [25:13] A: But
+[0719] [25:18] C: The
+[0720] [25:18] C: touchpad
+[0721] [25:18] A: Yeah
+[0722] [25:18] B: but i think circle only does
+[0723] [25:20] B: channel is
+[0724] [25:20] B: inapplicable the
+[0725] [25:21] B: d.
+[0726] [25:21] B: v.
+[0727] [25:21] B: d. really "'cause" you don't wanna
+[0728] [25:23] C: Yeah but it it would be
+[0729] [25:24] B: But volume is a volume is actually control the
+[0730] [25:26] B: t.
+[0731] [25:26] B: v.s you don't have to switch
+[0732] [25:27] C: So but i'm saying like Doesn't make sense to have like some kind of a buttons
+[0733] [25:31] C: like you're if you're on
+[0734] [25:32] C: t.
+[0735] [25:32] C: v. like you can switch channels
+[0736] [25:35] C: But then if uh if you're on
+[0737] [25:36] C: t.
+[0738] [25:36] C: v.
+[0739] [25:37] C: d. Then like the channel button like the the region of the desk that is for channels as for like switching to different tracks
+[0740] [25:44] C: there's you know what to different
+[0741] [25:46] C: I mean do we need to think about that
+[0742] [25:47] C: but like
+[0743] [25:48] B: It's okay to have a
+[0744] [25:48] A: yeah but think about it
+[0745] [25:49] A: "'cause" we need to wrap up

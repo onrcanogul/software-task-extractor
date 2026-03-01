@@ -1,0 +1,1659 @@
+================================================================================
+ICSI Meeting Transcript: Bmr009
+================================================================================
+
+Total Utterances: 1655
+Unique Speakers: 5
+Duration: 49.95 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:00] me013: Starts
+[0002] [00:00] me013: No .
+[0003] [00:00] fe016: No .
+[0004] [00:01] me013: No .
+[0005] [00:01] fe016: That 's a different thing .
+[0006] [00:01] me013: There
+[0007] [00:02] me013: I don't know .
+[0008] [00:02] me013: It starts with a P or something .
+[0009] [00:03] me013: I forget the word for it , but it 's it 's um
+[0010] [00:04] fe016: Oh .
+[0011] [00:06] me013: Typically when you you 're ab r starting around forty for most people ,
+[0012] [00:09] me013: it starts to harden and then it 's just harder for the lens to shift things
+[0013] [00:10] fe016: Oh .
+[0014] [00:13] me013: and th the the symptom is typically that you you have to hold stuff uh uh further away to to see it .
+[0015] [00:14] mn005: Uh - huh .
+[0016] [00:19] mn005: Yeah .
+[0017] [00:20] me013: In fact , uh m my brother 's a gerontological psychologist
+[0018] [00:23] me013: and he he uh came up with an an uh a uh body age test which uh gets down to sort of only three measurements that are good enough st statistical predictors of all the rest of it .
+[0019] [00:33] me013: And one of them is is the distance that you have to hold it at .
+[0020] [00:35] fe016: Give someone a piece of paper and then they Oh .
+[0021] [00:36] mn005: Yeah .
+[0022] [00:37] me013: Yeah .
+[0023] [00:38] me011: We 're we 're live by the way , so we 've got a good intro here
+[0024] [00:41] me013: Oh . Yeah .
+[0025] [00:42] me013: About how old I am .
+[0026] [00:42] me013: OK .
+[0027] [00:43] me011: Yep .
+[0028] [00:44] me011: We can edit that out if you want .
+[0029] [00:44] fe016: Oh , that 's optional .
+[0030] [00:45] me013: No , that 's OK .
+[0031] [00:45] mn005: Mm - hmm .
+[0032] [00:46] me011: OK .
+[0033] [00:46] fe016: You know .
+[0034] [00:46] me011: So . This time the form discussion should be very short ,
+[0035] [00:51] me011: right ?
+[0036] [00:51] me013: It also should be later .
+[0037] [00:53] me011: OK .
+[0038] [00:53] me013: Because Jane uh is not here yet .
+[0039] [00:56] me011: Good point .
+[0040] [00:57] me013: And uh she 'll be most interested in that .
+[0041] [00:59] me013: Uh , she 's probably least involved in the signal - processing stuff
+[0042] [01:02] me013: so maybe we can just just uh ,
+[0043] [01:03] me013: I don't think we should go though an elaborate thing ,
+[0044] [01:06] me013: but um uh Jose and I were just talking about the uh uh , speech e energy thing ,
+[0045] [01:12] mn005: The
+[0046] [01:13] mn005: Yeah .
+[0047] [01:14] me013: and
+[0048] [01:15] me013: We didn't talk about the derivatives .
+[0049] [01:16] me013: But I think , you know , the the i
+[0050] [01:17] me013: if I can if you don't mind my my speaking for you for a bit , um Uh .
+[0051] [01:21] me013: Right
+[0052] [01:25] me013: but we discussed a couple of the possible things that uh he can look at .
+[0053] [01:29] me013: Um . And uh one is that uh this is all in log energy
+[0054] [01:32] me013: and log energy is basically compressing the distances uh between things .
+[0055] [01:37] me013: Um Another is that he needs to play with the the different uh uh temporal sizes .
+[0056] [01:42] me013: He was he he was taking everything over two hundred milliseconds
+[0057] [01:46] me013: uh , and uh he 's going to vary that number and also look at moving windows , as we discussed before .
+[0058] [01:51] me013: Um And uh and the other thing is that the yeah doing the subtracting off the mean and the variance in the uh and dividing it by the standard deviation in the log domain , may not be the right thing to do .
+[0059] [02:05] mn005: Hi .
+[0060] [02:05] me011: Hi Jane !
+[0061] [02:05] mn005: Yeah .
+[0062] [02:05] me011: We just started .
+[0063] [02:07] me011: Could you take that mike there ?
+[0064] [02:07] fe016: Are these the long term means ?
+[0065] [02:08] fe016: Like
+[0066] [02:10] fe016: I mean , the means of what ?
+[0067] [02:11] me013: Uh
+[0068] [02:12] fe016: All the frames in the conversation ?
+[0069] [02:12] me011: Thanks .
+[0070] [02:13] fe016: Or
+[0071] [02:13] me013: No .
+[0072] [02:14] me013: Between
+[0073] [02:14] me013: Neither .
+[0074] [02:14] mn005: No .
+[0075] [02:15] me013: It 's uh between the pauses uh for some segment .
+[0076] [02:15] fe016: Oh .
+[0077] [02:17] me013: And so i i his his He 's making the constraint it has to be at least two hundred milliseconds .
+[0078] [02:18] fe016: Oh .
+[0079] [02:22] me013: And so you take that .
+[0080] [02:23] me013: And
+[0081] [02:25] me013: still
+[0082] [02:26] fe016: Right .
+[0083] [02:27] me013: and then and then just uh normalizing with that larger amount .
+[0084] [02:30] me013: um and But one thing he was pointing out is when he he looked at a bunch of examples in log domain , it is actually pretty hard to see the change .
+[0085] [02:38] me013: And you can sort of see that , because of j of just putting it on the board that if you sort of have log - X plus log - X , that 's the log of X plus the log of two
+[0086] [02:40] mn005: Yep .
+[0087] [02:43] fe016: Yeah , maybe it 's not log distributed .
+[0088] [02:45] mn005: Mmm .
+[0089] [02:45] mn005: Yeah .
+[0090] [02:46] me013: and it 's just , you know , it it diminishes the effect of having two of them .
+[0092] [02:50] fe016: But you could do like a C D F there instead ?
+[0093] [02:50] me013: Um .
+[0094] [02:52] fe016: I mean , we don't know that the distribution here is normally .
+[0095] [02:54] me013: Yes , right .
+[0096] [02:54] me013: So
+[0097] [02:55] fe016: So
+[0098] [02:57] me013: Actually , a PDF .
+[0099] [02:58] me013: But , you know , uh But , either way .
+[0100] [02:58] fe016: PDF
+[0101] [02:59] me013: Yeah .
+[0102] [03:00] fe016: Yeah .
+[0103] [03:00] mn005: Yeah .
+[0104] [03:00] me013: Yeah , eith eith uh B
+[0105] [03:01] fe016: Something like that where it 's sort of data driven .
+[0106] [03:04] me013: Yeah
+[0107] [03:19] mn005: Yeah . Yeah .
+[0108] [03:19] me013: Then , that 's a problem right there .
+[0109] [03:22] me013: So . I think you should at least be able ,
+[0110] [03:22] fe016: Oh yeah .
+[0111] [03:23] me013: doing casual looking and can get the sense , " Hey , there 's something there . "
+[0112] [03:26] me013: and then you can play around with the measures .
+[0113] [03:28] fe016: Oh yeah .
+[0114] [03:28] mn005: Yeah .
+[0115] [03:28] me013: And when he 's looking in the log domain he 's not really seeing it .
+[0116] [03:30] me013: So .
+[0117] [03:30] me013: And when he 's looking in straight energy he is ,
+[0118] [03:33] me013: so that 's a good place to start .
+[0119] [03:34] mn005: Yeah .
+[0120] [03:35] me013: Um . So that was that was the discussion we just had .
+[0121] [03:37] me013: Um . The other thing
+[0122] [03:38] me013: Actually we ca had a question for Adam in this .
+[0123] [03:41] me013: Uh , when you did the sampling ? uh over the speech segments or s or sampling over the the individual channels in order to do the e uh the amplitude equalization , did you do it over just the entire everything in the mike channels ?
+[0124] [03:41] mn005: How
+[0125] [03:55] me013: You didn't try to find speech ?
+[0126] [03:56] me011: No , I just took over the entire s uh entire channel
+[0127] [03:59] me011: um sampled ten minutes randomly .
+[0128] [04:02] me013: Right , OK .
+[0129] [04:02] me013: So then that means that someone who didn't speak very much would be largely represented by silence .
+[0130] [04:06] me011: Yep .
+[0131] [04:08] me013: And
+[0132] [04:09] me013: So
+[0133] [04:12] me011: Yeah , this was quite quick and dirty , and it was just for listening .
+[0134] [04:13] mn005: Yeah .
+[0135] [04:14] me013: Yeah .
+[0136] [04:16] me013: OK .
+[0137] [04:16] me011: And for listening it seems to work really well .
+[0138] [04:16] mn005: Yeah .
+[0139] [04:18] me013: Yeah .
+[0140] [04:18] mn005: Yeah .
+[0141] [04:19] me011: So .
+[0142] [04:19] me013: Yeah .
+[0143] [04:20] me013: But
+[0144] [04:21] me013: Right .
+[0145] [04:21] me011: But , it 's not Not a good measure .
+[0146] [04:21] me013: So th
+[0147] [04:22] mn005: Yeah .
+[0148] [04:24] me013: OK .
+[0149] [04:25] me013: So yeah there there there There 's a good chance then given that different people do talk different amounts that there is there there is still a lot more to be gained from gain norm normalization with some sort
+[0150] [04:29] mn005: Yeah . Yeah .
+[0151] [04:32] mn005: Mmm .
+[0152] [04:33] me011: Yes , absolutely .
+[0153] [04:33] me013: if if we can figure out a way to do it .
+[0154] [04:34] mn005: Yeah .
+[0155] [04:35] me013: Uh . But we were agreed that in addition to that uh there should be s stuff related to pitch and harmonics and so forth .
+[0156] [04:41] mn005: Yeah .
+[0157] [04:43] me013: So we didn't talk at all about uh the other derivatives ,
+[0158] [04:46] me013: but
+[0159] [04:49] me013: Uh
+[0160] [04:54] mn005: Yeah .
+[0161] [04:55] me013: Well , actually , you do have some distributions here , uh for these cases .
+[0162] [04:57] mn005: Yeah .
+[0163] [04:58] me013: You have some histograms ,
+[0164] [05:00] mn005: Yeah .
+[0165] [05:00] me013: um and uh , they don't look very separate .
+[0166] [05:03] me013: uh separated .
+[0167] [05:05] mn005: This is the the first derivate of log of frame energy uh without any kind of normalization .
+[0168] [05:06] fe016: What
+[0169] [05:07] me013: Yeah .
+[0170] [05:09] me013: Yeah .
+[0171] [05:11] me013: Yeah .
+[0172] [05:12] fe016: Log energy .
+[0173] [05:13] mn005: These the These are the the first experiments uh with comment uh
+[0174] [05:13] fe016: Sorry .
+[0175] [05:16] fe016: Frame energy .
+[0176] [05:17] me011: Except that it 's hard to judge this because the they 're not normalized .
+[0177] [05:21] me011: It 's just number of frames .
+[0178] [05:21] fe016: Yeah .
+[0179] [05:22] me013: Yeah .
+[0180] [05:23] mn005: Yeah .
+[0181] [05:23] fe016: Yeah .
+[0182] [05:24] me011: But yeah , even so .
+[0183] [05:24] fe016: W I mean , what I meant is , even if you use linear , you know , raw measures , like raw energy or whatever ,
+[0184] [05:26] me013: "
+[0185] [05:32] fe016: maybe we shouldn't make any assumptions about the distribution 's shape ,
+[0186] [05:38] fe016: and just use you know , use the distribution to model the the mean ,
+[0187] [05:43] fe016: or
+[0188] [05:46] me013: Yeah .
+[0189] [05:46] me013: But And so in in these he 's got that .
+[0190] [05:46] fe016: Yeah .
+[0191] [05:48] me013: He 's got some pictures .
+[0192] [05:49] mn005: Yeah .
+[0193] [05:49] me013: But he doesn't he doesn't in the he i
+[0194] [05:51] me013: just
+[0195] [05:51] fe016: Yeah .
+[0196] [05:53] fe016: Oh .
+[0197] [05:53] me013: but
+[0198] [05:53] fe016: Right . So , we don't know what they look like on the , tsk For the raw .
+[0199] [05:56] me013: But he didn't h have it for the energy .
+[0200] [05:57] me013: He had it for the derivatives .
+[0201] [05:58] fe016: Yeah .
+[0202] [05:58] fe016: So .
+[0203] [05:58] me013: Yeah .
+[0204] [05:59] fe016: I mean , there might be something there .
+[0205] [06:00] fe016: I don't know .
+[0206] [06:02] fe016: Huh .
+[0207] [06:02] me013: Yeah .
+[0208] [06:04] me011: Interesting
+[0209] [06:05] mn005: Here I I
+[0210] [06:06] me013: Oh that yeah that 's a good q
+[0211] [06:06] mn005: in No I I I haven't the result
+[0212] [06:07] me013: did did you have this sort of thing , for just the just the l r uh the the unnormalized log energy ?
+[0213] [06:15] me013: OK . Yeah .
+[0214] [06:15] me013: So she she 's right .
+[0215] [06:15] mn005: but it 's the it 's the the the following .
+[0216] [06:16] me013: That
+[0217] [06:17] fe016: Well it might be just good to know what it looks like .
+[0218] [06:19] me013: Yeah .
+[0219] [06:19] fe016: Cuz
+[0220] [06:19] me013: That 's That 's uh cuz I 'd mentioned scatter plots before but she 's right ,
+[0221] [06:19] mn005: Huh ?
+[0222] [06:23] me013: I mean , even before you get the scatter plots , just looking at a single feature uh , looking at the distribution , is a good thing to do .
+[0223] [06:26] mn005: Yeah .
+[0224] [06:30] mn005: Catal - uh Combining the different possibilities of uh the parameters .
+[0225] [06:34] mn005: I I I I mean the the the scatter plot combining eh different n two combination .
+[0226] [06:42] me013: Yeah , but but what she 's saying is , which is right , is le
+[0227] [06:42] mn005: combination
+[0228] [06:45] me013: I
+[0229] [06:46] me013: Before we get complicated , let 's start with the most basic wh thing , which is we 're arguing that if you take energy uh if you look at the energy , that , when two people are speaking at the same time , usually there 'll be more energy than when one is
+[0230] [07:01] mn005: Yeah .
+[0231] [07:01] me013: right ?
+[0232] [07:02] me013: That 's that sort of hypothesis .
+[0233] [07:02] mn005: That 's right .
+[0234] [07:03] me013: And the first way you 'd look at that , uh s she 's , you know , absolutely right ,
+[0235] [07:06] me013: is that you would just take a look at the distribution of those two things ,
+[0236] [07:09] mn005: Yeah .
+[0237] [07:09] me013: much as you 've plotted them here ,
+[0238] [07:11] me013: You
+[0239] [07:11] mn005: Yeah .
+[0240] [07:13] me013: Well in this case you have three .
+[0241] [07:14] me013: You have the silence , and that that 's fine .
+[0242] [07:15] mn005: Yeah .
+[0243] [07:16] me013: So , uh with three colors or three shades or whatever ,
+[0244] [07:19] me013: just just look at those distributions .
+[0245] [07:19] mn005: Yeah .
+[0246] [07:21] me013: And then , given that as a base , you can see if that gets improved , you know , or or or worsened by the looking at regular energy , looking at log energy ,
+[0247] [07:29] me013: we were just proposing that maybe it 's you know , it 's harder to see with the log energy ,
+[0248] [07:33] mn005: Yeah .
+[0249] [07:33] me013: um and uh also these different normalizations , does a particular choice of normalization make it better ?
+[0250] [07:40] me013: But I had maybe made it too complicated by suggesting early on , that you look at scatter plots
+[0251] [07:44] me013: because that 's looking at a distribution in two dimensions .
+[0252] [07:47] me013: Let 's start off just in one , uh , with this feature .
+[0253] [07:47] mn005: Yeah .
+[0254] [07:49] mn005: Yeah .
+[0255] [07:51] mn005: Yeah .
+[0256] [07:51] me013: I think that 's probably the most basic thing , before anything very complicated .
+[0257] [07:54] fe016: Yeah .
+[0258] [07:54] me013: Um And then we w I think we 're agreed that pitch - related things are are are going to be a a really likely candidate to help .
+[0259] [07:54] mn005: Yeah .
+[0260] [07:56] mn005: I agree , yeah .
+[0261] [08:01] mn005: Uh - huh .
+[0262] [08:03] me013: Um But since uh your intuition from looking at some of the data , is that when you looked at the regular energy , that it did in fact usually go up , when two people were talking , that 's eh you know , you should be able to come up with a measure which will match your intuition .
+[0263] [08:03] mn005: OK .
+[0264] [08:12] mn005: Yeah .
+[0265] [08:12] mn005: Yeah .
+[0266] [08:14] mn005: Yeah , yeah , yeah .
+[0267] [08:19] me013: And she 's right , that a that having a having having this table , with a whole bunch of things , with the standard deviation , the variance and so forth , it 's it 's it 's harder to interpret than just looking at the the same kind of picture you have here .
+[0268] [08:21] mn005: But
+[0269] [08:24] mn005: Uh - huh .
+[0270] [08:27] mn005: Yeah .
+[0271] [08:28] mn005: But It it 's curious but uh I f I found it in the in the mixed file , in one channel that eh in several oh e eh several times eh you have an speaker talking alone with a high level of energy
+[0272] [08:43] me013: Mm - hmm .
+[0273] [08:45] me013: Mm - hmm .
+[0274] [08:46] mn005: eh in the middle eh a zone of overlapping with mmm less energy
+[0275] [08:49] me013: Mm - hmm .
+[0276] [08:53] mn005: and eh come with another speaker with high energy
+[0277] [08:58] me013: Mm - hmm .
+[0278] [08:58] mn005: and the overlapping zone has eh less energy .
+[0279] [09:02] me013: Yeah
+[0280] [09:03] mn005: Because there reach very many
+[0281] [09:05] fe016: Right .
+[0282] [09:05] me013: But
+[0283] [09:07] me013: This is I w want to point to visual things ,
+[0284] [09:10] me013: But I mean they there 'll be time There 'll be overlap between the distributions ,
+[0285] [09:13] me013: but the question is , " If it 's a reasonable feature at all , there 's some separation . "
+[0286] [09:13] mn005: Yeah .
+[0287] [09:17] mn005: Yeah .
+[0288] [09:18] fe016: Especially locally .
+[0289] [09:21] me013: Mm - hmm .
+[0290] [09:21] fe016: So . Locally .
+[0291] [09:21] mn005: just locally , yeah .
+[0292] [09:22] me011: And I was just going to say that that right now we 're just exploring .
+[0293] [09:22] fe016: And the other thing is I
+[0294] [09:23] fe016: Sorry .
+[0295] [09:23] fe016: I
+[0296] [09:27] mn005: Yeah .
+[0297] [09:27] me011: What you would imagine eventually , is that you 'll feed all of these features into some discriminative system .
+[0298] [09:32] me013: Yeah .
+[0299] [09:33] mn005: Yeah .
+[0300] [09:33] me011: And so even if if one of the features does a good job at one type of overlap , another feature might do a good job at another type of overlap .
+[0301] [09:37] mn005: Yeah .
+[0302] [09:39] mn005: Yeah .
+[0303] [09:39] mn005: Yeah
+[0304] [09:40] me013: Right . I mean the the reason I had suggested the scatter f p features is I used to do this a lot , when we had thirteen or fifteen or twenty features to look at .
+[0305] [09:48] me013: um Because something is a good feature uh by itself , you don't really know how it 'll behave in combination
+[0306] [09:54] me013: and so it 's nice to have as many as many together at the same time as possible in uh in some reasonable visual form .
+[0307] [10:00] me013: There 's cool graphic things people have had sometimes to put together three or four in some funny funny way .
+[0308] [10:05] me013: But it 's true that you shouldn't do any of that unless you know that the individual ones , at least , have have some uh some hope
+[0309] [10:10] mn005: Yeah .
+[0310] [10:11] fe016: Well , especially for normalizing .
+[0311] [10:13] fe016: I mean , it 's really important to pick a normalization that matches the distribution for that feature .
+[0312] [10:13] me013: Mm - hmm .
+[0313] [10:18] me013: Mm - hmm .
+[0314] [10:19] fe016: And it may not be the same for all the types of overlaps or the windows may not be the same .
+[0315] [10:27] fe016: e Actually , I was wondering , right now you 're taking a all of the speech , from the whole meeting , and you 're trying to find points of overlap ,
+[0316] [10:37] fe016: but we don't really know which speaker is overlapping with which speaker ,
+[0317] [10:39] fe016: right ?
+[0318] [10:40] me013: Right .
+[0319] [10:40] mn005: Yeah .
+[0320] [10:41] fe016: So I mean another way would just be to take the speech from just , say , Morgan , And just Jane and then just their overlaps ,
+[0321] [10:48] fe016: like but by hand ,
+[0322] [10:50] fe016: by cheating ,
+[0323] [10:51] fe016: and looking at you know , if you can detect something that way ,
+[0324] [10:53] fe016: because if we can't do it that way , there 's no good way that we 're going to be able to do it .
+[0325] [10:56] me011: No prayer .
+[0326] [10:57] fe016: That You know , there might be something helpful and cleaner about looking at just individuals and then that combination alone .
+[0327] [11:05] mn005: Yeah .
+[0328] [11:06] fe016: Plus , I think it has more elegant e
+[0329] [11:07] me013: Mm - hmm .
+[0330] [11:10] fe016: The m the right model will be easier to see that way .
+[0331] [11:13] fe016: So if I don't know , if you go through and you find Adam , cuz he has a lot of overlaps and some other speaker who also has e enough speech
+[0332] [11:16] mn005: Yeah .
+[0333] [11:20] fe016: and just sort of look at those three cases of Adam and the other person and the overlaps ,
+[0334] [11:23] mn005: Yeah .
+[0335] [11:26] fe016: maybe
+[0336] [11:27] fe016: and just look at the distributions , maybe there is a clear pattern
+[0337] [11:29] mn005: Yeah .
+[0338] [11:30] mn005: Uh - huh .
+[0339] [11:31] fe016: but we just can't see it because there 's too many combinations of of people that can overlap .
+[0340] [11:35] mn005: Yeah .
+[0341] [11:37] fe008: I had the same intuition last last last week .
+[0342] [11:38] fe016: So .
+[0343] [11:39] mn005: Yeah .
+[0344] [11:39] fe016: Just seems sort of complex .
+[0345] [11:40] fe008: I think it 's to start with it 's s your your idea of simplifying ,
+[0346] [11:43] fe008: starting
+[0347] [11:48] fe016: Right .
+[0348] [11:48] fe016: Cuz
+[0349] [11:50] fe016: I don't think this is true , but what if
+[0350] [11:51] mn005: To study individual ?
+[0351] [11:53] fe016: Hmm ?
+[0352] [11:53] fe008: Sorry ,
+[0353] [11:53] fe008: what ?
+[0354] [11:53] mn005: To study individual ?
+[0355] [11:55] fe008: Well , you you you don't have to study everybody individually
+[0356] [11:55] fe016: Well
+[0357] [11:55] mn005: The
+[0358] [11:57] fe008: but just simple case
+[0359] [11:58] fe008: and the one that has the lot of data associated with it .
+[0360] [12:00] fe016: Right .
+[0361] [12:00] fe016: Cuz
+[0362] [12:02] me011: That was a great overlap by the way .
+[0363] [12:06] fe016: What
+[0364] [12:11] fe016: both people talk more softly ?
+[0365] [12:12] fe016: I don't think this happens at all .
+[0366] [12:13] fe008: Or or what if what if the equipment what if the equipment adjusts somehow ,
+[0367] [12:13] fe016: Or they get louder .
+[0368] [12:16] fe008: there 's some equalizing in there ?
+[0369] [12:16] fe016: Yeah
+[0370] [12:17] me013: Uh , no we don't have that .
+[0371] [12:17] fe016: I mean .
+[0372] [12:18] me013: But .
+[0373] [12:18] me011: Well , but But I think that 's what I was saying about different types of overlap .
+[0374] [12:19] fe008: OK .
+[0375] [12:21] fe008: Saturation .
+[0376] [12:23] fe016: There are there are different types ,
+[0377] [12:25] fe016: and within those types ,
+[0378] [12:27] fe016: like as Jose was saying , that sounded like a backchannel overlap ,
+[0379] [12:30] fe016: meaning the kind that 's a friendly encouragement , like " Mm - hmm . " ,
+[0380] [12:33] fe016: " Great ! " ,
+[0381] [12:33] fe016: " Yeah ! "
+[0382] [12:34] mn005: Yeah .
+[0383] [12:35] fe016: And it doesn't take you don't take the floor .
+[0384] [12:37] fe016: Um , but , some of those , as you showed , I think can be discriminated by the duration of the overlap .
+[0385] [12:43] mn005: Yeah .
+[0386] [12:43] fe016: So .
+[0387] [12:45] fe016: It
+[0388] [12:51] fe016: He 's getting his feet wet and then he 'll be starting again in mid - January .
+[0389] [12:55] fe016: He 's interested in trying to distinguish the types of overlap .
+[0390] [12:58] fe016: I don't know if he 's talked with you yet .
+[0391] [12:59] mn005: Yeah .
+[0392] [13:00] fe016: But in sort of honing in on these different types
+[0393] [13:00] mn005: I don't consi Now I don't consider that possibility .
+[0394] [13:02] fe016: and
+[0395] [13:03] mn005: This is a s a general studio of the overlapping we 're studying the i
+[0396] [13:06] me013: Yeah .
+[0397] [13:07] fe016: So it might be something that we can help by categorizing some of them and then , you know , look at that .
+[0398] [13:07] me013: Well I I I I would s actually still recommend that he do the overall thing
+[0399] [13:16] me013: because it would be the quickest thing for him to do .
+[0400] [13:18] me013: He could You see , he already has all his stuff in place ,
+[0401] [13:19] fe016: Yeah .
+[0402] [13:20] me013: he has the histogram mechanism ,
+[0403] [13:22] me013: he
+[0404] [13:23] me013: and all he has to do is change it uh uh from from log to plain energy and plot the histogram and look at it .
+[0405] [13:30] me013: And then he should go on and do the other stuff bec
+[0406] [13:32] fe016: Yeah .
+[0407] [13:32] me013: but
+[0408] [13:33] fe016: Yeah , no . I didn't mean that that for you to do that ,
+[0409] [13:35] fe016: but I was thinking if if Don and I are trying to get categories
+[0410] [13:37] me013: Mm - hmm .
+[0411] [13:39] fe016: and
+[0412] [13:39] me013: Mm - hmm .
+[0413] [13:42] fe016: So you don't have to worry about it .
+[0414] [13:43] fe016: And here 's the three types of overlaps .
+[0415] [13:43] mn005: Yeah .
+[0416] [13:45] fe016: And we 'll we 'll do the labelling for you .
+[0417] [13:46] mn005: Yeah .
+[0418] [13:47] me013: Hm - hmm .
+[0419] [13:47] fe016: Um .
+[0420] [13:47] mn005: Consider different class of overlap ?
+[0421] [13:49] fe016: Yeah , that we would be working on anyway .
+[0422] [13:50] mn005: If there 's time .
+[0423] [13:52] mn005: Yeah .
+[0424] [13:52] fe016: Then
+[0425] [13:54] mn005: Yeah .
+[0426] [13:56] mn005: This is the thing I I comment with you before , that uh we have a great variation of th situation of overlapping .
+[0427] [14:02] me013: Mm - hmm .
+[0428] [14:02] mn005: And the behavior for energy is , uh log energy , is not uh the same all the time .
+[0429] [14:08] fe016: Mm - hmm .
+[0430] [14:08] mn005: And
+[0431] [14:09] me013: But
+[0432] [14:23] me013: and I would imagine there should be some you know , there should be The distributions should be somewhat separated .
+[0433] [14:25] mn005: Yeah .
+[0434] [14:30] mn005: Yeah .
+[0435] [14:31] me013: Uh and I I would still guess that if they are not separated at all , that there 's some there 's there 's most likely something wrong in the way that we 're measuring it .
+[0436] [14:35] mn005: Yeah .
+[0437] [14:39] mn005: Yeah .
+[0438] [14:39] mn005: Yeah .
+[0439] [14:40] me013: Um , but um For instance , I mean I wouldn't expect that it was very common overall , that when two people were talking at the same time , that it would that it really was lower ,
+[0440] [14:51] mn005: Yeah .
+[0441] [14:51] me013: although sometimes , as you say , it would .
+[0442] [14:54] mn005: Yeah .
+[0443] [14:54] fe016: Yeah , no , that was That was a jok
+[0444] [14:54] me013: So . So .
+[0445] [14:56] fe016: or a sort of , a case where where you would never know that unless you actually go and look at two individuals .
+[0446] [14:56] me013: Yeah .
+[0447] [14:58] me013: I mean .
+[0448] [14:58] me013: No .
+[0449] [14:58] me013: It could it probably does happen sometimes .
+[0450] [14:59] mn005: Yeah .
+[0451] [15:02] me013: Yeah .
+[0452] [15:02] me011: Right .
+[0453] [15:02] me013: Yeah .
+[0454] [15:03] mn005: Yeah .
+[0455] [15:03] me011: Mind if I turned that light off ?
+[0456] [15:03] fe016: So .
+[0457] [15:04] me011: The flickering is annoying me .
+[0458] [15:06] me013: OK .
+[0459] [15:07] fe016: It might the case , though , that the significant energy , just as Jose was saying , comes in the non - backchannel cases .
+[0460] [15:13] fe016: Because in back Most people when they 're talking don't change their own energy when they get a backchannel ,
+[0461] [15:18] fe016: cuz they 're not really predicting the backchannel .
+[0462] [15:19] me013: Mm - hmm .
+[0463] [15:20] fe016: And sometimes it 's a nod and sometimes it 's an " mm - hmm " .
+[0464] [15:21] mn005: Yeah .
+[0465] [15:22] fe016: And the " mm - hmm " is really usually very low energy .
+[0466] [15:25] mn005: Yeah .
+[0467] [15:26] fe016: So maybe those don't actually have much difference in energy .
+[0468] [15:29] fe016: But all the other cases might .
+[0469] [15:31] fe016: and
+[0470] [15:31] me013: e e and and again what they what difference there was would kind of be lost in taking the log ,
+[0471] [15:35] fe016: I mean , just listen to it .
+[0472] [15:35] mn005: Yeah .
+[0473] [15:36] fe016: So .
+[0474] [15:39] me013: so ,
+[0475] [15:40] fe016: Well , it would be lost no matter what you do .
+[0476] [15:40] mn005: But
+[0477] [15:41] me013: as well .
+[0478] [15:41] mn005: Yeah .
+[0479] [15:42] fe016: It
+[0480] [15:43] me013: Mmm , no ,
+[0481] [15:44] me013: if
+[0482] [15:45] me011: Tone
+[0483] [15:45] me013: Well , it won't be as big .
+[0484] [15:46] fe016: I mean , even if you take the log , you can your model just has a more sensitive measures .
+[0485] [15:48] mn005: Yeah .
+[0486] [15:49] me011: Sure , but tone might be very
+[0487] [15:50] fe016: So .
+[0488] [15:52] me011: Yeah , you 're " mm - hmm " tone is going to be very different .
+[0489] [15:52] fe016: Yeah .
+[0490] [15:53] fe016: Right . Right .
+[0491] [15:56] me011: You could imagine doing specialized ones for different types of backchannels , if you could if you had a good model for it .
+[0492] [16:02] me011: Your " mm - hmm " detector .
+[0493] [16:02] me013: If if you 're a I guess my point is , if you 're doing essentially a linear separation , taking the log first does in fact make it harder to separate .
+[0494] [16:09] me011: Right .
+[0495] [16:09] mn005: Yeah .
+[0496] [16:10] me013: So it 's So , uh if you i i So i if there if there close to things it does
+[0497] [16:13] fe016: Yeah .
+[0498] [16:15] me013: it 's a nonlinear operation that does in fact change the distinction .
+[0499] [16:17] me013: If you 're doing a non if you 're doing some fancy thing then then
+[0500] [16:20] me013: yeah .
+[0501] [16:20] me013: And right now we 're essentially doing this linear thing by looking across here and and saying we 're going to cut it here .
+[0502] [16:25] me013: Um and that that 's the indicator that we 're getting .
+[0503] [16:28] me013: But anyway , yeah , we 're not disagreeing on any of this ,
+[0504] [16:30] me013: we should look at it more uh more finely , but uh uh I think that This often happens , you do fairly complicated things , and then you stand back from them and you realize that you haven't done something simple .
+[0505] [16:39] me013: So uh , if you generated something like that just for the energy and see , and then , a a a as as Liz says , when they g have uh uh smaller um , more coherent groups to look at , that would be another interesting thing later .
+[0506] [16:47] mn005: Uh - huh .
+[0507] [16:52] mn005: Uh - huh .
+[0508] [16:52] me013: And then that should give us some indication between those , should give us some indication of whether there 's anything to be achieved f from energy at all .
+[0509] [16:59] me013: And then you can move on to the uh uh more pitch related stuff .
+[0510] [17:01] mn005: Mm - hmm .
+[0511] [17:02] mn005: I I I think this is a good idea .
+[0512] [17:04] me013: OK .
+[0513] [17:04] mn005: Not consider the log energy .
+[0514] [17:04] fe008: Mm - hmm .
+[0515] [17:05] me013: Yeah .
+[0516] [17:06] me013: But
+[0517] [17:07] me013: Have you started looking at the pitch related stuff at all ,
+[0518] [17:09] me013: or ?
+[0519] [17:09] mn005: The ?
+[0520] [17:10] me013: Pitch related ?
+[0521] [17:11] me013: Harmonicity and so on ?
+[0522] [17:11] mn005: I I 'm preparing the the program but I don't I don't begin because eh I saw your email
+[0523] [17:13] me013: Preparing
+[0524] [17:14] me013: Yeah .
+[0525] [17:17] mn005: and I agree with you it 's better to I suppose it 's better to to consider the the energy this kind of parameter bef
+[0526] [17:17] me013: Yeah .
+[0527] [17:25] me013: Oh , that 's not what I meant .
+[0528] [17:26] me013: No , no .
+[0529] [17:26] me013: I
+[0530] [17:28] me013: Well , we certainly should see this but I I I I think that the harm
+[0531] [17:32] me013: I certainly wasn't saying this was better than the harmonicity and pitch related things
+[0532] [17:36] me013: I was just saying
+[0533] [17:36] mn005: I I go on with the with the pitch ,
+[0534] [17:37] me013: Yeah .
+[0535] [17:38] mn005: aha ! OK .
+[0536] [17:39] me013: Yeah
+[0537] [17:39] mn005: I I I I understood uh that eh I I had to finish by the moment with the and and concentrate my my energy in that problem .
+[0538] [17:47] me013: OK .
+[0539] [17:48] me013: OK . OK .
+[0540] [17:49] me013: But I think , like , all these derivatives and second derivatives and all these other very fancy things ,
+[0541] [17:53] me013: I think I would just sort of look at the energy and then get into the harmonicity as as a suggestion .
+[0542] [17:56] mn005: OK .
+[0543] [17:57] mn005: I go on with the pitch .
+[0544] [17:59] me013: Uh OK .
+[0545] [18:01] me013: So maybe uh since w we 're trying to uh compress the meeting ,
+[0546] [18:05] me013: um , I know Adam had some form stuff he wanted to talk about
+[0547] [18:08] me013: and did you have some ?
+[0548] [18:09] fe008: I wanted to ask just s something on the end of this top topic .
+[0549] [18:12] fe008: So , when I presented my results about the uh distribution of overlaps and the speakers and the profiles of the speakers , at the bottom of that I did have a proposal ,
+[0550] [18:17] mn005: Uh - huh .
+[0551] [18:19] fe008: and
+[0552] [18:26] fe016: Oh .
+[0553] [18:27] fe016: That 'd be great .
+[0554] [18:27] fe008: and you know I said that on my in my summary ,
+[0555] [18:28] fe016: Yeah , I remem
+[0556] [18:29] fe008: that you know so it 's like people may have different amounts of being overlapped with or overlapping
+[0557] [18:29] fe016: Right .
+[0558] [18:34] fe008: but that in itself is not informative without knowing what types of overlaps they 're involved in
+[0559] [18:38] fe008: so I was planning to do a taxonomy of types overlaps with reference to that .
+[0560] [18:41] fe016: That would be great .
+[0561] [18:42] mn005: Yeah .
+[0562] [18:42] fe016: That would be really great .
+[0563] [18:42] fe008: So , but it you know it 's like it sounds like you also have uh something in that direction .
+[0564] [18:43] me011: Hmm .
+[0565] [18:47] fe008: Is
+[0566] [18:47] fe016: We
+[0567] [18:48] fe016: You know , basically , we got his environment set up .
+[0568] [18:51] fe016: He 's he 's a double - E you know .
+[0569] [18:53] fe016: So . It 's mostly that , if we had to label it ourselves , we we would or we 'd have to , to get started ,
+[0570] [19:00] fe016: but if It it would be much better if you can do it .
+[0571] [19:03] fe016: You 'd be much better at doing it also
+[0572] [19:05] fe016: because you know , I I 'm not I don't have a good feel for how they should be sorted out ,
+[0573] [19:08] fe008: Interesting .
+[0574] [19:10] fe016: and I really didn't wanna go into that if I didn't have to .
+[0575] [19:14] fe016: So
+[0576] [19:15] fe008: Well maybe we can
+[0577] [19:15] me011: It would be interesting , though , to talk , maybe not at the meeting , but at some other time about what are the classes .
+[0578] [19:16] fe008: OK .
+[0579] [19:17] mn005: Yeah .
+[0580] [19:18] fe008: Mm - hmm .
+[0581] [19:18] fe016: Yeah .
+[0582] [19:21] mn005: Yeah .
+[0583] [19:21] fe008: Mm - hmm .
+[0584] [19:22] fe016: I think that 's a research effort in and of itself ,
+[0585] [19:24] me011: Yeah , it would be interesting .
+[0586] [19:24] fe016: because you can read the literature , but I don't know how it 'll turn out
+[0587] [19:25] mn005: Yeah .
+[0588] [19:27] fe016: and , You know , it 's always an interesting question .
+[0589] [19:27] mn005: I would think it 's interesting , yeah .
+[0590] [19:28] fe008: It seems like we also s with reference to a purpose , too , that we we 'd want to have them coded .
+[0591] [19:30] mn005: Yeah .
+[0592] [19:31] fe016: That 'd be great .
+[0593] [19:32] mn005: Yeah .
+[0594] [19:32] me011: Yep .
+[0595] [19:33] fe016: That 'd be really great .
+[0596] [19:33] fe008: OK .
+[0597] [19:33] fe016: And we 'd still have some funding for this project ,
+[0598] [19:34] fe008: I can do that .
+[0599] [19:34] mn005: uh uh
+[0600] [19:37] fe016: like
+[0601] [19:43] fe008: Mm - hmm .
+[0602] [19:44] fe016: I mean , he we 're not paying him the full RA - ship for all the time .
+[0603] [19:48] fe016: So
+[0604] [19:52] fe016: I
+[0605] [19:54] fe008: Mm - hmm .
+[0606] [19:55] fe008: Yeah , I see this as a prototype , to use the only the the already transcribed meeting as just a prototype .
+[0607] [19:55] mn005: Yeah .
+[0608] [19:56] fe016: Yeah .
+[0609] [19:58] mn005: I I think a a another parameter we c we we can consider is eh the duration .
+[0610] [20:00] fe016: But
+[0611] [20:03] me011: Mm - hmm .
+[0612] [20:04] mn005: Another e e m besides eh the the class of overlap , the duration .
+[0613] [20:08] mn005: Because is possible eh some s s um eh some classes eh has eh a type of a duration ,
+[0614] [20:14] mn005: eh , a duration very short uh when we have we have overlapping with speech .
+[0615] [20:15] fe008: Mm - hmm .
+[0616] [20:17] fe016: Yeah , definitely .
+[0617] [20:18] fe008: Yeah , maybe It may be correlated .
+[0618] [20:21] mn005: Is possible to have .
+[0619] [20:21] fe008: Mm - hmm .
+[0620] [20:23] mn005: And it 's interesting , I think , to consider the the window of normalization ,
+[0621] [20:29] mn005: normalization window .
+[0622] [20:31] mn005: Eh because eh if we have a type of , a kind of eh overlap , eh backchannel overlap , with a short duration , is possible eh to normali
+[0623] [20:41] mn005: i i that if we normalize eh with eh eh consider only the the eh window eh by the left eh ri eh side on the right side overlapping with a a very eh oh a small window
+[0624] [20:57] mn005: eh the if the fit of normalization is eh mmm bigger eh in that overlapping zone eh very short
+[0625] [21:07] fe008: Mm - hmm .
+[0626] [21:07] fe016: Yeah , that 's true .
+[0627] [21:08] fe016: The window shouldn't be larger than the backchannel .
+[0628] [21:09] mn005: I I me I I understand .
+[0629] [21:11] mn005: I mean that you have eh you have a backchannel , eh , eh you have a overlapping zone very short
+[0630] [21:12] fe016: Yeah .
+[0631] [21:17] mn005: and
+[0632] [21:22] me013: Mm - hmm .
+[0633] [21:25] me013: Mm - hmm .
+[0634] [21:25] mn005: for example " mmm mm - hmm hmm " eh
+[0635] [21:28] mn005: And the energy is not eh height
+[0636] [21:31] mn005: eh I think if you consider all the channel to normalize and the channel is mmm bigger eh eh eh compared with the with the overlapping eh duration ,
+[0637] [21:36] me013: Mm - hmm .
+[0638] [21:41] mn005: eh the effect is mmm stronger
+[0639] [21:44] mn005: eh that I I mean the the e effect of the normalization eh with the mean and the and the variance eh is different that if you consider only a window compared eh with the n the duration of overlapping .
+[0640] [21:51] me013: Mm - hmm .
+[0641] [22:00] mn005: Not
+[0642] [22:01] me013: You you want it around the overlapping part .
+[0643] [22:03] mn005: Yeah .
+[0644] [22:03] me013: You want it to include something that 's not in overlapping
+[0645] [22:04] mn005: Yeah .
+[0646] [22:05] me013: but but uh
+[0647] [22:05] mn005: Yeah .
+[0648] [22:06] fe008: Mm - hmm .
+[0649] [22:06] mn005: I I don't know .
+[0650] [22:07] mn005: Is
+[0651] [22:07] me013: Yeah .
+[0652] [22:08] fe016: Well it 's a sliding window ,
+[0653] [22:09] fe016: right ?
+[0654] [22:09] fe016: So if you take the the measure in the center of the overlapped piece , you know , there 'd better be some something .
+[0655] [22:10] me013: Mm - hmm .
+[0656] [22:11] mn005: Yeah .
+[0657] [22:12] mn005: Yeah .
+[0658] [22:15] fe016: But if your window is really huge then yeah you 're right
+[0659] [22:17] fe016: you
+[0660] [22:18] mn005: Yeah , This is the This is the the idea , to consider only the the small window near near near the the overlapping zone .
+[0661] [22:18] fe016: The portion of the of the backchannel won't won't effect anything .
+[0662] [22:23] fe016: But
+[0663] [22:23] fe016: Yeah .
+[0664] [22:25] fe016: So .
+[0665] [22:26] fe016: You know , you shouldn't be more than
+[0666] [22:28] fe016: like You should definitely not be three times as big as your as your backchannel .
+[0667] [22:32] mn005: Yeah .
+[0668] [22:32] fe016: Then you 're gonna w have a wash .
+[0669] [22:33] fe008: Mm - hmm .
+[0670] [22:34] fe016: And
+[0671] [22:35] me013: I 'm not sure that 's necessarily true .
+[0672] [22:36] mn005: Yeah ?
+[0673] [22:37] fe008: It is an empirical question , it seems like .
+[0674] [22:38] fe016: Yea
+[0675] [22:38] me013: Because because it because um again if you 're just compensating for the gain ,
+[0676] [22:38] mn005: Yeah .
+[0677] [22:39] fe008: Yeah .
+[0678] [22:43] me013: you know , the fact that this this gain thing was crude ,
+[0679] [22:46] me013: and the gain wh if someone is speaking relatively at consistent level , just to to give a an extreme example , all you 're doing is compensating for that .
+[0680] [22:55] me013: And then you still s And then if you look at the frame with respect to that , it still should should uh change
+[0681] [23:02] fe016: Yeah , it depends how different your normalization is , as you slide your window across .
+[0682] [23:05] fe016: I mean . That 's something we don't know .
+[0683] [23:05] me013: Mm - hmm .
+[0684] [23:07] fe008: It 's possible to try it both ways ,
+[0685] [23:07] me011: Well , I mean we 're also talking about a couple of different things .
+[0686] [23:08] fe008: isn't it ?
+[0687] [23:09] fe008: in this small
+[0688] [23:10] me011: I mean , one is your analysis window and then the other is any sort of normalization that you 're doing .
+[0689] [23:14] fe016: Yeah I was talking about the n normalization window .
+[0690] [23:15] me011: And the And they could be quite different .
+[0691] [23:17] fe016: Yeah .
+[0692] [23:17] me013: Right .
+[0693] [23:17] mn005: Yeah .
+[0694] [23:18] me013: This was sort of where where we were last week .
+[0695] [23:19] fe016: Yeah .
+[0696] [23:19] fe016: That 's true . Yeah .
+[0697] [23:19] me011: Yep .
+[0698] [23:20] me013: But , anyway We we 'll have to look at some core things .
+[0699] [23:22] fe016: Um .
+[0700] [23:22] mn005: OK .
+[0701] [23:22] fe008: OK .
+[0702] [23:22] fe016: But that 'd be great if if you 're marking those
+[0703] [23:24] fe016: and um .
+[0704] [23:25] fe008: Great .
+[0705] [23:25] fe008: OK .
+[0706] [23:25] mn005: Yeah .
+[0707] [23:26] fe016: But it is definitely true that we need to have the time marks ,
+[0708] [23:29] fe008: Mm - hmm .
+[0709] [23:29] fe016: and I was assuming that will be inherited because , if you have the words and they 're roughly aligned in time via forced alignment or whatever we end up using , then you know , this student and I would be looking at the time marks
+[0710] [23:31] fe008: Yep , I agree .
+[0711] [23:34] fe008: Mm - hmm .
+[0712] [23:43] fe016: and classifying all the frames inside those as whatever labels Jane gave
+[0713] [23:43] fe008: Coming
+[0714] [23:44] mn005: Yeah .
+[0715] [23:46] fe008: Good .
+[0716] [23:46] fe008: So , it wouldn't be I wasn't planning to label the time marks .
+[0718] [23:49] mn005: I can give you my transcription file ,
+[0719] [23:49] fe008: I was thinking that that would come from the engineering side ,
+[0720] [23:50] fe016: I don't think you need to .
+[0721] [23:51] mn005: no ?
+[0722] [23:52] fe008: yeah .
+[0723] [23:52] fe016: Yeah . That should be linked to the words which are linked to time somehow ,
+[0724] [23:55] fe008: There you go .
+[0725] [23:56] fe016: right ?
+[0726] [23:56] me011: Well we 're not any time soon going to get a forced alignment .
+[0727] [23:57] fe016: Not now .
+[0728] [23:58] me011: So .
+[0729] [23:59] mn005: Yeah .
+[0730] [24:00] me011: Um If it 's not hand - marked then we 're not going to get the times .
+[0731] [24:01] fe016: Well , it 's something that w
+[0732] [24:04] fe016: Well , we we wouldn't be able to do any work without a forced alignment anyway ,
+[0733] [24:04] mn005: Yes
+[0734] [24:07] fe016: so somehow if once he gets going we 're gonna hafta come up with one
+[0735] [24:11] fe016: and
+[0736] [24:11] me013: Yes .
+[0737] [24:12] fe016: Yeah .
+[0738] [24:12] fe008: Good . Good .
+[0739] [24:12] me011: I mean w I guess we could do a very bad one with Broadcast News .
+[0740] [24:13] fe016: So whatever you would label would be attached to the words , I think .
+[0741] [24:16] fe008: Great !
+[0742] [24:16] fe008: Good , good .
+[0743] [24:16] mn005: Yeah .
+[0744] [24:17] fe008: Mm - hmm .
+[0745] [24:17] me013: Well again for the close mike stuff , we could come up take a s take the Switchboard system or something ,
+[0746] [24:20] me011: That might be good enough .
+[0747] [24:23] me011: Yeah .
+[0748] [24:24] me013: and Um
+[0749] [24:26] me011: It 'd be worth a try .
+[0750] [24:26] me011: It would be interesting to see what we get .
+[0751] [24:28] me013: Just
+[0752] [24:29] fe016: Cuz there 's there 's a lot of work you can't do without that ,
+[0753] [24:31] fe016: I
+[0754] [24:32] me013: Yeah .
+[0755] [24:33] fe016: You 'd have to go in and measure every start and stop point next to a word
+[0756] [24:37] fe016: is y if you 're interested in anything to do with words .
+[0757] [24:37] fe008: It would be very inefficient .
+[0758] [24:37] me011: Yep .
+[0759] [24:37] mn005: Yeah .
+[0760] [24:38] fe016: So .
+[0761] [24:39] fe008: Mm - hmm .
+[0762] [24:39] fe016: Anyway So that 'd be great .
+[0763] [24:41] fe008: Good . OK .
+[0764] [24:42] mn005: Yeah .
+[0765] [24:43] me013: There 's something we should talk about later
+[0766] [24:46] me013: but maybe not just now .
+[0767] [24:48] me013: But , uh , should talk about our options as far as the uh uh transcription
+[0768] [24:57] me013: But . Well , w But we 'll do that later .
+[0769] [24:57] me011: Yep
+[0770] [24:58] fe008: OK .
+[0771] [24:58] fe008: Good .
+[0772] [24:58] fe016: Do
+[0773] [25:00] fe016: Are we supposed to keep recording here ?
+[0774] [25:00] fe008: Yeah . Let 's do that later .
+[0775] [25:01] fe008: Yeah .
+[0776] [25:01] me011: Yeah Right .
+[0777] [25:04] me013: We 'll talk about it later .
+[0778] [25:04] fe008: Yeah .
+[0779] [25:05] me013: So uh Uh
+[0780] [25:08] me013: " forms " .
+[0781] [25:09] me013: You had something on forms .
+[0782] [25:09] me011: Forms Next iteration of forms .
+[0783] [25:12] me011: Oops .
+[0784] [25:12] fe008: Oh !
+[0785] [25:13] fe008: Oh good , OK .
+[0786] [25:15] me013: Um .
+[0787] [25:16] me013: Oh .
+[0788] [25:18] fe008: How So it 's two pages per person ?
+[0789] [25:19] me011: Nope .
+[0790] [25:20] me011: One 's a digit form ,
+[0791] [25:21] me011: one 's a speaker form .
+[0792] [25:22] fe008: Oh !
+[0793] [25:23] me011: So one is a one time only speaker form and the other is the digits .
+[0794] [25:23] fe008: Oh , I see .
+[0795] [25:25] mn005: Oh it 's the same .
+[0796] [25:25] mn005: Oh no no .
+[0797] [25:26] mn005: Is is new Is OK .
+[0798] [25:27] me011: So don't fill these out .
+[0799] [25:29] fe008: Alright .
+[0800] [25:29] me011: This is just the suggestion for uh what the new forms would look like .
+[0801] [25:34] me011: So , they incorporate the changes that we talked about .
+[0802] [25:39] fe008: Date and time .
+[0803] [25:41] fe008: Uh why did you switch the order of the Date and Time fields ?
+[0804] [25:43] fe008: This is rather a low - level , but
+[0805] [25:44] me011: On which one ?
+[0806] [25:45] fe008: On on the new one , Time comes first and then Date ,
+[0807] [25:48] fe008: but
+[0808] [25:49] me011: Oh you mean on the digit form ?
+[0809] [25:49] fe008: This is this is rather a low level question , but but it used used to be Date came first .
+[0810] [25:51] me011: Uh , because the user fills out the first three fields and I fill out the rest .
+[0811] [25:57] fe008: Oh I see .
+[0812] [25:58] me011: So it was intentional .
+[0813] [25:58] fe008: Well , how would the How would the user know the time if they didn't know the date ?
+[0814] [25:59] me011: It 's an interesting observation ,
+[0815] [26:00] me011: but it was intentional .
+[0816] [26:03] me011: Because the date is when you actually read the digits and the time and ,
+[0817] [26:07] me011: excuse me ,
+[0818] [26:07] me011: the time is when you actually read the digits , but I 'm filling out the date beforehand .
+[0819] [26:10] me011: If you look at the form in front of you ? that you 're going to fill out when you read the digits ? you 'll see I 've already filled in the date but not the time .
+[0820] [26:12] fe008: Yeah .
+[0821] [26:16] fe008: I
+[0822] [26:17] fe008: So the time is supposed to be pretty exact ,
+[0823] [26:19] fe008: because I 've just been taking beginning time time of the meeting .
+[0824] [26:20] fe016: Yeah , me too .
+[0825] [26:21] mn005: Yeah
+[0826] [26:21] me011: Yeah , I 've noticed that in the forms .
+[0827] [26:22] mn005: yeah .
+[0828] [26:23] me011: The the reason I put the time in , is so that the person who 's extracting the digits , meaning me , will know where to look in the meeting , to try to find the digits .
+[0830] [26:25] mn005: Me too .
+[0831] [26:28] mn005: Oh !
+[0832] [26:29] fe008: Oh dear .
+[0833] [26:30] mn005: But I am put I am putting the beginning of the meeting .
+[0834] [26:30] fe008: We 've been we 've been messing up your forms .
+[0835] [26:32] me011: I know .
+[0836] [26:33] fe016: So you should call it , like , " digits start time " . Or .
+[0837] [26:33] me011: And I haven't said anything .
+[0838] [26:35] me011: Yep .
+[0839] [26:35] mn005: in on there .
+[0840] [26:36] me013: Why What what were you putting in ?
+[0841] [26:38] fe008: Oh , well , I was saying if we started the meeting at two thirty ,
+[0842] [26:39] mn005: Yeah .
+[0843] [26:40] fe008: I 'd put two thirty , and I guess d e everyone was putting two thirty ,
+[0844] [26:41] me013: Oh .
+[0845] [26:41] mn005: Yeah .
+[0846] [26:42] fe008: and
+[0847] [26:43] me011: No , it 's about fifty fifty .
+[0848] [26:44] me011: Actually it 's about one third each .
+[0849] [26:46] me011: About one third of them are blank ,
+[0850] [26:47] me011: about one third of them are when the digits are read ,
+[0851] [26:49] me011: and about one third of them are when the meeting starts .
+[0852] [26:52] mn005: Oh .
+[0853] [26:52] me011: So .
+[0854] [26:52] fe008: This
+[0855] [26:54] me011: I could put instructions ?
+[0856] [26:55] fe008: Ei - either that or maybe you could maybe write down when people start reading digits on that particular session .
+[0857] [26:55] me011: Nah .
+[0858] [26:56] mn005: Yeah .
+[0859] [26:59] me011: But if I 'm not at the meeting , I can't do that .
+[0860] [27:01] fe008: I know , OK .
+[0861] [27:02] me013: Yeah , he 's been setting stuff up and going away . So .
+[0862] [27:02] fe008: That 's a good point .
+[0863] [27:04] fe008: I see .
+[0864] [27:04] fe008: Good point good point .
+[0865] [27:04] me013: For
+[0866] [27:06] me011: Yep , but that is the reason Name , Email and Time are where they are .
+[0867] [27:06] fe008: Oh , OK .
+[0868] [27:06] me013: Yeah .
+[0869] [27:07] fe008: Alright .
+[0870] [27:07] fe008: I
+[0871] [27:10] me011: And then the others are later on .
+[0872] [27:12] me013: Uh - huh .
+[0873] [27:12] fe008: OK .
+[0874] [27:13] fe008: w
+[0875] [27:14] mn005: And the Seat is this number ?
+[0876] [27:16] me011: Mm - hmm .
+[0877] [27:19] fe008: Seat and Session .
+[0878] [27:21] fe016: " For official use only "
+[0879] [27:23] fe016: That 's Well , he 's very professional .
+[0880] [27:24] mn005: " use only "
+[0881] [27:25] fe008: Actually
+[0882] [27:27] fe008: Well that does raise another question , which is why is the " Professional use only " line not higher ?
+[0883] [27:31] fe008: Why doesn't it come in at the point of Date and Seat ?
+[0884] [27:34] fe008: Oh . Because we 're filling in other things .
+[0885] [27:35] me011: What ?
+[0886] [27:35] me013: What ?
+[0887] [27:37] fe008: Well , because If y your your professional use ,
+[0888] [27:41] fe008: you 're gonna already have the date , and the s
+[0889] [27:43] me011: What which form are you talking about ?
+[0890] [27:45] fe008: Well I 'm comparing the new one with the old one .
+[0891] [27:46] fe008: This is the digit form .
+[0892] [27:46] mn005: Oh .
+[0893] [27:47] me011: Oh you 're talking about the digit form .
+[0894] [27:48] mn005: Yeah .
+[0895] [27:48] me013: Digit . Digit form .
+[0896] [27:48] fe008: Oh
+[0897] [27:48] me011: The
+[0898] [27:49] mn005: Yeah .
+[0899] [27:49] fe008: Sorry . Sorry .
+[0900] [27:50] me011: No , that 's alright .
+[0901] [27:50] me011: The digit form doesn't have a " for official use only " line .
+[0902] [27:53] me011: It just has a line , which is what you 're supposed to read .
+[0903] [27:54] fe008: That
+[0904] [27:55] fe008: uh OK .
+[0905] [27:57] fe008: Sorry about that .
+[0906] [27:57] me011: So on the digits form , everything above the line is a fill - in form
+[0907] [27:57] fe008: Yeah .
+[0908] [28:00] fe008: Yeah .
+[0909] [28:00] me011: and everything below the line is digits that the user reads .
+[0910] [28:05] fe008: OK .
+[0911] [28:06] fe008: Alright s but I didn't mean to derail our discussion here ,
+[0912] [28:08] fe008: so you really wanted to start with this other form .
+[0913] [28:09] me011: No , either way is fine
+[0914] [28:10] me011: I just You just started talking about something , and I didn't know which form you were referring to .
+[0915] [28:13] fe008: Alright
+[0916] [28:14] fe008: so th this is So I was looking at the change first .
+[0917] [28:17] fe008: So it 's like we started with this and now we 've got a new version of it wi with reference to this .
+[0918] [28:20] fe008: So the digit form ,
+[0919] [28:21] fe008: we had one already .
+[0920] [28:22] fe008: Now the f the fields are slightly different .
+[0921] [28:26] me013: So the main thing that the person fills out um is the name and email and time ?
+[0922] [28:31] mn005: Yeah .
+[0923] [28:32] me011: Right .
+[0924] [28:33] mn005: Ah !
+[0925] [28:33] me013: You do the rest ?
+[0926] [28:34] me011: Yep .
+[0927] [28:35] me011: Just as uh as I have for all the others .
+[0928] [28:36] me013: Right .
+[0929] [28:36] fe008: What And there 's an addition of the native language , which is a bit redundant .
+[0930] [28:41] fe008: This one has Native Language and this one does too .
+[0931] [28:43] me011: That 's because the one , the digit form that has native language is the old form
+[0932] [28:46] fe008: Oh ! Thank you . Thank you , thank you .
+[0933] [28:46] me011: not the new form .
+[0934] [28:47] mn005: Yeah .
+[0935] [28:47] fe008: There we go .
+[0936] [28:48] fe008: Oh , yeah .
+[0937] [28:48] fe008: I 'll catch up here .
+[0938] [28:50] fe008: OK , I see .
+[0939] [28:53] me013: " South Midland , North Midland "
+[0940] [28:54] fe008: That 's the old and that 's the new .
+[0941] [28:56] me011: Yeah this was the problem with these categories ,
+[0942] [28:57] me011: I I picked those categories from TIMIT .
+[0943] [29:00] me011: I don't know what those are .
+[0944] [29:02] fe016: Actually , the only way I know is from working with the database and having to figure it out .
+[0945] [29:03] mn005: What
+[0946] [29:05] me011: With TIMIT ,
+[0947] [29:05] mn005: uh - huh .
+[0948] [29:05] me011: yeah ?
+[0949] [29:06] mn005: What i
+[0950] [29:06] me013: So is South Midland like Kansas ?
+[0951] [29:06] me011: So , I was gonna ask
+[0952] [29:07] me011: wh w I mean .
+[0953] [29:08] me013: and North Midland like like uh Illinois , or ?
+[0954] [29:11] fe016: Well yeah .
+[0955] [29:11] mn005: Yeah .
+[0956] [29:12] fe016: Nor
+[0957] [29:12] me011: So so what accent are we speaking ?
+[0958] [29:15] me011: Western ?
+[0959] [29:18] me013: By definition ?
+[0960] [29:18] mn005: And for simple for for me ?
+[0961] [29:20] mn005: Is mean my native language Spanish Spanish ?
+[0962] [29:20] me013: Well ,
+[0963] [29:20] fe016: Probably Western , yeah .
+[0964] [29:23] mn005: eh The original is the center of Spain and the beca
+[0965] [29:28] me011: Yeah , I mean you could call it whatever you want .
+[0966] [29:30] me011: For the foreign language we couldn't classify every single one .
+[0967] [29:34] me011: So I just left it blank and you can put whatever you want .
+[0968] [29:35] mn005: Because
+[0969] [29:40] me011: Sure .
+[0970] [29:43] mn005: But .
+[0971] [29:45] me011: So I 'm not sure what to do about the Region field for English variety .
+[0972] [29:48] mn005: Yeah .
+[0973] [29:49] me011: You know , when I wrote I was writing those down , I was thinking , " You know , these are great if you 're a linguist " .
+[0974] [29:53] fe008: Yeah .
+[0975] [29:53] fe016: Actually even if you t
+[0976] [29:54] me011: But I don't know how to I don't know how to I don't know how to categorize them .
+[0977] [29:56] fe008: Yeah .
+[0978] [29:57] me013: If you 're if e if y
+[0979] [29:58] fe016: This
+[0980] [30:00] me013: if you 're a TI or MIT from nineteen eighty - five .
+[0981] [30:02] me011: Yeah
+[0982] [30:03] me013: Yeah .
+[0983] [30:03] me011: So I guess my only question was if if you were a South Midland speaking region , person ? Would you know it ?
+[0984] [30:08] fe016: Mm - hmm .
+[0985] [30:10] me011: Is that what you would call yourself ?
+[0986] [30:13] fe016: I don't know .
+[0987] [30:14] me011: Yeah .
+[0988] [30:14] me013: You know , I think if you 're talking if you 're thinking in terms of places , as opposed to names different peop names people have given to different ways of talking , I would think North Midwest , and South Midwest would be more common than saying Midland ,
+[0989] [30:27] me013: right ,
+[0990] [30:28] me013: I mean , I I went to s
+[0991] [30:29] fe016: Yeah
+[0992] [30:30] fe016: Maybe we can give them a li like a little map ?
+[0993] [30:33] fe016: with
+[0994] [30:34] fe016: No , I 'm serious .
+[0995] [30:35] fe008: No , that 's not bad .
+[0996] [30:36] fe016: Because it takes less time , and it 's sort of cute
+[0997] [30:36] mn005: i at this in that side in that side of the the paper .
+[0998] [30:37] fe008: Yeah .
+[0999] [30:39] fe016: there 's no figure .
+[1000] [30:41] me013: Well .
+[1001] [30:41] fe016: Well
+[1002] [30:42] fe016: You know , it doesn't have all the detail ,
+[1003] [30:44] fe016: but
+[1004] [30:45] me013: But what if you moved five times and and uh
+[1005] [30:47] fe008: Well
+[1006] [30:47] fe016: No , but you 're categorized .
+[1007] [30:49] fe016: That
+[1008] [30:51] fe008: so , roughly .
+[1009] [30:51] fe008: So . You could say , you know " ten years on the east coast , five years on the west coast " or something or other .
+[1010] [30:54] me011: Well , We I think we don't want to get that level of detail at this form .
+[1011] [31:00] me011: I think that 's alright if we want to follow up .
+[1012] [31:03] me011: But .
+[1013] [31:05] me013: I guess we don't really know .
+[1014] [31:05] fe016: I mean I As I said , I don't think there 's a huge benefit to this region thing .
+[1015] [31:09] fe016: It
+[1016] [31:11] fe016: The problem is that for some things it 's really clear and usually listening to it you can tell right away if it 's a New York or Boston accent ,
+[1017] [31:17] fe016: but
+[1018] [31:19] fe016: well , I guess they have the NYC ,
+[1019] [31:20] fe016: but New England has a bunch of very different dialects
+[1020] [31:24] fe016: and
+[1021] [31:25] fe008: Mm - hmm .
+[1022] [31:25] fe016: and so does um S So do other places .
+[1023] [31:28] me011: Yeah , so I picked these regions cuz we had talked about TIMIT ,
+[1024] [31:30] fe016: Right .
+[1025] [31:30] me011: and those are right from TIMIT .
+[1026] [31:30] fe016: And so these would be satisfying like a speech research community if we released the database ,
+[1027] [31:32] me011: So .
+[1028] [31:38] fe016: but as to whether subjects know where they 're from , I 'm not sure because um I know that they had to fill this out for Switchboard .
+[1029] [31:45] fe016: This is i almost exactly the same as Switchboard regions
+[1030] [31:48] fe008: Oh . OK .
+[1031] [31:48] fe016: or very close .
+[1032] [31:50] fe016: Yeah .
+[1033] [31:51] fe016: Um And I don't know how they filled that out .
+[1034] [31:55] fe016: But
+[1035] [31:57] fe016: Yeah , Midland is the one that 's difficult I guess .
+[1036] [32:01] fe008: I
+[1037] [32:02] fe016: Also Northwest you 've got Oreg - Washington and Oregon now which uh y people don't know if it 's western or northern .
+[1038] [32:02] fe008: Yeah .
+[1039] [32:08] me011: Yeah , I certainly don't .
+[1040] [32:09] me011: I mean , I was saying I don't even know what I speak .
+[1041] [32:10] fe016: It 's like Northwest
+[1042] [32:11] me013: Oh , what is Northern ?
+[1043] [32:12] me011: Am I speaking Am I speaking Western ?
+[1044] [32:16] me013: Well and what and what 's Northern ?
+[1045] [32:18] fe016: I think originally it was North Northwest
+[1046] [32:21] me011: Northwest ?
+[1047] [32:22] mn005: Yeah .
+[1048] [32:23] fe016: But
+[1049] [32:23] me011: Yeah , so this is a real problem .
+[1050] [32:24] fe016: Yeah .
+[1051] [32:25] me011: I don't know what to do about it .
+[1052] [32:26] fe008: I wouldn't know how to characterize mine either .
+[1053] [32:27] fe008: And and so I would think I would say , I 've I 've got a mix of California and Ohio .
+[1054] [32:29] me011: I c
+[1055] [32:35] me011: I think at the first level , for example , we speak the same .
+[1056] [32:36] fe016: I don't know .
+[1057] [32:38] me011: our our dialects Or whatever you region are the same .
+[1058] [32:39] fe008: Uh - huh .
+[1059] [32:42] me011: But I don't know what it is .
+[1060] [32:43] me011: So .
+[1061] [32:43] fe016: Well , you have a like techno - speak accent I think .
+[1062] [32:45] me011: a techno - speak accent ?
+[1063] [32:46] fe016: Yeah , you know ?
+[1064] [32:46] mn005: A techno
+[1065] [32:47] me011: A a geek region ?
+[1066] [32:48] fe016: Well it 's I mean I you can sort of identify
+[1067] [32:49] fe008: Geek region .
+[1068] [32:51] fe016: it
+[1069] [32:52] mn005: Is different . Is different .
+[1070] [32:53] fe016: but but maybe that maybe we could leave this
+[1071] [32:57] fe016: and see what people See what people choose
+[1072] [33:00] fe016: and
+[1073] [33:03] fe016: I mean I don't know what else we can do , cuz That 's North Midland .
+[1074] [33:05] fe008: I 'm wondering about a question like , " Where are you from mostly ? "
+[1075] [33:08] mn005: Yeah .
+[1076] [33:09] me013: But I I 'm s I 'm now that you mentioned it though , I am really am confused by " Northern " .
+[1077] [33:10] mn005: Yeah .
+[1078] [33:13] fe008: I agree . I agree .
+[1079] [33:13] me013: I really am .
+[1080] [33:14] mn005: Yeah .
+[1081] [33:14] me013: I mean , if if you 're in New England , that 's North .
+[1082] [33:14] fe008: I agree .
+[1083] [33:17] me013: If you 're i if you 're
+[1084] [33:20] fe008: Scandinavian , the Minnesota area 's north .
+[1085] [33:22] me013: Uh
+[1086] [33:23] me013: But that 's also North Midland ,
+[1087] [33:24] mn005: Yeah .
+[1088] [33:25] me013: right ?
+[1089] [33:25] fe008: Oh , @ @ . OK .
+[1090] [33:25] me013: And and and Oregon and and Oregon and Washington are are Western , but they 're also Northern .
+[1091] [33:25] fe016: Yeah .
+[1093] [33:26] fe016: Of
+[1094] [33:28] mn005: Mmm .
+[1095] [33:32] fe008: Mm - hmm .
+[1096] [33:33] me013: uh , Idaho ?
+[1097] [33:35] fe016: Well there are hardly any subjects from Idaho .
+[1098] [33:36] me013: Montana ?
+[1099] [33:38] me011: No problem .
+[1100] [33:39] fe008: Just rule them out .
+[1101] [33:39] fe016: There 's only a few people in Idaho .
+[1102] [33:40] me011: There are hardly any subjects from " beep "
+[1103] [33:42] mn005: Yeah .
+[1104] [33:44] fe016: Sorry .
+[1105] [33:45] fe016: No
+[1106] [33:45] me013: Maybe Maybe we Maybe we should put a little map and say " put an X on where you 're from " ,
+[1107] [33:45] mn005: And
+[1108] [33:49] me011: Yeah really .
+[1109] [33:50] mn005: And
+[1110] [33:50] fe016: We could ask where they 're from .
+[1111] [33:51] fe008: It 'd be pretty simple , yeah .
+[1112] [33:52] fe016: Yeah .
+[1113] [33:52] fe016: But - We went back to that .
+[1114] [33:52] mn005: Yeah .
+[1115] [33:52] mn005: If you put eh the state ?
+[1116] [33:54] me011: Well
+[1117] [33:54] fe008: Where are you from mostly ?
+[1118] [33:54] fe016: We
+[1119] [33:56] mn005: Uh - huh . Mm - hmm .
+[1120] [34:00] fe016: You know .
+[1121] [34:00] me011: Well , I like the idea of asking " what variety of English do you speak " as opposed to where you 're from
+[1122] [34:06] me011: Because th if we start asking where we 're from , again you have to start saying , " well , is that the language you speak or is that just where you 're from ? "
+[1123] [34:06] mn005: Yeah .
+[1124] [34:06] fe008: Hmm ?
+[1125] [34:10] fe016: Right . Right .
+[1126] [34:12] mn005: Yeah .
+[1127] [34:12] me013: Let
+[1128] [34:12] fe016: I
+[1129] [34:12] me013: Mm - hmm .
+[1130] [34:13] me011: And
+[1131] [34:16] me013: We
+[1132] [34:16] fe016: well
+[1133] [34:17] me011: I mean . So so I would say Germany
+[1134] [34:18] fe016: like
+[1135] [34:20] me011: You know am I speaking with German accent
+[1136] [34:20] fe008: Oh .
+[1137] [34:21] me011: I don't think so .
+[1138] [34:22] fe016: Right .
+[1139] [34:22] fe008: Well , see , I 'm thinking " Where are you from mostly "
+[1140] [34:24] me011: Oh , OK yeah .
+[1141] [34:25] fe008: because , you know , then you have some some kind of subjective amount of time factored into it .
+[1142] [34:25] mn005: Yeah .
+[1143] [34:26] mn005: Yeah .
+[1144] [34:27] me011: Yep .
+[1145] [34:29] mn005: Yeah .
+[1146] [34:29] me011: Yeah , I guess I could try to put squeeze in a little map .
+[1147] [34:32] me011: I mean there 's not a lot of r of room
+[1148] [34:35] me013: I 'd say , uh , " Boston , New York City , the South and Regular " .
+[1149] [34:41] fe008: Well
+[1150] [34:43] fe016: Oh , I don't know .
+[1151] [34:43] me011: I think of those , Northern is the only one that I don't even know what they 're meaning .
+[1152] [34:43] mn005: And And Um And usually here people here know what is their kind of mmm lang English language ?
+[1153] [34:43] fe008: Yeah . Yeah .
+[1154] [34:44] me013: That 's a joke .
+[1155] [34:45] me013: That
+[1156] [34:48] fe016: So let 's make it up .
+[1157] [34:49] fe016: S I mean , who cares .
+[1158] [34:50] fe016: Right ?
+[1159] [34:51] fe016: We
+[1160] [34:51] fe016: So we can say " Northwest " , " Rest of West " or something .
+[1161] [34:55] fe016: You know .
+[1162] [34:55] fe016: " West "
+[1163] [34:56] fe016: and I mean .
+[1164] [34:57] me011: Ye
+[1165] [34:59] me011: I don't think the Northwest people speak any differently than I do .
+[1166] [34:59] fe016: It
+[1167] [35:01] fe016: Yeah , exactly .
+[1168] [35:01] fe016: That 's not really a region .
+[1169] [35:02] me013: " Do you come from the Louisiana Purchase ? "
+[1170] [35:02] fe008: I
+[1171] [35:03] fe016: So we could take out " North " " Northern " .
+[1172] [35:11] me011: That that 's
+[1173] [35:11] mn005: eh here Is easy for people to know ?
+[1174] [35:11] me011: exactly what we 're arguing about .
+[1175] [35:12] fe016: That
+[1176] [35:12] fe016: Yeah , w It 's In It 's it 's harder in America anywhere else , basically .
+[1177] [35:13] me011: We don't know .
+[1178] [35:17] mn005: because
+[1179] [35:17] me011: I mean some of them are very obvious .
+[1180] [35:19] me011: If you if you talk to someone speaking with Southern drawl , you know .
+[1181] [35:22] mn005: N m Yeah .
+[1182] [35:23] fe008: Yeah , or Boston .
+[1183] [35:24] me011: Or Boston , yeah .
+[1184] [35:24] fe008: I
+[1185] [35:25] mn005: Or Boston ?
+[1186] [35:26] fe016: And those people , if you ask them to self - identify their accent they know .
+[1187] [35:26] me013: Yeah .
+[1188] [35:26] mn005: Yeah .
+[1189] [35:30] fe008: Yeah , they do .
+[1190] [35:30] fe016: They know very well .
+[1191] [35:31] fe008: Yeah I agree I agree . I agree .
+[1192] [35:31] fe016: They know they don't speak the same as the
+[1193] [35:33] me011: But is Boston New England ?
+[1194] [35:33] fe008: And they 're proud of it .
+[1195] [35:34] fe016: day o
+[1196] [35:34] fe008: Yeah .
+[1197] [35:34] fe016: Yeah , exactly .
+[1198] [35:35] fe008: It 's identity thing .
+[1199] [35:36] fe016: And they 're glad to tell you .
+[1200] [35:37] mn005: style .
+[1201] [35:37] fe016: Well . Depends who you ask , I suppose .
+[1202] [35:40] me011: W I guess that 's the problem with these categories .
+[1204] [35:42] fe016: But
+[1205] [35:42] fe008: Well , we ca Well , why can't we just say characterize something like char characterize your accent
+[1206] [35:43] me013: Well , Boston 's @ @ , too .
+[1207] [35:44] fe016: Or
+[1208] [35:45] fe016: " Characterize your accent if you can . "
+[1209] [35:47] fe008: and and so I would say , " I don't know " .
+[1210] [35:48] fe016: Yeah .
+[1211] [35:50] fe016: Right
+[1212] [35:50] fe008: But someone from Boston with a really strong coloration would know .
+[1213] [35:54] fe008: And so would an R - less Maine or something ,
+[1214] [35:54] fe016: And that 's actually good .
+[1215] [35:54] mn005: Yeah .
+[1216] [35:56] fe016: I was I was thinking of something along that line
+[1217] [35:56] fe008: yeah .
+[1218] [35:56] me013: How
+[1219] [35:58] fe016: because if you don't know , then , you know , ruling out the fact that you 're totally inept or something ,
+[1220] [35:58] fe008: Good .
+[1221] [36:04] fe008: Hmm .
+[1222] [36:04] fe016: if somebody doesn't know , it probably means their accent isn't very strong compared to the sort of midwest standard .
+[1223] [36:05] me013: Well , I mean , it wasn't that long ago that we had somebody here who was from Texas who was absolutely sure that he didn't have any accent left .
+[1224] [36:08] fe008: Hmm ?
+[1225] [36:15] me013: And and had he had a pretty noticeable drawl .
+[1226] [36:17] me011: OK , so . I propose , take out Northern add , don't know .
+[1227] [36:22] fe008: Oh . Yeah . I I would say more more sweepingly , " how would you characterize your accent ? "
+[1228] [36:23] mn005: Yeah .
+[1229] [36:27] me011: So you want to change the instructions also not just say region ?
+[1230] [36:30] fe016: W
+[1231] [36:31] fe008: Well , I think this discussion has made me think that 's s something to consider .
+[1232] [36:34] me011: I don't know
+[1233] [36:35] me011: if I if I read this form , I think they 're going to ask it they 're going to answer the same way if you say , " What 's variety of English do you speak ?
+[1234] [36:40] me011: Region . "
+[1235] [36:42] me011: as if you say " what variety of region region do you speak ?
+[1236] [36:44] me011: Please characterize your accent ? "
+[1237] [36:45] me011: They 're going to answer the same way .
+[1238] [36:45] fe008: I
+[1239] [36:46] fe008: Well
+[1240] [36:47] mn005: Mmm .
+[1241] [36:47] fe008: I
+[1242] [36:48] fe008: So . I was suggesting not having the options ,
+[1243] [36:50] fe008: just
+[1244] [36:52] me011: Oh , I see .
+[1245] [36:53] mn005: Huh .
+[1246] [36:53] me011: Well what we talked about with that is is so that they would understand the granularity .
+[1247] [36:57] fe008: Yes
+[1248] [37:03] me011: I mean that 's what I had before , and you told me to list the regions to list them .
+[1249] [37:04] fe008: and
+[1250] [37:05] fe016: Each each one has pros and cons
+[1251] [37:05] fe008: Well , I know .
+[1252] [37:06] me013: Right .
+[1253] [37:07] me013: Right .
+[1254] [37:07] me011: So .
+[1255] [37:07] fe016: I
+[1256] [37:07] me013: Right .
+[1257] [37:08] fe008: That 's true .
+[1258] [37:08] me013: Yeah last week last week I was sort of r arguing for having it wide open ,
+[1259] [37:11] me013: but then everybody said " Oh , no ,
+[1260] [37:13] me013: but then it will be hard to interpret
+[1261] [37:14] me013: because some people will say Cincinnati and some will say Ohio " .
+[1262] [37:15] me011: I mean I had it wide open last week and and you said TIMIT .
+[1263] [37:16] me013: And .
+[1264] [37:17] fe016: What if we put in both ?
+[1265] [37:17] fe008: Yeah .
+[1266] [37:17] me013: Yeah .
+[1267] [37:19] fe016: And
+[1268] [37:19] me011: That 's what the " Other " is for .
+[1269] [37:21] fe016: No , I mean what if we put in both ways of asking them ?
+[1270] [37:23] fe016: So . One is Region
+[1271] [37:25] fe016: and the another one is " if you had to characterize yourself your accent , what would you say ? "
+[1272] [37:28] me011: Won't they answer the same thing ?
+[1273] [37:30] fe016: Well they might only answer only one of the questions
+[1274] [37:32] fe016: but if
+[1275] [37:33] fe008: Yeah that 's fine .
+[1276] [37:34] fe016: You know .
+[1277] [37:34] fe008: They might say " Other " for Region because they don't know what category to use
+[1278] [37:35] fe016: Actually
+[1279] [37:37] fe008: but
+[1280] [37:37] fe016: Right .
+[1281] [37:38] fe016: It
+[1282] [37:38] fe008: because it is easier to have it open ended .
+[1283] [37:39] fe016: we might learn from what they say , as to which one 's a better way to ask it .
+[1284] [37:43] fe016: But I Cuz I really don't know .
+[1285] [37:43] me013: W This is just a small thing
+[1287] [37:46] me013: but um It says " Variety " and then it gives things that e have American as one of the choices .
+[1288] [37:51] me013: But then it says " Region " ,
+[1289] [37:52] me013: but Region actually just applies to uh , US ,
+[1290] [37:55] me013: right ?
+[1291] [37:55] me011: Right .
+[1292] [37:57] me011: I mean that 's why I put the " Other " in .
+[1293] [37:58] fe008: Well , we thought about it .
+[1294] [37:59] me013: Ah , OK .
+[1295] [38:00] fe008: Yeah , OK .
+[1296] [38:01] me013: S
+[1297] [38:01] fe008: We
+[1298] [38:02] fe008: At
+[1299] [38:08] fe008: that that there are so many types and varieties of these other languages
+[1300] [38:11] fe008: and we are not going to have that many subjects from these different language groups
+[1301] [38:14] fe008: and that it 's a huge waste of of space .
+[1302] [38:14] me011: Yep .
+[1303] [38:18] me013: OK .
+[1304] [38:19] me011: So I mean , I I mean the way I had it last time was Region was blank ,
+[1305] [38:19] fe008: That 's what I thought .
+[1306] [38:22] me011: it just said Region colon .
+[1307] [38:24] fe008: Yeah .
+[1308] [38:24] fe008: Yeah .
+[1309] [38:25] me011: And and I think that that 's the best way to do it ,
+[1310] [38:27] me011: because because of the problems we 're talking about
+[1311] [38:28] me011: but what we said last week , was no , put in a list ,
+[1312] [38:30] me011: so I put in a list .
+[1313] [38:32] fe016: Maybe we can make the list a little smaller .
+[1314] [38:32] me011: So
+[1315] [38:34] me011: Well , certainly dropping " Northern " I think is right , because none of us know what that is .
+[1316] [38:35] fe016: Cuz
+[1317] [38:38] fe016: And keeping " Other " ,
+[1318] [38:40] fe016: and then maybe this North Midland , we call it " North Midwest " .
+[1319] [38:44] fe016: South
+[1320] [38:45] me013: Yes I I I think so . Yeah .
+[1321] [38:45] fe016: South Midwest .
+[1322] [38:46] fe016: Does that make sense ?
+[1323] [38:46] mn005: South Midwest ?
+[1324] [38:47] fe016: That
+[1325] [38:48] fe016: Yeah .
+[1326] [38:48] fe016: Cuz
+[1327] [38:48] me013: U unless you 're from Midland , Kansas .
+[1328] [38:49] fe016: Midland
+[1329] [38:50] me013: But .
+[1330] [38:50] me013: Yeah .
+[1331] [38:50] fe016: I don't know where Midland is
+[1332] [38:52] me013: There
+[1333] [38:54] me013: Is it Midland Midland Midland , Texas or Midland , Kansas ?
+[1334] [38:54] me011: Is " Midwest " one word ?
+[1335] [38:57] fe016: Y yeah , one w
+[1336] [38:57] me013: I forget .
+[1337] [38:58] me013: But there 's a town .
+[1338] [38:59] fe016: Oh .
+[1339] [38:59] me013: in in there .
+[1340] [39:00] me013: I forget what it is @ @ .
+[1341] [39:01] fe008: I don't think that 's what they mean .
+[1342] [39:02] fe016: But ,
+[1343] [39:02] fe016: yeah . So . Kansas would be South Midland .
+[1344] [39:02] me013: Yeah .
+[1345] [39:04] fe016: Right ?
+[1346] [39:05] me013: Y yeah .
+[1347] [39:06] fe016: And
+[1348] [39:06] fe016: Yeah .
+[1349] [39:07] fe016: So , th I 'm from Kansas , actually .
+[1350] [39:07] me013: And Colorado , right across the border , would be North Midland .
+[1351] [39:07] mn005: Southern Midland .
+[1353] [39:11] fe016: Yeah .
+[1354] [39:12] fe016: Colora
+[1355] [39:13] me011: And
+[1356] [39:13] fe016: Oh , right .
+[1357] [39:13] fe016: And then , the the dropping North ,
+[1358] [39:15] fe016: so it would be Western .
+[1359] [39:17] fe016: It 's just one big shebang , where , of course , you have huge variation in dialects ,
+[1360] [39:22] me013: But you do in the others , too . So .
+[1361] [39:22] me011: But that 's true of New England too .
+[1362] [39:22] fe016: but
+[1363] [39:23] fe016: Yeah .
+[1364] [39:24] me011: So
+[1365] [39:24] me013: Yeah .
+[1366] [39:24] fe016: Yeah . Yeah .
+[1367] [39:26] me011: Well , I shouldn't say that .
+[1368] [39:27] me011: I have no clue .
+[1369] [39:27] me011: I was going to say the only one that doesn't have a huge variety is New York City .
+[1370] [39:30] me011: But I have no idea whether it does or not .
+[1371] [39:32] fe008: It
+[1372] [39:32] me013: U
+[1373] [39:32] fe008: I mean . I I would think that these categories would be more w would be easier for an an analyst to put in rather than the subject himself .
+[1374] [39:39] me011: I think that that was what happened with TIMIT , was that it was an analyst .
+[1375] [39:42] fe008: OK .
+[1376] [39:42] me013: Wait a minute .
+[1377] [39:42] me013: Where does Where does d w Where Where 's where does uh New New York west of west of uh New York City and Pennsylvania uh and uh
+[1378] [39:43] fe016: Yeah , I don't know how it came from .
+[1379] [39:44] fe008: OK .
+[1380] [39:52] fe016: So . That 's New England I think .
+[1381] [39:53] me011: New England
+[1382] [39:53] me013: N No , it 's not .
+[1383] [39:53] fe016: Yeah .
+[1384] [39:55] me011: Oh , no .
+[1385] [39:56] me013: Oh no .
+[1386] [39:56] fe008: I sort of thought they were part of the one of the Midlands .
+[1387] [39:58] me013: No , no . No .
+[1388] [39:59] me013: Pennsylvania
+[1389] [39:59] me011: " Other " ,
+[1390] [39:59] me011: it goes under " Other " ,
+[1391] [40:00] me011: definitely under " Other " .
+[1392] [40:02] fe016: Well
+[1393] [40:04] me013: Pennsylvania
+[1394] [40:05] me013: Yeah . Pennsylvania is not New England .
+[1395] [40:06] me013: and uh New Jersey is not New England and Maryland is not New England and none of those are the South .
+[1396] [40:09] me011: OK . So .
+[1397] [40:10] me011: Another suggestion .
+[1398] [40:12] fe008: Yeah .
+[1399] [40:12] me011: Rather than have circle fill in forms , say " Region , open paren , E G Southern comma Western comma close paren colon . "
+[1400] [40:19] fe008: OK .
+[1401] [40:20] fe016: OK !
+[1402] [40:21] me013: That 's good .
+[1403] [40:21] mn005: Yeah .
+[1404] [40:21] fe008: Fine by me , fine by me .
+[1405] [40:21] fe016: Sure !
+[1406] [40:22] me013: I like that .
+[1407] [40:22] fe008: Yeah .
+[1408] [40:23] fe016: Let
+[1409] [40:23] mn005: Yeah .
+[1410] [40:23] fe016: And we 'll see what we get .
+[1411] [40:23] me013: We 're all sufficiently tired of this that we 're agreeing with you .
+[1412] [40:24] fe008: Be easier on the subjects .
+[1413] [40:26] fe008: I think that 's fine .
+[1414] [40:26] me013: So .
+[1415] [40:27] fe008: No .
+[1416] [40:27] fe008: I
+[1417] [40:28] fe008: I like that . I like that .
+[1418] [40:28] me013: You like it ?
+[1419] [40:29] me013: OK .
+[1420] [40:29] fe008: Yeah , I do .
+[1421] [40:29] me013: Good .
+[1422] [40:30] me011: Actually , maybe we do one non - English one as well .
+[1423] [40:33] me011: Southern , Cockney ?
+[1424] [40:35] fe016: Yeah
+[1425] [40:36] mn005: Yeah .
+[1426] [40:37] me011: Is that a real accent ?
+[1427] [40:38] fe008: Sure , yeah !
+[1428] [40:38] mn005: Yeah .
+[1429] [40:39] me011: How do you spell it ?
+[1430] [40:39] fe008: I think that 's fine .
+[1431] [40:40] me013: Cockney ?
+[1432] [40:41] me013: CO
+[1433] [40:42] me011: N E
+[1434] [40:42] me013: Yeah .
+[1435] [40:43] fe016: You could say Liverpool .
+[1436] [40:45] me013: Liverpuddlian .
+[1437] [40:46] fe008: Yeah .
+[1438] [40:46] fe016: Actually , Liverpool doesn't l
+[1439] [40:46] fe008: Alright .
+[1440] [40:47] fe016: Yeah .
+[1441] [40:48] fe016: It 's I 'm s I ha
+[1442] [40:48] fe008: Well
+[1443] [40:49] me011: OK , we 'll do it that way .
+[1444] [40:50] me011: Actually , I like that a lot .
+[1445] [40:52] me013: OK .
+[1446] [40:52] me011: Because that get 's at both of the things we were trying to do ,
+[1447] [40:54] me011: the granularity , and the person can just self - assess and we don't have to argue about what these regions are .
+[1448] [40:59] fe008: That 's right .
+[1449] [40:59] mn005: Yeah .
+[1450] [40:59] me013: OK .
+[1451] [41:00] fe008: And it 's easy on the subjects .
+[1452] [41:01] me011: Yep .
+[1453] [41:01] fe008: Now I have one suggestion on the next section .
+[1454] [41:01] mn005: Mm - hmm .
+[1455] [41:02] me011: Mm - hmm .
+[1456] [41:03] fe008: So you have native language ,
+[1457] [41:04] fe008: you have region ,
+[1458] [41:05] fe008: and then you have time spent in English speaking country .
+[1459] [41:08] fe008: Now , I wonder if it might be useful to have another open field saying " which one parenthesis S paren closed parenthesis " .
+[1460] [41:17] fe008: Cuz
+[1461] [41:22] me013: Yes .
+[1462] [41:23] fe008: It doesn't have to be ex all at all exact , just in the same open field format that you have .
+[1463] [41:27] me011: Yep , just which one .
+[1464] [41:28] me011: I think that 's fine .
+[1465] [41:29] fe008: Mm - hmm .
+[1466] [41:29] mn005: Mm - hmm .
+[1467] [41:29] fe008: with a with an S
+[1468] [41:30] fe008: " which one
+[1469] [41:31] fe008: sss , optional S .
+[1470] [41:35] me013: OK .
+[1472] [41:37] fe008: Yeah .
+[1473] [41:38] me013: We uh We done ?
+[1474] [41:40] me011: Yep .
+[1475] [41:41] fe008: Yeah , that 's good .
+[1476] [41:41] me013: OK .
+[1477] [41:42] me013: um s e Any any other uh open mike topics or should we go right to the digits ?
+[1478] [41:48] me011: Um , did you guys get my email on the multitrans ?
+[1479] [41:51] me011: That
+[1480] [41:52] me011: OK .
+[1481] [41:52] fe008: Isn't that wonderful !
+[1482] [41:53] fe008: Yeah .
+[1483] [41:53] fe008: Excellent !
+[1484] [41:53] me011: Yeah . So . So . I I have a version also which actually displays all the channels .
+[1485] [41:54] fe008: Thank you !
+[1486] [41:55] fe016: It 's really great .
+[1487] [41:58] me011: But it 's hideously slow .
+[1488] [42:00] fe008: So you this is n Dan 's patches , Dan Ellis 's patches .
+[1489] [42:01] me011: The what the ones I applied , that you can actually do are Dan 's , because it doesn't slow it down .
+[1490] [42:02] fe016: M
+[1491] [42:05] fe008: Fantastic !
+[1492] [42:06] me011: Just uses a lot of memory .
+[1493] [42:07] fe016: So
+[1494] [42:10] me011: No , the the one that 's installed is fine .
+[1495] [42:12] me011: It 's not slow at all .
+[1496] [42:13] me011: I wrote another version . Which , instead of having the one pane with the one view , It has multiple panes with the views .
+[1497] [42:19] mn005: Yeah .
+[1498] [42:20] fe016: Mm - hmm .
+[1499] [42:20] me011: But the problem with it is the drawing of those waveforms is so slow that every time you do anything it just crawls .
+[1500] [42:27] fe008: Mm - hmm .
+[1501] [42:28] fe016: It 's So , it it 's the redrawing of the w
+[1502] [42:28] me011: It 's really bad .
+[1503] [42:28] fe008: That 's a consideration .
+[1504] [42:29] me011: Mm - hmm .
+[1505] [42:30] fe016: oh uh - huh ,
+[1506] [42:30] fe016: w as you move .
+[1507] [42:32] me011: As you play , as you move , as you scroll .
+[1508] [42:34] me011: Just about anything , and it it was so slow it was not usable .
+[1509] [42:37] fe008: And this 'll be a hav having the multiwave will be a big help
+[1510] [42:37] me011: So that 's why I didn't install it and didn't pursue it .
+[1511] [42:40] fe008: cuz in terms of like disentangling overlaps and things , that 'll be a big help .
+[1512] [42:42] fe016: Oh yeah .
+[1513] [42:43] me011: So . I think that the one Dan has is usable enough .
+[1514] [42:43] fe016: Yeah .
+[1515] [42:46] me011: It doesn't display the others .
+[1516] [42:48] me011: It displays just the mixed signal .
+[1517] [42:49] fe008: Mm - hmm .
+[1518] [42:50] me011: But you can listen to any of them .
+[1519] [42:52] fe008: That 's excellent .
+[1520] [42:53] mn005: Yeah .
+[1521] [42:53] fe008: He also has version control which is another nice
+[1522] [42:55] fe008: e
+[1523] [42:55] me011: No , he suggested that , but he didn't It 's not installed .
+[1524] [42:58] fe008: Oh , I thought it was in one of those patches .
+[1525] [42:58] me011: No . No .
+[1526] [42:59] fe008: Oh OK .
+[1527] [43:00] fe008: Well . Alright .
+[1528] [43:00] fe016: So is there any hope for actually displaying the wave form ?
+[1529] [43:03] me011: Um , not if we 're going to use Tcl - TK At least not if we 're going to use Snack .
+[1530] [43:06] fe016: OK .
+[1531] [43:08] me011: I mean you would have to do something ourselves .
+[1532] [43:12] fe008: Well , or use the one that crawls .
+[1533] [43:12] fe016: OK .
+[1534] [43:14] fe016: Well , I 'm I probably would be trying to use the whatever 's there .
+[1535] [43:19] fe016: And
+[1536] [43:20] me011: Why
+[1537] [43:22] fe016: Yeah .
+[1538] [43:25] fe016: I mean . I wonder I 'm just wondering if we can display things other than the wave form .
+[1539] [43:29] fe016: So . Suppose we have a feature a feature stream .
+[1540] [43:32] fe016: And it 's just , you know , a a uni - dimensional feature , varying in time .
+[1541] [43:32] mn005: Yeah .
+[1542] [43:37] fe016: And we want to plot that , instead of the whole wave form .
+[1543] [43:39] me011: I mean .
+[1544] [43:39] mn005: Yeah .
+[1545] [43:39] fe016: That might be faster .
+[1546] [43:40] fe016: Right ?
+[1547] [43:41] mn005: Yeah .
+[1548] [43:41] fe016: So .
+[1549] [43:41] me011: We we could do that but that would mean changing the code .
+[1550] [43:45] me011: I mean this isn't a program we wrote .
+[1551] [43:45] me013: Yeah .
+[1552] [43:46] me011: This is a program that we got from someone else , and we 've done patches on .
+[1553] [43:48] fe016: OK .
+[1554] [43:50] fe016: OK . Well , I 'll talk to you about it and we can see
+[1555] [43:50] fe008: Mm - hmm .
+[1556] [43:50] mn005: Yeah .
+[1557] [43:50] me013: Cou - i e I mean , y
+[1558] [43:50] me011: So .
+[1559] [43:51] me011: Yeah .
+[1560] [43:52] fe016: but it 's definitely great to have the other one .
+[1561] [43:54] fe016: That
+[1562] [43:54] me013: If there was some Is there some way to have someone write patches in something faster and and link it in , or something ?
+[1563] [44:02] me013: Or
+[1564] [44:02] me011: Not easily .
+[1565] [44:03] me011: I mean y yes we could do that .
+[1566] [44:04] me011: You could you can write widgets in C .
+[1567] [44:07] me013: Yeah .
+[1568] [44:07] me011: And
+[1569] [44:10] me011: Let 's try it with Dan 's and if that isn't enough , we can do it otherwise .
+[1570] [44:13] fe016: Right .
+[1571] [44:14] me011: I think it is , cuz when I was playing with it , the mixed signal has it all in there .
+[1572] [44:18] me011: And so it 's really It 's not too bad to find places in the in the stream where things are happening .
+[1573] [44:22] fe016: OK .
+[1574] [44:24] fe008: And
+[1575] [44:24] mn005: Hmm ?
+[1576] [44:24] me011: So I I don't think it 'll be bad .
+[1577] [44:31] fe008: So . Dan proposed it to the Transcriber central people ,
+[1578] [44:34] fe008: and
+[1579] [44:35] fe008: So . And and they responded favorably
+[1580] [44:37] fe008: looks as though it will be incorporated in the future version .
+[1581] [44:37] fe016: Oh .
+[1582] [44:40] fe008: They said that the only reason they hadn't had the multi the parallel uh stream one before was simply that they hadn't had time to do it .
+[1583] [44:47] fe008: And uh so it 's likely that this this may be entered into the ch this central @ @ .
+[1584] [44:47] mn005: Yeah .
+[1585] [44:51] me013: They may well have not had much demand for it .
+[1586] [44:51] me011: And
+[1587] [44:53] fe008: Well that 's that 's that 's true , too .
+[1588] [44:54] me013: Yeah .
+[1589] [44:55] fe008: This is a a useful thing for us .
+[1590] [44:55] fe016: So . You mean they could they could do it and it would be fast enough if they do it ?
+[1591] [44:55] mn005: Yeah .
+[1592] [44:59] fe008: Oh
+[1593] [44:59] me011: Depends on how much work they did .
+[1594] [44:59] fe016: Or ?
+[1595] [45:00] mn005: Oh .
+[1596] [45:01] fe008: So . This one that we now have does have the status of potentially being incorporated l likely being incorporated into the central code .
+[1597] [45:05] fe016: Mm - hmm .
+[1598] [45:10] fe016: OK .
+[1599] [45:10] fe008: Now
+[1600] [45:15] fe008: I mean it 's I think it 's a nice feature to have it set that way .
+[1601] [45:15] me011: I think if if if one of us sat down and coded it , so that it could be displayed fast enough I 'm sure they would be quite willing to incorporate it .
+[1602] [45:21] fe008: Mm - hmm .
+[1603] [45:22] me011: But it 's not a trivial task .
+[1604] [45:23] fe016: OK .
+[1605] [45:23] fe008: Mm - hmm . Yeah .
+[1606] [45:27] fe008: I just like the idea of it being something that 's , you know , tied back into the original , so that other people can benefit from it .
+[1607] [45:29] me011: Yeah .
+[1608] [45:33] fe008: Yeah .
+[1609] [45:34] fe008: However . I also understand that you can have widgets that are very useful for their purpose and that you don't need to always go that w route .
+[1610] [45:40] fe008: Yeah .
+[1611] [45:41] mn005: OK .
+[1612] [45:42] me011: anyway , shall we do digits ?
+[1613] [45:43] fe008: Yeah .
+[1614] [45:44] me013: Yeah . Let 's do digits ,
+[1615] [45:45] me013: uh , and then we 'll turn off the mikes , and then I have one other thing to discuss .
+[1616] [45:48] fe008: OK .
+[1617] [45:49] fe016: I actually have to leave .
+[1618] [45:49] me011: OK .
+[1619] [45:50] fe016: So . Um . I mean I had to leave at three thirty ,
+[1620] [45:53] fe016: so I can Well , I can wait for the digits but I can't stay for the discussion
+[1621] [45:53] fe008: Uh - oh .
+[1622] [45:53] me013: Oh .
+[1623] [45:53] me011: OK .
+[1624] [45:54] me011: Well , you want to go first ? Or .
+[1625] [45:58] fe016: I c I have to make a call .
+[1626] [45:59] fe016: So .
+[1627] [45:59] me013: OK .
+[1628] [46:00] me013: Well , we 'll talk to you about it Uh
+[1629] [46:00] fe008: Well , should we e should we switch off the g
+[1630] [46:00] fe016: Um .
+[1631] [46:01] me011: Do you wanna go do digits or do you wanna just skip digits ?
+[1632] [46:03] fe016: No , I can do digits if if But I don't wanna butt in , or something .
+[1633] [46:04] me011: Then Alright . You go ahead .
+[1634] [46:07] fe016: But
+[1635] [46:09] fe016: I 'm I 'll be around just have to make call before quarter of .
+[1636] [46:12] fe016: So .
+[1637] [46:12] mn005: Mm - hmm .
+[1638] [46:14] fe016: So
+[1639] [46:17] fe016: Or we can talk about it .
+[1640] [46:18] fe008: Ke
+[1641] [46:18] me011: Why don't you read the digits ?
+[1642] [46:19] fe016: OK . Alright .
+[1643] [46:20] me013: Yeah , why don't you read the digits and then you can go .
+[1644] [46:21] fe016: Oh , this is the new one .
+[1645] [46:23] me013: Yeah .
+[1646] [46:23] me011: Yeah , don't Don't read the old one .
+[1647] [46:23] fe016: Alright .
+[1648] [46:25] fe016: The And the time is .
+[1649] [46:27] fe016: OK .
+[1650] [49:48] me011: OK
+[1651] [49:50] me013: OK .
+[1652] [49:50] fe008: Turn it off .
+[1653] [49:51] fe008: But
+[1654] [49:52] fe008: OK .
+[1655] [49:56] me011: And

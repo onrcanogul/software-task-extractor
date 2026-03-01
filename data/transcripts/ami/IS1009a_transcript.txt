@@ -1,0 +1,332 @@
+================================================================================
+AMI Meeting Transcript: IS1009a
+================================================================================
+
+Total Utterances: 320
+Unique Speakers: 4
+Duration: 12.51 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:54] A: Okay
+[0002] [00:55] D: Okay
+[0003] [00:55] A: Everybody ready
+[0004] [00:57] D: I think so
+[0005] [00:58] A: i think the first thing we do is introduce ourselves
+[0006] [01:01] D: That's a good time
+[0007] [01:01] A: And there is a name and what's your function is
+[0008] [01:05] A: so maybe we start with you
+[0009] [01:07] B: Yeah my name is france and
+[0010] [01:09] B: And i and uh and user interface
+[0011] [01:11] B: my role this
+[0012] [01:12] B: Uh the main responsibilities user interface
+[0013] [01:16] A: Uh-huh
+[0014] [01:16] B: And my role is to design uh a a television remote control
+[0015] [01:21] A: Uh-huh
+[0016] [01:21] A: okay
+[0017] [01:23] D: And i'm the marketing person
+[0018] [01:25] D: uh one figure out how to sell it
+[0019] [01:27] A: Uh huh
+[0020] [01:27] A: and your name is
+[0021] [01:28] D: My name is eileen
+[0022] [01:31] C: Yeah i'm jan
+[0023] [01:32] C: to be
+[0024] [01:32] C: um um my oldest industrial designer
+[0025] [01:36] C: And my responsibilities are dropped
+[0026] [01:38] C: Oh oh But do you do that though technical functional designs
+[0027] [01:43] C: and the specifications of user interface and it in but user interface design
+[0028] [01:47] A: There you go
+[0029] [01:48] A: and as you or you know and
+[0030] [01:50] A: betsy
+[0031] [01:50] A: i'm the project manager for
+[0032] [01:52] A: t.
+[0033] [01:52] A: i.
+[0034] [01:53] A: So when we look at the presentation that to see what three really are supposed to do
+[0035] [01:58] D: Okay
+[0036] [02:02] A: Yes opening acquaintance Tool training
+[0037] [02:05] A: well the tools uh i think we already
+[0038] [02:09] A: i guess it was really our the computer As far as i can see
+[0039] [02:11] D: Uh-huh
+[0040] [02:13] A: we get means each of us will get instructions
+[0041] [02:15] A: and we'll take it from there
+[0042] [02:18] A: Project plan that falls and at the same heading pretty much
+[0043] [02:20] A: um i don't think we have any great discussion at this point
+[0044] [02:25] D: Uh-huh
+[0045] [02:29] A: Here is what is this thing should be
+[0046] [02:31] A: This thing we are wanna Um Uh design as a new remote control
+[0047] [02:37] A: And two people regional Trendy And of course user friendly
+[0048] [02:39] D: Uh-huh
+[0049] [02:45] A: So maybe gonna make some notes of that
+[0050] [03:15] A: Okay
+[0051] [03:16] A: Alright
+[0052] [03:17] A: Here's what the functional design It's supposed to achieve
+[0053] [03:21] A: uh mm That is it's gonna be individual work and then at the meeting we'll discuss What uh We have come up with
+[0054] [03:31] A: The same goes for the conceptual design
+[0055] [03:34] A: They will be individual work Week and then discussion afterwards
+[0056] [03:39] A: Detailed design Same thing
+[0057] [03:40] D: hmm
+[0058] [03:41] D: mm Three different types of design we can be concerned
+[0059] [03:45] D: uh-huh
+[0060] [03:45] A: Uh-huh
+[0061] [03:46] A: Uh-huh
+[0062] [03:57] D: So she uh-huh Uh-huh
+[0063] [04:03] A: Okay i this this
+[0064] [04:08] D: Maybe we should be designed
+[0065] [04:12] D: I have to finish the remote control get to that
+[0066] [04:20] A: Then tool training try at the white board
+[0067] [04:22] A: has to control the favourite animal
+[0068] [04:24] A: Does anyway you want to go when it's See how the whiteboard works
+[0069] [04:28] A: so that it's in case we have two in the next meeting present something on the whiteboard
+[0070] [04:34] A: You wanna go eileen and
+[0071] [04:36] D: Okay after that i can do
+[0072] [04:37] A: But are you We that thing yourself
+[0073] [04:38] D: Seven
+[0074] [04:40] D: See if i remember have to draw kitty cat or a rabbit or something
+[0075] [04:48] A: And remember you have to press so it works
+[0076] [04:50] D: So that will record okay
+[0077] [04:50] A: uh-huh
+[0078] [04:53] D: Oh Um traditional Yeah
+[0079] [05:08] A: That's right
+[0080] [05:11] D: I'm very fat cat i
+[0081] [05:15] D: And it lights it like that
+[0082] [05:17] A: okay
+[0083] [05:18] D: Okay
+[0084] [05:20] A: And your friend seen i
+[0085] [05:22] B: Yes and that's in there
+[0086] [05:22] A: would you like that but just to see um How it feels so that you have a little idea
+[0087] [05:24] B: Yes sure
+[0088] [05:28] D: a mouse was aware of that or
+[0089] [05:30] A: No that's okay
+[0090] [05:31] B: No okay
+[0091] [05:32] D: Okay
+[0092] [05:34] A: Get to that later
+[0093] [05:36] D: Okay
+[0094] [05:37] B: That's a good i
+[0095] [05:47] C: me
+[0096] [05:47] B: I'm going to draw three
+[0097] [05:55] B: How do i
+[0098] [05:57] D: Yeah okay
+[0099] [06:00] D: Have
+[0100] [06:00] D: Have the kitty cat is having the excel like say yes i
+[0101] [06:00] A: okay
+[0102] [06:07] A: Is the project finance
+[0103] [06:09] A: uh which of course we all have to think about when we design this thing
+[0104] [06:12] A: Um selling price is supposed to be twenty five euro
+[0105] [06:17] A: Our profit aim for the company is fifty million euro
+[0106] [06:17] D: Uh-huh
+[0107] [06:22] A: The market range
+[0108] [06:23] A: unlimited meeting international
+[0109] [06:26] D: Okay
+[0110] [06:27] A: And the production cost should not icsi hopefully should be less than twelve Fifty euro
+[0111] [06:35] D: it should keep everybody on their
+[0112] [06:37] D: toes
+[0113] [06:37] D: and challenge
+[0114] [06:38] A: Uh-huh
+[0115] [06:40] D: Okay
+[0116] [06:42] D: Mm hmm yeah yeah Uh-huh
+[0117] [06:43] A: So these are all Things of course To remember was about to do when you design
+[0118] [06:49] A: Two Materials cost etcetera
+[0119] [06:59] A: Now uh the discussion i guess it is um does any uh one of you would have experience was Remote control
+[0120] [07:08] C: Yeah of course loses remote control yeah
+[0121] [07:09] A: As casey we use and reuse "'em" right every day
+[0122] [07:09] B: Yes
+[0123] [07:13] A: And
+[0124] [07:14] A: um Now having using a remote control for years just
+[0125] [07:19] A: anybody already have like an idea Like things you didn't like with its
+[0126] [07:24] A: things you would like to change things would like to improve with this thing
+[0127] [07:27] A: yeah any first ideas
+[0128] [07:30] A: Do you like it be smaller Big were
+[0129] [07:33] B: Yeah i
+[0130] [07:33] A: Have more have more buttons on a at or or maybe clearly better market buttons you know things like that
+[0131] [07:39] C: Yeah
+[0132] [07:41] C: Yeah
+[0133] [07:41] B: Yes i i feel that all the remote should be maybe come back to
+[0134] [07:45] A: Smaller right uh-huh
+[0135] [07:45] B: Yeah
+[0136] [07:46] B: those which we get yet nowadays it's very long
+[0137] [07:49] A: Uh-huh
+[0138] [07:49] B: And um And it should have a
+[0139] [07:51] B: multipurpose
+[0140] [07:52] B: like that the remote control which we use for
+[0141] [07:55] B: t.
+[0142] [07:55] B: v. it should it uh it should be used for uh for some of the
+[0143] [07:58] B: pope
+[0144] [07:58] B: was also like Controlling the um uh can reach it inside that house on fire at the nation as uh for heating system
+[0145] [08:01] C: O.
+[0146] [08:01] C: u.
+[0147] [08:02] C: i.
+[0148] [08:06] A: So it should be a multifunctional
+[0149] [08:08] B: Yes
+[0150] [08:08] A: uh a gadget do that with the um control your house old uh uh uh machines basically
+[0151] [08:09] B: Yes
+[0152] [08:12] B: Yes
+[0153] [08:14] B: Yeah exactly
+[0154] [08:17] D: A town twelve fifty euros per hour
+[0155] [08:22] A: Well
+[0156] [08:23] D: well and as we get a really good sign
+[0157] [08:25] D: or maybe we can do that
+[0158] [08:28] D: We certainly can try to
+[0159] [08:29] D: i agree with your that to market something successfully to do some more things
+[0160] [08:33] A: It should be something new we should this is it should do something different and then just what we have
+[0161] [08:37] D: That's right
+[0162] [08:37] C: Yeah
+[0163] [08:38] A: now of course the other thing to think there is maybe the design
+[0164] [08:41] B: Yeah design should be yeah it should be different
+[0165] [08:43] B: all that almost all the remotes
+[0166] [08:44] A: Like a trend you know like over here
+[0167] [08:45] A: we so maybe to be something trendy you know
+[0168] [08:47] C: Yeah
+[0169] [08:47] B: Yes exactly
+[0170] [08:48] C: maybe it in
+[0171] [08:48] A: maybe should Different colours or materials or or you know
+[0172] [08:49] C: a different colour
+[0173] [08:50] C: alerts
+[0174] [08:50] C: as or she is also
+[0175] [08:54] A: so yeah
+[0176] [08:54] A: shapes right yeah no
+[0177] [08:55] A: like teeny shape for a spare in your hand or something enough
+[0178] [08:56] B: Yes
+[0179] [08:58] D: okay friendly shape That would help
+[0180] [08:59] A: Yeah
+[0181] [09:02] D: I think in everything that would help is um if Beeps when you clap
+[0182] [09:04] A: Yes
+[0183] [09:07] D: Because i think one of the big things that happens is people use them they can't find it
+[0184] [09:12] A: That's true
+[0185] [09:13] A: because they put the newspaper
+[0186] [09:15] A: or they put it behind that plant
+[0187] [09:15] C: Yeah
+[0188] [09:16] A: or are we or whatever
+[0189] [09:18] D: Uh-huh
+[0190] [09:18] A: and and they are some either phone rings and they wanted Turn the
+[0191] [09:21] A: t.
+[0192] [09:21] A: v. or
+[0193] [09:21] A: forensic Oh yes i i my remote control yeah
+[0194] [09:26] A: Well or yeah or if it's really If it's really a dark spot Like it's out there uh a salad
+[0195] [09:31] C: Yes um a beep or something like that
+[0196] [09:32] A: or signal
+[0197] [09:32] D: That's uh that's that's really there are people were all like should blink
+[0198] [09:33] B: don't
+[0199] [09:33] A: yeah
+[0200] [09:33] C: so that we can go
+[0201] [09:34] A: So if lost
+[0202] [09:36] A: If lost uh uh a signal was a bit So signal yeah no
+[0203] [09:36] B: Yeah
+[0204] [09:38] B: Well no it's a signal yeah
+[0205] [09:40] D: Okay
+[0206] [09:41] C: Yeah
+[0207] [09:41] C: maybe it should have a light so that we can we can just recognise but it is
+[0208] [09:45] A: Exactly i mean just as as i say
+[0209] [09:46] C: May know there's a yeah
+[0210] [09:47] A: i'm just saying the slow signal meeting just whether it's a beep or whether
+[0211] [09:50] C: Beep or it's allow you to maybe to like
+[0212] [09:51] A: ally
+[0213] [09:51] A: it store
+[0214] [09:52] D: I do think a good um clue for
+[0215] [09:56] D: that is that you would respond
+[0216] [09:58] D: to a clap Or we respond to your voice Or would respond what what you'd you have to do to make it beep or blink
+[0217] [10:05] A: Okay my my idea is maybe that The minute it's really hit me in in other words if it's In a dark
+[0218] [10:12] A: spot Uh it mean you're like a newspaper
+[0219] [10:13] D: Uh-huh
+[0220] [10:15] A: is on top a
+[0221] [10:16] A: sweater
+[0222] [10:16] A: is on top or it's a bit behind the plant
+[0223] [10:17] D: Uh-huh
+[0224] [10:20] A: At that moment it's it's like it's like uh uh um but you call it the lights at the sensors you know
+[0225] [10:25] D: Okay sir
+[0226] [10:25] A: In in that nobody has a sensor It it gets a certain darkness
+[0227] [10:28] D: Okay
+[0228] [10:30] A: it it has a sensor and it gives
+[0229] [10:31] A: out a signal whether that be a light signal or a beep
+[0230] [10:34] C: Yeah probably
+[0231] [10:34] A: i mean that we can discuss that later you know
+[0232] [10:35] C: Yeah probably sorry
+[0233] [10:36] C: Yeah yeah
+[0234] [10:38] B: Yeah
+[0235] [10:38] B: and
+[0236] [10:39] D: So let's answer would activate the signal
+[0237] [10:41] A: That's right
+[0238] [10:41] C: Uh-huh
+[0239] [10:42] A: Yeah i would be
+[0240] [10:43] A: Right you have to have some kind of sensor
+[0241] [10:45] A: and i i think yeah uh uh worries or clapping that's not specific enough
+[0242] [10:50] A: Uh i know they're the lambs
+[0243] [10:52] A: and stuff you know you can clap on and off
+[0244] [10:52] D: Uh-huh
+[0245] [10:54] A: But i think the only work To certain degree And
+[0246] [10:58] D: But it could be some that's really obvious and you still wouldn't be able to find it
+[0247] [11:03] C: Yeah course
+[0248] [11:04] A: What with
+[0249] [11:04] C: the the
+[0250] [11:05] D: Well we "'cause" this because you're selling because people are so
+[0251] [11:05] B: Then in that case
+[0252] [11:06] C: Isn't it
+[0253] [11:07] A: Oh yeah well but then those people we can help by everybody
+[0254] [11:08] D: I mean it can be out
+[0255] [11:10] D: Well yeah
+[0256] [11:11] D: it is more like a on top of your book casing use like at that all the coffee table
+[0257] [11:15] D: Um You know where
+[0258] [11:18] A: Okay we have a
+[0259] [11:18] D: you have to move along okay
+[0260] [11:19] A: Yeah we have to move a lot
+[0261] [11:20] A: but uh i think we have some good good points to start with here
+[0262] [11:22] C: Yeah good point
+[0263] [11:25] A: Okay the next meeting will be in thirty minutes
+[0264] [11:28] A: i think you all
+[0265] [11:29] A: do you get the notes is on your computer for this
+[0266] [11:31] C: Yes
+[0267] [11:32] A: okay so will you got a note is
+[0268] [11:33] B: Yeah
+[0269] [11:35] A: The
+[0270] [11:36] A: the The working design I guess that's the function
+[0271] [11:40] A: d. uh we see is
+[0272] [11:41] A: the industrial designer That's you
+[0273] [11:44] C: Yeah it's function yeah so
+[0274] [11:46] A: Okay
+[0275] [11:47] A: so we are looking for working design when we come back
+[0276] [11:50] C: Yeah
+[0277] [11:51] C: Uh working
+[0278] [11:52] C: working design yeah it's it's out we need to include functional design
+[0279] [11:54] A: And then
+[0280] [11:55] A: And then the technical functions you'd the technical function
+[0281] [11:57] C: Yeah functions design
+[0282] [11:57] A: so so you are the working design
+[0283] [12:00] A: so we you're working design and then it functional design
+[0284] [12:00] B: Okay
+[0285] [12:04] A: And the marketing manager is coming up with some user requirements specification
+[0286] [12:10] A: like
+[0287] [12:10] A: friendliness and what we just discussed in general
+[0288] [12:14] A: That would be you were idea
+[0289] [12:15] A: and of course price
+[0290] [12:18] A: But they they did that the price is a good price
+[0291] [12:21] D: Uh-huh
+[0292] [12:21] A: I mean the price is given but That that was
+[0293] [12:25] D: We have to justify that was by having sufficient features to make it so that price
+[0294] [12:26] A: That's right
+[0295] [12:29] A: That's right
+[0296] [12:31] A: And you know piece that you you will get specific key um instructions for that
+[0297] [12:36] A: i think that's the end of the show
+[0298] [12:44] A: So um We have
+[0299] [12:47] A: four we haven't tried to to to three minutes
+[0300] [12:50] A: Um any questions at this point
+[0301] [12:53] A: or uh suggestions
+[0302] [12:57] A: I think basically basically do will get instructions to work with
+[0303] [13:02] A: And if you have any questions uh Uh i guess you can yeah
+[0304] [13:02] B: "'kay"
+[0305] [13:07] D: I think i have to think about one next meeting
+[0306] [13:10] A: Uh-huh
+[0307] [13:11] C: You know
+[0308] [13:11] D: About two people
+[0309] [13:12] C: Yeah yeah yeah
+[0310] [13:12] D: uh-huh
+[0311] [13:13] A: Uh-huh
+[0312] [13:15] A: Okay
+[0313] [13:16] D: Right well
+[0314] [13:17] A: Then uh we see you in about thirty minutes
+[0315] [13:21] A: And see what we can come up with
+[0316] [13:23] C: Uh-huh
+[0317] [13:23] D: Okay very good
+[0318] [13:24] A: Okay
+[0319] [13:25] B: Yes
+[0320] [13:25] C: Yeah

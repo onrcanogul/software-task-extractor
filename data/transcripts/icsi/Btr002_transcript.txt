@@ -1,0 +1,3459 @@
+================================================================================
+ICSI Meeting Transcript: Btr002
+================================================================================
+
+Total Utterances: 3455
+Unique Speakers: 6
+Duration: 86.77 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:00] fe068: We have littler heads
+[0002] [00:00] fe068: so .
+[0003] [00:04] fe008: OK
+[0004] [00:05] fe008: Oh
+[0005] [00:07] fe008: Would you check the microphone adjustments , please ?
+[0006] [00:09] fe008: Is is M So , is is Marisa 's close enough ?
+[0007] [00:12] fe008: We
+[0008] [00:12] fe069: I
+[0009] [00:12] me070: Hmm ?
+[0010] [00:13] fe008: But
+[0011] [00:13] fe069: Yes .
+[0012] [00:15] fe008: is i is it close ?
+[0013] [00:16] fe008: OK . Alright .
+[0014] [00:16] fe066: Hello .
+[0015] [00:17] fe067: Hello ?
+[0016] [00:18] fe069: I can change it .
+[0017] [00:18] me070: Hmm .
+[0018] [00:19] fe008: But this w You know , he 's , like , the expert ,
+[0019] [00:19] fe069: I was just trying a new head position .
+[0020] [00:20] fe008: and
+[0021] [00:21] me070: Mm - hmm .
+[0022] [00:24] fe008: Yeah .
+[0023] [00:26] fe067: Hmm .
+[0024] [00:27] fe066: Oh .
+[0025] [00:33] me070: OK . I see .
+[0026] [00:34] fe067: Hello ?
+[0027] [00:34] fe067: OK .
+[0028] [00:36] fe066: Hello .
+[0029] [00:45] fe068: Hmm .
+[0030] [00:48] fe008: It 's interesting .
+[0031] [00:48] fe066: Hello .
+[0032] [00:49] fe066: That 's good .
+[0033] [00:50] fe008: Hello ?
+[0034] [00:50] fe008: Yeah .
+[0035] [00:53] fe008: Your voice is so is so i it 's like , s you can see across all the channels when you talk .
+[0036] [00:53] me070: Hello .
+[0037] [00:54] fe069: OK .
+[0038] [00:54] me070: OK . Mine 's good .
+[0039] [00:54] fe067: Hello ?
+[0040] [00:56] fe008: It 's great .
+[0041] [00:57] fe008: Thanks very much . Thanks very much .
+[0042] [00:58] fe008: Alright .
+[0043] [00:59] fe008: So . Uh , welcome back .
+[0044] [01:01] fe008: Thank you for coming .
+[0045] [01:02] fe008: Um , so , what I thought we 'd do today is pick up where we were last time
+[0046] [01:06] fe008: and maybe , uh , go over some some ideas about , um ,
+[0047] [01:13] fe008: well , i the return to the conventions ,
+[0048] [01:15] fe008: but I also wanted to , uh , share with you a couple of the things that I 've picked up in terms of checking .
+[0049] [01:20] fe008: And these are uh , th these are things that came up with the tra with the Tigerfish transcripts .
+[0050] [01:24] fe008: I 'm just doing this cuz I think it 's interesting .
+[0051] [01:27] fe008: OK . So , um , I have an example
+[0052] [01:30] fe066: OK . @ @ Not sure .
+[0053] [01:31] fe066: Thank you .
+[0054] [01:32] fe067: Oh , there 's Hold on .
+[0055] [01:32] fe008: which
+[0056] [01:34] fe008: um , so there 're a couple of examples .
+[0057] [01:37] fe008: I have one in front of you which is the one where ,
+[0058] [01:39] fe008: um , um , u
+[0059] [01:42] fe008: Leah Leah noticed this one where I said something and , um , the transcriber interpreted it as " twosome gruesome , uh , different sizes different this " ,
+[0060] [01:54] fe008: and , um , actually what I meant to say was um , " so you 're saying groups of different sizes ,
+[0061] [01:59] fe008: different size groups ? "
+[0062] [02:02] fe066: Whoa .
+[0063] [02:02] fe008: Yeah .
+[0064] [02:03] me070: Wow !
+[0065] [02:03] fe008: I
+[0066] [02:04] fe008: It 's really enormously far away .
+[0067] [02:06] fe008: Now this this could be one of those cases where the auditory was just really bad .
+[0068] [02:09] fe069: That 's what I was just thinking ,
+[0069] [02:10] fe069: or maybe it was really quiet or something ?
+[0070] [02:13] fe069: I don't know .
+[0071] [02:13] fe008: Maybe very very soft .
+[0072] [02:15] fe008: Maybe with the microphone noise ,
+[0073] [02:15] fe069: Yeah .
+[0074] [02:17] fe008: or something from someone else ,
+[0075] [02:18] fe008: or an overlap ,
+[0076] [02:18] fe069: Mm - hmm .
+[0077] [02:19] fe008: or
+[0078] [02:20] fe008: but they 're not usually that bad , I I don't think .
+[0079] [02:22] fe068: Mm - mmm .
+[0080] [02:22] fe008: Then , um , I have a couple of others .
+[0081] [02:23] fe008: So
+[0082] [02:25] fe008: So , the person said , " interesting idea " ,
+[0083] [02:28] fe008: but Tigerfish thought it was , " uh , just an idea " .
+[0084] [02:31] fe008: Now that changes the meaning .
+[0085] [02:32] fe066: Right .
+[0086] [02:33] fe067: Hmm .
+[0087] [02:33] fe008: It 's interesting .
+[0088] [02:33] me070: Hmm .
+[0089] [02:34] fe068: Right .
+[0090] [02:34] fe008: And then there are various ones like , um , um , " ish decay " instead of " HTK " .
+[0091] [02:41] fe066: Oh .
+[0092] [02:41] fe069: Ugh !
+[0093] [02:41] fe008: And
+[0094] [02:41] fe068: i " Ish decay " ?
+[0095] [02:43] fe008: " Ish decay " .
+[0096] [02:44] fe008: Now
+[0097] [02:44] fe066: " Ish decay . "
+[0098] [02:45] fe068: Yeah , what 's an " ish " ?
+[0099] [02:46] fe008: Well they they they were suspicious that wasn't right ,
+[0100] [02:49] fe008: but that was the closest they could come .
+[0101] [02:50] me070: Mm - hmm .
+[0102] [02:50] fe008: And , you know , with when you 're dealing with acronyms ,
+[0103] [02:50] fe069: Wow .
+[0104] [02:51] fe008: that 's that 's that shows one of the problems with acronyms .
+[0105] [02:53] fe068: Yeah .
+[0106] [02:53] fe008: Is that it 's clear if you know it ,
+[0107] [02:54] fe069: I wonder if that was someone who was who had an accent , maybe ?
+[0108] [02:55] fe008: but
+[0109] [02:58] fe008: Always conceivable .
+[0110] [02:59] fe008: I don't remember off hand .
+[0111] [03:00] fe008: I did check the example .
+[0112] [03:02] fe008: And , um ,
+[0113] [03:04] fe008: well , and this this would be consistent .
+[0114] [03:05] fe008: So , uh , it was transcribed as " with H " ,
+[0115] [03:07] fe008: but it was really " with age " .
+[0116] [03:09] fe069: Mmm .
+[0117] [03:09] fe066: Mmm .
+[0118] [03:10] me070: Uh - huh .
+[0119] [03:10] fe008: Yeah .
+[0120] [03:11] fe008: And , uh , then there are some where actually punctuation changes the meaning .
+[0121] [03:15] fe008: So , this is the these are things that Barbara show uh , found .
+[0122] [03:18] fe008: " Spurts wouldn't be right " was what it looked like .
+[0123] [03:21] fe008: But , actually when you listen to it , it would be " Spurts wouldn't be . Right ? "
+[0124] [03:25] fe066: Oh .
+[0125] [03:27] fe067: Hmm .
+[0126] [03:27] me070: Hmm .
+[0127] [03:27] fe069: Oh .
+[0128] [03:28] fe069: That 's very subtle .
+[0129] [03:29] fe008: A
+[0130] [03:30] fe008: It is subtle .
+[0131] [03:31] fe008: And yet , you know , it 's like And instead of instead of " and it 's " they put " Annette 's " .
+[0132] [03:36] me070: Annette 's ?
+[0133] [03:37] fe008: Now this this is interesting
+[0134] [03:38] fe008: because it 's like , you know , we know that there 's no Annette on any of the meetings we 've ever dealt with ,
+[0135] [03:42] me070: Right .
+[0136] [03:42] fe069: Right .
+[0137] [03:42] fe008: but , um , it 's , you know , conceivable .
+[0138] [03:42] fe066: Right .
+[0139] [03:45] me070: Hmm .
+[0140] [03:45] fe008: And then ,
+[0141] [03:46] fe008: um ,
+[0142] [03:47] fe008: let 's see .
+[0143] [03:48] fe008: There 's one other here I thought was interesting .
+[0144] [03:52] fe008: Well
+[0145] [03:53] fe008: OK , so it should have been " the quals w the the quals slides will be fine " .
+[0146] [03:58] fe008: This is Jerry Feldman .
+[0147] [03:59] fe008: And , uh , instead it was transcribed with " the " and then an uncertain syllable " the the " and then " all the slides will be fine " .
+[0148] [04:08] fe066: Ah .
+[0149] [04:08] fe008: Which is interesting .
+[0150] [04:08] fe068: Oh .
+[0151] [04:09] fe008: And and , you know , this was a case where the timebin was off .
+[0152] [04:09] fe067: Hmm .
+[0153] [04:11] fe008: I wanted to bring an example where th
+[0154] [04:12] me070: Mm - hmm .
+[0155] [04:12] fe069: Oh .
+[0156] [04:12] fe066: Yeah .
+[0157] [04:13] fe008: So " all the slides " it 's w started too late .
+[0158] [04:14] me070: Right .
+[0159] [04:15] fe008: It
+[0160] [04:16] fe066: Right .
+[0161] [04:17] fe069: Uh - huh .
+[0162] [04:18] fe008: Yeah .
+[0163] [04:19] fe008: So , I thought that was very interesting .
+[0164] [04:21] fe008: And I think that it shows , um these sorts of things , I was thinking it would be interesting to do an analysis of these things
+[0165] [04:26] fe008: because I think that ,
+[0166] [04:28] fe008: um ,
+[0167] [04:29] fe008: if well first of all , there 's this overall point that it shows a degree to which , when you listen to speech , and when you 're just , in general , listening , probably ,
+[0168] [04:36] fe008: but it shows espec specifically this to this task , that it 's very constructive .
+[0169] [04:41] fe008: You 're not going on simply the auditory there 's a huge contribution from the top - down processing ,
+[0170] [04:45] fe008: and the you know , e different types .
+[0171] [04:47] fe008: You 've got the contextual information ,
+[0172] [04:49] fe008: you have syntax ,
+[0173] [04:49] fe008: you have your mastery of English , and these various things .
+[0174] [04:52] fe008: But I think these kinds of errors , it just shows the degree which it 's not strictly an acoustic task .
+[0175] [04:56] me070: Mm - hmm . Yeah .
+[0176] [04:57] fe069: Oh , yeah .
+[0177] [04:57] fe008: And the other thing I think that 's interesting is , the types of the types of confusions that happen , um , do preserve certain aspects of the stimulus .
+[0178] [04:57] fe066: Mm - hmm .
+[0179] [05:08] fe008: So , the stress tends to be preserved ,
+[0180] [05:11] fe008: you know , the content word will be substituted for another content word ,
+[0181] [05:15] fe008: and , um ,
+[0182] [05:16] fe008: It 's it 's not surprising that they would hear this .
+[0183] [05:19] fe008: I 'm o I 'm often surprised by how how plausible something can be with without it being correct .
+[0184] [05:25] me070: Mm - hmm .
+[0185] [05:25] fe008: Because
+[0186] [05:26] fe066: Mm - hmm .
+[0187] [05:27] fe008: And then often , you know , i it 's , um , i there 's ex the parentheses are used ,
+[0188] [05:33] fe008: so the person knew it wasn't really a perfect match .
+[0189] [05:35] me070: Mm - hmm .
+[0190] [05:35] fe008: But , uh .
+[0191] [05:37] fe008: OK . Now having said that I 'm I 'm impressed by h how by how , um well , how infrequent these these kinds of extreme cases are .
+[0192] [05:46] fe008: Most of the types of things that I find in checking are much much more mild .
+[0193] [05:50] fe008: Yeah . So so .
+[0194] [05:51] fe068: Mm - hmm .
+[0195] [05:51] fe008: Do
+[0196] [05:51] fe068: Actually , that comes back to a point .
+[0197] [05:53] fe068: We had talked about this last week , where you were interested in " so " .
+[0198] [05:56] fe069: Mm - hmm .
+[0199] [05:56] fe068: Saying " so " at the end of something .
+[0200] [05:58] fe069: Mm - hmm .
+[0201] [05:58] fe068: And
+[0202] [06:01] fe068: OK , so , let me just think of an example .
+[0203] [06:03] fe068: Um ,
+[0204] [06:04] fe068: OK , let 's say I say , " Well , that would be hard to do , so . "
+[0205] [06:07] fe008: Mm - hmm .
+[0206] [06:08] fe068: OK , right ?
+[0207] [06:08] fe068: And the way I would transcribe it , I would put that " so that would be hard " , comma , " so "
+[0208] [06:15] fe068: at the end .
+[0209] [06:15] fe008: Mm - hmm .
+[0210] [06:16] fe068: Cuz
+[0211] [06:17] me070: Mm - hmm .
+[0212] [06:17] me070: Would you put a period after " so " ?
+[0213] [06:19] fe068: Right .
+[0214] [06:19] me070: You would or you wouldn't ?
+[0215] [06:20] fe068: " So . "
+[0216] [06:21] fe068: Yeah .
+[0217] [06:21] fe068: Yeah , I would just sort of end it .
+[0218] [06:21] me070: Yes .
+[0219] [06:22] me070: Mm - hmm .
+[0220] [06:23] fe068: But then sometimes they transcribe it like " So that would be a problem " , period , new word , like capitalized " So " .
+[0221] [06:29] fe066: Oh .
+[0222] [06:29] fe008: Mm - hmm .
+[0223] [06:29] me070: Right .
+[0224] [06:30] fe069: Oh , like it 's a whole new utterance .
+[0225] [06:31] fe069: Like it 's not connected .
+[0226] [06:31] fe068: Right . And and it just seems to sotal totally that that 's not the meaning .
+[0227] [06:32] me070: Mm - hmm .
+[0228] [06:35] fe068: And and it changes the meaning , I think .
+[0229] [06:38] fe068: Um
+[0230] [06:38] fe008: In
+[0231] [06:39] fe008: So , uh , let me be sure I understand .
+[0232] [06:41] fe008: So , you 're saying s
+[0233] [06:42] fe008: boy , it 's hard to ig uh , ignoi that ignore that word .
+[0234] [06:45] me070: Uh - huh .
+[0235] [06:46] fe008: Um ,
+[0236] [06:47] fe008: So
+[0237] [06:50] fe068: Or whatever , yeah ,
+[0238] [06:51] fe068: " that would be a problem " ,
+[0239] [06:52] fe008: " That 'd be a problem , "
+[0240] [06:52] fe068: whatever .
+[0241] [06:52] me070: Right .
+[0242] [06:52] fe068: Yeah .
+[0243] [06:53] fe008: " so . "
+[0244] [06:54] fe068: " So . "
+[0245] [06:55] fe008: And how does it change the meaning ?
+[0246] [06:56] fe008: What 's what are the two different meanings there ?
+[0247] [06:57] fe068: It seems like because if I was just reading that thing , I would say , " So that would be a problem . So . "
+[0248] [07:06] fe008: OK .
+[0249] [07:06] fe068: You know what I mean ?
+[0250] [07:07] fe068: Th - if if it was like , " period , capital SO " , as opposed to , um , " That would be a problem , so . "
+[0251] [07:11] fe008: Oh , I see what you 're saying !
+[0252] [07:16] fe068: " That would be a problem . So . "
+[0253] [07:16] me070: Right .
+[0254] [07:17] fe066: It
+[0255] [07:17] me070: I think the second one where the " so " is all by itself , it 's like , " So that would be a problem . So . "
+[0256] [07:22] me070: You
+[0257] [07:22] fe068: Some
+[0258] [07:22] fe066: Right , as though it 's leading into something else .
+[0259] [07:22] fe069: It
+[0260] [07:24] me070: Yeah , the first one is like , the " so " is connected to the sentence ,
+[0261] [07:26] fe066: Bu
+[0262] [07:27] me070: and " That 'd be a problem , so . "
+[0263] [07:27] fe066: yeah .
+[0264] [07:28] fe066: I
+[0265] [07:29] me070: You know , it 's but the next one is like not not connected to " that would be a problem " .
+[0266] [07:32] me070: It 's like , " So . "
+[0267] [07:33] fe069: It 's like introducing a new thing that they don't talk about .
+[0268] [07:34] fe066: A new subject .
+[0269] [07:34] me070: Yeah
+[0270] [07:35] fe068: Right , yeah .
+[0271] [07:36] fe066: The
+[0272] [07:37] fe068: So
+[0273] [07:37] fe008: Mm - hmm .
+[0274] [07:37] fe066: To me , I don't necessarily put , um , like a d a p a p a period after that " so " .
+[0275] [07:44] fe066: I might actually either put a dash after it depending on whether or not they got unt interrupted or something ,
+[0276] [07:48] me070: Mm - hmm .
+[0277] [07:49] fe066: or I would maybe even act as though they were , um , just trailing off .
+[0278] [07:53] me070: Right .
+[0279] [07:53] fe066: So put that those two dots after it .
+[0280] [07:55] me070: I do that too .
+[0281] [07:56] fe066: Um , uh , which depending on what 's going on , like , I 'll do that .
+[0282] [07:56] me070: I
+[0283] [08:00] fe066: Cuz to me it sounds more like they 're trailing off .
+[0284] [08:00] me070: Right .
+[0285] [08:02] me070: Sometimes , though , it does sound like they ended a sentence
+[0286] [08:02] fe069: Yeah .
+[0287] [08:05] me070: and
+[0288] [08:05] fe066: Yeah . Yeah , yeah , yeah .
+[0289] [08:05] fe069: Yeah .
+[0290] [08:05] fe067: Mmm .
+[0291] [08:05] me070: like sometimes it 's just like , " That 'd be hard , so " .
+[0292] [08:06] fe068: Right .
+[0293] [08:08] me070: You know , and but and then ofte often it sounds like they were trying to think of something else to say ,
+[0294] [08:08] fe066: Right .
+[0295] [08:09] fe066: Yeah .
+[0296] [08:12] me070: but
+[0297] [08:14] me070: And then they get interrupted and then I put a dash .
+[0298] [08:14] fe069: Yeah .
+[0299] [08:16] fe069: Yep .
+[0300] [08:16] me070: You know , but I never usually put period and then new word " so " unless it 's like , end of the sentence and then , " So . "
+[0301] [08:24] fe069: " What are we gonna do now , "
+[0302] [08:24] fe069: but they don't say that .
+[0303] [08:25] me070: Mmm .
+[0304] [08:25] fe008: Mm - hmm .
+[0305] [08:25] me070: Yeah .
+[0306] [08:25] fe069: Yeah .
+[0307] [08:26] fe068: Mm - hmm .
+[0308] [08:26] fe008: It 's it 's interesting that there are so many cases .
+[0309] [08:28] fe008: And I agree .
+[0310] [08:29] fe008: I th I think those are very good conventions .
+[0311] [08:30] fe008: I also like w you know , this this whole point about how how that y th th the fact that you 're raising this ,
+[0312] [08:35] fe008: I li I like this example that , um , we have several things that are being cued by intonation ,
+[0313] [08:41] fe068: Right .
+[0314] [08:42] fe008: because if if that 's a f nice full falling intonational contour on " that 's a problem " ,
+[0315] [08:43] me070: Mm - hmm .
+[0316] [08:47] fe008: " eh , that 'll be a problem " .
+[0317] [08:48] fe008: then I would think that there should be a period there .
+[0318] [08:50] fe066: Period . Right .
+[0319] [08:50] fe069: Yeah .
+[0320] [08:50] me070: Right .
+[0321] [08:51] fe008: And then especially if you 've got a pause following it ,
+[0322] [08:53] fe008: but you don't always y
+[0323] [08:54] fe008: these things are correlated but they 're not perfect .
+[0324] [08:56] fe069: Yeah .
+[0325] [08:56] fe066: That 's another thing , is i if you 're not a native speaker of English you might not pick up ,
+[0326] [09:00] fe066: because , uh , you know , every language has different , um , intonation mappings .
+[0327] [09:05] fe068: Mm - hmm .
+[0328] [09:05] me070: Yeah . That 's always one of the hardest parts about the native speakers ,
+[0329] [09:05] fe008: Mm - hmm . Mm - hmm .
+[0330] [09:06] fe066: And
+[0331] [09:08] me070: is you don't know exactly like how to do the punctuation
+[0332] [09:08] fe066: Right .
+[0333] [09:12] me070: because their intonation is totally different .
+[0334] [09:14] fe008: You mean non - native na Non - native speakers ?
+[0335] [09:15] me070: I mean Non - native speakers is what I meant . Yeah .
+[0336] [09:15] fe008: Yeah , yeah , yeah , yeah , yeah , yeah , yeah , yeah .
+[0337] [09:16] fe069: Yeah .
+[0338] [09:17] fe008: Absolutely . Yeah , absolutely .
+[0339] [09:18] fe066: And also if you 're a non - native speaker transcribing it , you wouldn't necessarily kn uh , kn understand the conventions of English t intonation as , you know , intimately as a native speaker might .
+[0340] [09:18] me070: Yeah . That 's true .
+[0341] [09:27] me070: Right . Mm - hmm .
+[0342] [09:28] fe069: Well , I would hope they would have native speaker transcribers transcribing .
+[0343] [09:32] fe008: Ideally , wouldn't that be something .
+[0344] [09:33] fe008: I
+[0345] [09:37] fe069: Oh y yeah .
+[0346] [09:37] fe008: Oh , is that what you mean ?
+[0347] [09:38] fe008: Or
+[0348] [09:38] fe069: No , that 's not what I meant ,
+[0349] [09:38] me070: Oh .
+[0350] [09:39] fe069: but that would be cool .
+[0351] [09:40] fe008: That 'd be nice .
+[0352] [09:40] fe069: No , what I meant was that I would hope that , for meetings in English you would have native speakers transcribing it
+[0353] [09:46] fe069: because it you would have more intuitions about what should be there .
+[0354] [09:46] fe008: I agree .
+[0355] [09:48] me070: Yeah .
+[0356] [09:49] fe066: n Yeah .
+[0357] [09:50] fe069: Even if you can't fully understand the word , you can make a guess , you can that isn't completely off like some of these are ,
+[0358] [09:54] fe066: Right .
+[0359] [09:56] fe069: but
+[0360] [09:58] fe069: those things , the f
+[0361] [09:58] fe008: Mm - hmm .
+[0362] [10:00] fe069: the really bad mistakes that they make are pretty rare
+[0363] [10:02] fe069: I think , so .
+[0364] [10:02] fe008: I I OK - So , in terms of like when you 're going through the Tigerfish transcripts , you don't find a lot of these kinds of extreme cases ?
+[0365] [10:09] fe069: Not this t t
+[0366] [10:10] fe066: Not so much . No .
+[0367] [10:10] fe008: OK .
+[0368] [10:11] fe069: I
+[0369] [10:11] me070: Mmm , not " twosome gruesome " .
+[0370] [10:13] fe069: No , not " twosome gruesome " .
+[0371] [10:15] fe069: Sometimes ,
+[0372] [10:16] fe069: but they tend to be pretty good about parentheses .
+[0373] [10:19] fe066: Mm - hmm .
+[0374] [10:19] fe008: Mm - hmm .
+[0375] [10:20] fe008: Good . Good to hear .
+[0376] [10:20] me070: Yeah .
+[0377] [10:21] me070: Yeah , sometimes they p they usually put them in prethen parentheses ,
+[0378] [10:23] me070: and you think to yourself , " You were way off ,
+[0379] [10:23] fe069: Yeah .
+[0380] [10:25] me070: but at least you knew you were way off . "
+[0381] [10:25] fe069: Yeah .
+[0382] [10:26] fe069: Yeah .
+[0383] [10:27] fe008: Mm - hmm .
+[0384] [10:28] fe069: Exactly .
+[0385] [10:28] fe068: Yeah . I just wonder , like , what influences them to think of " twosome gruesome " ,
+[0386] [10:28] fe008: Good .
+[0387] [10:31] fe068: like maybe this person just saw a horror movie or something ?
+[0388] [10:34] fe068: And ,
+[0389] [10:35] fe068: uh , this is the interpretation that came to mind or something ?
+[0390] [10:35] fe008: It 's Could be .
+[0391] [10:38] fe069: Yeah .
+[0392] [10:39] fe068: You know what I mean ?
+[0393] [10:39] fe068: Like , where would you get the word " gruesome " ?
+[0394] [10:42] fe069: I don't know .
+[0395] [10:43] fe068: You know , you just sort of pull it out of the air ?
+[0396] [10:44] fe069: Well , I mean , you get the " GR " from " groups " , I guess ,
+[0397] [10:45] fe068: Anyway .
+[0398] [10:47] fe069: but
+[0399] [10:47] fe068: Yeah .
+[0400] [10:48] me070: Yeah .
+[0401] [10:49] fe069: I don't know where the rest of it came from .
+[0402] [10:50] me070: Uh , " groups of " ,
+[0403] [10:51] me070: " gruesome " .
+[0404] [10:52] fe066: g Group .
+[0405] [10:53] fe068: OK .
+[0406] [10:55] fe066: " Groups of " ,
+[0407] [10:55] fe066: " gruesome " .
+[0408] [10:56] me070: You 've got the , uh , " S " in the middle .
+[0409] [10:57] fe066: Yeah
+[0410] [11:02] me070: " Gruesome " .
+[0411] [11:02] fe066: Yeah , " grou " uh , " gruesuh " .
+[0412] [11:06] fe069: Yeah .
+[0413] [11:06] me070: Yeah . It 's both labial at the end .
+[0414] [11:07] fe068: Mmm - hmm .
+[0415] [11:08] fe066: You know . And then you would kind of have to come up with some sort of consonant
+[0416] [11:10] fe069: "
+[0417] [11:11] fe066: and maybe it 's an " M " to you .
+[0418] [11:13] fe069: Well
+[0419] [11:13] fe068: Right .
+[0420] [11:14] fe069: " Group of , groups of , groups of , group s "
+[0421] [11:14] fe066: " Fff " . Because also , I mean , " F " is " Fff " . is , um , " Fff " .
+[0422] [11:15] me070: Gruesome groups of gruesome groups of
+[0423] [11:19] fe069: I wonder where the " P " went , though ?
+[0424] [11:20] fe066: Right
+[0425] [11:21] me070: Maybe the " P " wasn't pronounced very well ,
+[0426] [11:22] fe069: Yeah ?
+[0427] [11:23] fe068: " Pss " .
+[0428] [11:23] me070: like " groups of "
+[0429] [11:24] fe066: Yeah , because it 's , um , bilabial too .
+[0430] [11:26] fe066: " Fff " . you know , you 'll
+[0431] [11:28] fe066: di uh , or interl interdental , " fff " .
+[0432] [11:28] me070: Mm - hmm .
+[0433] [11:30] fe066: you know , it 's close enough , I guess , to " mmm " , you know .
+[0434] [11:32] fe069: Nnn , I guess .
+[0435] [11:33] fe066: You 're getting the closure of the lips .
+[0436] [11:34] fe066: So maybe that 's what they were do getting .
+[0437] [11:39] fe066: I don't know .
+[0438] [11:39] fe069: It 's possible .
+[0439] [11:41] fe067: Hmm .
+[0440] [11:43] me070: Hmm .
+[0441] [11:43] fe008: Well , you know , there 's also this problem that they didn't have context to constrain the interpretation ,
+[0442] [11:47] fe069: Yeah .
+[0443] [11:47] me070: Yeah .
+[0444] [11:47] fe008: cuz
+[0445] [11:49] fe008: Yeah .
+[0446] [11:50] me070: Yeah , that 's really hard ,
+[0447] [11:50] fe008: OK .
+[0448] [11:51] me070: th to not be able to go and listen to the other channels and figure out the context of what it 's occurring in .
+[0449] [11:56] fe066: Yeah .
+[0450] [11:58] fe008: Yeah , when I 'm clearing the par parentheses , I find that very useful .
+[0451] [12:01] fe008: I I sometimes I try to just go through and pick up the parentheses ,
+[0452] [12:01] me070: Yeah .
+[0453] [12:04] fe008: see if I can do it just by itself ,
+[0454] [12:06] fe008: but it it 's remarkable how sometimes something can be so totally opaque ,
+[0455] [12:10] fe008: and then you go back to , you know , the person 's previous utterance
+[0456] [12:13] fe008: or you go to the mixed channel ,
+[0457] [12:15] fe008: or you , uh , check on the other things
+[0458] [12:16] fe008: and suddenly it becomes perfectly clear .
+[0459] [12:16] me070: Mm - hmm .
+[0460] [12:18] fe008: It 's very very surprising .
+[0461] [12:21] fe008: Very surprising .
+[0462] [12:21] fe066: Yeah .
+[0463] [12:23] fe008: Good .
+[0464] [12:23] fe068: But this other business , um , that you have at the bottom with people getting transcribed on another channel
+[0465] [12:31] fe008: Yes .
+[0466] [12:31] fe068: is , uh is much more common .
+[0467] [12:31] fe069: Is that what it 's about ?
+[0468] [12:33] fe069: I wasn't I couldn't u I don't know , for some reason that didn't make sense to me .
+[0469] [12:36] fe069: But th it 's about when things are transcribed on other channels than what they 're set on ?
+[0470] [12:38] fe068: Right .
+[0471] [12:39] fe069: OK .
+[0472] [12:39] fe068: And what 's always funny to me is when it 's th you know , they m mi miss the gender completely ,
+[0473] [12:43] fe068: like , you know , Morgan 'll be on Jane 's channel ,
+[0474] [12:45] fe068: or just something bizarre like that .
+[0475] [12:47] fe069: Yeah .
+[0476] [12:48] fe068: Um , so .
+[0477] [12:50] fe066: Well , maybe it 's because they don't realize that you 're supposed to sp
+[0478] [12:53] fe066: Do they ?
+[0479] [12:54] fe066: I mean , maybe they don't really realize that you 're supposed to split it up . Or something
+[0480] [12:56] fe066: like
+[0481] [12:59] fe066: I hear this other person 's voice just as clearly
+[0483] [13:01] fe066: and I realize it 's not Jane ,
+[0484] [13:02] fe066: and I realize it 's not a female even ,
+[0485] [13:04] fe066: but , um , because it 's so clear on this channel , I 'm supposed to transcribe it . "
+[0486] [13:07] fe069: I 'm supposed to do it .
+[0487] [13:09] me070: Mm - hmm .
+[0488] [13:09] fe069: h Yeah .
+[0489] [13:10] fe066: I I 'd imagine that 's p that might be what that is .
+[0490] [13:12] fe069: They probably don't even know how many people are at the meeting , or w anything .
+[0491] [13:15] fe008: Yeah , it 's really a an odd task in in a way
+[0492] [13:17] fe008: because they 're they have no clues at all about how dominant the speaker is on the channel they 're transcribing .
+[0493] [13:20] fe069: Yeah .
+[0494] [13:22] me070: Mm - hmm .
+[0495] [13:22] fe069: Yeah .
+[0496] [13:23] fe068: Mm - hmm .
+[0497] [13:23] fe008: And the pre - segmenter doesn't give them any or the information eith either .
+[0498] [13:26] fe008: I
+[0499] [13:26] me070: Yeah .
+[0500] [13:28] fe069: Wow .
+[0501] [13:28] fe068: Yeah .
+[0502] [13:29] fe069: We 're we 're really spoiled , then , with our interface here ,
+[0503] [13:31] fe067: Mmm .
+[0504] [13:31] fe068: Fancy - schmancy .
+[0505] [13:32] fe069: right ?
+[0506] [13:33] fe008: Yeah .
+[0507] [13:34] fe069: I mean s it 's very useful .
+[0508] [13:37] fe068: If I was gonna make just a guess , though , from my experience it would seem like the men get mis um ,
+[0509] [13:39] fe008: Yes .
+[0510] [13:42] fe068: the men get moved onto other channels , maybe more frequently .
+[0511] [13:45] fe068: And it 's just probably cuz they have deeper voices
+[0512] [13:47] fe068: and they 're getting picked up on more channels , um , than their own channel .
+[0513] [13:49] fe008: That would make that would make some sense .
+[0514] [13:51] fe069: Yeah .
+[0515] [13:51] fe068: Um , for w you know , it 's an acoustic thing .
+[0516] [13:52] fe008: OK .
+[0517] [13:52] fe069: Or they just tend to sp peak louder , maybe ?
+[0518] [13:54] fe066: That 's true . They do they do say that m men 's voices c carry better .
+[0519] [13:55] fe068: Yeah .
+[0520] [13:58] fe066: I mean , that 's why they use , like , I think
+[0521] [14:00] fe066: who was telling me ?
+[0522] [14:00] fe066: Ian Maddieson was talking about this , that they use male voices in , um , in , um , airports .
+[0523] [14:07] fe008: Oh !
+[0524] [14:08] me070: Hmm .
+[0525] [14:08] fe066: Because
+[0526] [14:13] fe069: For announcements and things ?
+[0527] [14:14] fe066: Yeah , that 's th It fits into a hearer 's range of perception , um , better than a lot of female voices .
+[0528] [14:15] fe067: Hmm .
+[0529] [14:21] fe068: Hmm .
+[0530] [14:21] fe069: Hmm .
+[0531] [14:21] fe066: And so that 's why they use male voices .
+[0532] [14:23] fe066: We were just talking about that .
+[0533] [14:23] fe069: They should do that at BART , too ,
+[0534] [14:24] fe069: because sometimes it 's hard to hear .
+[0535] [14:25] fe008: I see .
+[0536] [14:27] fe067: And now they have those strange computerized voices that n
+[0537] [14:28] fe008: So
+[0538] [14:29] fe069: Yeah . Those are i a w actually probably just the computer problem
+[0539] [14:29] me070: Hmm .
+[0540] [14:32] fe069: not the gender problem .
+[0542] [14:34] fe008: Huh .
+[0543] [14:35] fe008: So so this means that people with hearing problems would hear , uh , uh , one of these announcements better if it were a male voice then .
+[0544] [14:39] fe066: d Yeah , depending on their auditory , um , capabilities .
+[0545] [14:43] fe008: Uh - huh .
+[0546] [14:43] fe066: I mean , if their auditory capabilities , uh , have been , you know , um , squished down like in a certain place where it would be n easier for a person with normal , um , hearing to hear a male 's voice ,
+[0547] [14:59] fe066: um
+[0548] [15:09] fe066: and , i uh , e i u
+[0549] [15:11] fe066: if that part of the brain normally codes for , you know , male voices , uh , in a normal hearer , then they might not be able to .
+[0550] [15:21] fe066: You know . Does that make sense ?
+[0551] [15:22] fe008: Mm - hmm . Mm - hmm . Mm - hmm .
+[0552] [15:22] fe066: Like if that part is damaged .
+[0553] [15:23] fe066: So
+[0554] [15:24] fe008: Selective .
+[0555] [15:25] fe066: but yeah , if I guess for most h hearers it 's just easier .
+[0556] [15:28] fe066: And it 's like a certain , uh , kind of , like , rough male voice too ,
+[0557] [15:34] fe066: kind
+[0558] [15:35] fe066: raspy , I mean ,
+[0559] [15:36] fe068: Hmm .
+[0560] [15:36] fe067: Hmm .
+[0561] [15:36] me070: Hmm .
+[0562] [15:36] fe066: apparently .
+[0563] [15:36] fe069: Hmm .
+[0564] [15:37] fe008: Is better ?
+[0565] [15:37] fe066: Is better .
+[0566] [15:37] fe008: Ah , it 's a wider band then .
+[0567] [15:39] fe008: Because
+[0568] [15:39] fe008: do
+[0569] [15:39] fe066: Yeah , I guess so .
+[0570] [15:41] fe008: She asked this question last time which was , um , whether our system here , the recording system , may have some of the same channel restr some sort of s channel restrictions , such as they ran across when they were looking at telephone , uh , transmissions at a certain point .
+[0571] [15:58] fe008: Cuz , you know , telephone transmissions , um , there 's some filtering going on .
+[0572] [16:01] fe008: You don't hear the full the full band of frequencies .
+[0573] [16:02] me070: Mm - hmm .
+[0574] [16:03] fe069: Oh .
+[0575] [16:04] me070: Right .
+[0576] [16:05] fe067: Hmm .
+[0577] [16:05] fe008: And
+[0578] [16:09] fe066: It 's really interesting .
+[0579] [16:10] fe008: It
+[0580] [16:11] fe008: it 's reminded me because of the comment about noise ,
+[0581] [16:14] fe008: noise being sp really spreading frequencies across , uh , using frequencies across a broader spectrum .
+[0582] [16:16] fe066: Uh - huh .
+[0583] [16:16] fe069: Yeah .
+[0584] [16:19] fe008: So in a way , bandwidth can increase with some of these cases of distortion that we have .
+[0585] [16:23] fe008: But it 's n it 's not a useful kind of increase in frequency range .
+[0586] [16:27] fe066: Right . Yeah . I was just saying that it , like , you know , sometimes , um , if Remember I was saying , like , if there 's a discrepancy between fricatives , you know , like , um , " shuh " or " suh " will show up in a certain part of the spectrum ,
+[0587] [16:38] fe066: and
+[0588] [16:38] fe069: Yeah . By filtering or something ?
+[0589] [16:45] fe066: um , by filtering in some of the older phones .
+[0590] [16:49] me070: Mm - hmm .
+[0591] [16:49] fe066: And that 's why , like he
+[0592] [16:49] fe067: Hmm .
+[0593] [16:49] fe069: So what was the answer here ?
+[0594] [16:51] fe069: It that 's not the case ?
+[0595] [16:51] fe008: Answer ?
+[0596] [16:52] fe066: That
+[0597] [16:52] fe008: That they that they don't .
+[0598] [16:53] fe008: We don't have a reduction in that direction .
+[0599] [16:54] fe069: Oh , OK .
+[0600] [16:54] fe066: Y right .
+[0601] [16:55] me070: Oh .
+[0602] [16:56] fe069: Good .
+[0603] [16:56] fe008: That , uh , I mean , you know , one could have if one had cheaper microphones than we have ,
+[0604] [17:00] fe008: but we 've got good microphones
+[0605] [17:01] fe069: Mm - hmm .
+[0606] [17:01] me070: Right .
+[0607] [17:02] fe008: and another there is sort of an upper limit set on our bandwidth by the sampling rate
+[0608] [17:07] fe008: but
+[0609] [17:08] fe008: So
+[0610] [17:09] fe066: Mm - hmm .
+[0611] [17:10] fe008: then it becomes a matter of , Is that something that would be relevant to perceptual range .
+[0612] [17:14] fe008: And , I didn't really have the sense that it would .
+[0613] [17:17] fe066: I didn't get that from him , actually .
+[0615] [17:19] fe066: I felt like , um , he 's basically saying that for our for all intents and purposes with this , it 's covering whatever sounds are necessary to be covered , like everything .
+[0616] [17:24] fe008: Mm - hmm .
+[0617] [17:29] fe008: Mm - hmm .
+[0618] [17:30] fe008: Good . I I that was my impression also .
+[0619] [17:30] fe066: That 's that 's what I th
+[0620] [17:32] fe008: It wa so we don't have that kind of reduction like you have on telephones .
+[0621] [17:35] fe008: And actually in the work that they were doing with the telephone corpora , they did run into limitations
+[0622] [17:40] fe008: and uh , certain types that they when what their speech recognition approach
+[0623] [17:43] fe008: is because of the of the filtering .
+[0624] [17:45] fe068: Hmm .
+[0625] [17:46] fe008: I mean it does seem like when I hear these things , except for the distortion parts ,
+[0626] [17:49] fe008: where the volume 's too high , or th of course when the volume 's too low ,
+[0627] [17:52] fe008: but that 's a different problem ,
+[0628] [17:54] fe008: um , except for those cases , it seems to me that it really is as if the person were speaking in my ear .
+[0629] [17:58] fe008: I don't feel that it 's being reduced in any way .
+[0630] [17:59] fe069: Yeah .
+[0631] [18:00] fe067: Hmm .
+[0632] [18:00] fe068: Mm - hmm .
+[0633] [18:01] fe069: Yeah , that 's what it seems like .
+[0634] [18:01] fe066: Yeah . Yeah , I do too .
+[0635] [18:02] fe066: Yeah .
+[0636] [18:02] fe008: Yeah ?
+[0637] [18:04] fe008: And he was saying in the in the , uh , areas where you have clipping , where it 's recorded too high , and and it starts to saturate and you have trouble ,
+[0638] [18:10] fe066: Right .
+[0639] [18:12] fe008: um I thought that was very interesting .
+[0640] [18:14] fe008: So bandwidth then gets gets actually wider instead of narrower
+[0641] [18:18] fe008: because you have ,
+[0642] [18:20] fe008: um
+[0643] [18:21] fe008: Uh - oh .
+[0644] [18:23] fe008: You have these y y you still have The frequencies are represented
+[0645] [18:26] fe008: but the energy distributions are thrown off ,
+[0646] [18:29] fe008: and , um , in fact you have also some additional frequencies .
+[0647] [18:33] fe008: So you end up with a wider bandwidth functionally ,
+[0648] [18:35] fe008: I
+[0649] [18:35] fe066: Yeah . So , like , you were saying , like in the case of something with clipping ,
+[0650] [18:36] fe008: But not helpful for speech .
+[0651] [18:39] fe066: does it were you saying that , uh it it increases to or , expands to accommodate that ?
+[0652] [18:44] fe066: Or ,
+[0653] [18:45] fe008: No
+[0654] [18:45] fe066: no ?
+[0655] [18:47] fe008: so it 's actually paradoxical in a way
+[0656] [18:49] fe008: cuz you usually think bandwidth better bandwidth is better .
+[0657] [18:49] fe066: Oh .
+[0658] [18:52] me070: Mm - hmm .
+[0659] [18:52] fe008: But in the cases of of distortion than you can end up with ,
+[0660] [18:55] fe066: Right . Oh , OK . Yeah .
+[0661] [18:56] fe008: uh ,
+[0662] [18:56] fe066: I see what you 're saying .
+[0663] [18:56] fe008: a wider bandwidth which isn't useful in terms of understanding speech .
+[0664] [18:58] fe066: Right .
+[0665] [18:58] me070: Right .
+[0666] [18:58] fe068: Hmm .
+[0667] [19:02] fe008: So .
+[0668] [19:02] fe069: I have a question .
+[0669] [19:03] fe008: Yes .
+[0670] [19:04] fe069: In the some of the earlier meetings I guess , there was a lot of spikes ,
+[0671] [19:08] fe069: or what I called spikes .
+[0672] [19:09] fe008: Yes .
+[0673] [19:11] fe069: I was wondering what that is .
+[0674] [19:13] fe069: I don't even know if it 's relevant or useful to know ,
+[0675] [19:16] fe069: but I 'm just curious .
+[0676] [19:16] fe008: One source was , there was a problem with a connection
+[0677] [19:19] fe008: where
+[0678] [19:19] fe069: Mm - hmm .
+[0679] [19:21] fe008: I
+[0680] [19:23] fe008: yes , it was prior to the wireless .
+[0681] [19:24] fe008: There was a particular connection which wasn't wireless ,
+[0682] [19:27] fe008: which was , um , mechanically bad in some some sense ,
+[0683] [19:29] fe069: Loose .
+[0684] [19:30] fe069: Yeah .
+[0685] [19:30] me070: Mm - hmm .
+[0686] [19:31] fe008: and if it got touched , it would s it would send an impulse ,
+[0687] [19:32] fe066: Oh .
+[0688] [19:34] fe067: Hmm .
+[0689] [19:35] fe008: i in al an uh an irrelevant non - wanted artifact .
+[0690] [19:37] fe069: Yeah .
+[0691] [19:38] me070: Hmm .
+[0692] [19:38] fe069: Cuz those ones sometimes were extraordinarily bad and pai
+[0693] [19:38] fe066: Huh .
+[0694] [19:40] me070: Painful .
+[0695] [19:41] me070: Yeah .
+[0696] [19:41] fe069: Yeah .
+[0697] [19:41] fe008: I agree . Absolutely painful .
+[0698] [19:42] me070: They were painful .
+[0699] [19:43] fe008: Exa - I agree .
+[0700] [19:43] fe066: Uh
+[0701] [19:44] fe008: And that 's that 's th you know , I would watch the visual sis signal to avoid that .
+[0702] [19:46] me070: Oh yeah .
+[0703] [19:46] fe069: Yeah ,
+[0704] [19:46] fe008: It
+[0705] [19:46] fe068: Yeah .
+[0706] [19:46] fe069: and like not listen to them .
+[0707] [19:47] fe066: I do remember those , actually .
+[0708] [19:47] me070: And then you see it ,
+[0709] [19:47] me070: and off with the headphones !
+[0710] [19:48] fe068: Yeah , you could see it coming and you 'd turn the volume down or something .
+[0711] [19:49] fe069: Or just uh s
+[0712] [19:50] fe069: Yeah . Or , like , skip it entirely .
+[0713] [19:50] fe066: Yeah , yeah , yeah , yeah . I remember I had one . One with that and it was just , al all the time .
+[0714] [19:55] fe069: Yeah .
+[0715] [19:55] me070: Oh yeah .
+[0716] [19:55] fe066: Yeah .
+[0717] [19:56] fe069: Yeah .
+[0718] [19:56] fe008: Yeah .
+[0719] [19:56] fe066: Especially if they also got louder too , and they hit it ,
+[0720] [19:58] fe069: Y y yeah .
+[0721] [19:59] fe008: Oh !
+[0722] [20:00] fe066: it was just like " whoahh ! "
+[0723] [20:02] fe008: Yeah . That 's really awful .
+[0724] [20:03] fe008: You 've noticed that those have gotten better over the intervening ?
+[0725] [20:05] fe069: Yes . Absolutely .
+[0726] [20:05] me070: Oh yeah . Mm - hmm .
+[0727] [20:05] fe066: Yes .
+[0728] [20:06] fe008: Good .
+[0729] [20:07] fe068: But sometimes you 'll see like something coming up
+[0730] [20:09] fe068: like , " Uh - oh .
+[0731] [20:10] fe068: Someone 's gonna cough really loudly " ,
+[0732] [20:12] fe068: and I could tell because of the way it looks !
+[0733] [20:13] fe069: Yeah .
+[0734] [20:14] fe068: Or " someone 's about to laugh really loudly " ,
+[0735] [20:16] fe069: And so you turn it down ?
+[0736] [20:16] me070: Mm - hmm .
+[0737] [20:16] fe008: Oh .
+[0738] [20:16] fe068: um yeah ,
+[0739] [20:17] fe008: Yeah . Yeah , yeah .
+[0740] [20:17] fe068: and then you 're just sort you 've got like you know you 're sort of like
+[0741] [20:19] me070: Mm - hmm .
+[0742] [20:20] fe066: Take one off , or something .
+[0743] [20:21] fe068: Yeah .
+[0744] [20:22] fe069: No
+[0745] [20:22] fe067: Hmm .
+[0746] [20:22] me070: Yeah .
+[0747] [20:22] fe068: So unless there 's gonna be some speech in there , I don't think I need to listen that carefully .
+[0748] [20:24] fe069: I think that 's really important .
+[0749] [20:26] fe069: Yeah , I think that 's really important
+[0750] [20:26] fe068: Yeah .
+[0751] [20:27] fe069: because I generally have the volume turned up to above normal volume just so I can hear more clearly ,
+[0752] [20:27] fe068: So .
+[0753] [20:31] me070: Mm - hmm . Yeah .
+[0754] [20:31] fe066: Right .
+[0755] [20:32] fe069: and if it 's like that for someone screeching into the microphone than it would be really painful .
+[0756] [20:33] fe068: Yeah .
+[0757] [20:36] fe066: Right .
+[0758] [20:36] fe068: You could h really hurt your ears . Yeah .
+[0759] [20:37] fe069: I think you could , yeah .
+[0760] [20:38] me070: Mm - hmm .
+[0761] [20:38] fe068: Oh , yeah .
+[0762] [20:38] fe008: I think so too .
+[0763] [20:38] fe067: Hmm .
+[0764] [20:39] fe068: So .
+[0765] [20:39] fe008: Yeah
+[0766] [20:39] fe069: Yeah
+[0767] [20:40] fe069: Especially we have really good headphones ,
+[0768] [20:40] fe008: when
+[0769] [20:41] fe069: like
+[0770] [20:42] fe008: yeah , when I realized , I I meant to tell everyone to watch that visual signal
+[0771] [20:45] fe008: cuz that 's that 's saved me a bunch of times .
+[0772] [20:48] fe068: Gives some good clues ,
+[0773] [20:49] fe068: yeah .
+[0774] [20:49] fe069: Yeah , I mean , it 's very useful in like all senses
+[0775] [20:51] fe069: cuz
+[0776] [20:51] fe068: Oh yeah . Yeah .
+[0777] [20:51] me070: Yeah .
+[0778] [20:51] fe066: Oh , yeah .
+[0779] [20:53] fe008: Yeah .
+[0780] [20:53] fe069: It 's very good .
+[0781] [20:55] fe068: Sometimes it doesn't pick up backchannelling , though ,
+[0782] [20:57] fe068: and
+[0783] [20:57] fe069: No .
+[0784] [21:00] fe069: Or , turn up
+[0785] [21:01] fe068: there 's no visual
+[0786] [21:02] fe068: but
+[0787] [21:02] fe068: Yeah , you have to the resolution ,
+[0788] [21:04] fe068: right ?
+[0789] [21:04] fe069: Yeah
+[0790] [21:04] me070: Right .
+[0791] [21:04] fe008: It might be useful to to talk about the interface for for a bit ,
+[0792] [21:04] fe068: So .
+[0793] [21:08] fe008: in terms of what it is that you like particularly , and what you don't ,
+[0794] [21:08] me070: Mm - hmm .
+[0795] [21:11] fe008: and , uh , that kind of thing .
+[0796] [21:12] me070: You know what I would think would be a really n um , neat feature for the interface ?
+[0797] [21:16] me070: Some sort of backwards tab
+[0798] [21:18] me070: where it could go backwards without you having to go up and do it manually ,
+[0799] [21:19] fe008: Ooh , interesting .
+[0800] [21:22] fe069: Yeah .
+[0801] [21:22] fe066: T Yeah .
+[0802] [21:22] me070: and , you know , press the button and " juh - juh - juh - juh - juh - juh - juh " .
+[0803] [21:23] fe067: Hmm .
+[0804] [21:25] me070: Cuz if you miss something and you wanna go back to it , it 's such a such a hassle .
+[0805] [21:26] fe008: Mm - hmm .
+[0806] [21:28] fe066: That 's true .
+[0807] [21:29] me070: It 'd be so nice if there was just some sort of like , you know , uh , opposite of tab that you could hit , that it would just sort of move backwards .
+[0808] [21:36] me070: There
+[0809] [21:36] fe068: Hmm .
+[0810] [21:37] fe069: But it would play it backwards too .
+[0811] [21:38] me070: I know .
+[0812] [21:39] me070: It w you wouldn't even have to have the audio .
+[0813] [21:40] me070: That
+[0814] [21:42] fe069: But just to move back , but not necessarily a whole timebin ?
+[0815] [21:43] fe068: Just to jump it back .
+[0816] [21:45] me070: Yeah .
+[0817] [21:46] fe008: Interesting .
+[0818] [21:47] fe068: Right , cuz sometimes you 'll hear It 'll be in right in the middle of the timebin ,
+[0819] [21:47] fe008: Hmm .
+[0820] [21:49] fe068: and you don't have to listen to the whole thing again
+[0821] [21:50] fe066: Right .
+[0822] [21:51] fe068: cuz you 've already gotten the first part .
+[0823] [21:51] me070: Right
+[0824] [21:51] fe069: Yeah .
+[0825] [21:51] fe067: Mmm .
+[0826] [21:52] me070: Oh yeah . Yeah .
+[0827] [21:53] fe068: So you just want it to go back ,
+[0828] [21:55] fe068: I
+[0829] [21:55] me070: Yeah
+[0830] [21:55] fe066: And otherwise you have to drag it .
+[0831] [21:56] me070: Yeah , some timebins are humongous ,
+[0832] [21:57] fe069: Or otherwise , drag it , or like click on it .
+[0833] [21:58] me070: and if you miss it , you know , you 've gotta go back and find it ,
+[0834] [21:58] fe008: Mm - hmm .
+[0835] [22:01] me070: and dragging it and looking for it and you may not be able to see it , even .
+[0836] [22:01] fe066: Right .
+[0837] [22:04] fe069: Yeah .
+[0838] [22:05] me070: You know ?
+[0839] [22:05] fe068: That 's true .
+[0840] [22:05] fe069: I think that would be useful .
+[0841] [22:06] fe068: Hmm . Yeah .
+[0842] [22:07] me070: Yeah .
+[0843] [22:07] fe008: Interesting idea .
+[0844] [22:08] fe008: I 'll I 'll s I 'll suggest that to the charer .
+[0845] [22:10] fe068: Yeah , the less you have to click on the mouse , I think the faster you could go .
+[0846] [22:12] fe069: Yeah , because I noticed I started feeling like I was getting some sort of carpal tunnel issues .
+[0847] [22:12] me070: Mm - hmm .
+[0848] [22:15] fe068: Yeah , you were having some wrist problems and stuff ,
+[0849] [22:17] fe069: Much better now that I have the keyboard st tray ,
+[0850] [22:18] fe068: right ?
+[0851] [22:19] fe069: but
+[0852] [22:20] fe068: Yeah .
+[0853] [22:20] fe069: I think cuz I had my hand in one position using it all the time .
+[0854] [22:23] me070: Mmm .
+[0855] [22:24] fe069: And that I would it would crack a lot .
+[0856] [22:26] fe068: Yeah . Ooh !
+[0857] [22:26] fe069: It was very weird .
+[0858] [22:27] fe067: Mmm .
+[0859] [22:28] fe069: But .
+[0860] [22:28] fe066: Yeah .
+[0861] [22:28] fe008: That 's it 's good to be careful about the mousing .
+[0862] [22:30] fe008: You were gonna say ?
+[0863] [22:30] fe066: I s Oh , yeah . Um , something Um , maybe I just don't know how to do this ,
+[0864] [22:31] fe008: Yeah .
+[0865] [22:33] fe066: but when I wanna expand a timebin back
+[0866] [22:33] fe069: Uh - huh .
+[0867] [22:33] me070: Mm - hmm .
+[0868] [22:36] fe066: or even forward ,
+[0869] [22:36] fe066: I 'll use the mouse ,
+[0870] [22:38] fe066: the
+[0871] [22:39] fe008: How do you mean " expand " ?
+[0872] [22:40] fe008: What do you mean by " expand " ?
+[0873] [22:41] fe066: Oh , uh , in terms of , um , if , uh if it 's it 's if it 's cut off ,
+[0874] [22:46] fe066: like the beginning of an utterance ,
+[0875] [22:46] fe008: OK .
+[0876] [22:46] me070: Mm - hmm .
+[0877] [22:47] fe069: Oh . I see what you 're saying .
+[0878] [22:47] fe008: OK . OK .
+[0879] [22:47] fe066: I 'll move it move the line back .
+[0880] [22:48] fe008: Mm - hmm .
+[0881] [22:48] fe066: And I usually just use the mouse .
+[0882] [22:50] fe066: How do you do that with the keyboard ?
+[0883] [22:50] me070: Mmm .
+[0884] [22:50] me070: Really ? Oh , I do that with the keyboard .
+[0885] [22:52] fe069: Well , I would press " tab "
+[0886] [22:53] fe068: I do that with the mouse , yeah .
+[0887] [22:54] fe069: and listen to where I wanted it to stop ,
+[0888] [22:56] me070: Mm - hmm .
+[0889] [22:56] fe069: and then press " return " , create a new timebin ,
+[0890] [22:57] me070: " Return "
+[0891] [22:57] me070: and
+[0892] [22:58] fe066: Oh . y
+[0893] [22:58] fe069: and
+[0894] [22:59] me070: and then " shift "
+[0895] [23:00] fe069: " shift " , what is it ?
+[0896] [23:00] me070: " backspace " .
+[0897] [23:00] fe066: Oh , OK . So you just do it that way .
+[0898] [23:01] fe069: " Shift " , " backspace " to c collapse it , yeah .
+[0899] [23:01] me070: That 's that 's what I do ,
+[0900] [23:02] fe066: OK . OK .
+[0901] [23:02] me070: yeah .
+[0902] [23:03] me070: I do it all on the keyboard .
+[0903] [23:04] fe068: Oh .
+[0904] [23:04] fe066: OK . To me that 's takes longer than to do it with the mouse .
+[0905] [23:04] fe008: Yeah .
+[0906] [23:07] fe069: Oh . Do you drag do you drag the line ?
+[0907] [23:07] me070: Oh really ?
+[0908] [23:08] fe066: Because you can just click y
+[0909] [23:08] fe008: Yeah .
+[0910] [23:09] fe066: I just drag the line .
+[0911] [23:10] fe069: See , I never I never do that for some reason .
+[0912] [23:12] me070: I don't do that either .
+[0913] [23:12] fe067: I didn't n even even know you could do that .
+[0914] [23:12] fe008: I vary .
+[0915] [23:13] fe008: I I should it depends on how much I wanna go back
+[0916] [23:15] fe069: Yeah .
+[0917] [23:15] fe008: and how certain the boundary is .
+[0918] [23:16] fe008: If I can see it if it 's if I can see this thing 's coming up and it 's just so clear ,
+[0919] [23:16] fe066: Oh yeah , that 's true .
+[0920] [23:16] fe069: Yeah .
+[0921] [23:16] me070: Right .
+[0922] [23:20] fe008: it
+[0923] [23:21] fe069: Yeah .
+[0924] [23:21] fe066: Right , then I 'll drag it .
+[0925] [23:21] me070: Mm - hmm .
+[0926] [23:22] fe008: yeah , dragging is really f efficient .
+[0927] [23:24] fe008: But if it 's like a mess in there , then it helps me to be able to locate it with the actual clicking .
+[0928] [23:24] me070: Mm - hmm .
+[0929] [23:29] fe066: Right .
+[0930] [23:29] fe069: Yeah .
+[0931] [23:29] fe068: Mmm .
+[0932] [23:29] me070: Right .
+[0933] [23:29] fe067: Mmm .
+[0934] [23:30] fe008: And then do this what th you were just describing .
+[0935] [23:31] fe069: Yeah .
+[0936] [23:33] fe008: But
+[0937] [23:33] fe069: Um , one thing that 's gotten me into problems a little bit is having the " shift - backspace " as the collapser .
+[0938] [23:40] fe066: Ah . Yeah .
+[0939] [23:40] fe069: Because I 'll tend to delete things ,
+[0940] [23:42] fe066: Yeah .
+[0941] [23:43] fe069: or go too far , or something ,
+[0942] [23:43] fe067: Ni
+[0943] [23:45] fe069: or I 'll be holding down " shift " because I wanna type something as a capital ,
+[0944] [23:45] me070: Mm - hmm .
+[0945] [23:45] fe068: Oh yeah .
+[0946] [23:46] fe066: Yeah .
+[0947] [23:47] fe066: Yep . Yep , yep , yep .
+[0948] [23:48] fe069: and then end up collapsing the timebins .
+[0949] [23:48] me070: And and then collapse it .
+[0950] [23:49] fe066: Yep .
+[0951] [23:49] fe066: Yep .
+[0952] [23:50] me070: I did that so much .
+[0953] [23:50] fe069: So , it might be better to use a different keys or something .
+[0954] [23:50] fe008: Oh that 's annoying !
+[0955] [23:51] fe066: Yep .
+[0956] [23:52] fe008: This
+[0957] [23:52] fe068: Yeah .
+[0958] [23:54] fe008: if I were to add an option , it might be to have an undo for that .
+[0959] [23:57] fe069: Yeah . Yeah !
+[0960] [23:57] fe067: Oh , that 'd be good . That would be good .
+[0961] [23:57] fe066: Yeah .
+[0962] [23:57] fe008: Because I have had that happen .
+[0963] [23:58] me070: Yeah . That would be nice .
+[0964] [23:58] fe066: That would be great .
+[0965] [23:59] fe069: Or
+[0966] [23:59] fe008: Yeah , s Good .
+[0967] [23:59] fe066: I 've erased entire utterances before , accidentally .
+[0968] [24:02] fe069: but , or just to change the keys used , you know , for for that option .
+[0969] [24:05] me070: Yeah . I 'm rather used to it now , though .
+[0970] [24:06] fe069: I 'm used to it too ,
+[0971] [24:07] fe069: but
+[0972] [24:07] me070: Yeah .
+[0973] [24:08] fe066: But then when you go to type on your keyboard at home ,
+[0974] [24:10] me070: Mm - hmm . You 're so scared ,
+[0975] [24:10] fe066: do you do this too ?
+[0976] [24:12] fe066: I 'm so scared .
+[0977] [24:13] fe066: Like
+[0979] [24:14] me070: To to hold shift down while you 're backspacing ?
+[0980] [24:17] me070: Like
+[0981] [24:17] fe066: I won't do it .
+[0982] [24:17] me070: Yeah .
+[0983] [24:20] me070: You 're typing capitals , and you 're backspacing , and you 're like " Oh , take the shift off !
+[0984] [24:22] me070: I 'll collapse everything ! "
+[0985] [24:24] fe066: Yeah , yeah , yeah , yeah , yeah !
+[0986] [24:27] fe066: I 'm just like , " What am I doing ? "
+[0987] [24:30] me070: I totally do that now .
+[0988] [24:30] fe069: I don't think I 'm that bad ,
+[0989] [24:31] fe069: but
+[0990] [24:34] fe066: Yeah , yeah .
+[0991] [24:36] fe068: Oh yeah , I do find that the keyboard is different here than it is even at my s for my school computer
+[0992] [24:39] fe008: Mmm .
+[0993] [24:41] fe068: and
+[0994] [24:42] fe068: if
+[0995] [24:45] me070: Oh yeah .
+[0996] [24:46] fe068: or vice versa
+[0997] [24:46] fe068: it 's just , uh it 's like I 'll I 'll reach for one key and it 'll do something completely different ,
+[0998] [24:46] me070: Or vice versa , yeah .
+[0999] [24:51] fe068: and
+[1000] [24:51] fe066: Uh - huh .
+[1001] [24:51] me070: Th
+[1002] [24:53] fe068: Yeah , the backspace is in the wrong place .
+[1003] [24:54] me070: and the th yeah , that little evil apostrophe that keeps showing up .
+[1004] [24:54] fe067: The little accent thingy .
+[1005] [24:57] fe067: Right .
+[1006] [24:58] me070: " I don't want you ! "
+[1007] [24:59] fe069: Yeah , I do that too .
+[1008] [24:59] fe068: Oh yeah , and then I 'll keep I keep caps - locking too
+[1009] [25:00] fe008: Oh .
+[1010] [25:01] fe068: cuz the caps - lock 's in a different spot .
+[1011] [25:03] me070: Oh , yeah .
+[1012] [25:03] fe069: Yeah .
+[1013] [25:03] fe068: So .
+[1014] [25:04] fe067: Hmm .
+[1015] [25:04] fe066: Oh .
+[1016] [25:04] fe008: How do you get per I don't know the evil apostrophe .
+[1017] [25:07] fe069: It 's just th right above the backspace .
+[1018] [25:07] me070: Um , yeah , it 's one of the backspaces on the keyboards that most of us are probably used to .
+[1019] [25:07] fe068: Th
+[1020] [25:09] fe067: Yeah .
+[1021] [25:10] fe008: Oh , oh !
+[1022] [25:12] me070: So you wanna backspace and you get apostrophe , apostrophe , apostrophe , apostrophe .
+[1023] [25:14] fe066: Yeah , yeah , yeah . Yeah .
+[1024] [25:15] fe067: Mmm .
+[1025] [25:15] me070: Yeah , t you 're like , " No ! "
+[1026] [25:16] fe008: I see .
+[1027] [25:16] fe068: Oh !
+[1028] [25:17] fe068: Yeah , I do that all the time .
+[1029] [25:17] fe069: Yeah .
+[1030] [25:18] fe008: OK . So this is the difference between the PC keyboard and the SUN keyboard ?
+[1031] [25:18] me070: Mm - hmm .
+[1032] [25:21] fe008: So , like I only have one I have one versus two of the others .
+[1033] [25:21] fe069: I think so .
+[1034] [25:22] me070: Yeah .
+[1035] [25:22] fe066: Yeah .
+[1036] [25:22] fe067: Yeah .
+[1037] [25:23] fe069: Did
+[1038] [25:24] fe069: Right .
+[1039] [25:24] fe008: Is that right ?
+[1040] [25:24] me070: Right . I I 'm used to it now too .
+[1041] [25:24] fe008: So
+[1042] [25:24] fe069: I
+[1043] [25:26] fe069: I 'm used to the SUN one , I guess , now .
+[1044] [25:26] fe008: OK .
+[1045] [25:27] fe066: Yeah .
+[1046] [25:28] fe066: But then , like , I think there 's a different keyboard on
+[1047] [25:32] fe008: Mm - hmm .
+[1048] [25:32] fe066: I always forget th
+[1049] [25:33] fe066: oh
+[1050] [25:33] fe008: There
+[1051] [25:36] fe008: Basmati ?
+[1052] [25:36] fe066: No , the other one .
+[1053] [25:37] fe008: Amaretto ?
+[1054] [25:38] fe066: Amaretto .
+[1055] [25:38] fe008: OK .
+[1056] [25:39] fe069: Amaretto has a different one .
+[1057] [25:39] fe066: I i
+[1058] [25:40] fe069: Linguine is Basmati have the same .
+[1059] [25:41] fe066: Right . And it 's and I always use I tend to use Linguine .
+[1060] [25:42] fe069: Right ?
+[1061] [25:44] fe066: But the last couple times , like , you 've stolen Linguine before I can get to it .
+[1062] [25:48] fe069: Ooh !
+[1063] [25:49] fe066: So I
+[1064] [25:49] fe066: go onto Amaretto ,
+[1065] [25:49] fe066: which is fine .
+[1066] [25:50] fe066: But then like , um , it takes me a good , like , ten minutes to get re - used to that keyboard .
+[1067] [25:54] fe069: Yeah .
+[1068] [25:54] fe066: And
+[1069] [25:55] fe068: I don't know .
+[1070] [25:55] fe068: You seem very upset about it ,
+[1071] [25:56] fe068: so . We maybe we should trade .
+[1072] [25:58] fe066: No , it 's really OK .
+[1073] [26:01] fe066: But , yeah . I I I have noticed that I 'll screw some stuff up , like , when I 'm trying to get re - adj
+[1074] [26:05] fe008: S so which t
+[1075] [26:06] fe069: But just the beginning .
+[1076] [26:06] fe008: I I 've forgotten which one is which .
+[1077] [26:08] fe008: So , which one do you prefer ?
+[1078] [26:09] fe008: Is
+[1079] [26:12] me070: OK .
+[1080] [26:14] fe008: So let 's put it the other way .
+[1081] [26:15] fe008: How many people would not vote for the SUN keyboard ?
+[1082] [26:18] fe008: Would vote for the other one ?
+[1083] [26:19] fe008: The PC PC keyboard ?
+[1084] [26:19] fe069: Which
+[1085] [26:20] fe066: The PC ?
+[1086] [26:20] me070: The PC one ?
+[1087] [26:21] fe066: I would vote for the PC .
+[1088] [26:21] fe069: The PC one is the Amaretto one ,
+[1089] [26:22] fe069: right ?
+[1090] [26:22] fe008: I don't know .
+[1091] [26:23] fe008: I don I 'm not sure .
+[1092] [26:24] fe008: It
+[1093] [26:24] fe066: Yeah .
+[1094] [26:24] fe068: Huh .
+[1095] [26:24] me070: I I 'm not sure which one is which .
+[1096] [26:24] fe066: Or no !
+[1097] [26:26] fe068: Yeah .
+[1098] [26:26] fe068: I just get used to it .
+[1099] [26:26] fe008: Uh - oh .
+[1100] [26:27] fe068: So .
+[1101] [26:28] me070: Yeah .
+[1102] [26:28] fe066: I like the Linguine keyboard .
+[1103] [26:28] fe067: Yeah .
+[1104] [26:28] me070: I mean like , when I first had started working I would have definitely wanted the PC keyboard ,
+[1105] [26:30] fe008: The Linguine is OK .
+[1106] [26:30] fe066: That 's all I know .
+[1107] [26:33] me070: but now I 'm I 'm just used to it .
+[1108] [26:34] fe008: You 're multi - keyb
+[1109] [26:34] fe069: I prefer th I prefer the one on Linguine or Basmati .
+[1110] [26:35] fe068: Yeah .
+[1111] [26:38] fe069: I don't know what it 's called .
+[1112] [26:39] fe008: OK , let 's do it that way .
+[1113] [26:39] fe067: Mm - hmm .
+[1114] [26:40] fe008: So
+[1115] [26:43] me070: Mm - hmm .
+[1116] [26:44] fe068: Is Basmati .
+[1117] [26:45] fe069: Oh .
+[1118] [26:45] fe066: To
+[1119] [26:45] fe008: the one on the left is that Basmati ?
+[1120] [26:46] fe067: By the light switch , yeah .
+[1121] [26:47] fe066: Yep .
+[1122] [26:47] fe068: I believe that 's correct , yeah .
+[1123] [26:47] fe069: Yeah .
+[1124] [26:47] fe008: OK .
+[1125] [26:48] fe068: Linguine must be the one in the left - hand corner .
+[1126] [26:48] fe008: And
+[1127] [26:49] me070: It 's the one in in that corner , right ?
+[1128] [26:49] fe066: Linguine is the one in the corner .
+[1129] [26:49] fe069: In the c
+[1130] [26:51] me070: That
+[1132] [26:52] fe069: Yeah
+[1133] [26:52] fe008: And then the f the far right corner as you walk in ?
+[1134] [26:54] me070: Yeah , r Yeah , that 's that one 's got the the PC keyboard ,
+[1135] [26:57] me070: and then the two on those sides have the , um , SUN keyboard .
+[1136] [27:00] fe066: Yeah . So , basically , right as you walk in the door , the one straight ahead of you is Amaretto .
+[1137] [27:04] me070: Right .
+[1138] [27:04] fe008: Yep .
+[1139] [27:06] fe008: U u
+[1140] [27:06] fe068: Hmm .
+[1141] [27:07] fe066: And the one to the left of that against the far corner is Linguine .
+[1142] [27:10] fe008: Good .
+[1143] [27:11] fe008: OK .
+[1144] [27:11] fe068: Hmm .
+[1145] [27:12] fe008: And the one close to you is Basmati .
+[1146] [27:13] fe069: Yeah .
+[1147] [27:13] fe066: Right .
+[1148] [27:14] fe008: OK
+[1149] [27:14] me070: Yes .
+[1150] [27:16] fe008: So
+[1151] [27:17] fe008: Now you 're bi - keyboardal
+[1152] [27:18] fe008: so ,
+[1153] [27:19] me070: Uh , yeah .
+[1154] [27:19] fe008: s
+[1155] [27:22] fe008: but , um ,
+[1156] [27:22] fe066: Nice .
+[1157] [27:22] fe008: who who would prefer the keyboard on Linguine ?
+[1158] [27:27] fe008: OK . We got two votes for Linguine .
+[1159] [27:30] fe008: And who would prefer Amaretto ?
+[1160] [27:33] fe008: Amaretto ?
+[1161] [27:34] fe008: So we got more more multi - keyboardal people ?
+[1162] [27:34] fe067: Ready .
+[1163] [27:35] fe068: I just have no preference .
+[1164] [27:37] fe008: Well , that 's lovely .
+[1165] [27:37] fe067: Yeah , it doesn't really matter .
+[1166] [27:37] fe008: Same here ?
+[1167] [27:38] fe068: Yeah .
+[1168] [27:38] me070: Yeah .
+[1169] [27:38] fe008: Excellent .
+[1170] [27:38] fe067: Yeah .
+[1171] [27:39] fe008: OK , so i
+[1172] [27:39] fe068: It just goofs me up for like maybe a minute
+[1173] [27:40] fe068: and then I sorta get used to it .
+[1174] [27:41] me070: Exactly , exactly .
+[1175] [27:41] fe069: I I I could get used to I could get used to it too .
+[1176] [27:43] fe066: Yeah , I could get used to it too .
+[1177] [27:44] fe008: OK .
+[1178] [27:44] me070: Mm - hmm .
+[1179] [27:44] fe069: I
+[1180] [27:44] fe068: Huh .
+[1181] [27:45] fe066: i Right .
+[1182] [27:46] fe069: I don't know .
+[1183] [27:47] fe069: Cuz I always use it .
+[1184] [27:47] fe008: I pr I see .
+[1185] [27:48] fe008: I I have experienced this keyboard conflict ,
+[1186] [27:51] fe008: and f with me the things that are confusing are th where the control key is ,
+[1187] [27:54] fe008: so I end up
+[1188] [27:55] fe069: Mmm .
+[1189] [27:55] fe008: pressing shifts and control keys whenever I want the other one , whiche whichever it is .
+[1190] [27:56] me070: Oh , that 's true .
+[1191] [27:57] fe069: Mm - hmm . Mm - hmm .
+[1192] [27:58] me070: I forgot about that one ,
+[1193] [27:58] fe066: Oh .
+[1194] [27:59] me070: yeah .
+[1195] [27:59] fe068: Mmm .
+[1196] [27:59] fe067: Mmm .
+[1197] [27:59] fe068: Mm - hmm .
+[1198] [27:59] fe069: Mm - hmm .
+[1199] [28:00] fe008: I
+[1200] [28:03] fe008: I we already have one ,
+[1201] [28:04] fe008: I
+[1202] [28:05] me070: Right .
+[1203] [28:05] fe008: we so , w you know , maybe let me know if you want it to have it shifted .
+[1204] [28:06] me070: I
+[1205] [28:10] fe008: But , um ,
+[1206] [28:12] fe008: OK .
+[1207] [28:13] fe008: That 's good .
+[1208] [28:15] fe008: Oh , let me see .
+[1209] [28:16] fe008: So , um , I I wanted to , um , m maybe comment a little more on the interface in terms of what aspects of it are helpful in this ,
+[1210] [28:31] fe008: unique the shapes of some of these things are . I know we had this interface for a time when people were doing marking of the numbers ,
+[1211] [28:35] fe069: Mm - hmm .
+[1212] [28:36] fe008: and , um , um ,
+[1213] [28:38] fe008: I 've forgotten Someone said that they could recognize a seven when they saw it . They could see the the waveform and " Oh , it 's gonna be a seven . "
+[1214] [28:43] me070: Oh wow .
+[1215] [28:43] fe066: Oh yeah .
+[1216] [28:44] fe069: I I remember recognizing certain numbers .
+[1217] [28:45] fe008: Becau
+[1218] [28:47] fe069: I don mmm , I don't remember which ones ,
+[1219] [28:50] fe069: but
+[1220] [28:53] fe069: well , I could recognize when there was a fricative at the beginning of a number for some reason .
+[1221] [28:56] fe069: It was like , a little bit of energy , or some whatever you call it ,
+[1222] [28:59] fe069: and then it grew really big .
+[1223] [29:01] fe069: So like " four " and " five " and " three " all had this same characteristic ,
+[1224] [29:05] fe069: and " six " and " seven " o both had the same characteristics to their in the beginnings .
+[1225] [29:08] me070: Hmm .
+[1226] [29:09] fe069: But " six " and " eight " ?
+[1227] [29:13] fe069: " Eight " , um , I remember tended that people tended to not pronounce the last " T " .
+[1228] [29:20] fe008: Oh .
+[1229] [29:21] fe069: And when they did , it was slightly farther away from the rest of the word than you would have es expected .
+[1230] [29:25] fe066: Mm - hmm .
+[1231] [29:26] fe069: Same with " six " .
+[1232] [29:28] fe069: The " X " , well the " KS " or whatever , at the end .
+[1233] [29:30] fe068: Hmm .
+[1234] [29:31] me070: Hmm .
+[1235] [29:31] fe069: But
+[1236] [29:32] fe069: Yeah .
+[1237] [29:33] fe069: That was a that was really interesting to notice that .
+[1238] [29:36] fe069: Uh ,
+[1239] [29:37] fe069: It 's a very different interface , though .
+[1240] [29:38] fe069: I mean , it seems very strange .
+[1241] [29:38] fe008: Mm - hmm . It is different .
+[1242] [29:40] fe008: Well
+[1243] [29:43] fe008: So , this this was to handle the digits , uh , only ,
+[1244] [29:46] me070: OK .
+[1245] [29:46] fe008: which is what you figure .
+[1246] [29:47] fe008: And , um , did you I thought you might have done that , Joel .
+[1247] [29:49] fe008: Did you also ?
+[1248] [29:49] me070: Nn - nnn . No .
+[1249] [29:50] fe008: So , two people did that , i um , I thought .
+[1250] [29:53] fe068: I did it a little .
+[1251] [29:53] fe008: Did you do it ?
+[1252] [29:53] fe008: I thought so .
+[1253] [29:54] fe008: Good , good .
+[1254] [29:54] fe068: Just a little bit .
+[1255] [29:54] fe069: Yeah .
+[1256] [29:55] fe068: Yeah .
+[1257] [29:55] fe008: OK .
+[1258] [29:55] fe069: Yeah , I only did it a little bit , too .
+[1259] [29:56] fe068: Yeah , what happened to that ,
+[1260] [29:57] fe068: you just stopped doing it ?
+[1261] [29:58] fe068: Or ?
+[1262] [29:58] fe008: Well , I think that we 'll bring it back .
+[1264] [30:00] fe068: Oh , OK .
+[1265] [30:00] fe008: The th
+[1266] [30:00] me070: This was a different interface entirely ?
+[1267] [30:02] fe069: Yeah .
+[1268] [30:02] fe008: Uh , Adam wrote this as uh , using the same , uh , computer language as Channeltrans is written in ,
+[1269] [30:08] me070: Mm - hmm .
+[1270] [30:08] fe008: and what it would do is present you with the digit string that the person was supposed to have said ,
+[1271] [30:14] fe008: and then you would listen to it ,
+[1272] [30:16] fe008: and everyth the j
+[1273] [30:17] fe008: there were two parts to the task ,
+[1274] [30:18] fe008: one of them was to see if that 's what they actually said ,
+[1275] [30:21] fe008: and to indicate , you know , in the i transcribe errors of it .
+[1276] [30:22] fe066: Mmm .
+[1277] [30:23] me070: Hmm .
+[1278] [30:24] fe008: And then the other aspect was to tighten the timebins .
+[1279] [30:27] fe008: And those data were actually used in some analyses which showed uh , very very good results .
+[1280] [30:27] fe068: Right .
+[1281] [30:32] fe068: Good .
+[1282] [30:32] me070: Oh wow .
+[1283] [30:33] fe008: And so it shows ,
+[1284] [30:33] fe008: I mean it 's it 's useful .
+[1285] [30:34] fe008: This is this is why we do these digits .
+[1286] [30:36] fe008: It 's a nice standard task ,
+[1287] [30:38] me070: Mm - hmm .
+[1288] [30:38] fe069: Mm - hmm .
+[1289] [30:38] fe008: and you have lots of different voices ,
+[1290] [30:38] fe066: Mm - hmm .
+[1291] [30:40] fe069: Mm - hmm .
+[1292] [30:40] fe008: and it 's very clear .
+[1293] [30:42] fe008: You know what the canani canonical answer is when a person says a number ,
+[1294] [30:46] fe008: um , at least most of the time , you know what number it was they said .
+[1295] [30:49] fe008: So its
+[1296] [30:50] me070: Right .
+[1297] [30:50] fe008: " ground truth " , as they call it , is very clear .
+[1298] [30:52] fe069: Mm - hmm .
+[1299] [30:52] me070: Hmm .
+[1300] [30:52] fe066: Right .
+[1301] [30:53] fe008: So .
+[1302] [30:55] fe008: But i it was , um , really rather minimal .
+[1303] [30:57] fe008: I mean , I I like that interface .
+[1304] [30:59] fe008: Very efficient ,
+[1305] [30:59] fe008: and really is , um I th think that we 'll probably use it for getting the digits refined in terms of their timebins .
+[1306] [31:05] me070: Hmm .
+[1307] [31:05] fe069: If I remember correctly , it seemed to be very efficient in the key strokes that you used to do certain things .
+[1308] [31:10] fe068: Mm - hmm .
+[1309] [31:11] fe069: I can't remember what they were , now ,
+[1310] [31:13] fe069: but I just remember that it was once you learned them , it was very neat and concise
+[1311] [31:18] fe069: and
+[1312] [31:19] fe008: Excellent .
+[1313] [31:20] fe069: couple keys that you used .
+[1314] [31:20] fe068: Yeah the hardest thing 'd be finding them .
+[1315] [31:23] fe069: Hmm ?
+[1316] [31:23] fe068: Cuz I would get the whole tr I 'd get the whole transcript of the meeting
+[1317] [31:24] fe008: Oh , that 's right !
+[1318] [31:25] fe068: and you had to find them .
+[1319] [31:26] fe068: You 'd have to find where the digits were .
+[1320] [31:26] fe069: Oh .
+[1321] [31:28] fe068: And they 'd usually be at the end somewhere ,
+[1322] [31:29] me070: Oh wow .
+[1323] [31:29] fe066: Oh .
+[1324] [31:29] fe068: but you had to fig figure out where the heck in the meeting to to look for them ,
+[1325] [31:31] fe069: Yeah .
+[1326] [31:31] fe008: That 's right .
+[1327] [31:32] me070: Mm - hmm .
+[1328] [31:33] fe068: so .
+[1329] [31:33] fe069: Yeah .
+[1330] [31:33] fe008: I also think that wasn't this a stage where some of these meetings hadn't been transcribed ,
+[1331] [31:37] fe008: so I don't think you could use a string search , right ?
+[1332] [31:38] fe069: Yeah .
+[1333] [31:38] fe008: I mean , I was trying to remember how that worked .
+[1334] [31:39] me070: Mmm .
+[1335] [31:41] fe008: But it was difficult finding them for some reason .
+[1336] [31:41] fe068: Yeah !
+[1337] [31:44] fe069: Yep .
+[1338] [31:45] fe008: Well
+[1339] [31:46] fe068: Yeah , the interface was different .
+[1340] [31:47] fe068: I I yeah ,
+[1341] [31:48] fe068: it was it was more complicated .
+[1342] [31:49] fe008: That 's a down side .
+[1343] [31:50] fe068: But anyway ,
+[1344] [31:51] fe008: Mm - hmm .
+[1345] [31:51] fe068: than what it would be now ,
+[1346] [31:52] fe068: so .
+[1347] [31:53] fe008: Actually , you you also did a different type of transcription i uh , with res respect to , um , our sister project ,
+[1348] [31:59] fe008: the SmartKom project ,
+[1349] [32:00] fe008: which involved listening to people who were supposed to be wandering through Germany ,
+[1350] [32:03] me070: Oh , right .
+[1351] [32:05] fe008: and this is s supposed to be something that would be useful in developing an interface to help them find their way .
+[1352] [32:05] me070: Mm - hmm .
+[1353] [32:11] fe008: So , um someone else did that too ,
+[1354] [32:13] fe008: I 've forgotten who who else did that ?
+[1355] [32:15] fe008: Did anybody else here do that ?
+[1356] [32:17] fe008: OK .
+[1357] [32:17] fe069: I feel like I did a little checking or something on that .
+[1358] [32:21] fe008: Actually , I think you might have done this also , as I think about it .
+[1359] [32:22] fe069: Yeah . I don't know I don't remember actually transcribing it ,
+[1360] [32:25] fe069: but
+[1361] [32:25] fe008: Oh .
+[1362] [32:26] fe008: Mm - hmm . So actually we started with the words
+[1363] [32:27] me070: Yeah .
+[1364] [32:28] fe008: and it was a matter then of trying to find the most efficient way to match the words up with the s with the actual sounds .
+[1365] [32:33] fe008: Cuz they were reading from a script .
+[1366] [32:33] fe069: Yeah .
+[1367] [32:34] fe069: Right .
+[1368] [32:34] fe066: Mmm .
+[1369] [32:34] me070: Mm - hmm .
+[1370] [32:35] fe008: And then there was some conversation in addition , that that , um , needed to be transcribed .
+[1371] [32:35] fe067: Mmm .
+[1372] [32:39] me070: Mm - hmm .
+[1373] [32:40] fe008: But , um ,
+[1374] [32:42] fe008: yeah .
+[1375] [32:44] fe008: One thing that you learn with this interface right away is that if you have really , really , really long utterances , it 's extremely inefficient to do anything .
+[1376] [32:52] fe067: Hmm .
+[1377] [32:53] fe008: Because you end up p p p
+[1378] [32:55] fe008: if you try to n go up in the transcript , you end up with this huge huge space of time
+[1379] [32:58] fe066: Mm - hmm .
+[1380] [32:58] me070: Yep .
+[1381] [33:00] fe008: and things covering several screens
+[1382] [33:02] fe008: and it 's just horribly i inefficient ,
+[1383] [33:03] fe069: Yeah .
+[1384] [33:03] me070: Yeah .
+[1385] [33:05] fe008: so .
+[1386] [33:06] me070: Yeah .
+[1387] [33:07] fe069: One thing that I still can't figure out with the interface ,
+[1388] [33:11] fe069: it does this sometimes
+[1389] [33:12] fe069: but other times it doesn't ,
+[1390] [33:13] fe069: is
+[1391] [33:15] fe069: you
+[1392] [33:21] fe069: it has a little bar of where the meeting is ,
+[1393] [33:23] fe069: like
+[1394] [33:23] fe008: Yes .
+[1395] [33:24] fe068: Mm - hmm .
+[1396] [33:25] fe069: and it goes along as you 're listening to the meeting
+[1397] [33:26] fe069: and then it ends up the end .
+[1398] [33:27] fe069: And if you click on that bar to the right of that little marker then it moves forward ,
+[1399] [33:31] fe008: Mm - hmm .
+[1400] [33:32] fe069: if you click on the left it moves back .
+[1401] [33:34] fe069: But sometimes it moves two frames or two screens ,
+[1402] [33:34] fe008: Mm - hmm .
+[1403] [33:34] fe066: Mmm .
+[1404] [33:37] fe008: Oh yes .
+[1405] [33:38] fe008: Mm - hmm .
+[1406] [33:38] fe067: Hmm .
+[1407] [33:38] fe008: I 've noticed that .
+[1408] [33:38] fe069: and sometimes it doesn't .
+[1409] [33:40] fe008: I think that 's totally dependent w on how you have the resolution set .
+[1410] [33:42] fe008: So that little tiny thing .
+[1411] [33:43] fe069: Really ?
+[1412] [33:44] fe008: And if I increase the resolution so it 's spread out a bit more , then I seem to have more control over it .
+[1413] [33:49] fe069: OK .
+[1414] [33:50] fe008: But
+[1415] [33:50] me070: Mmm .
+[1416] [33:51] fe069: Cuz I noticed that a few times it would do it it would move twice
+[1417] [33:54] fe066: That kind of makes sense
+[1418] [33:54] fe008: Yes .
+[1419] [33:55] fe069: and then in n sometimes i it wouldn't ,
+[1420] [33:55] fe066: because
+[1421] [33:55] fe066: Yeah , i
+[1422] [33:58] fe069: and maybe i maybe I had resolution set differently
+[1423] [34:00] fe066: Cuz , yeah , if the s the resolution If it 's moving too slowly then , like , if you were to click on some place then it makes sense that it would get kind of confused .
+[1424] [34:00] fe069: or I s
+[1425] [34:08] fe066: But if it 's moving quickly , seems that it 's covering more ground faster ,
+[1426] [34:09] fe069: Mm - hmm .
+[1427] [34:12] fe066: so I don't know .
+[1428] [34:14] fe008: I 'm gonna report that to him ,
+[1429] [34:15] fe008: cuz
+[1430] [34:16] fe008: that 's one of the reasons why , when I uh suggested to visual scan the record , that I suggested doing it by clicking on the right of the of that navigation bar you 're mentioning .
+[1431] [34:25] fe069: Mm - hmm .
+[1432] [34:25] fe008: Or , actually , clicking on the right of the sound wave and then letting it run past the boundary ,
+[1433] [34:28] fe069: Right .
+[1434] [34:28] fe008: because I had the same problem .
+[1435] [34:29] fe069: Yeah . That 's what I tend to do , is I use a soundwave ,
+[1436] [34:31] fe008: It
+[1437] [34:32] fe069: but if I 'm trying to scan through a long period of what appears to be silence sometimes I 'll s ry and be sc try to scan it ,
+[1438] [34:32] fe008: cuz
+[1439] [34:36] fe008: Yes .
+[1440] [34:37] fe008: Yeah
+[1441] [34:38] fe008: Mm - hmm .
+[1442] [34:40] fe069: but I can't
+[1443] [34:41] fe069: because
+[1444] [34:42] fe008: Cuz you end up missing entire frames .
+[1445] [34:43] fe069: it skips . Yeah .
+[1446] [34:44] fe069: So then I end up clicking on the arrow , they have the arrow at the far right ,
+[1447] [34:44] fe008: Ye - I was surprised by that .
+[1448] [34:45] fe008: Yeah .
+[1449] [34:47] fe008: Yes , OK . OK .
+[1450] [34:48] fe069: and so I use that sometimes .
+[1451] [34:49] fe008: So
+[1452] [34:51] fe069: Yeah .
+[1453] [34:52] fe069: Mm - hmm .
+[1454] [34:52] fe069: At the far right and far left there 's a little arrow that allows you to go like second by second or something ,
+[1455] [34:52] fe008: OK .
+[1456] [34:55] me070: I didn't know about that .
+[1457] [34:57] fe069: I don't know .
+[1458] [34:57] me070: Really ?
+[1459] [34:57] fe069: Not second by second ,
+[1460] [34:58] fe069: but little bit by bit , yeah .
+[1461] [34:59] fe008: So , is this the arrow on the right ,
+[1462] [35:00] me070: Oh .
+[1463] [35:01] fe008: it would be underneath that little resolution bar ?
+[1464] [35:03] fe008: I mean , it 's like in that u cluster up there ?
+[1465] [35:03] fe069: Um , it 's not on the resolution part .
+[1466] [35:06] fe069: It 's where you have it 's where you have the marker of where you are in the meeting .
+[1467] [35:11] fe069: So you have this bar , uh , and then you have a time marker that moves along .
+[1468] [35:16] fe069: Say , you 're halfway through the meeting , it 's gonna be halfway along the line .
+[1469] [35:16] fe008: Mm - hmm .
+[1470] [35:19] fe008: I have to do something visually .
+[1471] [35:21] fe008: So , my I would say you have the transcript screen ,
+[1472] [35:28] fe008: and then you have a bar .
+[1473] [35:29] fe008: I think you 're referring to this bar , aren't you ?
+[1474] [35:30] fe069: I
+[1475] [35:30] fe069: Yeah .
+[1476] [35:31] fe008: And then there 's like this little resolution changer .
+[1477] [35:32] fe069: Yeah .
+[1478] [35:33] fe069: It
+[1479] [35:33] fe069: Yeah .
+[1480] [35:33] fe008: And then down here you have the soundwave ,
+[1481] [35:35] fe008: and then something down here ,
+[1482] [35:35] fe069: Exactly .
+[1483] [35:36] me070: Oh .
+[1484] [35:36] fe008: and then you got the cha the different channels come out .
+[1485] [35:37] fe069: So
+[1486] [35:40] fe008: So
+[1487] [35:43] fe069: Yeah .
+[1488] [35:43] fe008: OK
+[1489] [35:44] me070: Oh that !
+[1490] [35:44] me070: Yeah .
+[1491] [35:45] fe008: you saying that there 's an arrow right here ?
+[1492] [35:46] fe069: Yeah !
+[1493] [35:47] fe008: OK . And then there 's an arrow right here ?
+[1494] [35:47] fe069: Yeah . Yeah .
+[1495] [35:49] fe008: OK .
+[1496] [35:50] fe008: So
+[1497] [35:50] fe069: Exactly .
+[1498] [35:50] me070: Oh
+[1499] [35:53] me070: That
+[1500] [35:54] fe066: I usually just don't use that , I think .
+[1501] [35:54] me070: Yeah
+[1502] [35:55] me070: Oh , is that what you 're talking about ?
+[1503] [35:55] fe066: Oh .
+[1504] [35:56] me070: If
+[1505] [35:56] fe067: Mmm .
+[1506] [35:57] me070: I 've never used been able to use that
+[1507] [35:58] me070: cuz it I s feel like it skips such huge portions .
+[1508] [36:00] fe069: Maybe we have resolution set totally different .
+[1509] [36:00] fe067: Yeah .
+[1510] [36:02] fe069: Cuz I noticed when Jen and I have totally different resolutions ,
+[1511] [36:02] me070: Maybe we do .
+[1512] [36:05] fe069: cuz hers moves so much quicker than mine ,
+[1513] [36:06] fe066: I tend to make it move fast .
+[1514] [36:08] me070: Oh
+[1515] [36:09] fe069: which means it 's more stretched out , right ?
+[1516] [36:10] me070: I
+[1517] [36:10] fe066: Right . Right . Right . Right .
+[1518] [36:12] fe069: Yeah . I usually have it set to where it has , um , point five second intervals on the numbers .
+[1519] [36:14] fe068: Right . That 's when I use it too .
+[1520] [36:15] me070: Yeah .
+[1521] [36:19] fe066: Hmm .
+[1522] [36:19] fe008: Oh . That 's interesting .
+[1523] [36:20] fe008: I haven't paid attention to the numbers .
+[1524] [36:22] fe008: I sort of like visually , i
+[1525] [36:23] fe008: it helps me to have it be separated enough that I could find a new breaking point if I needed it .
+[1526] [36:25] fe069: Yeah .
+[1527] [36:26] fe066: Yeah . That 's the reason I separate it out .
+[1528] [36:26] fe069: Yeah
+[1529] [36:28] me070: Right .
+[1530] [36:28] fe066: Yeah .
+[1531] [36:29] fe069: I do too ,
+[1532] [36:29] fe069: but sometimes if it gets too too for me too stretched out , um , I 'll tend to think that there 's a break in between a pause inside of a word or something .
+[1533] [36:32] fe008: Expanded ?
+[1534] [36:40] fe008: Mm - hmm .
+[1535] [36:41] fe066: Oh , yes .
+[1536] [36:41] fe069: I don't know .
+[1537] [36:42] fe066: Because the , uh the waveform becomes too stretched out .
+[1538] [36:45] fe069: Yeah .
+[1539] [36:45] fe066: Right .
+[1540] [36:45] fe066: Because
+[1541] [36:45] fe069: So I prefer it to be a little bit tighter ,
+[1542] [36:46] fe066: Yeah .
+[1543] [36:46] fe066: It
+[1544] [36:47] fe069: but I 'll stretch I 'll stretch it in a particular place if I need to , or something .
+[1545] [36:47] fe066: Right .
+[1546] [36:49] fe066: A sort of , like , happy medium , so you can make sure that the waveform has its , like , th g shape .
+[1547] [36:50] me070: Uh , right .
+[1548] [36:51] me070: Mm - hmm .
+[1549] [36:53] fe069: Yeah .
+[1550] [36:54] fe066: Yeah .
+[1551] [36:54] fe069: Yeah .
+[1552] [36:55] fe066: Now I know what you 're talking about .
+[1553] [36:55] fe069: Yeah .
+[1554] [36:56] fe069: That 's kind of interesting , though .
+[1555] [36:57] fe066: Yeah .
+[1556] [36:59] fe008: Well , we 're coming kind of close to the end of our time here .
+[1557] [37:01] fe008: Um , I did ask about dessert
+[1558] [37:04] fe008: and they told me it was ice cream
+[1559] [37:05] fe008: and it doesn't save well ,
+[1560] [37:06] fe008: so
+[1561] [37:06] me070: Oh .
+[1562] [37:06] fe069: Well if there 's any left we can grab it .
+[1563] [37:08] fe068: If there was pie again ,
+[1564] [37:08] fe008: That 's right .
+[1565] [37:09] fe068: if there was those tarts again , I 'd be like , " Set us some aside some there . "
+[1566] [37:10] fe069: Ooh , those were good .
+[1567] [37:11] me070: Hmm .
+[1568] [37:14] fe069: Yeah .
+[1569] [37:14] fe068: But
+[1570] [37:15] fe008: Yeah , there 's some Those are those are nice .
+[1571] [37:15] fe068: I 'm not a big ice cream fan .
+[1572] [37:17] fe066: Really ?
+[1573] [37:17] fe066: Oh .
+[1574] [37:18] fe068: Nah .
+[1575] [37:18] me070: No ?
+[1576] [37:20] fe008: But I did I was thinking i you know , it is interesting to me to think about how each each of us have sampled different meetings ,
+[1577] [37:26] fe008: and yet , i i it 's intriguing to me to think that if I were to describe someone 's characteristics in terms of their speech patterns , I bet you , we would all agree on who it who it was .
+[1578] [37:36] fe066: Mm - hmm .
+[1579] [37:36] fe069: Mm - hmm .
+[1580] [37:37] fe008: You know .
+[1581] [37:37] fe008: I think that 's so interesting .
+[1582] [37:38] fe069: Yeah .
+[1583] [37:38] me070: Yeah .
+[1584] [37:39] fe008: Yeah , it 's it 's a statement of speaker style , of course ,
+[1585] [37:42] me070: Mm - hmm .
+[1586] [37:42] fe008: but .
+[1587] [37:42] fe069: And also that we can I don't know , that we have this shared realm of knowledge , kind of ,
+[1588] [37:48] fe069: and can laugh about things that other people would not understand whatsoever ,
+[1589] [37:54] fe069: or
+[1590] [37:54] fe069: You know ?
+[1591] [37:55] fe066: Mm - hmm .
+[1592] [37:56] fe066: The little intricacies and idiosyncracies of people 's voices
+[1593] [37:57] fe069: Yeah . Yeah . I mean , i it 's really cool .
+[1594] [38:00] fe066: and
+[1595] [38:01] fe069: Yeah , or even just about what we were talking about with the technical part , you know , the interface .
+[1596] [38:05] me070: Yeah .
+[1597] [38:06] fe066: Right .
+[1598] [38:07] fe069: I don't know .
+[1599] [38:07] fe008: Do you have any favorite parts of these meetings ?
+[1600] [38:09] fe008: Things
+[1601] [38:10] fe008: I mean , we di we talked briefly about this last time .
+[1602] [38:12] fe068: When people get really loopy ,
+[1603] [38:14] fe068: and start telling lots of jokes , I think .
+[1604] [38:16] fe066: Yeah .
+[1605] [38:18] fe068: I enjoy always transcribing those sections .
+[1606] [38:20] fe008: Is this do you think this is usually toward the end of the meeting ,
+[1607] [38:23] fe008: or does it vary ?
+[1608] [38:23] fe008: Cuz
+[1609] [38:24] fe068: It 's yeah , it seems to be more at the end .
+[1610] [38:24] fe008: The
+[1611] [38:24] fe066: Eah . Depends on the person .
+[1612] [38:26] fe067: Or in the beginning ,
+[1613] [38:27] fe068: Like
+[1614] [38:27] fe067: the very beginning .
+[1615] [38:27] fe069: Yeah , in the very beginning .
+[1616] [38:28] fe068: Yeah , yeah .
+[1617] [38:28] me070: Yeah .
+[1618] [38:28] fe008: OK .
+[1619] [38:28] fe068: Yeah , they 'll be joking around .
+[1620] [38:28] fe069: Yeah .
+[1621] [38:29] fe066: Yeah , that 's true .
+[1622] [38:30] fe069: Yeah .
+[1623] [38:31] fe008: Do you have a favorite group that you that you like ?
+[1624] [38:33] fe008: I don't I don't wanna cause any partisanship here ,
+[1625] [38:36] fe008: but
+[1626] [38:37] fe068: Wait , a favorite what ?
+[1627] [38:38] fe008: A a fav a favorite t type of meeting that you like ,
+[1628] [38:41] fe008: or
+[1629] [38:43] fe068: Oh , you mean like , eh , meeti like like , um , Meeting Recorder as opposed to EDU as oppo
+[1630] [38:49] fe068: Like , those groups ?
+[1631] [38:49] fe008: It whichever .
+[1632] [38:50] fe008: I that way
+[1633] [38:51] fe008: or or a nature of a meeting ,
+[1634] [38:51] fe068: Oh .
+[1635] [38:53] fe008: or
+[1636] [38:53] fe069: I prefer ones that are somewhat linguistically related ,
+[1637] [38:57] fe066: Yeah .
+[1638] [38:57] fe008: OK .
+[1639] [38:57] fe069: cuz it 's more interesting for me .
+[1640] [38:58] me070: Yeah . I like those .
+[1641] [38:59] fe066: I don't like the technical ones
+[1642] [39:00] fe066: cuz I don't understand what they 're talking about .
+[1643] [39:01] fe069: Yeah .
+[1644] [39:02] fe069: Exactly . And it 's f really hard t t
+[1645] [39:02] fe066: And
+[1646] [39:04] fe066: Yeah . And I 'm sitting there bored
+[1647] [39:05] fe066: cuz I r I really have no concept of what they 're talking about .
+[1648] [39:09] fe069: Yeah .
+[1649] [39:09] me070: Yeah .
+[1650] [39:09] fe066: So I 'm going " OK . "
+[1651] [39:11] fe066: " I 'm just gonna listen to you . "
+[1652] [39:11] fe069: Yeah .
+[1653] [39:12] fe008: Mm - hmm . Mm - hmm .
+[1654] [39:13] me070: M yeah , the ones that where they 're talking about linguistic things , though , are great .
+[1655] [39:13] fe066: Yeah .
+[1656] [39:13] fe069: I
+[1657] [39:16] me070: I love those .
+[1658] [39:17] fe069: Yeah .
+[1659] [39:17] me070: I
+[1660] [39:18] fe008: Those are th E - would these be the EDU meetings ?
+[1661] [39:19] fe008: That 's what I think .
+[1662] [39:20] fe008: Is that true ?
+[1663] [39:21] fe066: The ones with Liz , and you .
+[1664] [39:23] me070: Mm - hmm .
+[1665] [39:23] fe066: Yeah .
+[1666] [39:23] me070: Yeah .
+[1667] [39:24] fe008: Oh , really ? OK .
+[1668] [39:24] fe069: Yeah . You guys do some in the mee in the Meeting Recorder ones , there 's some talk of ,
+[1669] [39:29] fe069: D d I don't know ,
+[1670] [39:30] fe069: discourse stuff .
+[1671] [39:31] fe069: I think it 's really fun too to listen to when you give reports on transcription .
+[1672] [39:34] fe008: Oh ,
+[1673] [39:35] fe008: I I 'm really ?
+[1674] [39:35] fe069: Yeah . Cuz there are always people like , you know , talking bad about the transcribers ,
+[1675] [39:35] fe008: Oh , I 'm glad .
+[1676] [39:40] fe069: and just making fun of u
+[1677] [39:41] fe066: Yeah .
+[1678] [39:41] fe069: And so it 's really funny ,
+[1679] [39:42] fe069: I don't know .
+[1680] [39:42] fe066: Yeah .
+[1681] [39:42] fe066: I li that 's why I like Johno .
+[1682] [39:43] fe069: It 's really funny to listen to .
+[1683] [39:43] fe068: I 've never heard anyone make fun of transcribers .
+[1684] [39:45] fe069: You haven't ?
+[1685] [39:45] fe066: Really ?
+[1686] [39:46] fe066: Oh , it 's so funny .
+[1687] [39:46] fe068: No !
+[1688] [39:46] fe008: Oh , Johno does a lot of that .
+[1689] [39:47] fe068: When you guys were saying that last week , I was like " Never heard that . "
+[1690] [39:48] fe066: Yeah .
+[1691] [39:49] fe066: That 's why I like listening to him .
+[1692] [39:49] fe069: It 's really funny .
+[1693] [39:50] fe066: He 's always making fun of transcribers .
+[1694] [39:52] fe008: It would be a kick Yeah , in a uh , in a good - natured way @ @ .
+[1695] [39:55] fe066: Yeah , yeah , yeah .
+[1696] [39:55] fe069: Yeah .
+[1697] [39:55] fe008: It would be really fun to have a collage of all these things , like , " Well , the transcribers "
+[1698] [39:59] fe008: so , " Rer - rer - rer - rer "
+[1699] [40:00] fe008: and then s be some horrible thing , " The transcriber 's gonna have trouble with this . @ @ "
+[1700] [40:02] fe066: Yeah , yeah , yeah .
+[1701] [40:04] fe008: Did you hear the meeting where the guy was doing , um , clicks like from African languages ?
+[1702] [40:08] fe068: Yes .
+[1703] [40:08] me070: Oh my .
+[1704] [40:08] fe066: Oh my god !
+[1705] [40:08] fe008: Wasn't that a kick ?
+[1706] [40:09] fe069: No !
+[1707] [40:09] fe068: I did that .
+[1708] [40:10] fe066: No .
+[1709] [40:10] fe008: That was really a kick .
+[1710] [40:10] fe068: And whistles .
+[1711] [40:12] fe068: He was it I you must have been sittin There was a meeting where there was this guy ,
+[1712] [40:15] fe068: he was making these funky sounds
+[1713] [40:17] fe008: Yeah .
+[1714] [40:17] fe068: and making funny whistles ,
+[1715] [40:19] fe008: Yep .
+[1716] [40:19] fe068: and you must have been sitting next to him
+[1717] [40:20] fe008: I was . Exactly .
+[1718] [40:20] fe068: cuz you sort of engaged him in a conversation about it .
+[1719] [40:23] fe008: Exactly so .
+[1720] [40:23] fe068: And he was like , " Yeah , I can make dogs , uh , raise their ears
+[1721] [40:24] fe008: Exactly .
+[1722] [40:26] fe008: Exactly !
+[1723] [40:28] fe068: cuz I can whistle so high . "
+[1724] [40:29] fe069: Wow .
+[1725] [40:30] fe068: And you were like , w " That 's fascinating . "
+[1726] [40:34] fe068: I remember that meeting .
+[1727] [40:35] fe068: I thought it was pretty funny .
+[1728] [40:35] fe069: Yeah .
+[1729] [40:36] fe069: I think it 's funny when there 's little side conversations like that , that happen at the same time too .
+[1730] [40:38] fe068: Yeah .
+[1731] [40:39] fe069: I think those are interesting .
+[1732] [40:40] fe068: Yeah .
+[1733] [40:41] fe069: And I think it 's really cool when people
+[1734] [40:43] fe069: start getting really excited about something or angry about something
+[1735] [40:46] fe068: Mm - hmm .
+[1736] [40:47] fe069: because then they tend to interrupt each other a lot ,
+[1737] [40:50] fe069: and
+[1738] [40:51] fe069: I don't know .
+[1739] [40:52] fe069: I mean , I remember one where one person , um , was really trying to get something out , really , really desperately ,
+[1740] [40:59] fe069: and he kept getting interrupted by like three p three other people ,
+[1741] [41:01] fe069: and he was like , " I I I I I I I I I "
+[1742] [41:03] fe066: Oh !
+[1743] [41:06] fe069: And it was I mean it was kind of sad
+[1744] [41:08] fe069: but it was , like , also really interesting to watch ,
+[1745] [41:11] fe069: or to listen to .
+[1746] [41:12] fe069: Both .
+[1747] [41:12] fe008: Have have you noticed that sometimes you have these a a g g greater frequency of speech errors , I think , during times of inter of overlap
+[1748] [41:18] fe069: Yeah .
+[1749] [41:19] fe008: which which is you can just tell a person 's m monitoring at two levels
+[1750] [41:19] fe066: Yeah .
+[1751] [41:19] fe067: Mmm .
+[1752] [41:21] me070: Mm - hmm .
+[1753] [41:22] fe008: and it 's it 's difficult .
+[1754] [41:22] me070: Mm - hmm .
+[1755] [41:23] fe069: They 're like just trying really hard to get it out before they get interrupted or something ,
+[1756] [41:26] fe066: Right .
+[1757] [41:29] me070: Yeah .
+[1758] [41:29] fe069: falls apart . I don't know .
+[1759] [41:30] fe066: I like transcribing you
+[1760] [41:31] fe066: cuz you 're very polite .
+[1761] [41:32] fe008: Oh , thank you !
+[1762] [41:34] fe066: No , really .
+[1763] [41:34] fe066: You 're always like " Well , I was just thinking about this ,
+[1764] [41:38] fe066: and maybe this might be if "
+[1765] [41:40] fe066: I uh , you know .
+[1766] [41:40] fe069: Yeah .
+[1767] [41:41] fe066: It 's just it 's just kind of cute
+[1768] [41:42] fe066: because everybody 's like , " Oh . Well , OK . "
+[1769] [41:44] fe066: And they 'll just listen to you , you know .
+[1770] [41:45] fe069: Yeah .
+[1771] [41:46] fe066: They don't interrupt you ,
+[1772] [41:47] fe066: they 're just like , " Well , OK . "
+[1773] [41:50] fe066: It 's kind of neat .
+[1774] [41:51] fe069: Yep .
+[1775] [41:52] fe008: Thank you .
+[1776] [41:53] fe008: Yeah .
+[1777] [41:54] fe008: Let 's see . Have you noti th one of the things that I found is is , um , surprisingly difficult these days is to co is to get certain electronic sounds , to try and describe them .
+[1778] [41:54] fe069: Hmm .
+[1779] [42:02] fe008: Have I was thinking about that the other day ,
+[1780] [42:03] fe069: Yeah .
+[1781] [42:04] fe008: it was like it 's like ,
+[1782] [42:05] fe008: y y you know ,
+[1783] [42:06] fe008: someone in one of these EDU meetings , they have a laptop
+[1784] [42:08] fe008: and they hit the thing
+[1785] [42:09] fe008: and the and there 's an error screen that comes up
+[1786] [42:11] fe008: and it has this " doink " kind of sound .
+[1787] [42:13] fe008: And
+[1788] [42:13] fe067: Hmm .
+[1789] [42:13] fe066: Right . Right .
+[1790] [42:14] fe008: What is that ?
+[1791] [42:14] fe008: It 's not a beep .
+[1792] [42:15] fe069: Yeah .
+[1793] [42:16] fe008: It 's not a bell .
+[1794] [42:17] fe008: It 's not s it 's not a " dong " .
+[1795] [42:18] fe008: It
+[1796] [42:18] fe008: I mean , you there 're all these words that I could imagine
+[1797] [42:21] fe008: and so , it 's like , it 's a " tinny kind of electronic sound that comes up when you make an error with your laptop " .
+[1798] [42:26] fe008: And that 's that 's not really very helpful .
+[1799] [42:29] fe067: I wonder if like Microsoft has a word for it .
+[1800] [42:30] fe066: Now I 'm now I 'm just wondering how they 're gonna transcribe you saying that .
+[1801] [42:32] fe069: Yes .
+[1802] [42:33] fe008: Oh . You mean the voice quality ?
+[1803] [42:36] fe008: The
+[1804] [42:36] fe066: The " doink " .
+[1805] [42:37] fe067: Bling .
+[1806] [42:37] fe008: Oh , that thing .
+[1807] [42:37] fe066: Yeah . I know .
+[1808] [42:38] fe008: Oh th
+[1809] [42:38] me070: Now you did it again !
+[1810] [42:41] me070: Stop torturing them !
+[1811] [42:43] fe066: No !
+[1812] [42:43] fe067: Let 's not make things hard on ourselves later .
+[1813] [42:45] fe069: I know .
+[1814] [42:45] me070: Yeah .
+[1815] [42:47] fe008: Yeah . Well and then , you know , there are these other things that I think are really interesting ,
+[1816] [42:50] fe008: like the vocal changes in character .
+[1817] [42:53] fe008: People shifting into a kind of a comic voice ,
+[1818] [42:53] fe069: Mm - hmm .
+[1819] [42:55] fe008: or sort of a mock - this or mock - that ,
+[1820] [42:55] fe068: Mmm .
+[1821] [42:55] fe067: Mmm .
+[1822] [42:55] me070: Mmm .
+[1823] [42:57] fe008: you know , the sighing
+[1824] [42:58] fe008: and the , " Oh no ! "
+[1825] [43:00] fe008: You know , it 's it 's , uh , i There are lot 's of nuances which we uh , which we use very often .
+[1826] [43:01] fe069: Mm - hmm .
+[1827] [43:07] fe008: Comic words and things like that .
+[1828] [43:10] fe069: You know , I
+[1829] [43:10] fe008: And
+[1830] [43:10] fe067: Huh .
+[1831] [43:10] me070: Sorry .
+[1832] [43:10] fe008: Yeah ?
+[1833] [43:11] fe069: sorry
+[1834] [43:11] fe008: Yeah .
+[1835] [43:15] fe069: I think it was you that pointed out the problem .
+[1836] [43:17] fe069: Like you needed to be at the meeting to be able to transcribe correctly , the noise .
+[1837] [43:21] fe069: I think it was Adam was making this really strange noise ,
+[1838] [43:24] fe069: and
+[1839] [43:25] fe008: " Eech - eech " , or something .
+[1840] [43:27] fe069: he was like pretending to r screw something into his head ?
+[1841] [43:27] fe008: " Whee - whee " .
+[1842] [43:27] fe067: What ?
+[1843] [43:28] fe008: s s
+[1844] [43:30] fe069: Was that what it was ?
+[1845] [43:30] fe008: Yes . It was one of these it was this kind of deal .
+[1846] [43:30] me070: Oh yeah , I had that one .
+[1847] [43:31] fe069: Yeah ! Y yeah !
+[1848] [43:33] me070: Oh yeah .
+[1849] [43:33] fe008: Yes . Oh , yes .
+[1850] [43:35] fe008: And he got to transcribe this meeting .
+[1851] [43:37] me070: Yeah ,
+[1852] [43:37] fe008: And
+[1853] [43:37] me070: that was fun .
+[1854] [43:39] fe008: Cuz I was giving a report on what the comments were ,
+[1855] [43:42] fe008: and it was one of these was this ,
+[1856] [43:44] fe008: s
+[1857] [43:44] fe069: Uh - huh .
+[1858] [43:44] me070: Yeah .
+[1859] [43:45] fe008: " Whee - whee " . is what he said .
+[1860] [43:47] fe008: And he was going like this at the time .
+[1861] [43:49] fe069: Mm - hmm .
+[1862] [43:49] fe066: Joel 's like , " I am not amused . "
+[1863] [43:51] me070: I don't even wanna , like , try to repeat what he said
+[1864] [43:54] me070: because I don't wanna put the transcriber through it again .
+[1865] [43:56] fe008: Yes , that 's right .
+[1866] [43:56] fe008: Let
+[1867] [43:57] me070: But they actually had a big list of , like , things that people had transcribed
+[1868] [44:01] me070: and then they were reading one them one by one
+[1869] [44:03] me070: and being , like , " What 's this ?
+[1870] [44:04] me070: This ? "
+[1871] [44:04] me070: You know , and then doing the sounds ,
+[1872] [44:05] fe066: Aw !
+[1873] [44:06] me070: and then , " This sound must be this sound !
+[1874] [44:06] fe069: Oh .
+[1875] [44:07] fe069: Oh wow .
+[1876] [44:07] me070: This sound must be this ! "
+[1877] [44:09] fe069: y I had one like that where they were describing the different f qualities of " uh - huh " and " uh " and " uah "
+[1878] [44:15] fe069: and like what " EH " is versus " UH " versus " AH " .
+[1879] [44:18] me070: u u I had yeah , I had one like that too .
+[1880] [44:19] fe068: Yeah !
+[1881] [44:19] fe067: Hmm .
+[1882] [44:19] fe008: Oh man .
+[1883] [44:19] fe069: That was really hard .
+[1884] [44:22] fe069: Yeah .
+[1885] [44:22] fe069: That 's really interesting .
+[1886] [44:23] me070: I had
+[1887] [44:23] me070: Yeah .
+[1888] [44:24] me070: I had one where they were just they were just , like , talking about each word , you know ,
+[1889] [44:30] me070: and they were saying they were just describing the word over and over again ,
+[1890] [44:33] me070: and just the q the quotes around the word were driving me crazy . When they kn knowing
+[1891] [44:37] me070: when
+[1892] [44:38] me070: And then they were talking about like the difference between " uh " when it 's " a " or when it 's " uh " ,
+[1893] [44:43] fe069: Yeah .
+[1894] [44:43] me070: and at some point they were saying it so much , I didn't know how to transcribe it anymore .
+[1895] [44:46] fe069: Yeah .
+[1896] [44:46] fe066: Yeah .
+[1897] [44:47] me070: I was like , " I don't know if you 're saying " a " or " uh " anymore " .
+[1898] [44:49] fe069: Yeah .
+[1899] [44:50] fe066: Right .
+[1900] [44:50] fe068: Oh , yeah .
+[1901] [44:52] fe008: You did an excellen excellent job .
+[1902] [44:54] fe008: That was really it was like m transcription , a meta - transcription and meta meta meta .
+[1903] [44:54] me070: Oh , thank you .
+[1904] [44:57] fe069: Yeah .
+[1905] [44:58] fe068: Yeah . Cool !
+[1906] [44:58] fe008: It 's really @ @ .
+[1907] [44:58] me070: It was fun .
+[1908] [45:00] fe069: Yeah .
+[1909] [45:00] fe008: You know , I 'm really interested in this topic .
+[1910] [45:01] fe008: Would it be a problem if we continued a little bit longer on this ?
+[1911] [45:04] fe008: Or do you need to g do people need to leave .
+[1912] [45:06] fe008: I
+[1913] [45:06] fe066: Mm - mmm .
+[1914] [45:07] me070: I 'm fine .
+[1915] [45:07] fe067: I can stay .
+[1916] [45:08] fe069: I don't have to be anywhere until five ,
+[1917] [45:08] fe068: Sure .
+[1918] [45:08] fe008: Are we OK ?
+[1919] [45:09] fe069: so .
+[1920] [45:09] fe008: Oh , OK . We won't be that long , I don't think .
+[1921] [45:10] fe068: No .
+[1922] [45:10] fe069: Good .
+[1923] [45:11] fe068: Sure .
+[1924] [45:11] fe008: But but I really appreciate it .
+[1925] [45:11] me070: OK .
+[1926] [45:13] fe008: This is just really i it 's so interesting to me , the the specific experiences of of having encountered these data in this way .
+[1927] [45:22] fe008: Does
+[1928] [45:26] fe068: I
+[1929] [45:29] fe068: like , I had kind of a weird thing happen ,
+[1930] [45:31] fe068: and we 'd talked about it .
+[1931] [45:32] fe068: It
+[1932] [45:36] fe068: this was before we had the different channels ,
+[1933] [45:38] fe068: and , um , Dan Ellis it was when Dan Ellis was still here
+[1934] [45:40] fe008: Yes .
+[1935] [45:41] fe068: so it was like kind of early on , right ?
+[1936] [45:43] fe068: And , um ,
+[1937] [45:44] fe068: he everyone 's talking ,
+[1938] [45:47] fe068: and then all of the sudden , you hear Dan talking to someone else
+[1939] [45:52] fe068: and it 's different people that you 'd never heard before .
+[1940] [45:55] fe068: And and what he had done , is he had left the room to g
+[1941] [45:58] fe068: He 'd li and he had brought the microphone with him .
+[1942] [45:59] fe066: Oh , no .
+[1943] [46:01] fe068: And this is without the channelized interface .
+[1944] [46:03] fe068: So you you have no idea .
+[1945] [46:03] fe008: Oh my gosh .
+[1946] [46:05] fe069: Oh man .
+[1947] [46:05] me070: Oh wow .
+[1948] [46:05] fe068: You think everyone 's just become schizophrenic or something .
+[1949] [46:06] fe069: Oh n
+[1950] [46:07] fe068: And they 're all like in they 're own r world or something
+[1951] [46:10] fe068: because Then all of the sudden he 's talking about a co he needs a copy machine .
+[1952] [46:13] fe068: And I don and I 'm just assuming , well he 's s s still in the room
+[1953] [46:13] fe066: Oh g
+[1954] [46:16] fe068: and what the heck 's he talking about ?
+[1955] [46:17] me070: Wow !
+[1956] [46:17] fe068: But just sort of just weird things like that ,
+[1957] [46:19] fe068: and , um Yeah , he had just left the room
+[1958] [46:21] fe068: and gone and made a copy
+[1959] [46:23] fe068: and he still had his microphone on ,
+[1960] [46:24] fe068: and then you could hear the the the r the women behind the desk talking to him ,
+[1961] [46:28] fe068: and just sort of stuff like that .
+[1962] [46:29] fe068: It was just really bizarre .
+[1963] [46:31] fe068: So .
+[1964] [46:32] fe069: That 's really funny .
+[1965] [46:32] fe068: Anyway . Just sort of weird things like that .
+[1966] [46:33] fe008: Well , it is There 's another case where I ran across like o of that type ,
+[1967] [46:36] fe008: um
+[1968] [46:39] fe008: This was like o one of the first meetings I ever participated in
+[1969] [46:41] fe008: and and Dan was adjusting something here
+[1970] [46:44] fe008: and Adam was in the next room ,
+[1971] [46:45] fe008: and , um , Adam says , " So I 'll come in here and check the levels , "
+[1972] [46:49] fe008: and and he says something
+[1973] [46:53] fe008: and Dan says , " No " .
+[1974] [46:55] fe008: And it sounds like he 's saying " no " to Adam ,
+[1975] [46:57] fe008: and it was w if if if so , this would have been extremely rude .
+[1976] [47:00] fe067: Mmm .
+[1977] [47:00] fe008: But - but the thing and and the reason that it would be rude is because you don't have this information from hearing all these equalized volume channels ,
+[1978] [47:07] fe066: Uh - huh .
+[1979] [47:08] fe069: Right .
+[1980] [47:08] fe008: you don't know that they 're not participating in the same conversation at all .
+[1981] [47:11] fe069: Yeah .
+[1982] [47:12] me070: Yeah .
+[1983] [47:12] fe068: Yeah .
+[1984] [47:13] fe008: It really is strange .
+[1985] [47:14] fe068: Yeah .
+[1986] [47:15] fe008: I it lead us it ta if we w
+[1987] [47:16] fe068: So .
+[1988] [47:17] fe008: It is true that this is kind of an artificial
+[1989] [47:19] fe008: and i um ,
+[1990] [47:21] fe008: discourse c aspect ,
+[1991] [47:22] fe008: the mixed channel is artificial
+[1992] [47:23] fe008: because we 're boosting it in order to make everything audible .
+[1993] [47:26] fe069: Yeah .
+[1994] [47:26] me070: Mm - hmm .
+[1995] [47:26] fe067: Hmm .
+[1996] [47:27] fe066: It 's interesting cuz like , um , when I 'm working late at night , I actually don't feel so lonely
+[1997] [47:27] fe008: But
+[1998] [47:32] fe066: because there 's so many voices in my head .
+[1999] [47:36] fe008: You mean when you leave here ?
+[2000] [47:38] fe008: When you 're somewhere else ?
+[2001] [47:38] fe066: No , no . While I while I 'm working here ,
+[2002] [47:38] fe008: No , no . OK .
+[2003] [47:40] fe066: it 's like nine o '
+[2004] [47:41] fe066: and nobody 's here except for me ,
+[2005] [47:43] fe066: and I 'm like , " You know , I don't feel so lonely
+[2006] [47:45] fe069: Oh , yeah .
+[2007] [47:45] fe066: because there are like eight people talking to me all at once " .
+[2008] [47:50] fe066: I 'm like , " Wow " .
+[2009] [47:51] fe008: How about these meetings when where there are like eight speakers i in one meeting .
+[2010] [47:56] fe008: Are those What are those like ?
+[2011] [47:58] fe066: Takes a long time .
+[2012] [47:58] fe008: Are
+[2013] [47:59] fe068: They take longer to do .
+[2014] [47:59] fe069: It takes a long time , yeah .
+[2015] [47:59] fe067: Mmm .
+[2016] [48:00] fe008: OK .
+[2017] [48:00] me070: Yeah .
+[2018] [48:00] fe068: In a way they 're more fun , though .
+[2019] [48:00] fe066: Takes a long time .
+[2020] [48:02] fe069: Yeah .
+[2021] [48:02] fe068: There 's just more variety .
+[2022] [48:03] fe069: I tends I you know what I noticed , is it tends to have a still , a dominant group of speakers
+[2023] [48:03] fe066: Sometimes .
+[2024] [48:08] fe069: and then there are two or three people generally who don't talk at all
+[2025] [48:08] fe067: Mmm .
+[2026] [48:08] fe066: Yeah .
+[2027] [48:09] fe068: Who won't talk .
+[2028] [48:12] fe069: except to say their digits or something ,
+[2029] [48:14] fe069: or
+[2030] [48:14] fe068: And to breathe .
+[2031] [48:14] fe067: Yeah .
+[2032] [48:15] fe069: or to breathe and cough and sniff and whatever .
+[2033] [48:15] fe066: Right .
+[2034] [48:15] fe067: Oh , god !
+[2035] [48:16] fe068: There 'll be lots of breathing . Yeah .
+[2036] [48:17] fe069: Yeah .
+[2037] [48:19] fe069: Yeah . But I I think that still overall you 're gonna have probably three or four or five dominant speakers .
+[2038] [48:26] fe066: One thing I noticed is that , like ,
+[2039] [48:28] fe066: uhhh ! There was this one meeting I was transcribing , there were nine nine speakers ,
+[2040] [48:31] fe066: and by the end of it , I was so entirely sick of listening to the same conversation all over again
+[2041] [48:36] fe069: Yeah .
+[2042] [48:37] fe066: nine times in slow - mo !
+[2043] [48:38] fe069: Exactly .
+[2044] [48:39] me070: Definitely .
+[2045] [48:40] fe066: I was going nuts .
+[2046] [48:42] fe066: I was like , " I cannot take this anymore .
+[2047] [48:43] fe066: I can't listen to this anymore .
+[2048] [48:45] fe066: Oh my god ! "
+[2049] [48:45] fe008: I had that same reaction .
+[2050] [48:47] fe069: Yeah .
+[2051] [48:47] fe008: Absolutely . And sometimes these are meetings I participated in .
+[2052] [48:49] fe008: It
+[2053] [48:49] me070: Mm - hmm .
+[2054] [48:49] fe069: So you 've this is like the tenth time for you , then .
+[2055] [48:51] fe066: I swear it 's like it 's like a bad dream .
+[2056] [48:52] fe008: That 's righ that 's right .
+[2057] [48:54] fe066: It 's like , " This is this is keep happ this keeps happening to me " .
+[2058] [48:56] fe069: Yeah .
+[2059] [48:58] fe008: Never changes .
+[2060] [48:58] fe008: I 'm gonna check out outside to make sure that we 're OK with the , um
+[2061] [49:01] fe069: Oh , OK .
+[2062] [49:01] fe066: Oh . OK .
+[2063] [49:01] fe068: Did you guys ever ,
+[2064] [49:02] fe068: when This happened to me when I first started transcribing ,
+[2065] [49:04] fe068: cuz I had never really transcribed stuff like this before ,
+[2066] [49:05] fe008: Is it OK if we stay for another half hour in this room ?
+[2067] [49:07] fe068: but , um ,
+[2068] [49:07] fe069: Mm - hmm .
+[2069] [49:08] fe008: Good , thanks .
+[2070] [49:09] fe068: I would leave here ,
+[2071] [49:11] fe068: and I would go out and do my daily business ,
+[2072] [49:13] fe068: and I would hear people speaking to me ,
+[2073] [49:15] fe066: Yeah .
+[2074] [49:15] fe068: and I would transcribe them in my head !
+[2075] [49:17] fe066: Yes ! Yeah , yeah , yeah . Oh yeah .
+[2076] [49:17] fe069: Oh , man .
+[2077] [49:18] me070: Oh yeah ! That 's fun !
+[2078] [49:18] fe068: I 'd imagine what I would type .
+[2079] [49:20] fe069: Yeah ! Yeah .
+[2080] [49:20] fe067: Mmm .
+[2081] [49:21] fe068: It went away , like maybe after a couple of weeks ,
+[2082] [49:22] fe066: Yeah .
+[2083] [49:24] me070: Oh really ?
+[2084] [49:24] fe068: but it was just bizarre .
+[2085] [49:24] fe066: I still do that . I still do that .
+[2086] [49:25] me070: I still do that .
+[2087] [49:26] fe067: No , I don't
+[2088] [49:26] fe067: Yeah .
+[2089] [49:26] fe068: Really ?
+[2090] [49:27] fe069: Occasionally .
+[2091] [49:27] me070: Yeah .
+[2092] [49:27] fe066: Yeah .
+[2093] [49:27] fe069: Like on the bus or something when I 'm bored .
+[2094] [49:29] fe066: Yep
+[2095] [49:30] fe067: Right . It 's something you 're not interacting with ,
+[2096] [49:30] fe068: Oh . No , for me it was unconscious .
+[2097] [49:31] fe067: you 're just listening .
+[2098] [49:32] fe069: Oh , really ?
+[2099] [49:32] fe068: It was I didn't mean for to be doing it .
+[2100] [49:34] fe069: Oh , OK .
+[2101] [49:35] fe066: No , yeah . N Yeah .
+[2102] [49:35] me070: Oh , oh .
+[2103] [49:35] fe068: It would just intru it was an intrusion .
+[2104] [49:36] fe067: Mm - hmm .
+[2105] [49:37] fe069: Oh , that 's funny .
+[2106] [49:37] fe068: Um , not a te not a bad intrusion ,
+[2107] [49:39] me070: Mm - hmm .
+[2108] [49:39] fe069: Yeah .
+[2109] [49:39] fe068: but
+[2110] [49:40] fe068: not
+[2111] [49:42] fe069: Huh , that 's interesting .
+[2112] [49:42] fe066: I would also be really aw aware of w how I was speaking .
+[2113] [49:42] me070: Hmm .
+[2114] [49:46] fe068: Yes !
+[2115] [49:46] fe066: Cuz
+[2116] [49:47] fe066: Like , we were talking about " so " .
+[2117] [49:48] fe066: I do that .
+[2118] [49:50] me070: Mm - hmm .
+[2119] [49:50] fe066: I 'll end utterances with " so " or " and " .
+[2120] [49:52] fe069: Yeah .
+[2121] [49:53] fe066: and it 'll just be a trailing off , and I 'll think , " Man . I would be such a pain in the butt to transcribe . "
+[2122] [49:57] fe068: Yeah !
+[2123] [49:57] fe069: Mm - hmm .
+[2124] [49:57] fe067: Mmm .
+[2125] [49:58] fe068: Yeah !
+[2126] [49:58] fe066: Like I just , uh , I g
+[2127] [49:59] fe066: yeah .
+[2128] [50:00] fe066: I 'll I 'll do the same thing as you do ,
+[2129] [50:01] fe066: and I I 'll listen to somebody and his or her speech will be particularly idios idiosyncratic ,
+[2130] [50:01] fe068: Yeah , yeah .
+[2131] [50:06] fe066: and I 'll go , " Wow , I just I 'm glad I 'm not transcribing him or her " .
+[2132] [50:09] fe069: Yeah . I noticed a lot of my speech i I don't know , I wouldn't call them errors , I guess disfluencies , a lot more once when I started transcribing .
+[2133] [50:19] fe069: I just noticed and in ge people in general , that people break up their speech interestingly .
+[2134] [50:19] fe067: Mmm .
+[2135] [50:22] fe068: Yeah .
+[2136] [50:23] fe066: Right .
+[2137] [50:23] fe068: Yeah .
+[2138] [50:25] me070: Mmm .
+[2139] [50:26] fe066: I 'm amazed sometimes that we manage to communicate .
+[2140] [50:28] fe069: Yeah !
+[2141] [50:29] fe069: Actually .
+[2142] [50:30] fe066: You know ? Cuz people will say just , like , you know , monosyllabic little grunts and squeaks and things ,
+[2143] [50:36] fe069: I think that shows a lot of I think that shows a lot of how , um , it 's not all acoustic .
+[2144] [50:36] fe066: and it means something .
+[2145] [50:41] fe069: I mean , there 's other things involved ,
+[2146] [50:42] fe066: Right .
+[2147] [50:43] fe069: eye contact ,
+[2148] [50:43] fe069: body language ,
+[2149] [50:44] fe066: Right .
+[2150] [50:44] fe069: gesture ,
+[2151] [50:45] fe069: whatever .
+[2152] [50:45] me070: Right .
+[2153] [50:46] fe008: That raises a question .
+[2154] [50:47] fe008: Um , do you think that , um , you would have been considerably helped if we had had video tapes of these things ?
+[2155] [50:53] fe068: Oh sure .
+[2156] [50:53] fe066: Yes .
+[2157] [50:54] fe069: Yeah .
+[2158] [50:54] fe008: OK .
+[2159] [50:55] fe069: I definitely think so .
+[2160] [50:55] fe066: Yep . Mhh .
+[2161] [50:57] fe069: And I think there would be a lot more interesting data to analyze later on , personally .
+[2162] [51:01] fe008: Mmm , well , mm - hmm , mm - hmm that 's right ,
+[2163] [51:01] fe066: Uh - huh .
+[2164] [51:03] fe008: cuz you 're involved in gesture research .
+[2165] [51:04] fe069: Yeah .
+[2166] [51:05] fe008: Mm - hmm .
+[2167] [51:05] fe069: Yeah .
+[2168] [51:05] fe066: Yeah , cuz then you know exactly what 's going on ,
+[2169] [51:08] fe066: what
+[2170] [51:09] fe069: And you can really get a feel for the re interpersonal relationships ,
+[2171] [51:12] fe069: which kind of comes into play , maybe not for speech recognition ,
+[2172] [51:12] fe066: Yeah .
+[2173] [51:16] fe069: but for other things , maybe ?
+[2174] [51:18] fe066: Maybe this is what it 's like to be blind .
+[2175] [51:21] fe008: Mmm - hmm .
+[2176] [51:21] fe008: Oh , interesting .
+[2177] [51:21] me070: Hmm .
+[2178] [51:23] fe069: Maybe .
+[2179] [51:23] fe068: Hmm .
+[2180] [51:24] fe008: Huh .
+[2181] [51:25] fe068: Yeah .
+[2182] [51:26] me070: Hmm .
+[2183] [51:26] fe066: No no visual input at all .
+[2184] [51:28] fe069: Yeah , you just have to rely on your intonation ,
+[2185] [51:30] fe069: and other things like that .
+[2186] [51:31] fe066: Right .
+[2187] [51:33] fe066: And you get so much more aware of all of it too .
+[2188] [51:35] fe069: Yeah . Mm - hmm . Maybe .
+[2189] [51:35] fe008: Mm - hmm .
+[2190] [51:36] fe067: Hmm .
+[2191] [51:36] me070: Yeah .
+[2192] [51:36] fe008: That
+[2193] [51:37] fe008: I know someone who actually recognizes perfumes in the elevator .
+[2194] [51:41] fe008: I mean , there 's a there 's a blind man in this in this building ,
+[2195] [51:41] fe069: Oh .
+[2196] [51:43] fe069: Uh - huh .
+[2197] [51:43] fe008: and and , um , Lila was in the elevator one day .
+[2198] [51:47] fe008: And they hadn't spoken yet
+[2199] [51:49] fe008: cuz he just came on the elevator
+[2200] [51:50] fe008: and
+[2201] [51:52] fe008: uh , and then she then she said something
+[2202] [51:53] fe008: and he says , " Y you sp you 've changed your perfume . "
+[2203] [51:56] fe066: Oh wow .
+[2204] [51:58] fe008: Yeah , it 's pretty interesting . Pretty interesting .
+[2205] [51:58] me070: Huh .
+[2206] [51:59] fe069: That 's pretty amazing .
+[2207] [51:59] fe068: Had she changed her perfume ?
+[2208] [51:59] fe066: That 's neat .
+[2209] [52:00] fe008: Yes , she had .
+[2210] [52:01] fe068: Oh , wow .
+[2211] [52:01] fe008: Yeah .
+[2212] [52:02] fe066: Huh .
+[2213] [52:02] me070: Hmm .
+[2214] [52:02] fe008: Yeah .
+[2215] [52:02] fe068: Oof !
+[2216] [52:03] fe008: Yeah .
+[2217] [52:04] fe067: Hmm .
+[2218] [52:04] fe008: It 's very interesting .
+[2219] [52:05] fe069: Enhanced other senses , I guess .
+[2220] [52:06] fe069: That 's really cool .
+[2221] [52:07] fe066: Right .
+[2222] [52:08] fe069: Hmm .
+[2223] [52:09] fe008: Have
+[2224] [52:09] fe008: I I 've learned several things about having been Wi - i with the close - talking mikes .
+[2225] [52:14] fe008: This is this is a new experience .
+[2226] [52:15] fe008: Cuz I have of course been involved in in this kind of thing for quite a while ,
+[2227] [52:18] fe008: but th there are several things I didn't realize you could hear so reliably ,
+[2228] [52:18] me070: Mm - hmm .
+[2229] [52:18] fe069: Mm - hmm .
+[2230] [52:22] fe008: and some of these are the things like when the mouth opens
+[2231] [52:25] fe008: and the inbreath and stuff
+[2232] [52:26] fe008: and it and how extremely audible and and visual ,
+[2233] [52:26] me070: Mm - hmm .
+[2234] [52:26] fe066: Mm - hmm .
+[2235] [52:26] fe067: Uh - huh .
+[2236] [52:28] fe008: I mean , you can see these the inbreaths and things .
+[2237] [52:29] me070: Mm - hmm .
+[2238] [52:29] fe069: Yeah .
+[2239] [52:30] fe066: Mm - hmm .
+[2240] [52:30] fe008: It 's that was really surprising to me , that you it 's that tangible .
+[2241] [52:31] me070: Yeah .
+[2242] [52:33] fe069: That 's something you don't hear in normal speech too .
+[2243] [52:33] fe068: Mm - hmm .
+[2244] [52:36] fe069: In normal conversations , unless it 's very dramatic or very loud ,
+[2245] [52:41] fe068: Mm - hmm .
+[2246] [52:41] fe069: that people click their Their lips are always making funny noises
+[2247] [52:45] fe067: Unless you 're on , uh , talking on the phone ,
+[2248] [52:45] fe069: and
+[2249] [52:47] fe067: and the phone is the levels are funny .
+[2250] [52:48] fe069: Yeah .
+[2251] [52:49] fe067: Then you hear it .
+[2252] [52:50] fe069: Yeah .
+[2253] [52:50] fe067: So , th it 's kind of like that .
+[2254] [52:50] fe066: Right .
+[2255] [52:51] fe069: Yeah .
+[2256] [52:52] fe008: I guess it 's also one of these things that u usually is not meaningful ,
+[2257] [52:55] fe008: so we sort of screen it out .
+[2258] [52:56] fe069: Yeah .
+[2259] [52:56] fe008: u all these different in
+[2260] [52:57] fe008: cuz , you know , I mean , we do that all the time with all other well , lots of other aspects of the acoustic signal .
+[2261] [52:58] me070: Right .
+[2262] [53:02] fe069: Yeah .
+[2263] [53:02] fe068: Mm - hmm . Mm - hmm .
+[2264] [53:04] fe008: It sounds like it 's a nice smooth melody ,
+[2265] [53:05] fe008: but these things are voicing and unvoicing , are tripping in and out ,
+[2266] [53:08] fe008: and they don't The contour is really not nearly that neat .
+[2267] [53:12] fe008: Yeah .
+[2268] [53:12] fe066: Yeah .
+[2269] [53:12] fe068: Right . Yeah well , yeah , most of the time when we 're listening to other people 's speech , we 're just trying to get the gist .
+[2270] [53:16] fe068: Not literally what people are saying
+[2271] [53:17] fe008: Mm - hmm .
+[2272] [53:17] fe067: Mmm .
+[2273] [53:19] fe068: and so ,
+[2274] [53:19] fe068: you know , all the " uh " " uh 's " and " um 's " , and all those different things ,
+[2275] [53:20] fe066: That 's true .
+[2276] [53:21] fe069: We - yeah , we filter all that out .
+[2277] [53:22] fe068: we just tune it out ,
+[2278] [53:23] fe069: Yeah .
+[2279] [53:23] fe068: yeah .
+[2280] [53:23] me070: Mm - hmm .
+[2281] [53:24] fe068: And , uh , it 's that top - down thing again .
+[2282] [53:26] fe068: Just
+[2283] [53:26] fe068: right ?
+[2284] [53:27] fe008: Mm - hmm . Yeah . Yeah , absolutely . Absolutely .
+[2285] [53:27] fe068: In a way .
+[2286] [53:28] fe068: Just trying to get the , um ,
+[2287] [53:29] fe068: you know , what is the p " what is the point of what this person is trying to communicate ? " kind of thing .
+[2288] [53:33] fe069: Mm - hmm .
+[2289] [53:33] fe008: That 's right .
+[2290] [53:33] fe068: So .
+[2291] [53:34] fe067: Hmm .
+[2292] [53:35] fe069: Which is a very it 's that 's how I tended before studying linguistics anyways and , uh , definitely before doing transcription , how I tended to look all conversations ,
+[2293] [53:35] fe008: That 's right .
+[2294] [53:44] fe069: and then coming here and doing this , you have to look at speech in a totally more intense way .
+[2295] [53:52] fe069: Um .
+[2296] [53:54] fe069: Including , I mean , every little aspect .
+[2297] [53:56] fe069: I and when I tell people what I do here ,
+[2298] [53:59] fe069: and tell them , " Yeah , I 'm transcribing " .
+[2299] [54:01] fe069: And they 're they think I 'm like a stenographer or something .
+[2300] [54:03] fe066: Right .
+[2301] [54:03] fe068: Yeah .
+[2302] [54:03] fe069: I 'm like , " No , I don't correct the grammar .
+[2303] [54:05] me070: Mm - hmm .
+[2304] [54:06] fe069: I don't erase the " um " 's and " uh " 's ,
+[2305] [54:07] fe069: I record all the sighs , and the laughs , and the breaths ,
+[2306] [54:10] fe069: and
+[2307] [54:11] fe069: I don't know .
+[2308] [54:12] fe069: This is a very different thing than most people can relate to , I guess .
+[2309] [54:17] fe008: Mm - hmm . The I agree .
+[2310] [54:17] fe069: Or know about .
+[2311] [54:18] fe008: Another thing that I think is interesting in these meetings is , certain speakers have a tendency to embed utterances in other embed uh , in other utterances .
+[2312] [54:26] fe008: And , um , you know , it 's very clear when you see it when you hear it with the intonational markers ,
+[2313] [54:30] fe008: but well , just the contours ,
+[2314] [54:31] me070: Mm - hmm .
+[2315] [54:33] fe008: but the words on the page , it 's not at all clear .
+[2316] [54:36] fe069: Yeah .
+[2317] [54:36] fe008: And there are a couple people who do this in particular .
+[2318] [54:36] fe067: Mm - hmm .
+[2319] [54:39] fe008: I I would say that it 's both I would say that both Jerry and Morgan do this .
+[2320] [54:43] fe069: Mm - hmm .
+[2321] [54:44] fe008: And it 's amazing how fluent it is when you hear it ,
+[2322] [54:49] fe008: but how very complicated it is when you see the words .
+[2323] [54:51] fe066: Indecipherable .
+[2324] [54:53] fe069: Yeah .
+[2325] [54:53] fe008: Yeah .
+[2326] [54:54] fe069: And when you think about it , they pick up exactly where they left off ,
+[2327] [54:58] fe069: even though maybe it 's several seconds later , there 's no glitch in the syntax or anything .
+[2328] [55:02] fe069: It 's We 're pretty amazing machines .
+[2329] [55:07] fe069: Or creatures ,
+[2330] [55:07] me070: Mm - hmm .
+[2331] [55:07] fe069: whatever .
+[2332] [55:07] fe008: Hmm .
+[2333] [55:08] me070: Mmm .
+[2334] [55:08] fe008: Yeah .
+[2335] [55:09] fe069: That 's really cool .
+[2336] [55:09] fe066: Machines .
+[2337] [55:11] fe008: Yeah .
+[2338] [55:14] fe008: So , and then of course there are these these things which I think are also nicely represented in the data
+[2339] [55:19] fe008: which are these funny sounds people make ,
+[2340] [55:21] fe008: which to some degree is borrowing from comic talk .
+[2341] [55:23] fe008: So , I notice people going , " Pfft " you know , if they 're trying to say something is done .
+[2342] [55:28] me070: Mm - hmm .
+[2343] [55:29] fe008: The Germans do this I think in particular .
+[2344] [55:30] fe069: Yeah .
+[2345] [55:31] me070: Mm - hmm .
+[2346] [55:31] fe067: Hmm .
+[2347] [55:31] fe008: And there are others that we use like that th
+[2348] [55:33] fe008: which are sort of semi - conventionalized ,
+[2349] [55:35] fe008: but you wouldn't think that you would write them down .
+[2350] [55:37] fe066: Yeah , the one I kn I kn get all the time is " tsk "
+[2351] [55:38] me070: Yeah .
+[2352] [55:41] fe008: Oh yes ! Good example .
+[2353] [55:41] fe067: Mmm .
+[2354] [55:42] fe066: It 's it 's , uh like I don't know how I just transcribe it as I say , like , " click "
+[2355] [55:42] fe069: Mmm .
+[2356] [55:42] me070: Mm - hmm .
+[2357] [55:44] fe069: It 's like
+[2358] [55:45] fe069: " tisk " .
+[2359] [55:46] fe066: and then I say , " It 's like a vocal gesture . "
+[2360] [55:48] fe066: Like a shrug or a vocal some some sort of like , " Well , there it is " .
+[2361] [55:48] fe008: Yes .
+[2362] [55:50] me070: Yeah .
+[2363] [55:52] fe069: Yeah .
+[2364] [55:52] fe066: Or , " That 's it . "
+[2365] [55:52] me070: Yeah .
+[2366] [55:53] fe066: Or something like that , you know .
+[2367] [55:55] fe066: That people do that one a lot .
+[2368] [55:56] fe066: And there was one speaker who used to do it constantly .
+[2369] [56:00] fe066: And after a while , I started getting confused as to whether or not he was , like , just going " tsk - tsk - tsk - tsk - tsk " to himself ,
+[2370] [56:09] fe066: or whether he was meaning it in conversat
+[2371] [56:12] fe066: Sometimes it was really obvious that he meant it as some sort of vocal cue .
+[2372] [56:14] fe069: Mm - hmm .
+[2373] [56:17] fe066: But then sometimes it was more ambiguous .
+[2374] [56:19] fe066: Like it was tough to tell ,
+[2375] [56:21] fe066: um , because he would just always be clicking .
+[2376] [56:23] fe008: This
+[2377] [56:25] fe008: I mean , it could be the one that we were thinking about .
+[2378] [56:26] fe069: It could be .
+[2379] [56:27] fe069: But
+[2380] [56:33] fe069: because it was always in a g the one I 'm thinking of always came in groups of four or something .
+[2381] [56:38] fe008: Yes . Uh - huh .
+[2382] [56:38] fe069: And so it wasn't ever like a , um , single l
+[2383] [56:39] fe066: Mmm .
+[2384] [56:41] fe066: Oh , OK .
+[2385] [56:43] fe008: It
+[2386] [56:43] fe066: Yeah , this guy does a lot of single ones .
+[2387] [56:45] fe069: Yeah .
+[2388] [56:45] fe008: Oh , how interesting .
+[2389] [56:46] fe066: Yeah
+[2390] [56:48] fe066: And , uh that 's another thing like I I realize I do that too .
+[2391] [56:51] fe008: I 'll ask you who this is later .
+[2392] [56:52] fe008: I don't wanna cuz
+[2393] [56:52] me070: Hmm .
+[2394] [56:53] fe066: I can't remember the name actually .
+[2395] [56:54] fe008: OK .
+[2396] [56:55] fe008: The the one that I 'm thinking of ,
+[2397] [56:57] fe008: i it 's a matter of you can tell it 's in context where he 's looking in his agenda to see , you know , " Do I have time to do this ? "
+[2398] [57:00] fe069: Mm - hmm .
+[2399] [57:02] fe008: and he 's calculating it in his mind .
+[2400] [57:03] fe008: So it 's sort of li almost like a stand - in for calculator , kind of thing .
+[2401] [57:06] fe067: Hmm .
+[2402] [57:06] fe008: And i uh , but it 's signaling .
+[2403] [57:08] fe008: I 'm sure that everybody I 'm sure that other people can hear it .
+[2404] [57:10] fe008: So it 's sort of like , " Wait a minute , I 'm thinking . "
+[2405] [57:12] fe069: Right . Yeah . Yeah . Yeah .
+[2406] [57:12] fe066: Mm - hmm .
+[2407] [57:12] fe008: But it 's not lexicalized .
+[2408] [57:13] fe008: This
+[2409] [57:14] me070: Hmm .
+[2410] [57:14] fe069: That 's kind of the impression I got too .
+[2411] [57:14] fe008: i not in a standard way ,
+[2412] [57:16] fe066: Oh . Yeah , that 's a different person .
+[2413] [57:16] fe008: it
+[2414] [57:17] fe008: OK . OK . OK .
+[2415] [57:18] fe066: Yeah . OK , I know who you 're talking about .
+[2416] [57:19] fe066: But this is somebody somebody differ
+[2417] [57:20] fe008: He must do this in a lot of meetings
+[2418] [57:21] fe008: because I think you know , I 've run across it several times .
+[2419] [57:22] me070: I don't think I 've ever heard it .
+[2420] [57:24] fe069: No .
+[2421] [57:24] fe068: No .
+[2422] [57:25] fe069: Hmm .
+[2423] [57:25] fe068: I 've heard
+[2424] [57:27] me070: Yeah .
+[2425] [57:27] fe008: Yeah .
+[2426] [57:27] fe068: Which I just transcribe as " mouth " .
+[2427] [57:28] fe008: Heard that one .
+[2428] [57:30] fe008: Oh , I see .
+[2429] [57:30] fe068: I
+[2430] [57:32] me070: Huh .
+[2431] [57:32] fe068: Cuz I think I had talked to you about this about
+[2432] [57:34] fe068: what
+[2433] [57:37] fe068: oh
+[2434] [57:38] fe068: " Lipsmack " !
+[2435] [57:39] fe069: Yeah .
+[2436] [57:39] fe008: Oh yes .
+[2437] [57:39] fe066: Yeah .
+[2438] [57:40] fe068: I was marking " lipsmack " ,
+[2439] [57:41] fe068: and
+[2440] [57:42] fe069: That 's more like the " @ @ " .
+[2441] [57:44] fe068: yeah , that 's It 's a different noise ,
+[2442] [57:44] me070: Hmm .
+[2443] [57:45] fe069: Yeah .
+[2444] [57:45] fe068: but , um ,
+[2445] [57:46] fe068: it 's what made me think of it ,
+[2446] [57:46] fe067: Ah .
+[2447] [57:47] fe068: but , um ,
+[2448] [57:48] fe066: The one you 're talking ab
+[2449] [57:49] fe068: and and you said , " Don't do " lipsmack " ,
+[2450] [57:50] fe068: just do we don't need it 's too specific .
+[2451] [57:53] fe068: Just do " mouth " for all tha all those noises " .
+[2452] [57:55] fe008: Yeah , OK . Now what I would say um ,
+[2453] [57:56] fe068: Um
+[2454] [57:57] fe008: it 's good to know this .
+[2455] [57:58] fe008: C what I what I would say is , um , if it 's communicative s beyond just the p mouth opening and the w oh , you know , the mechanical aspects that happen when you happen to be about to speak , then I would like to have it if it 's communicative , I 'd like to have it preserved .
+[2456] [58:10] fe068: Mm - hmm .
+[2457] [58:10] fe067: Mm - hmm .
+[2458] [58:10] me070: Mm - hmm .
+[2459] [58:14] me070: Right .
+[2460] [58:15] fe008: a But if it 's just this mechanical stuff , " mouth " is fine .
+[2461] [58:17] fe068: Mm - hmm .
+[2462] [58:18] fe008: The It seems like the computer science people use " lipsmack " for that .
+[2463] [58:21] fe008: I
+[2464] [58:24] fe008: eh , w we 've we 're still deciding on how we 're gonna encode it in the final version .
+[2465] [58:27] fe008: But I tend to not like " lipsmack "
+[2466] [58:30] fe008: because I think that that 's could be meaningful
+[2467] [58:31] fe008: and it 's a little confusing .
+[2468] [58:32] fe069: Mm - hmm .
+[2469] [58:33] fe066: Mm - hmm .
+[2470] [58:33] fe008: People talk about , you know , " Oh gee , that was really good , "
+[2471] [58:33] fe067: Mmm .
+[2472] [58:35] fe008: and
+[2473] [58:35] fe008: I 'm not gonna do it
+[2474] [58:36] fe008: cuz I don't really know how to do lipsmack .
+[2475] [58:37] fe008: But but it seems like it would be a a vocal gesture ,
+[2476] [58:38] fe068: Yeah .
+[2477] [58:39] fe069: It could be .
+[2478] [58:40] fe008: a definite type of thing .
+[2479] [58:40] fe069: Yeah .
+[2480] [58:41] fe066: Right . Yeah , th I was thinking the one that you just did , like " tsk " . makes me think of the what people would write as " tsk tsk " .
+[2481] [58:44] fe008: Yes .
+[2482] [58:48] fe008: Same here . Yeah .
+[2483] [58:48] fe069: Yeah . Me too .
+[2484] [58:48] fe066: You know , like , uh , as though they 're like , you know , trying to communicate displeasure .
+[2485] [58:49] me070: Yeah .
+[2486] [58:49] fe008: I would too .
+[2487] [58:49] fe068: Oh , right .
+[2488] [58:51] fe068: Yeah .
+[2489] [58:52] fe067: Hmm .
+[2490] [58:53] me070: That 's true . Yeah .
+[2491] [58:53] fe068: Right .
+[2492] [58:53] fe068: Mm - hmm .
+[2493] [58:54] fe066: And
+[2494] [58:55] fe066: Yeah .
+[2495] [58:55] fe067: Mmm .
+[2496] [58:56] fe066: U i cu there 's there 's at least two or three that I can think of that to me are very different .
+[2497] [59:00] fe066: You know , there 's like , you know , that ,
+[2498] [59:01] fe068: Right .
+[2499] [59:02] fe066: and there 's like , um , you know , well , the one I did before that 's like
+[2500] [59:06] fe066: I don't know , like , um Hhh .
+[2501] [59:09] fe008: I would say " tongue click " for that .
+[2502] [59:10] fe066: Yeah .
+[2503] [59:11] fe008: But I would also probably put in parentheses it that I thought it was a vocal gesture .
+[2504] [59:14] fe066: Uh - huh .
+[2505] [59:14] fe008: Because I think it 's communicative of a certain thing .
+[2506] [59:16] me070: Yeah .
+[2507] [59:18] fe066: Yeah .
+[2508] [59:20] me070: I don't know what I am never sure whether or not to transcribe , um , a difference with , like , " hmm " , you know , and " hmm ! " .
+[2509] [59:27] fe069: Oh yeah .
+[2510] [59:27] fe008: Oh . Good point . Yes .
+[2511] [59:28] me070: Like , how do you transcribe " hmm ! " ?
+[2512] [59:30] fe069: It 's like " humph " .
+[2513] [59:31] fe066: I
+[2514] [59:31] fe008: Really good point .
+[2515] [59:32] fe008: Yeah .
+[2516] [59:32] fe066: I 'll usually put a an exclamation point somehow .
+[2517] [59:35] fe066: Like
+[2518] [59:35] fe008: I would too .
+[2519] [59:36] me070: Yeah ?
+[2520] [59:36] fe069: Oh .
+[2521] [59:36] fe008: I think it 's more emphatic .
+[2522] [59:38] me070: Mm - hmm .
+[2523] [59:38] fe008: Mm - hmm .
+[2524] [59:38] me070: W what about pre transcribing it , um , " HMPH " ?
+[2525] [59:39] fe008: But it th it 's true that th segments are different too .
+[2526] [59:43] me070: What about transcribing it that way ,
+[2527] [59:44] fe066: " Hmph . "
+[2528] [59:44] me070: like " hmph " ?
+[2529] [59:44] fe067: Hmm !
+[2530] [59:45] fe068: Oh .
+[2531] [59:45] fe008: Well , now , y This is a good question .
+[2532] [59:46] fe008: I guess I would say th you know , sometimes we 've seen " hmph " in literature meaning in
+[2533] [59:51] me070: Right .
+[2534] [59:52] fe008: but it 's a s a sigh a si uh , sorry . A sound of indignation .
+[2535] [59:56] me070: Right .
+[2536] [59:56] fe069: Mm - hmm .
+[2537] [59:56] fe008: So , if it 's meant as a sound of indignation then I think that would be how I would capture it , with the HMPH thing .
+[2538] [60:00] me070: Mm - hmm .
+[2539] [60:01] fe069: I
+[2540] [60:06] fe069: Hhh . not indignation .
+[2541] [60:07] fe069: Something more positive .
+[2542] [60:08] fe069: I don't know exactly wha how to characterize it ,
+[2543] [60:08] fe067: Like
+[2544] [60:09] fe069: but something more
+[2545] [60:10] fe066: Oh really ?
+[2546] [60:11] fe067: " Hmm !
+[2547] [60:11] fe008: a sort of like a sup uh , an uh , an elevated " hmm " ?
+[2548] [60:11] fe067: I hadn't thought of that . "
+[2549] [60:12] me070: Right .
+[2550] [60:13] fe067: Yeah .
+[2551] [60:14] fe008: It 's like a m sort of more surprise , or engagement ?
+[2552] [60:14] fe069: Yeah .
+[2553] [60:15] fe069: " Hmm . "
+[2554] [60:16] fe069: Yeah .
+[2555] [60:16] fe069: Or
+[2556] [60:16] fe067: Hhh .
+[2557] [60:17] fe069: I i I don't know .
+[2558] [60:18] me070: I yeah . I guess it could have two meanings , sort of .
+[2559] [60:19] fe069: Maybe .
+[2560] [60:21] fe069: Yeah .
+[2561] [60:22] fe068: If it 's surprise then the exclamation point makes sense , too .
+[2562] [60:24] fe069: Yeah .
+[2563] [60:24] fe008: Mm - hmm .
+[2564] [60:25] fe008: And then there 's the other kind which sounds similar ,
+[2565] [60:27] fe008: but it 's really part of a laugh .
+[2566] [60:29] fe008: So , " Hmm - hmm - hmm - hmm - hmm " .
+[2567] [60:29] fe068: Hmm .
+[2568] [60:30] fe069: Yeah .
+[2569] [60:31] fe008: Which is I would just say " laugh " for that .
+[2570] [60:31] me070: Yeah . Mm - hmm .
+[2571] [60:33] fe066: Laugh . Right .
+[2572] [60:33] fe069: Yeah .
+[2573] [60:34] me070: Mm - hmm .
+[2574] [60:34] fe068: Yeah , once , Adam was laughing ,
+[2575] [60:36] fe068: and it was actually written out phonetically ,
+[2576] [60:39] fe068: and I changed it .
+[2577] [60:40] fe068: I 'm like " it 's just laughing " .
+[2578] [60:40] fe008: Good .
+[2579] [60:41] fe069: Yeah .
+[2580] [60:41] fe008: Well done . Well done .
+[2581] [60:42] fe068: Like somebody had written , like " hyuh - hyuh " or or or something .
+[2582] [60:45] fe068: And
+[2583] [60:47] fe008: I 've run across that also .
+[2584] [60:49] fe008: And
+[2585] [60:49] fe008: Right .
+[2586] [60:50] fe008: Change it to " laugh " .
+[2587] [60:50] me070: That 's funny .
+[2588] [60:50] fe068: Yeah , i I it was maybe Tigerfish had done something
+[2589] [60:51] fe008: Well done .
+[2590] [60:52] fe068: like they had written out a phonetic laugh ,
+[2591] [60:53] fe066: Yeah , yeah .
+[2592] [60:55] fe068: and they didn't do it at any other place in the transcript .
+[2593] [60:55] fe066: That 's interesting .
+[2594] [60:57] fe069: That 's interesting .
+[2595] [60:57] fe008: I ran across a couple " ho " 's occ
+[2596] [60:57] fe068: It was just that one spot .
+[2597] [60:58] fe008: I 've seen " ho " 's
+[2598] [60:58] fe068: It was just a regular old vanilla laugh , you know .
+[2599] [60:59] me070: " Ho - ho - ho " ?
+[2600] [60:59] fe008: and
+[2601] [61:00] me070: Oh , that is too much fun .
+[2602] [61:00] fe008: and " heh " .
+[2603] [61:01] fe068: It wasn't anything special .
+[2604] [61:02] fe008: Yeah .
+[2605] [61:02] fe008: Yeah , that 's right .
+[2606] [61:02] fe069: I noticed , i m as far as problems with laughs , is that a lot of them were marked as breaths .
+[2607] [61:03] fe008: W
+[2609] [61:07] fe069: Because a lot of people ,
+[2610] [61:09] fe008: Yes .
+[2611] [61:09] fe069: I think we already talked about this last time ,
+[2612] [61:10] me070: Right .
+[2613] [61:10] fe067: Mm - hmm .
+[2614] [61:10] fe069: but
+[2615] [61:11] fe008: Yeah .
+[2616] [61:11] fe069: but not so much as , I never saw that written out phonetically , or whatever .
+[2617] [61:11] fe008: Well i
+[2618] [61:14] fe068: Well
+[2619] [61:15] fe068: well , here 's a question ,
+[2620] [61:16] fe068: and there 's been some variance in transcripts that I 've looked at .
+[2621] [61:20] fe068: When
+[2622] [61:21] fe068: OK .
+[2623] [61:22] fe068: So when you laugh , you 're exhaling all this air ,
+[2624] [61:25] fe008: Yes .
+[2625] [61:25] fe068: and so you need to i inhale ,
+[2626] [61:27] fe008: Yes .
+[2627] [61:27] fe068: and so how do you transcribe the inhale ?
+[2628] [61:29] fe068: Some people are transcribing it as a breath .
+[2629] [61:32] fe068: I I used to , you know , back in the day back when I was do transcribing , I would do the whole thing as a laugh
+[2630] [61:35] fe008: Yeah ? Yeah , yeah , yeah ?
+[2631] [61:39] fe069: Yeah , that 's what I used to do too .
+[2632] [61:39] fe008: Uh - huh . Yeah , yeah .
+[2633] [61:39] fe068: because to me the breath is part of the laugh .
+[2634] [61:41] fe008: I agree with you .
+[2635] [61:41] me070: Oh yeah .
+[2636] [61:41] fe066: Yeah .
+[2637] [61:41] fe008: That 's that 's what I prefer .
+[2638] [61:42] fe067: Mmm .
+[2639] [61:42] fe068: Um , so cuz i cuz in the ones I 've been che the one I 've been checking actually right now , that breath gets marked as a breath ,
+[2640] [61:43] me070: Yeah .
+[2641] [61:48] fe068: and I 've been taking them out .
+[2642] [61:49] fe069: So you would have like " lef laugh , breath , laugh "
+[2643] [61:49] fe008: Good . Well done .
+[2644] [61:50] fe068: So that 's OK ?
+[2645] [61:51] fe008: Well done .
+[2646] [61:53] fe068: Actually , it 'd be a " laugh "
+[2647] [61:53] fe069: transcribed ?
+[2648] [61:54] fe068: and then two dots ,
+[2649] [61:55] fe068: like the next bin will be empty ,
+[2650] [61:57] me070: Mm - hmm .
+[2651] [61:57] fe068: and then it 'll be " breath " .
+[2652] [61:58] fe069: Oh
+[2653] [61:58] fe008: Mm - hmm .
+[2654] [61:58] fe069: Yeah .
+[2655] [61:58] fe068: And
+[2656] [61:59] fe069: OK .
+[2657] [61:59] fe066: s
+[2658] [61:59] me070: Oh .
+[2659] [61:59] fe069: I see what you 're saying .
+[2660] [61:59] me070: Yeah .
+[2661] [62:00] fe068: it 'll be three d sort of separate units as opposed to I think it 's sort of one coherent thing .
+[2662] [62:02] fe069: Yeah .
+[2663] [62:04] fe069: Yeah .
+[2664] [62:04] me070: Mm - hmm .
+[2665] [62:05] fe068: So .
+[2666] [62:05] fe066: I put " breath - laugh " in the brackets when I don't know whether it 's a breath or a laugh ,
+[2667] [62:08] fe008: That 's good . That 's good .
+[2668] [62:08] fe069: Mm - hmm .
+[2669] [62:09] fe066: which is what I remember you telling me to do that .
+[2670] [62:09] fe068: Oh , well , yeah , that 's that 's a different thing .
+[2671] [62:10] fe008: That 's right .
+[2672] [62:11] fe069: Yeah .
+[2673] [62:11] fe067: Mmm . OK .
+[2674] [62:11] fe068: Yeah . S cuz sometimes it 's not clear .
+[2675] [62:12] fe008: That 's good .
+[2676] [62:13] fe069: Sometimes it 's hard to tell .
+[2677] [62:13] fe068: Like sometimes " Hhh ! " is a laugh .
+[2678] [62:14] fe067: Yeah .
+[2679] [62:15] fe066: Right .
+[2680] [62:15] fe069: Yeah .
+[2681] [62:16] me070: Yeah .
+[2682] [62:16] fe008: That 's right .
+[2683] [62:16] fe066: Right .
+[2684] [62:16] fe068: Um , and if other people are laughing , then I 'll usually give them and say that they 're laughing .
+[2685] [62:16] fe067: Hmm .
+[2686] [62:17] fe008: And
+[2687] [62:19] fe008: I agree with you .
+[2688] [62:19] fe066: Right .
+[2689] [62:20] fe008: And and I think that 's important
+[2690] [62:20] me070: Yeah .
+[2691] [62:21] fe008: because we 're capturing then the communicative level .
+[2692] [62:23] fe069: Yeah . Exactly .
+[2693] [62:23] fe068: Mm - hmm . Exactly .
+[2694] [62:24] me070: Right .
+[2695] [62:24] fe008: And it 's likely that it has a different contour than most breaths as well .
+[2696] [62:27] fe069: Yeah .
+[2697] [62:28] fe008: Because it 's sort of expulsive and and , uh , that kind of thing .
+[2698] [62:28] fe066: Mm - hmm .
+[2699] [62:31] fe068: Mm - hmm .
+[2700] [62:31] fe069: Yeah .
+[2701] [62:31] fe008: Ex - exactly . Exactly .
+[2702] [62:32] fe069: Yeah .
+[2703] [62:33] fe066: A lot of people go ,
+[2704] [62:33] fe008: Well done .
+[2705] [62:33] fe068: So .
+[2706] [62:34] fe008: Yes they do .
+[2707] [62:35] fe008: Yeah , the shyer ones sometimes will laugh i with the breath - laugh .
+[2708] [62:38] fe008: And you can see it .
+[2709] [62:38] fe066: Right .
+[2710] [62:39] fe008: You can see the little little peaks , which is interesting .
+[2711] [62:39] fe066: Right .
+[2712] [62:40] me070: Mm - hmm .
+[2713] [62:40] fe068: Right .
+[2714] [62:40] fe069: Yeah .
+[2715] [62:41] fe008: But yes . Yeah , exactly .
+[2716] [62:43] fe008: I wouldn't , uh i That 's a case whe you know , I know generally with the Tigerfish things that they put " breath " and we leave it in .
+[2717] [62:49] fe008: But absolutely there , yeah .
+[2718] [62:50] fe068: Good . OK .
+[2719] [62:51] fe008: " Laugh " , change it .
+[2720] [62:52] fe008: And , you know , there are other places where it 's in the way , you know .
+[2721] [62:54] fe008: I
+[2722] [62:58] fe008: and if they 're not in the way then don't don't mess with it ,
+[2723] [62:59] me070: A lot of times , though , the breaths are , um , results of bad segmentation ,
+[2724] [63:00] fe008: but
+[2725] [63:04] me070: and there 's a segmentation of nothing ,
+[2726] [63:05] fe008: Oh yes !
+[2727] [63:06] me070: and so they just write it as a breath when it 's clearly not a breath .
+[2728] [63:09] fe069: Yeah . I 've taken out some of those .
+[2729] [63:10] me070: And I usually always take those out .
+[2730] [63:10] fe068: Yeah .
+[2731] [63:11] me070: I
+[2732] [63:14] fe008: Great .
+[2733] [63:19] me070: when there 's really long spaces , it segments random spaces in between .
+[2734] [63:23] me070: And th you know , they get that
+[2735] [63:25] me070: and there 's nothing there ,
+[2736] [63:25] me070: so they m s mark it as a breath when it 's really actually nothing .
+[2737] [63:29] me070: So usually I take those out .
+[2738] [63:29] fe008: That 's right .
+[2739] [63:30] fe069: Yeah .
+[2740] [63:31] fe068: Well
+[2741] [63:32] fe068: cuz they don't have the the rich interface that we do ,
+[2742] [63:35] fe068: so the they must be giving the pre - segmenter sort of the benefit of the doubt ,
+[2743] [63:38] fe068: " Well , there must be something there , um , whether I can hear it or not . "
+[2744] [63:38] me070: Right . Right . Exactly , exactly .
+[2745] [63:40] fe069: Oh , yeah . I 'm sure they are .
+[2746] [63:41] fe068: So , they just say , " Well , it 's a breath then " .
+[2747] [63:41] me070: Exactly .
+[2748] [63:43] fe008: One
+[2749] [63:44] me070: Mm - hmm .
+[2750] [63:44] fe069: Although , they did put a " missing segment " so sometimes in brackets .
+[2751] [63:45] fe008: Yeah .
+[2752] [63:46] fe008: Yeah
+[2753] [63:47] fe068: Yes !
+[2754] [63:48] me070: Oh really ?
+[2755] [63:48] fe068: That 's true .
+[2756] [63:48] me070: Oh , I always get I always get " breath " .
+[2757] [63:49] fe008: Yeah .
+[2758] [63:50] fe008: Well , see , I I do a previous filtering before I give the Tigerfish ones out ,
+[2759] [63:51] fe069: I 've gotten both .
+[2760] [63:54] fe008: and and I u I have tried to get the that particular the the " missing segment " removed .
+[2761] [63:54] fe069: Uh - huh .
+[2762] [64:00] fe008: But I don't always do it .
+[2763] [64:00] fe069: Yeah .
+[2764] [64:00] me070: Mm - hmm .
+[2765] [64:01] fe069: Yeah . I 've seen a few of them ,
+[2766] [64:01] fe068: Hmm .
+[2767] [64:02] fe008: So yeah , you 've s they slip through .
+[2768] [64:03] fe068: Well , frequently that 'll also be a misattribution too , of voice .
+[2769] [64:03] fe069: but I 've seen a several " breath " 's too .
+[2770] [64:03] me070: Hmm !
+[2771] [64:05] fe069: Yeah ! Yeah .
+[2772] [64:06] fe068: Cuz then you 'll hear you 'll hear part of what another person is saying and th tha and that 's all transcribed on that one level ,
+[2773] [64:13] fe068: but then you 'll hear a little bit of it and then " missing segment " .
+[2774] [64:15] fe069: Yeah .
+[2775] [64:15] fe068: It
+[2776] [64:17] fe069: It 's just in the wrong place .
+[2777] [64:17] fe068: That person 's not talking at all " .
+[2778] [64:19] fe068: So , you just get rid of it .
+[2779] [64:19] fe069: Yeah .
+[2780] [64:20] fe069: Yeah .
+[2781] [64:20] me070: Hmm .
+[2782] [64:20] fe068: So .
+[2783] [64:21] fe008: Mm - hmm . Mm - hmm .
+[2784] [64:21] fe069: Yeah .
+[2785] [64:23] fe008: Interesting .
+[2786] [64:25] fe008: OK , well , let 's see ,
+[2787] [64:26] fe008: so , um , do you think that this has changed your speech n in other ways ,
+[2788] [64:30] fe008: in
+[2789] [64:32] fe008: Myself
+[2790] [64:34] fe008: when I spend a lot of hours doing this I become less fluent .
+[2791] [64:36] fe008: I have more false starts and things .
+[2792] [64:37] fe069: Really ?
+[2793] [64:38] fe008: Yeah .
+[2794] [64:38] fe008: I don't know if it 's It could just be because there 're so many more hours I haven't been talking .
+[2795] [64:39] fe068: Hmm !
+[2796] [64:44] fe066: I guess I try to be more careful in my speech , more often .
+[2797] [64:48] fe008: Good .
+[2798] [64:49] fe066: Unless I 'm really not paying any attention
+[2799] [64:51] fe066: like , you know , if I 'm at a party or something , and I 'm just sort of having a good time , then it doesn't really matter ,
+[2800] [64:56] fe066: but in n you know , normal one - on - one speech I I think I tend to try to enunciate more .
+[2801] [65:03] fe008: Mm - hmm . Mm - hmm .
+[2802] [65:04] fe066: Cuz I 've been told I mumble .
+[2803] [65:06] fe008: Oh ! Huh !
+[2804] [65:06] fe066: Um , and I guess I used to be worse about it .
+[2805] [65:10] fe066: I was told by my parents that I used to mumble a lot .
+[2806] [65:14] fe069: Uh - huh .
+[2807] [65:14] fe066: Uh , and also I I have this sort of East Coast accent that comes in sometimes that makes it hard for people on the West Coast to understand what I 'm saying .
+[2808] [65:25] fe008: Hmm !
+[2809] [65:25] fe066: A lot of times like , uh , if I 'm not paying attention I 'll say something that , uh , will not really be heard .
+[2810] [65:32] fe066: I tend to leave off final consonants , for instance ,
+[2811] [65:36] fe066: and people , uh , n I have to be conscious of that sometimes .
+[2812] [65:39] fe008: Hmm !
+[2813] [65:40] fe066: Yeah , so .
+[2814] [65:41] fe008: So mainly for clarity , it sounds like , like in phrasing or strategies .
+[2815] [65:42] fe066: Yeah .
+[2816] [65:43] fe066: Yeah .
+[2817] [65:46] fe069: Hmm
+[2818] [65:49] fe069: I don't know if it 's a really a question of me being more c changing my speech necessarily ,
+[2819] [65:54] fe069: but I 'm much more aware of interruptions in conversation in normal conversation .
+[2820] [65:58] fe008: Oh !
+[2821] [65:58] fe068: Oh , yeah . That 's true .
+[2822] [65:59] fe008: Oh .
+[2823] [65:59] fe066: Yeah .
+[2824] [66:00] fe069: So , uh , maybe I am more careful in the sense that I maybe don't interrupt as much ,
+[2825] [66:05] fe069: or j I 'm more aware of it when I am doing it ,
+[2826] [66:08] fe069: or something like that ,
+[2827] [66:09] fe069: but , um , I just pay attention more to the fact that every pretty much all the time in normal conversation there are interruptions .
+[2828] [66:19] fe069: There
+[2829] [66:20] fe069: I mean , unless you have really aw
+[2830] [66:22] fe069: I mean , I think if there were no interruptions it would sound really awkward .
+[2831] [66:25] me070: Mm - hmm .
+[2832] [66:25] fe069: There would be a lot of pauses ,
+[2833] [66:26] fe069: and that would kind of i imply uncomfortability , or something .
+[2834] [66:31] fe067: Hmm .
+[2835] [66:31] fe066: Right .
+[2836] [66:32] me070: Yeah .
+[2837] [66:32] fe069: But ,
+[2838] [66:33] fe008: I guess it depends partly on the type of interruption .
+[2839] [66:33] fe069: yeah .
+[2840] [66:35] fe008: I mean , if it 's a clarifying type like " well do you mean ? " when they 're partway through it in a utterance .
+[2841] [66:35] fe069: Yeah .
+[2842] [66:40] fe069: Yeah .
+[2843] [66:41] fe069: Yeah .
+[2844] [66:43] fe069: It 's different .
+[2845] [66:43] fe066: Yeah . I tend to think of a conversation that has no interruptions as being something that 's n unnatural and forced .
+[2846] [66:52] fe066: Or something like a meeting where , you know , I mean everybody says their little schpiel
+[2847] [66:53] fe069: Yeah .
+[2848] [66:57] fe066: and people are meant to be , you know , pretty pretty quiet and attentive for the most part .
+[2849] [67:02] fe066: And then they let them finish ,
+[2850] [67:04] fe066: and then somebody else comes in
+[2851] [67:05] fe066: and says something about it .
+[2852] [67:07] fe069: Yeah .
+[2853] [67:08] fe066: Um ,
+[2854] [67:09] fe066: and in a n like a friendly conversation I I notice that that 's not really true .
+[2855] [67:14] fe066: Like what you were saying .
+[2856] [67:15] me070: Right .
+[2857] [67:15] fe069: But
+[2858] [67:21] fe069: see now I 'm contradicting myself ,
+[2859] [67:22] fe069: but even when it is very turn - taking is very w like people follow the turn - taking rules , or whatever , and don't really blatantly interrupt people ,
+[2860] [67:32] fe069: um ,
+[2861] [67:32] fe069: and I I remember this actually from a meeting because Liz was complaining there wasn't enough o interruptions ,
+[2862] [67:37] fe069: or e not enough overlaps , or something .
+[2863] [67:38] fe066: Huh !
+[2864] [67:39] fe069: It wasn't interruptions
+[2865] [67:40] fe069: it was overlaps , that I was thinking about .
+[2866] [67:41] fe008: Uh
+[2867] [67:41] fe069: Not enough overlaps .
+[2868] [67:42] fe008: yeah .
+[2869] [67:42] fe069: And so she wanted to there to be an argument or something so that there 'd d be more .
+[2870] [67:46] fe069: And ch what she didn't realize was that throughout the meeting up until then there had been ,
+[2871] [67:50] fe069: they were just very small ,
+[2872] [67:52] fe069: but they were there .
+[2873] [67:53] fe069: I think they 're there pretty much a all the time .
+[2874] [67:55] fe008: I agree .
+[2875] [67:56] fe008: I did I did do one analysis wh where I looked at one meeting ,
+[2876] [67:57] fe066: That 's interesting .
+[2877] [67:59] fe069: Uh - huh .
+[2878] [68:00] fe008: and
+[2879] [68:01] fe008: th cuz the claim had been ,
+[2880] [68:02] fe008: actually o one of the people in the meeting had made the claim in the previous meeting that , " Well , there probably the overlaps only occur during setup and , um , you know , at the end when we 're leaving . "
+[2881] [68:12] fe069: Oh !
+[2882] [68:13] fe068: Oh yeah , that 's totally not true .
+[2883] [68:13] fe067: Hmm !
+[2884] [68:14] fe066: No , not at all .
+[2885] [68:14] fe008: Exactly . Exactly .
+[2886] [68:14] fe069: Yeah !
+[2887] [68:15] fe008: Well , and , you know , I think that that 's sort of the feeling you would get if unless you looked at the data at this level .
+[2888] [68:18] fe069: Yeah !
+[2889] [68:20] fe069: Yeah .
+[2890] [68:20] me070: Right .
+[2891] [68:20] fe008: And so I did an analysis
+[2892] [68:21] fe008: and in fact it was really a pretty constant rate
+[2893] [68:23] fe069: Yeah .
+[2894] [68:23] me070: Mm - hmm .
+[2895] [68:24] fe008: all the way through the entire meeting
+[2896] [68:25] fe008: and everyone was involved .
+[2897] [68:26] fe069: Mm - hmm .
+[2898] [68:26] fe008: Wasn't just one , you know , or two speakers .
+[2899] [68:28] fe008: Everyone
+[2900] [68:29] fe008: Yeah . It 's quite true .
+[2901] [68:30] fe066: Kind of makes sense
+[2902] [68:30] fe066: because if you 're if you wanna speak next , it 's almost like you got y you gotta get your foot in the door .
+[2903] [68:36] fe066: You gotta be the one who you know , make sure people recognize that you 're the one who 's gonna speak next .
+[2904] [68:41] fe069: Mm - hmm .
+[2905] [68:42] fe008: That 's true .
+[2906] [68:42] me070: Mm - hmm .
+[2907] [68:43] fe008: I should say , I didn't distinguish between overlaps and and interruptions .
+[2908] [68:46] fe008: So some of these were backchannels and things like that .
+[2909] [68:46] fe069: Yeah .
+[2910] [68:48] fe066: Oh , I see .
+[2911] [68:48] fe008: But it 's still It 's still the case .
+[2912] [68:49] fe066: Uh - huh .
+[2913] [68:50] fe008: You
+[2914] [68:50] me070: Yeah .
+[2915] [68:51] fe008: y
+[2916] [68:51] me070: I think , um , silences are generally like not good in conversation too .
+[2918] [68:56] me070: Cuz once you get a sil
+[2919] [68:58] me070: You know , it it it 's to your benefit to to try to get in right when you think they 're done
+[2920] [69:03] me070: because if there 's a silence , not only is it awkward , but then that sort of cues everybody to start thinking of a new topic to stop the silence ,
+[2921] [69:10] fe069: Yeah .
+[2922] [69:11] fe067: Hmm .
+[2923] [69:11] me070: and then you don't get to talk about what you wanted to talk about because the whole subject has changed .
+[2924] [69:13] fe069: And then everybody talks at once .
+[2925] [69:15] fe008: That 's true . That 's very true .
+[2926] [69:16] fe069: You know , thinking about it ,
+[2927] [69:16] me070: You know ?
+[2928] [69:16] me070: S
+[2929] [69:18] fe069: I I think I 've only noticed a couple times where there 's been actual silence on all channels for a period of time .
+[2930] [69:23] me070: Yeah .
+[2931] [69:25] fe068: Mm - hmm .
+[2932] [69:26] fe067: Hmm !
+[2933] [69:26] fe069: It 's only been like twice .
+[2934] [69:26] fe008: It 's true . That 's very rare .
+[2935] [69:26] fe068: It 's rare .
+[2936] [69:27] fe066: Yeah .
+[2937] [69:27] fe008: I agree .
+[2938] [69:28] fe069: Yeah .
+[2939] [69:28] me070: Mm - hmm .
+[2940] [69:29] fe008: Interesting observation .
+[2941] [69:30] fe008: Yeah . Well , if they 're i c if this has raised a couple of things for me that I wanted to mention
+[2942] [69:30] fe069: Yeah .
+[2943] [69:33] fe008: because , you know , at this point , we 're at the at the really fine grain level of of standardization which I hadn't really thought of specifying in advance before ,
+[2944] [69:43] fe008: and , um , wanted to maybe just mention a couple of things .
+[2945] [69:46] fe008: These are ,
+[2946] [69:47] fe008: um
+[2947] [69:48] fe008: Yeah , I don't think that these are very common .
+[2948] [69:50] fe008: But with the idea that what we 're trying to do is encode the communicative stuff ,
+[2949] [69:54] fe008: um , when we have these grey areas ,
+[2950] [69:57] fe008: um , w um ,
+[2951] [70:00] fe008: I wanted to draw attention to the fact that there are sometimes these stretches where a person is trying to say something and formulating their thought , and they 're coming out with a bunch of segments , which really aren't part of a word .
+[2952] [70:09] fe008: Have you run across that where they 're they 're saying
+[2953] [70:09] fe069: Hmm .
+[2954] [70:11] fe066: Mm - hmm .
+[2955] [70:12] fe066: Yeah , yeah , yeah .
+[2956] [70:12] fe069: Yeah , yeah . Yeah .
+[2957] [70:12] me070: Yeah .
+[2958] [70:13] fe008: and then they say a word .
+[2959] [70:13] fe067: Oh .
+[2960] [70:14] fe066: Right .
+[2961] [70:14] fe068: Yeah .
+[2962] [70:14] fe008: And , my feeling on that is , that this isn't really a phonological transcript ,
+[2963] [70:20] fe008: and potentially those things could probably be rendered ,
+[2964] [70:23] fe008: although some of them are not even full segments ,
+[2965] [70:25] fe008: they 're even sub s subsegmental , I would say .
+[2966] [70:28] fe008: I mean , you got a a single flap of a vocal cord sometimes ,
+[2967] [70:28] fe069: Mm - hmm .
+[2968] [70:31] me070: Yeah .
+[2969] [70:31] fe008: and , you know , they 're th it 's like the the apparatus is sort of almost kicking in ,
+[2970] [70:36] fe008: they 're almost gonna say
+[2971] [70:37] fe008: but it hasn't somehow this somehow this vibration hit before the rest of it
+[2972] [70:40] fe008: and and that 's not communicative .
+[2973] [70:40] me070: Mm - hmm .
+[2974] [70:42] fe008: So , um , my my the way I do those things when I hear those , if is to I use in parentheses one " X " so it 's marked .
+[2975] [70:43] fe066: OK .
+[2976] [70:51] me070: Right .
+[2977] [70:52] fe069: Mm - hmm .
+[2978] [70:52] fe008: Or
+[2979] [70:54] fe069: Then
+[2980] [70:55] me070: That 's what I usually do too .
+[2981] [70:55] fe069: Right .
+[2982] [70:56] fe068: I was wondering who had been putting those in .
+[2983] [70:56] me070: Yeah .
+[2984] [70:56] fe008: Great .
+[2985] [70:58] fe008: And then and then what I do is I put in , um , brackets , um , uncodeable Sorry , " Uncodeable vocal sounds " .
+[2986] [71:06] fe069: Mm - hmm .
+[2987] [71:06] fe068: Yes .
+[2988] [71:07] fe066: Oh , OK . OK .
+[2989] [71:08] fe008: And of course , potentially they 're codable ,
+[2990] [71:10] fe008: but i I just wanted to mark roughly how man how long it is ,
+[2991] [71:14] me070: Mm - hmm .
+[2992] [71:14] fe008: then indicate what what the nature of it is , so no one 's gonna try and go back and and decode it as something that 's pechen a a word that was not It has a different status than parenthesized , uh , parts when there are words involved ,
+[2993] [71:29] me070: Mm - hmm .
+[2994] [71:29] fe008: just to set it aside ,
+[2995] [71:31] fe008: have some sort of a length indication ,
+[2996] [71:32] fe008: and sometimes I 'll even put them in a in a separate bin ,
+[2997] [71:34] fe008: although that 's that 's not necessary .
+[2998] [71:37] fe008: It 's just sometimes it works out that way that they @ @ ,
+[2999] [71:37] fe068: Mm - hmm .
+[3000] [71:39] fe008: they do this thing .
+[3001] [71:40] fe008: I shouldn't do that so often .
+[3002] [71:41] fe008: I 'm sorry about that .
+[3003] [71:43] fe008: They do this sound ,
+[3004] [71:44] fe008: and then there 's a pause ,
+[3005] [71:45] fe008: and then they start speaking ,
+[3006] [71:47] fe068: Mm - hmm .
+[3007] [71:47] fe008: so then it 's really obvious , I can I can split it apart and it won't be any problem .
+[3008] [71:50] fe008: I wanted to mention that one ,
+[3009] [71:50] fe068: Man !
+[3010] [71:51] fe066: I 'm glad you ment brought that up
+[3011] [71:51] fe008: yeah .
+[3012] [71:52] fe066: because
+[3013] [71:53] fe066: I 'm one of the culprits that puts in all the little itsy bitsy tiny sounds in the middle of everything ,
+[3014] [71:58] fe069: Mmm .
+[3015] [71:58] fe068: I do that too !
+[3016] [71:59] fe066: because
+[3017] [71:59] fe068: I used to do that !
+[3018] [72:00] fe066: because
+[3019] [72:01] fe066: Yeah . Cuz I was thinking , like , you 're just supposed to write down everything you hear as closely as possible .
+[3020] [72:01] fe008: Well
+[3021] [72:05] fe008: Mm - hmm .
+[3022] [72:05] fe066: And so , I 'm glad you said that
+[3023] [72:06] fe066: because , um , that actually takes a good amount of time , and like pretty strict concentration to d to do that .
+[3024] [72:08] fe068: A lot of time .
+[3025] [72:10] me070: Yeah .
+[3026] [72:13] me070: Yeah . I put in the " X "s .
+[3027] [72:13] fe066: Um ,
+[3028] [72:14] fe008: Excellent .
+[3029] [72:14] fe066: and
+[3030] [72:15] me070: I
+[3031] [72:20] fe066: I do that if it 's unintelligible ,
+[3032] [72:21] fe066: but if I can tell something if somebody goes " r " I 'll put an " R " .
+[3033] [72:26] fe008: Oh , I see .
+[3034] [72:27] fe008: I see .
+[3035] [72:28] fe066: Eh Um , so if they go " r e m m " , I 'll go " R " " EH " " mmm " m " M " " M " .
+[3036] [72:34] me070: Oh .
+[3037] [72:35] fe067: Hmm .
+[3038] [72:35] fe066: So like I I 've been doing that
+[3039] [72:37] fe066: because like that 's what I can hear .
+[3040] [72:37] fe008: OK .
+[3041] [72:39] fe066: And
+[3042] [72:39] me070: Right .
+[3043] [72:40] fe066: sorry . Sorry !
+[3044] [72:42] fe066: Sorry . Hhh !
+[3045] [72:43] me070: That will have to be transcribed with little , uh , symbols .
+[3046] [72:44] fe066: Sorry !
+[3047] [72:45] fe066: I 'm sorry .
+[3048] [72:47] fe068: Yeah . Like a a skull and crossbones .
+[3049] [72:48] fe066: I feel really bad now .
+[3050] [72:51] fe066: Oh no !
+[3051] [72:52] fe066: I 'm sorry !
+[3052] [72:52] me070: Right .
+[3053] [72:53] fe066: OK
+[3054] [72:53] fe008: That 's OK .
+[3055] [72:54] fe008: It 's alright .
+[3056] [72:54] me070: You 've ruined the whole meeting !
+[3057] [72:54] fe008: No problem .
+[3058] [72:55] me070: We can't transcribe any of it now !
+[3059] [72:55] fe068: It
+[3060] [72:57] fe066: Oh no , I 'm so sorry .
+[3061] [72:58] fe068: Yeah .
+[3062] [72:59] fe068: It 's not like you said the F - word .
+[3063] [73:01] fe008: No , no , no .
+[3064] [73:01] fe068: It
+[3065] [73:02] fe008: This
+[3066] [73:02] fe068: it
+[3067] [73:04] fe069: Yeah , seriously .
+[3068] [73:05] fe008: I wouldn't give it a second thought .
+[3069] [73:08] fe069: Do you remember what you were gonna say ?
+[3070] [73:09] fe066: Oh
+[3071] [73:10] fe068: She 's pretty darn sure that , uh ,
+[3072] [73:10] fe066: Ah and then tha Yeah , that 's wha
+[3073] [73:11] fe008: You sh
+[3074] [73:12] fe008: Yeah
+[3075] [73:14] fe068: she could make it out probably .
+[3076] [73:15] me070: OK . Right .
+[3077] [73:16] fe066: I 'm sorry .
+[3078] [73:19] fe068: Yeah , no one 's ever sworn in any of the meetings !
+[3079] [73:21] fe008: Well , y you 've heard have you heard " shoot " ?
+[3080] [73:21] fe068: That
+[3081] [73:23] fe008: I 've heard " shoot " a couple of times .
+[3082] [73:24] fe066: I
+[3083] [73:25] fe069: Yeah .
+[3084] [73:25] fe068: Not the swearword version .
+[3085] [73:25] me070: Hmm
+[3086] [73:26] fe008: No , no , no , no , no , no ,
+[3087] [73:27] fe008: the
+[3088] [73:27] fe068: Just " shoot " .
+[3089] [73:28] fe008: " shoot " type , yeah .
+[3090] [73:28] fe066: I 've heard the swearword version .
+[3091] [73:29] me070: Yeah .
+[3092] [73:29] fe068: That 's OK .
+[3093] [73:30] fe066: Remember that ?
+[3094] [73:30] me070: Oh , you have ?
+[3095] [73:30] fe008: Yeah ?
+[3096] [73:30] fe066: Remember that ?
+[3097] [73:31] me070: I 've never heard the swearword versions .
+[3098] [73:31] fe008: Oh .
+[3099] [73:31] fe066: It was a while back .
+[3100] [73:32] fe066: I it was a long time ago .
+[3101] [73:34] fe008: I do remember that . Yeah .
+[3102] [73:34] fe066: Yeah , and I was like , " Oah ! "
+[3103] [73:37] fe066: I emailed you ,
+[3104] [73:37] fe066: I was like , " M You might wanna check this out . "
+[3105] [73:39] fe008: That 's right . That 's right .
+[3106] [73:40] fe066: Yeah , I do remember that .
+[3107] [73:40] fe008: Yeah .
+[3108] [73:40] fe066: But it was very quiet .
+[3109] [73:42] fe066: So I can see how that would have been sort of gone over by accident .
+[3110] [73:46] fe066: It was just very quiet ,
+[3111] [73:47] fe066: like kind of under the breath kind of thing ,
+[3112] [73:48] fe008: Uh - huh , yeah .
+[3113] [73:48] fe069: Uh - huh .
+[3114] [73:48] fe008: Yeah , it was .
+[3115] [73:49] fe066: so that 's why it was missed .
+[3116] [73:49] fe069: Yeah .
+[3117] [73:50] me070: Mm - hmm .
+[3118] [73:50] fe069: Yeah .
+[3119] [73:50] fe066: I can understand .
+[3120] [73:50] fe068: Hmm !
+[3121] [73:50] fe067: Mm - hmm .
+[3122] [73:50] fe008: Mm - hmm .
+[3123] [73:51] fe066: Yeah .
+[3124] [73:52] fe008: Yeah .
+[3125] [73:53] fe008: B but y t finish your point .
+[3126] [73:54] fe008: So , y
+[3127] [73:54] fe066: Oh ! I was just I was just saying that , um , I I can I 'm pretty sure that I can tell what exactly what sounds are being produced .
+[3128] [74:03] fe008: Yes .
+[3129] [74:03] fe066: So if it 's " er " , I write an " R " .
+[3130] [74:04] fe008: Mm - hmm .
+[3131] [74:04] me070: Right .
+[3132] [74:05] fe066: If
+[3133] [74:06] fe069: Yeah .
+[3134] [74:06] me070: Right .
+[3135] [74:07] fe008: Mm - hmm . Mm - hmm .
+[3136] [74:07] me070: Then again , I always think that it 's closer to stick with the " X
+[3137] [74:10] me070: because it 's , like , how effective is , you know , the Roman alphabet at deciphering all the sounds that a human can make .
+[3138] [74:18] fe069: Yeah .
+[3139] [74:18] me070: You know , it 's not the IPA
+[3140] [74:20] me070: and it 's just , I I just sort of think , um , it 's best to leave it with " X
+[3141] [74:21] fe067: Mmm .
+[3142] [74:25] me070: because I y English orthography conventions are just so , you know , uncertain anyway in the first place ,
+[3143] [74:32] me070: and
+[3144] [74:32] fe008: Mm - hmm .
+[3145] [74:34] me070: you know , I I usually only use them when I I know that , um , the person was trying to make a word .
+[3146] [74:39] me070: I mean , I know that the the word they were trying to say
+[3147] [74:41] me070: and that they were stuttering that ,
+[3148] [74:43] me070: then I feel fine just you know , writing out the letters .
+[3149] [74:45] me070: But otherwise , I sort of don't feel right trying to write them out
+[3150] [74:49] me070: because
+[3151] [74:52] me070: you
+[3152] [74:53] fe066: Just not useful ?
+[3153] [74:54] me070: Yeah , you can't really spell those things with the R with the Roman alphabet ,
+[3154] [74:54] fe068: Mm - hmm .
+[3155] [74:54] fe066: Yeah ?
+[3156] [74:56] me070: you know ?
+[3157] [74:56] fe069: Yeah .
+[3158] [74:57] fe066: Mm - hmm .
+[3159] [74:57] me070: It
+[3160] [74:57] fe068: Right .
+[3161] [74:59] me070: it was set up for a different purpose , you know .
+[3162] [75:01] me070: Not necessarily so phonological .
+[3163] [75:02] fe008: I agree . And I think there 's another problem too ,
+[3164] [75:03] fe069: Yeah .
+[3165] [75:03] fe066: OK .
+[3166] [75:04] fe008: and that is that we do have some short words which are communicative .
+[3167] [75:06] fe008: And
+[3168] [75:08] fe008: So , if you have an " ER " as part of one of these fragments , we do have a lexicalized " er "
+[3169] [75:15] me070: Right .
+[3170] [75:15] fe008: which is a which is a a filler item .
+[3171] [75:16] fe066: Right .
+[3172] [75:17] fe008: Does have a meaning .
+[3173] [75:17] fe069: Yeah .
+[3174] [75:18] me070: Mm - hmm .
+[3175] [75:18] fe008: So I think for both of the reasons it 's good to just leave it in this category of not really communicating in a in a word - like way .
+[3176] [75:25] fe066: So
+[3177] [75:26] me070: Right .
+[3178] [75:27] fe008: I would keep " er " .
+[3179] [75:28] fe008: Well , " E " " er " " er " if it 's a filler .
+[3180] [75:28] fe066: Oh , you would keep " er " .
+[3181] [75:30] fe008: So , " I mean , er , "
+[3182] [75:30] fe066: Right , right .
+[3183] [75:31] fe008: th that that that stays .
+[3184] [75:31] me070: Mmm
+[3185] [75:31] fe066: Right . Oh , OK .
+[3186] [75:32] fe069: Yeah .
+[3187] [75:32] me070: Oh yeah .
+[3188] [75:33] fe008: But if it 's p uh , part on these little fragments , no .
+[3189] [75:33] me070: I
+[3190] [75:35] me070: I often transcribe that as " or " .
+[3191] [75:37] me070: I always thought that was " or " sort of with a strange pronunciation .
+[3192] [75:38] fe008: Oh .
+[3193] [75:40] fe008: I 'm making a distinction .
+[3194] [75:41] fe068: Oh .
+[3195] [75:42] fe008: So you have the , um , comic " er " where the person says something and then they pretend that they didn't wanna say that ,
+[3196] [75:45] me070: Right .
+[3197] [75:48] fe008: and then they throw in an " er " .
+[3198] [75:48] me070: Oh .
+[3199] [75:49] fe008: m and that would be an " er " .
+[3200] [75:49] me070: Oh , I don't get that one .
+[3201] [75:50] fe066: Uh - huh .
+[3202] [75:50] fe069: Mm - hmm .
+[3203] [75:52] me070: Right .
+[3204] [75:52] fe008: ER .
+[3205] [75:52] fe008: But if they 're saying " or " in a reduced way so it comes out as " er " , do it as " or " .
+[3206] [75:56] me070: R
+[3207] [75:57] me070: Right .
+[3208] [75:58] me070: OK .
+[3209] [75:58] fe008: Cuz that 's that falls within the realm of pronunciation variants .
+[3210] [75:58] fe069: OK .
+[3211] [75:59] me070: m OK .
+[3212] [75:59] fe066: Right .
+[3213] [76:01] me070: Right .
+[3214] [76:01] fe008: It 's just like different ways of saying " and " .
+[3215] [76:03] me070: Mm - hmm .
+[3216] [76:03] fe008: OK .
+[3217] [76:04] fe008: And I have like , uh , uh , two more things I wanted to say .
+[3218] [76:06] fe008: One
+[3219] [76:09] fe008: Oh , yeah .
+[3220] [76:09] fe008: This is an interesting category to me ,
+[3221] [76:11] fe008: and I don't , um , y y don't have to mark this systematically .
+[3222] [76:15] fe008: But when you 're going through the meeting , and what I 'd like people to do if if you 're not uh , uh is to go through the meeting ,
+[3223] [76:23] fe008: um
+[3224] [76:25] fe008: So , if you 're doing you 're doing separate channels first and then as a final pass through the mixed channel ,
+[3225] [76:30] fe008: I don't think I 've made that explicit
+[3226] [76:31] fe008: but it w it 's really helpful to go through it a a final time though the mixed channel so that you hear things in context .
+[3227] [76:37] fe008: And at that point what I sometimes pick up is this meta - level , where someone is finishes someone 's someone else 's utterance .
+[3228] [76:42] fe069: Mm - hmm .
+[3229] [76:42] fe008: So you 'll suddenly have this stranded word out in the middle of nowhere , and it 's because
+[3230] [76:47] fe008: this other speaker on this other channel was trying to formulate this thought , and they paused ,
+[3231] [76:51] fe008: and they paused just enough that this person leaped in and gave them a word .
+[3232] [76:54] fe069: Mmm .
+[3233] [76:55] me070: Mm - hmm .
+[3234] [76:55] fe066: Right .
+[3235] [76:55] fe008: And I think those are interesting ,
+[3236] [76:56] fe008: so
+[3237] [77:01] fe008: put capital letters .
+[3238] [77:01] fe008: Capital letter , capital letter , colon , apostrophe " S " , utterance .
+[3239] [77:06] fe069: Oh !
+[3240] [77:06] fe008: Yeah .
+[3241] [77:06] fe068: Wait , wait . How do you mark it ?
+[3242] [77:07] me070: Wait .
+[3243] [77:07] fe066: We
+[3244] [77:08] fe008: So
+[3245] [77:12] fe008: Let 's say that , um , Morgan 's talking ,
+[3246] [77:15] fe008: uh , so , he 's talking .
+[3247] [77:18] fe008: And then somewhere there 's a bit of a pause ,
+[3248] [77:21] fe008: and let 's say Adam fills in a word for him .
+[3249] [77:25] fe008: Then what I do is , on Adam 's channel , I say I say , " Completing " And this this isn't that common of an occurrence . " Completing speaker initial with a colon apostrophe " S " 's utterance " .
+[3250] [77:36] fe068: Oh , I see .
+[3251] [77:38] fe069: Oh !
+[3252] [77:42] me070: Oh .
+[3253] [77:43] fe068: OK .
+[3254] [77:43] fe008: And
+[3255] [77:45] fe008: See we 're gonna go to a stage of anonymization .
+[3256] [77:48] fe008: So it 's important to have the colon here
+[3257] [77:48] me070: Oh .
+[3258] [77:50] fe008: because that 'll make it possible to easily know , you know , who it was without having to do the math involved in figuring out which channel it was .
+[3259] [77:57] fe008: The
+[3260] [77:58] fe008: I originally wanted to use channel numbers as the referent index ,
+[3261] [78:02] fe008: but that that 's not functional
+[3262] [78:04] fe008: because we have these two different numbering schemes .
+[3263] [78:06] fe008: You have the numbering in the Channeltrans interface and you have the numbering in the " key " file
+[3264] [78:09] fe069: Yeah .
+[3265] [78:09] fe008: and those can be very different .
+[3266] [78:10] me070: Right . Right .
+[3267] [78:11] fe008: So , you know , to be able to ,
+[3268] [78:11] fe069: Yeah .
+[3269] [78:12] fe008: uh Th - this is redundant in a useful way in that you know that you 're not gonna make a mistake .
+[3270] [78:16] fe008: I tried to do it with the numbers
+[3271] [78:17] fe008: and I was making all sorts of inconsistent problems , so I stopped it .
+[3272] [78:19] fe066: So that 's probably why you , like , added in that , um , thing that automatically puts in the people 's initials .
+[3273] [78:20] me070: Mm - hmm .
+[3274] [78:26] fe069: Initials ?
+[3275] [78:27] fe008: That 's that 's I did that partly to keep track of things .
+[3276] [78:30] fe008: Absolutely .
+[3277] [78:31] fe008: Absolutely .
+[3278] [78:31] fe069: I I also found that it was easier to deal with the meetings when there are speaker initials .
+[3279] [78:32] fe008: Somet
+[3280] [78:32] fe066: Uh - huh .
+[3281] [78:34] fe066: Oh yeah .
+[3282] [78:35] fe066: Initials .
+[3283] [78:36] fe008: The initials ?
+[3284] [78:36] fe008: I 'm glad to hear that .
+[3285] [78:37] fe069: Yeah .
+[3286] [78:37] fe008: I st I didn't do that systematically until , uh , really rather recently ,
+[3287] [78:41] fe069: Yeah .
+[3288] [78:41] fe008: so . I I 'm glad to know that 's useful .
+[3289] [78:42] me070: Mm - hmm .
+[3290] [78:43] fe008: It s takes an extra step .
+[3291] [78:44] fe008: Glad it 's useful .
+[3292] [78:45] fe008: OK , now I just have one more thing to say
+[3293] [78:46] fe008: and that is that ,
+[3294] [78:46] fe008: um , um ,
+[3295] [78:49] fe008: like once this is just such a rea
+[3296] [78:50] fe008: I 'm getting down to like the really eensy - weensy stuff .
+[3297] [78:52] fe008: But , um , once I found a comment that , uh , in in curly brackets about mumbling .
+[3298] [79:00] fe008: And , um ,
+[3299] [79:01] fe008: i g
+[3300] [79:01] fe008: that 's that 's this is just to mention an instance that happened once ,
+[3301] [79:05] fe008: it 's really grasping for details .
+[3302] [79:05] me070: Mm - hmm .
+[3303] [79:06] fe008: But , um ,
+[3304] [79:08] fe008: I I f I think , and it may be that it was not from anybody here ,
+[3305] [79:12] fe008: so .
+[3306] [79:13] fe008: But I think that , um , " mumble " is only useful in the s to me , in the sense of " whispered " ,
+[3307] [79:19] fe008: if it 's like a manner of speaking , in which case it 's a " QUAL " .
+[3308] [79:22] fe008: But not in terms of replacing , like , this string of undecipherable fragments .
+[3309] [79:27] fe008: So ,
+[3310] [79:27] me070: Oh , right .
+[3311] [79:27] fe066: Right . Oh yeah .
+[3312] [79:28] fe069: OK .
+[3313] [79:28] fe008: um
+[3314] [79:28] me070: They
+[3315] [79:30] fe008: exactly .
+[3316] [79:30] fe008: It was used in place of , uh , something that was in unintelligible .
+[3317] [79:30] fe069: OK .
+[3318] [79:31] fe066: To fill in . I see .
+[3319] [79:31] me070: Mmm .
+[3320] [79:34] me070: Right .
+[3321] [79:35] fe008: In which case , it would be better to use parentheses and and either exclamation , or the number of syllables , if you know .
+[3322] [79:37] me070: The number " X " .
+[3323] [79:38] fe068: And then do " QUAL mumbled " or " QUAL whispered " or something .
+[3324] [79:42] fe008: Exactly . If it 's a manner of speaking , then it 's useful .
+[3325] [79:43] fe068: I see .
+[3326] [79:45] me070: Right .
+[3327] [79:45] fe008: And otherwise the parentheses with an estimate of syllables is better .
+[3328] [79:49] fe069: OK .
+[3329] [79:51] fe068: OK .
+[3330] [79:51] fe008: OK .
+[3331] [79:52] fe008: So , I guess , you know , I don't wanna keep you .
+[3332] [79:54] fe008: I kept you so long .
+[3333] [79:55] fe069: Can I ask one more thing about these comments .
+[3334] [79:55] fe008: I really appreciate this .
+[3335] [79:56] fe008: Yes ?
+[3336] [79:57] fe069: So
+[3337] [80:01] fe069: " QUAL " is used for things like " whispered " , or " said while laughing " , or things of that nature .
+[3338] [80:08] fe008: Yes .
+[3339] [80:08] fe008: Mm - hmm .
+[3340] [80:09] fe069: Um , I remember at some point we were doing a difference between vocal and non - vocal sounds ?
+[3341] [80:11] fe008: Oh . Yes .
+[3342] [80:14] fe008: Oh
+[3343] [80:14] fe008: Good question .
+[3344] [80:15] fe008: And you don't have to add any of those tags .
+[3345] [80:17] fe069: Oh !
+[3346] [80:18] fe008: The
+[3347] [80:19] fe008: So th uh , there 's like one exception that 's just microscopic ,
+[3348] [80:22] fe008: and
+[3349] [80:25] fe008: this is again really rare ,
+[3350] [80:26] fe008: sometimes I 've run across the word " noise " .
+[3351] [80:29] fe008: And offhand , I don't know if that 's a vocal noise or non - vocal noise .
+[3352] [80:32] fe066: Mmm .
+[3353] [80:32] fe008: And so then I listen to it and I figure it out .
+[3354] [80:34] fe008: But that 's the only place you would use a " vocal " " non - vocal " tag ,
+[3355] [80:37] fe008: where it 's potentially ambiguous between those two categories .
+[3356] [80:39] fe008: Cuz
+[3357] [80:42] fe008: and of course I do my checks ,
+[3358] [80:42] fe008: and then I have a , um a script that I wrote which will separate everything in out that has curly brackets ,
+[3359] [80:48] fe008: do a listing of them ,
+[3360] [80:50] me070: Mmm .
+[3361] [80:50] fe008: and
+[3362] [80:51] fe008: Some of them already have tags from some previous , uh , modification ,
+[3363] [80:56] fe008: but anything that doesn't , I just go through this list , and I I k tag it right then .
+[3364] [81:01] fe008: And so , in one in one in one change , I can modify , you know , five hundred instances of this .
+[3365] [81:01] fe069: Mm - hmm .
+[3366] [81:07] fe069: Mm - hmm .
+[3367] [81:09] fe008: So there 's no need to add the " vocal " or the " non - vocal " .
+[3368] [81:10] fe069: Very efficient .
+[3369] [81:12] fe069: OK . But for , like , noise that we know is something like mike noise , or something like a door , whatever , then we can mark it as that
+[3370] [81:12] fe068: Hmm !
+[3371] [81:12] fe066: Right .
+[3372] [81:19] fe068: Mm - hmm .
+[3373] [81:19] fe008: Yes .
+[3374] [81:21] fe069: and no
+[3375] [81:21] fe008: You can either if you mark it " mike noise " then I 'll know what kind of noise it is when I go through the thing and put VOC or NVC on the in the substitution file .
+[3376] [81:23] fe069: Yeah , right .
+[3377] [81:24] fe069: Or
+[3378] [81:25] fe069: o
+[3379] [81:27] me070: Mm - hmm .
+[3380] [81:27] fe069: Right .
+[3381] [81:29] fe008: But it 's it 's uh , very efficient for me to add those tags later .
+[3382] [81:31] fe069: OK .
+[3383] [81:31] fe008: It 's really not The same thing with the " QUAL " .
+[3384] [81:33] fe008: Just so long as I can tell which of those three categories it is .
+[3385] [81:36] fe008: Or or " pron " ,
+[3386] [81:37] fe008: but , you know , those that 's really very obvious ,
+[3387] [81:39] fe008: the pronunciation .
+[3388] [81:40] me070: Yeah .
+[3389] [81:41] fe008: So long as I can tell what they are .
+[3390] [81:41] fe069: So we do need to add that one ?
+[3391] [81:42] fe008: I think it 's good for you to add the " pron " .
+[3392] [81:43] fe069: OK . Sure . OK .
+[3393] [81:43] fe008: I would appreciate the " pron " , come to think of it .
+[3394] [81:44] fe068: Good .
+[3395] [81:45] fe008: But the other three i just so long as it 's clear to me , w you know , from the comment which of those three it is , then I 'm fine .
+[3396] [81:52] fe068: Good .
+[3397] [81:53] fe008: That 's great .
+[3398] [81:54] fe008: Alright , so , um , I guess , um ,
+[3399] [81:56] fe068: Do you wanna read digits ?
+[3400] [81:57] fe068: Do you wanna do that ?
+[3401] [81:57] fe008: Oh , thank you ,
+[3402] [81:58] fe008: do we have time ?
+[3403] [81:59] fe008: Would you mind ?
+[3404] [81:59] fe008: Can we do digits ?
+[3405] [81:59] fe069: Yeah , that 's fine .
+[3406] [81:59] me070: Yeah . That 's fine .
+[3407] [81:59] fe068: No ?
+[3408] [82:00] fe066: Yeah .
+[3409] [82:00] fe008: OK
+[3410] [82:01] fe008: do you wanna do it , uh , in unison this time ?
+[3411] [82:03] fe069: That 's what we did last time .
+[3412] [82:03] fe068: Well , we did it in unison last time .
+[3413] [82:04] fe066: We
+[3414] [82:05] fe008: Oh we did !
+[3415] [82:05] fe008: Oh !
+[3416] [82:05] fe069: Yeah .
+[3417] [82:06] me070: Right .
+[3418] [82:06] fe008: Do it separately , then . OK .
+[3419] [82:06] fe068: Sure did .
+[3420] [82:07] me070: Yes .
+[3421] [82:09] fe008: Good deal .
+[3422] [82:10] fe068: Oh , and do you want us to mark the t roughly the time we start ?
+[3423] [82:12] fe008: That is really what that time field is .
+[3424] [82:14] fe008: I used to think it was the beginning of the meeting ,
+[3425] [82:14] me070: Oh , OK .
+[3426] [82:15] fe008: but yes .
+[3427] [82:16] fe008: Quite right . Quite right .
+[3428] [82:16] fe068: Oh , OK .
+[3429] [82:16] fe008: That 'd be good .
+[3430] [82:17] me070: Oh , alright .
+[3431] [82:18] fe066: The time we start digits ?
+[3432] [82:18] fe068: So
+[3433] [82:18] fe069: Hmm .
+[3434] [82:19] fe008: Yeah .
+[3435] [82:19] fe066: OK .
+[3436] [82:21] fe008: OK . So , who wants to start ?
+[3437] [82:24] fe008: Well , I guess I 'll start .
+[3438] [82:27] fe008: OK .
+[3439] [82:31] fe008: Transc - And the time is OK . Um ,
+[3440] [83:06] fe008: O eight . OK , I wanted to make one comment and that is , some of these are like two digits
+[3441] [83:09] fe008: and just be sure you say both digits separately .
+[3442] [83:10] fe008: So , one eight instead of eighteen .
+[3443] [83:12] fe008: OK .
+[3444] [83:12] fe068: Sure .
+[3445] [83:12] me070: Oh . Right .
+[3446] [83:14] fe066: I can go .
+[3447] [83:14] fe008: OK .
+[3448] [86:37] fe008: OK . Wonderful .
+[3449] [86:38] fe008: Thank you very , very much .
+[3450] [86:40] fe008: I really appreciate this .
+[3451] [86:41] fe068: No problem .
+[3452] [86:41] me070: Sure .
+[3453] [86:42] fe008: And , um , so now we get to turn the microphones off ,
+[3454] [86:42] fe066: Sure .
+[3455] [86:45] fe008: and

@@ -1,0 +1,1396 @@
+================================================================================
+ICSI Meeting Transcript: Bdb001
+================================================================================
+
+Total Utterances: 1386
+Unique Speakers: 6
+Duration: 48.18 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:00] me011: Yeah , we had a long discussion about how much w how easy we want to make it for people to bleep things out .
+[0002] [00:05] me011: So
+[0003] [00:08] me011: Morgan wants to make it hard .
+[0004] [00:13] me018: It
+[0005] [00:16] me011: Did did did it ?
+[0006] [00:17] me011: I didn't even check yesterday whether it was moving .
+[0007] [00:18] me018: It didn't move yesterday either when I started it .
+[0008] [00:20] me011: So .
+[0009] [00:20] me018: So
+[0010] [00:21] me011: Channel three ?
+[0011] [00:22] me011: Channel three ?
+[0012] [00:25] me018: You know , I discovered something yesterday on these , um , wireless ones .
+[0013] [00:28] me001: Channel two .
+[0014] [00:28] me011: Mm - hmm ?
+[0015] [00:29] me018: You can tell if it 's picking up breath noise and stuff .
+[0016] [00:32] me011: Yeah ,
+[0017] [00:33] me011: it has a little indicator on it on the AF .
+[0018] [00:33] me018: Mm - hmm .
+[0019] [00:36] me018: So
+[0020] [00:38] me018: yeah , if you breathe under breathe and then you see AF go off , then you know it 's p picking up your mouth noise .
+[0021] [00:44] fe016: Oh , that 's good .
+[0022] [00:45] fe016: Cuz we have a lot of breath noises .
+[0023] [00:46] me011: Yep .
+[0024] [00:46] me011: Test .
+[0025] [00:48] fe016: In fact , if you listen to just the channels of people not talking , it 's like " @ @ " .
+[0026] [00:55] fe016: It 's very disgust
+[0027] [00:56] me011: What ?
+[0028] [00:56] me011: Did you see Hannibal recently or something ?
+[0029] [00:56] fe016: Sorry .
+[0030] [00:58] fe016: Exactly .
+[0031] [00:59] fe016: It 's very disconcerting .
+[0032] [01:00] fe016: OK .
+[0033] [01:01] fe016: So , um ,
+[0035] [01:02] fe016: I was gonna try to get out of here , like , in half an hour ,
+[0036] [01:05] fe016: um ,
+[0037] [01:06] fe016: cuz I really appreciate people coming ,
+[0038] [01:08] fe016: and the main thing that I was gonna ask people to help with today is to give input on what kinds of database format we should use in starting to link up things like word transcripts and annotations of word transcripts ,
+[0039] [01:29] fe016: so anything that transcribers or discourse coders or whatever put in the signal , with time - marks for , like , words and phone boundaries and all the stuff we get out of the forced alignments and the recognizer .
+[0040] [01:41] fe016: So
+[0041] [01:44] fe016: I think a starting point is clearly the the channelized output of Dave Gelbart 's program ,
+[0042] [01:50] fe016: which Don brought a copy of ,
+[0043] [01:51] me011: Yeah .
+[0044] [01:52] me011: Yeah , I 'm I 'm familiar with that .
+[0045] [01:53] me011: I mean , we I sort of already have developed an XML format for this sort of stuff .
+[0046] [01:53] fe016: um ,
+[0047] [01:53] fe016: which
+[0048] [01:54] me018: Can I see it ?
+[0049] [01:58] me011: And so the only question is it the sort of thing that you want to use or not ?
+[0050] [02:03] me011: Have you looked at that ?
+[0051] [02:04] me011: I mean , I had a web page up .
+[0052] [02:05] fe016: Right .
+[0053] [02:06] fe016: So ,
+[0054] [02:07] fe016: I
+[0055] [02:07] me011: So
+[0056] [02:11] fe016: I
+[0057] [02:11] me011: You
+[0058] [02:13] me011: I guess I am gonna be standing up and drawing on the board .
+[0059] [02:15] fe016: OK ,
+[0060] [02:15] fe016: yeah .
+[0061] [02:15] fe016: So you should , definitely .
+[0062] [02:16] me011: Um , so so it definitely had that as a concept .
+[0063] [02:19] me011: So tha it has a single time - line ,
+[0064] [02:21] fe016: Mm - hmm .
+[0065] [02:21] me011: and then you can have lots of different sections ,
+[0066] [02:24] me011: each of which have I Ds attached to it ,
+[0067] [02:26] me011: and then you can refer from other sections to those I Ds ,
+[0068] [02:29] me011: if you want to .
+[0069] [02:30] me011: So that ,
+[0070] [02:31] me011: um
+[0071] [02:32] me011: so that you start with with a time - line tag .
+[0072] [02:37] me011: " Time - line " .
+[0073] [02:39] me011: And then you have a bunch of times .
+[0074] [02:41] me011: I don't e I don't remember exactly what my notation was ,
+[0075] [02:44] mn017: Oh , I remember seeing an example of this .
+[0076] [02:44] me011: but
+[0077] [02:44] fe016: Right ,
+[0078] [02:45] fe016: right .
+[0079] [02:45] mn017: Yeah .
+[0080] [02:46] me011: Yeah ,
+[0081] [02:46] me011: " T equals one point three two " ,
+[0082] [02:50] me011: uh
+[0083] [02:51] me011: And then I I also had optional things like accuracy ,
+[0084] [02:54] me011: and then " ID equals T one , uh , one seven " .
+[0085] [02:59] me011: And then , I also wanted to to be i to be able to not specify specifically what the time was and just have a stamp .
+[0086] [03:06] fe016: Right .
+[0087] [03:09] me011: Yeah , so these are arbitrary , assigned by a program ,
+[0088] [03:12] me011: not not by a user .
+[0089] [03:13] me011: So you have a whole bunch of those .
+[0090] [03:14] me011: And then somewhere la further down you might have something like an utterance tag
+[0091] [03:19] me011: which has " start equals T - seventeen ,
+[0092] [03:24] me011: end equals T - eighteen " .
+[0093] [03:26] me011: So what that 's saying is , we know it starts at this particular time .
+[0094] [03:28] me011: We don't know when it ends .
+[0095] [03:30] fe016: OK .
+[0096] [03:31] me011: Right ?
+[0097] [03:32] me011: But it ends at this T - eighteen ,
+[0098] [03:34] me011: which may be somewhere else .
+[0099] [03:35] me011: We say there 's another utterance .
+[0100] [03:38] me011: We don't know what the t time actually is
+[0101] [03:40] me011: but we know that it 's the same time as this end time .
+[0102] [03:45] mn017: Mmm .
+[0103] [03:46] me011: You know , thirty - eight ,
+[0104] [03:47] me011: whatever you want .
+[0105] [03:48] mn017: So you 're essentially defining a lattice .
+[0106] [03:48] me011: OK .
+[0107] [03:51] me011: Yes ,
+[0108] [03:51] me011: exactly .
+[0109] [03:52] mn017: Yeah .
+[0110] [03:53] me011: And then , uh and then these also have I Ds .
+[0111] [04:00] me011: Right ?
+[0112] [04:00] me011: So you could you could have some sort of other other tag later in the file that would be something like , um , oh , I don't know , uh , " noise - type equals door - slam " .
+[0113] [04:18] me011: You know ?
+[0114] [04:20] me011: And then , uh , you could either say " time equals a particular time - mark " or you could do other sorts of references .
+[0115] [04:27] me011: So
+[0116] [04:30] me011: " Prosody "
+[0117] [04:31] me011: right ? D ? T ?
+[0118] [04:32] me011: D ? T ?
+[0119] [04:32] me011: T ?
+[0120] [04:33] fe016: It 's an O instead of an I ,
+[0121] [04:35] fe016: but the D is good .
+[0122] [04:36] me011: You like the D ?
+[0123] [04:37] fe016: Yeah .
+[0124] [04:37] me011: That 's a good D .
+[0125] [04:38] me011: Um ,
+[0126] [04:39] me011: you know , so you could have some sort of type here ,
+[0127] [04:42] me011: and then you could have ,
+[0128] [04:43] me011: um
+[0129] [04:44] me011: the utterance that it 's referring to could be U - seventeen or something like that .
+[0130] [04:49] fe016: OK .
+[0131] [04:49] fe016: So ,
+[0132] [04:50] fe016: I mean , that seems that seems g great for all of the encoding of things with time
+[0133] [04:59] fe016: and ,
+[0134] [05:00] me011: Oh , well .
+[0135] [05:00] fe016: um
+[0136] [05:01] fe016: I I guess my question is more , uh , what d what do you do with , say , a forced alignment ?
+[0137] [05:05] mn017: How - how
+[0138] [05:07] fe016: I mean you 've got all these phone labels ,
+[0139] [05:09] fe016: and what do you do if you just conceptually , if you get , um , transcriptions where the words are staying but the time boundaries are changing , cuz you 've got a new recognition output ,
+[0140] [05:22] fe016: or s sort of what 's the , um , sequence of going from the waveforms that stay the same , the transcripts that may or may not change , and then the utterance which where the time boundaries that may or may not change ?
+[0141] [05:34] mn017: Oh
+[0142] [05:37] mn017: That 's actually very nicely handled here
+[0143] [05:38] fe016: Um .
+[0144] [05:38] mn017: because you could you could all you 'd have to change is the , um , time - stamps in the time - line without without , uh , changing the I Ds .
+[0145] [05:45] fe016: And you 'd be able to propagate all of the the information ?
+[0146] [05:47] me011: Right .
+[0147] [05:48] me011: That 's , the who that 's why you do that extra level of indirection .
+[0148] [05:53] me011: So that you can just change the time - line .
+[0149] [05:55] mn017: Except the time - line is gonna be huge .
+[0150] [05:57] mn017: If
+[0151] [05:57] me011: Yes .
+[0152] [05:57] fe016: Yeah ,
+[0153] [05:58] fe016: yeah , especially at the phone - level .
+[0154] [05:58] mn017: suppose you have a phone - level alignment .
+[0155] [06:00] fe016: The we we have phone - level backtraces .
+[0156] [06:00] mn017: You
+[0157] [06:01] me011: Yeah
+[0158] [06:01] me011: I don't think I would do this for phone - level .
+[0159] [06:03] fe016: Um
+[0160] [06:03] me011: I think for phone - level you want to use some sort of binary representation
+[0161] [06:06] me011: because it 'll be too dense otherwise .
+[0162] [06:07] fe016: OK .
+[0163] [06:07] fe016: So , if you were doing that and you had this sort of companion , uh , thing that gets called up for phone - level , uh , what would that look like ?
+[0164] [06:15] fe016: How would you ?
+[0165] [06:15] me011: I would use just an existing an existing way of doing it .
+[0166] [06:15] mn017: Why
+[0167] [06:18] mn017: Mmm .
+[0168] [06:18] mn017: But but why not use it for phone - level ?
+[0169] [06:18] fe016: H h
+[0170] [06:19] mn017: It 's just a matter of it 's just a matter of it being bigger .
+[0171] [06:23] mn017: But
+[0172] [06:24] mn017: you know , barring memory limitations , or uh I w I mean this is still the m
+[0173] [06:27] me011: It 's parsing limitations .
+[0174] [06:29] me011: I don't want to have this text file that you have to read in the whole thing to do something very simple for .
+[0175] [06:34] mn017: Oh , no .
+[0176] [06:35] mn017: You would use it only for purposes where you actually want the phone - level information , I 'd imagine .
+[0177] [06:40] fe016: So you could have some file that configures how much information you want in your in your XML or something .
+[0178] [06:46] me011: Right .
+[0179] [06:47] me011: I mean , you 'd y
+[0180] [06:47] fe016: Um ,
+[0181] [06:48] fe016: cuz
+[0182] [06:48] me011: I I am imagining you 'd have multiple versions of this depending on the information that you want .
+[0183] [06:48] mn017: You
+[0184] [06:50] fe016: Right .
+[0185] [06:52] me011: Um ,
+[0186] [06:53] me011: I
+[0187] [06:54] me011: what
+[0188] [06:55] me011: I think for word - level , this would be OK .
+[0189] [06:57] fe016: Yeah .
+[0190] [06:58] fe016: Yeah .
+[0191] [06:58] me011: For word - level , it 's alright .
+[0192] [06:58] fe016: Definitely .
+[0193] [06:59] mn017: Mm - hmm .
+[0194] [06:59] me011: For lower than word - level , you 're talking about so much data that I just I don't know .
+[0195] [07:04] me011: I
+[0196] [07:05] fe016: I
+[0197] [07:06] fe016: So , one thing that Don is doing , is we 're we 're running For every frame , you get a pitch value ,
+[0198] [07:07] me018: Lattices are big , too .
+[0199] [07:11] fe016: and not only one pitch value but different kinds of pitch values
+[0200] [07:14] fe016: depending
+[0201] [07:14] me011: Yeah , I mean , for something like that I would use P - file
+[0202] [07:16] me011: or or any frame - level stuff I would use P - file .
+[0203] [07:20] fe016: Meaning ?
+[0204] [07:21] me011: Uh , that 's a well , or something like it .
+[0205] [07:22] me011: It 's ICS uh , ICSI has a format for frame - level representation of features .
+[0206] [07:27] fe016: OK .
+[0207] [07:28] me011: Um .
+[0208] [07:28] fe016: That you could call that you would tie into this representation with like an ID .
+[0209] [07:31] me011: Right .
+[0210] [07:32] me011: Right .
+[0211] [07:33] me011: Or or there 's a there 's a particular way in XML to refer to external resources .
+[0212] [07:33] fe016: And
+[0213] [07:37] fe016: OK .
+[0214] [07:38] me011: So you would say " refer to this external file " .
+[0215] [07:42] me011: Um ,
+[0216] [07:43] me011: so
+[0217] [07:43] fe016: So that might that might work .
+[0218] [07:45] me018: But what what 's the advantage of doing that versus just putting it into this format ?
+[0219] [07:49] me011: More compact ,
+[0220] [07:50] me011: which I think is is better .
+[0221] [07:50] me018: Uh - huh .
+[0222] [07:51] me011: I
+[0223] [07:52] fe016: I mean these are long meetings
+[0224] [07:53] fe016: and with for every frame ,
+[0225] [07:54] me011: You
+[0226] [07:55] fe016: um
+[0227] [07:55] me011: Anything at frame - level you had better encode binary
+[0228] [07:57] me011: or it 's gonna be really painful .
+[0229] [07:59] mn017: Or you just compre
+[0230] [07:59] mn017: I mean , I like text formats .
+[0231] [08:01] mn017: Um ,
+[0232] [08:02] mn017: b you can always , uh , G - zip them ,
+[0233] [08:04] mn017: and , um , you know , c decompress them on the fly if y if space is really a concern .
+[0234] [08:05] me018: Yeah , I was thi
+[0235] [08:08] me018: I was thinking the advantage is that we can share this with other people .
+[0236] [08:09] me011: Well , but if you 're talking about one per frame , you 're talking about gigabyte - size files .
+[0237] [08:14] me011: You 're gonna actually run out of space in your filesystem for one file .
+[0238] [08:16] fe016: These are big files .
+[0239] [08:17] fe016: These
+[0240] [08:18] fe016: I
+[0241] [08:19] me011: Right ?
+[0242] [08:19] me011: Because you have a two - gigabyte limit on most O Ss .
+[0243] [08:20] mn017: Right ,
+[0244] [08:21] mn017: OK .
+[0245] [08:22] mn017: I
+[0246] [08:22] mn017: OK , so frame - level is probably not a good idea .
+[0247] [08:24] fe016: And
+[0248] [08:24] mn017: But
+[0249] [08:28] mn017: Like phones , or syllables , or anything like that .
+[0250] [08:29] fe016: Phones are every five frames though ,
+[0251] [08:31] fe016: so .
+[0252] [08:32] fe016: Or something like that .
+[0253] [08:33] mn017: But but but most of the frames are actually not speech .
+[0254] [08:37] mn017: So ,
+[0255] [08:38] mn017: you
+[0256] [08:39] fe016: Yeah ,
+[0257] [08:39] mn017: v Look at it , words times the average The average number of phones in an English word is , I don't know , five maybe ?
+[0258] [08:39] fe016: but
+[0259] [08:46] mn017: So , look at it , t number of words times five .
+[0260] [08:48] fe016: Oh
+[0261] [08:49] mn017: That
+[0262] [08:51] fe016: long pause phones .
+[0263] [08:52] me011: Yep .
+[0264] [08:52] mn017: Exactly .
+[0265] [08:52] fe016: Yeah .
+[0266] [08:53] fe016: OK .
+[0267] [08:53] mn017: Yeah .
+[0268] [08:53] fe016: That 's true .
+[0269] [08:53] fe016: But you do have to keep them in there .
+[0270] [08:55] fe016: Y yeah .
+[0271] [08:55] me011: So I think it it 's debatable whether you want to do phone - level in the same thing .
+[0272] [08:56] fe016: OK .
+[0273] [08:59] me011: But I think , a anything at frame - level , even P - file , is too verbose .
+[0274] [08:59] fe016: OK .
+[0275] [09:01] fe016: So
+[0276] [09:03] me011: I would use something tighter than P - files .
+[0277] [09:06] fe016: Do you Are you familiar with it ?
+[0278] [09:06] me011: So .
+[0279] [09:07] fe016: I haven't seen this particular format ,
+[0280] [09:08] mn017: I mean , I 've I 've used them .
+[0281] [09:09] fe016: but
+[0282] [09:09] mn017: I don't know what their structure is .
+[0283] [09:09] fe016: OK .
+[0284] [09:11] mn017: I 've forgot what the str
+[0285] [09:11] me018: But , wait a minute ,
+[0286] [09:12] me018: P - file for each frame is storing a vector of cepstral or PLP values ,
+[0287] [09:17] me018: right ?
+[0288] [09:17] me011: It 's whatever you want , actually .
+[0289] [09:18] me018: Right .
+[0290] [09:18] me011: So that what 's nice about the P - file It i
+[0291] [09:22] me011: Built into it is the concept of frames , utterances , sentences , that sort of thing , that structure .
+[0292] [09:28] me011: And then also attached to it is an arbitrary vector of values .
+[0293] [09:33] fe016: Oh .
+[0294] [09:33] me011: And it can take different types .
+[0295] [09:35] me011: So it th they don't all have to be floats .
+[0296] [09:37] me011: You know , you can have integers and you can have doubles , and all that sort of stuff .
+[0297] [09:38] fe016: So that that sounds that sounds about what I w
+[0298] [09:40] me011: Um .
+[0299] [09:41] me011: Right ?
+[0300] [09:42] me011: And it has a header it has a header format that describes it to some extent .
+[0301] [09:47] me011: So ,
+[0302] [09:47] me011: the only problem with it is it 's actually storing the utterance numbers and the frame numbers in the file ,
+[0303] [09:55] me011: even though they 're always sequential .
+[0304] [09:57] me011: And so it does waste a lot of space .
+[0305] [09:59] mn017: Hmm .
+[0306] [09:59] me011: But it 's still a lot tighter than than ASCII .
+[0307] [10:01] me011: And we have a lot of tools already to deal with it .
+[0308] [10:03] fe016: You do ?
+[0309] [10:04] fe016: OK .
+[0310] [10:05] fe016: Is there some documentation on this somewhere ?
+[0311] [10:06] me011: Yeah ,
+[0312] [10:06] me011: there 's a ton of it .
+[0313] [10:07] fe016: OK ,
+[0314] [10:07] fe016: great .
+[0315] [10:07] me011: Man - pages and , uh , source code , and me .
+[0316] [10:08] fe016: So ,
+[0317] [10:11] fe016: I mean , that sounds good .
+[0318] [10:12] fe016: I
+[0319] [10:13] fe016: I 'm not a database person ,
+[0320] [10:15] fe016: but something sort of standard enough that , you know , if we start using this we can give it out ,
+[0321] [10:20] fe016: other people can work on it ,
+[0322] [10:20] me011: Yeah , it 's not standard .
+[0323] [10:21] fe016: or Is it ?
+[0324] [10:22] me011: I mean , it 's something that we developed at ICSI .
+[0325] [10:24] me011: But
+[0326] [10:26] fe016: But it 's been used here
+[0327] [10:27] me011: But it 's been used here
+[0328] [10:28] fe016: and
+[0329] [10:28] me011: and and , you know , we have a well - configured system that you can distribute for free ,
+[0330] [10:34] me011: and
+[0331] [10:34] me018: I mean , it must be the equivalent of whatever you guys used to store feat your computed features in , right ?
+[0332] [10:35] fe016: OK .
+[0333] [10:40] mn017: Yeah ,
+[0334] [10:40] mn017: th
+[0335] [10:41] mn017: Actually , we we use a generalization of the the Sphere format .
+[0336] [10:45] me018: Mmm .
+[0337] [10:47] mn017: Um ,
+[0338] [10:48] mn017: but
+[0339] [10:50] mn017: Yeah , so there is something like that
+[0340] [10:52] mn017: but it 's , um , probably not as sophist
+[0341] [10:52] me018: And
+[0342] [10:53] me011: Well , what does H T K do for features ?
+[0343] [10:55] me011: Or does it even have a concept of features ?
+[0344] [10:55] mn017: They
+[0345] [10:57] mn017: I mean , Entropic has their own feature format that 's called , like , S - SD or some so SF or something like that .
+[0346] [11:02] fe016: Yeah .
+[0347] [11:04] me018: Yeah .
+[0348] [11:04] me011: I 'm just wondering , would it be worth while to use that instead ?
+[0349] [11:05] mn017: Hmm ?
+[0350] [11:06] fe016: Yeah .
+[0351] [11:07] fe016: Th
+[0352] [11:08] me018: But , I mean , people don't typically share this kind of stuff , right ?
+[0353] [11:12] mn017: Right .
+[0354] [11:12] me018: I
+[0355] [11:13] me011: They generate their own .
+[0356] [11:14] fe016: Actually , I I just you know , we we 've done this stuff on prosodics
+[0357] [11:14] me018: Yeah .
+[0358] [11:19] fe016: and three or four places have asked for those prosodic files ,
+[0359] [11:22] fe016: and we just have an ASCII , uh , output of frame - by - frame .
+[0360] [11:24] me011: Ah , right .
+[0361] [11:26] fe016: Which is fine ,
+[0362] [11:27] fe016: but it gets unwieldy to go in and and query these files with really huge files .
+[0363] [11:32] me011: Right .
+[0364] [11:33] fe016: I mean , we could do it .
+[0365] [11:33] fe016: I
+[0366] [11:35] me011: And
+[0367] [11:37] fe016: Hmm ?
+[0368] [11:37] me011: if
+[0369] [11:41] fe016: They 're they 're fair they 're quite large .
+[0370] [11:42] fe016: And these are for ten - minute Switchboard conversations ,
+[0371] [11:42] me011: Yeah , I mean , they 'd be emo enormous .
+[0372] [11:45] me011: Right .
+[0373] [11:46] fe016: and
+[0374] [11:47] fe016: So it 's doable ,
+[0375] [11:48] fe016: it 's just that you can only store a feature vector at frame - by - frame
+[0376] [11:51] fe016: and it doesn't have any kind of ,
+[0377] [11:54] fe016: um
+[0378] [11:54] me018: Is is the sharing part of this a pretty important consideration
+[0379] [11:59] me018: or does that just sort of , uh a nice thing to have ?
+[0380] [12:02] fe016: I I don't know enough about what we 're gonna do with the data .
+[0381] [12:07] fe016: But I thought it would be good to get something that we can that other people can use or adopt for their own kinds of encoding .
+[0382] [12:16] fe016: And just , I mean we have to use some we have to make some decision about what to do .
+[0383] [12:19] me011: Yeah .
+[0384] [12:20] fe016: And especially for the prosody work , what what it ends up being is you get features from the signal ,
+[0385] [12:25] fe016: and of course those change every time your alignments change .
+[0386] [12:28] fe016: So you re - run a recognizer ,
+[0387] [12:29] fe016: you want to recompute your features , um , and then keep the database up to date .
+[0388] [12:34] me011: Right .
+[0389] [12:34] fe016: Or you change a word , or you change a utterance boundary segment , which is gonna happen a lot .
+[0390] [12:40] fe016: And so I wanted something where all of this can be done in a elegant way
+[0391] [12:45] fe016: and that if somebody wants to try something or compute something else , that it can be done flexibly .
+[0392] [12:51] fe016: Um ,
+[0393] [12:52] fe016: it doesn't have to be pretty ,
+[0394] [12:53] fe016: it
+[0395] [12:57] me011: Yeah
+[0396] [12:59] me011: We should look at ATLAS ,
+[0397] [13:00] me011: the NIST thing ,
+[0398] [13:01] fe016: Oh .
+[0399] [13:01] mn017: Mmm .
+[0400] [13:03] me011: and see if they have anything at that level .
+[0401] [13:03] fe016: Uh
+[0402] [13:04] me011: I mean , I 'm not sure what to do about this with ATLAS ,
+[0403] [13:07] me011: because they chose a different route .
+[0404] [13:09] me011: I
+[0405] [13:10] me011: Th - there are sort of two choices .
+[0406] [13:11] me011: Your your file format can know about know that you 're talking about language and speech , which is what I chose , and time ,
+[0407] [13:20] me011: or your file format can just be a graph representation .
+[0408] [13:23] me011: And then the application has to impose the structure on top .
+[0409] [13:26] me011: So what it looked like ATLAS chose is , they chose the other way ,
+[0410] [13:29] me011: which was their file format is just nodes and links ,
+[0411] [13:33] me011: and you have to interpret what they mean yourself .
+[0412] [13:36] fe016: And why did you not choose that type of approach ?
+[0413] [13:38] me011: Uh , because I knew that we were doing speech ,
+[0414] [13:40] me011: and I thought it was better if you 're looking at a raw file to be t for the tags to say " it 's an utterance " , as opposed to the tag to say " it 's a link " .
+[0415] [13:40] fe016: OK .
+[0416] [13:48] fe016: OK .
+[0417] [13:49] fe016: But other than that , are they compatible ?
+[0418] [13:49] me011: So
+[0419] [13:51] fe016: I
+[0420] [13:52] me011: Yeah ,
+[0421] [13:52] me011: they 're reasonably compatible .
+[0422] [13:52] fe016: I
+[0423] [13:53] me018: You could probably translate between them .
+[0424] [13:55] fe016: Yeah , that 's w
+[0425] [13:55] me011: Yep .
+[0426] [13:56] fe016: So ,
+[0427] [13:56] me011: So ,
+[0428] [13:57] me011: well , the other thing is if we choose to use ATLAS , which maybe we should just do , we should just throw this out before we invest a lot of time in it .
+[0429] [13:57] fe016: OK .
+[0430] [14:02] fe016: I
+[0431] [14:05] fe016: So this is what the meeting 's about ,
+[0432] [14:06] fe016: just
+[0433] [14:06] me011: Yeah .
+[0434] [14:07] fe016: Um , cuz we need to come up with a database like this just to do our work .
+[0435] [14:11] fe016: And I actually don't care , as long as it 's something useful to other people , what we choose .
+[0436] [14:15] me011: Yeah .
+[0437] [14:15] fe016: So maybe it 's maybe oth you know ,
+[0438] [14:17] fe016: if if you have any idea of how to choose , cuz I don't .
+[0439] [14:18] me011: The
+[0440] [14:20] me011: Yeah .
+[0441] [14:21] mn017: Do they already have tools ?
+[0442] [14:21] me011: I mean , I I chose this for a couple reasons .
+[0443] [14:24] me011: One of them is that it 's easy to parse .
+[0444] [14:26] me011: You don't need a full XML parser .
+[0445] [14:28] me011: It 's very easy to just write a Perl script to parse it .
+[0446] [14:31] mn017: As long as uh each tag is on one line .
+[0447] [14:34] me011: Exactly .
+[0448] [14:34] me011: Exactly .
+[0449] [14:35] me011: Which I always do .
+[0450] [14:36] fe016: And you can have as much information in the tag as you want ,
+[0451] [14:39] fe016: right ?
+[0452] [14:40] me011: Well , I have it structured .
+[0453] [14:41] me011: Right ?
+[0454] [14:41] me011: So each type tag has only particular items that it can take .
+[0455] [14:46] fe016: Can
+[0456] [14:49] me011: Sure .
+[0457] [14:51] me011: If you have more information .
+[0458] [14:51] me011: So what What NIST would say is that instead of doing this , you would say something like " link start equals , um , you know , some node ID ,
+[0459] [14:51] fe016: Yeah .
+[0460] [14:52] fe016: So
+[0461] [15:02] me011: end equals some other node ID " ,
+[0462] [15:05] me011: and then " type " would be " utterance " .
+[0463] [15:10] mn017: Hmm .
+[0464] [15:11] me011: You know , so it 's very similar .
+[0465] [15:13] fe016: So why would it be a a waste to do it this way if it 's similar enough that we can always translate it ?
+[0466] [15:18] me018: It probably wouldn't be a waste .
+[0467] [15:19] me018: It would mean that at some point if we wanted to switch , we 'd just have to translate everything .
+[0468] [15:22] me011: Write a translator .
+[0469] [15:22] me011: But it se
+[0470] [15:23] fe016: But
+[0471] [15:23] me011: Since
+[0472] [15:24] me018: But
+[0473] [15:25] me018: I don't think that 's a big deal .
+[0474] [15:25] fe016: As
+[0475] [15:27] me011: they 're developing a big infrastructure .
+[0476] [15:28] me011: And
+[0477] [15:30] mn017: If
+[0478] [15:33] mn017: Do they already have something that 's that would be useful for us in place ?
+[0479] [15:36] me018: Yeah .
+[0480] [15:36] me018: See , that 's the question .
+[0481] [15:37] me018: I
+[0482] [15:40] me018: Are they ready to go ,
+[0483] [15:40] me011: The
+[0484] [15:41] me018: or ?
+[0485] [15:42] me011: The last time I looked at it was a while ago ,
+[0486] [15:44] me011: probably a year ago ,
+[0487] [15:45] me018: Hmm .
+[0488] [15:45] me011: uh , when we first started talking about this .
+[0489] [15:47] me011: And at that time at least it was still not very complete .
+[0490] [15:52] me011: And so , specifically they didn't have any external format representation at that time .
+[0491] [15:57] me011: They just had the sort of conceptual node uh , annotated transcription graph ,
+[0492] [16:02] me011: which I really liked .
+[0493] [16:03] me011: And that 's exactly what this stuff is based on .
+[0494] [16:05] me011: Since then , they 've developed their own external file format ,
+[0495] [16:09] me011: which is , uh , you know , this sort of s this sort of thing .
+[0496] [16:12] me011: Um , and apparently they 've also developed a lot of tools ,
+[0497] [16:14] me011: but I haven't looked at them .
+[0498] [16:15] me011: Maybe I should .
+[0499] [16:16] mn017: We should we should find out .
+[0500] [16:16] fe016: I mean , would the tools would the tools run on something like this , if you can translate them anyway ?
+[0501] [16:22] me011: Um , th what would would would what would worry me is that maybe we might miss a little detail
+[0502] [16:22] fe016: I
+[0503] [16:22] mn017: It 's a hassle
+[0504] [16:24] fe016: uh , yeah .
+[0505] [16:24] mn017: if
+[0506] [16:28] me011: that would make it very difficult to translate from one to the other .
+[0507] [16:28] fe016: OK .
+[0508] [16:30] mn017: I
+[0509] [16:30] fe016: OK .
+[0510] [16:38] me011: Yeah , we might as well .
+[0511] [16:43] me011: Yep .
+[0512] [16:44] fe016: Yeah .
+[0513] [16:45] me011: So I 'll I 'll take a closer look at it .
+[0514] [16:45] fe016: Actually ,
+[0515] [16:46] fe016: so
+[0516] [16:46] fe016: that that would really be the question , is just what you would feel is in the long run the best thing .
+[0517] [16:48] me011: And
+[0518] [16:49] me011: Right .
+[0519] [16:51] fe016: Cuz once we start , sort of , doing this I don't we don't actually have enough time to probably have to rehash it out again
+[0520] [16:51] me011: The
+[0521] [16:54] me011: Yep .
+[0522] [16:59] fe016: and
+[0523] [16:59] me011: The other thing the other way that I sort of established this was as easy translation to and from the Transcriber format .
+[0524] [17:00] fe016: s
+[0525] [17:06] fe016: Right .
+[0526] [17:07] me011: Um ,
+[0527] [17:07] fe016: Right .
+[0528] [17:08] me011: but
+[0529] [17:09] fe016: I mean , I like this .
+[0530] [17:09] fe016: This is sort of intuitively easy to actually r read ,
+[0531] [17:12] me011: Yep .
+[0532] [17:13] fe016: as easy it could as it could be .
+[0533] [17:15] fe016: But ,
+[0534] [17:15] fe016: I suppose that as long as they have a type here that specifies " utt " ,
+[0535] [17:20] fe016: um ,
+[0536] [17:21] me011: It 's almost the same .
+[0537] [17:22] fe016: it
+[0538] [17:22] me011: The the the the point is with this , though , is that you can't really add any supplementary information .
+[0539] [17:28] me011: Right ?
+[0540] [17:28] me011: So
+[0541] [17:30] fe016: You have to make a different type .
+[0542] [17:31] me011: Yeah .
+[0543] [17:32] me011: You 'd have to make a different type .
+[0544] [17:33] fe016: So
+[0545] [17:33] fe016: Well , if you look at it
+[0546] [17:34] fe016: and Um ,
+[0547] [17:36] fe016: I guess in my mind I don't know enough Jane would know better , about the types of annotations
+[0548] [17:42] fe016: and
+[0549] [17:48] fe016: it could be in its own channel ,
+[0550] [17:50] fe016: it could span time boundaries of any type ,
+[0551] [17:52] me011: Right .
+[0552] [17:53] fe016: it could be instantaneous ,
+[0553] [17:54] fe016: things like that .
+[0554] [17:55] fe016: Um ,
+[0555] [17:56] fe016: and then from the recognition side we have backtraces at the phone - level .
+[0556] [18:01] fe016: If if it can handle that , it could handle states or whatever .
+[0557] [18:01] me011: Right .
+[0558] [18:04] fe016: And then at the prosody - level we have frame sort of like cepstral feature files ,
+[0559] [18:09] me011: Yep .
+[0560] [18:11] fe016: uh , like these P - files or anything like that .
+[0561] [18:13] fe016: And
+[0562] [18:15] fe016: And then we have the aligned channels , of course ,
+[0563] [18:17] me011: Right .
+[0564] [18:18] fe016: and
+[0565] [18:18] mn017: It seems to me you want to keep the frame - level stuff separate .
+[0566] [18:21] fe016: Yeah .
+[0567] [18:22] fe016: I I definitely agree
+[0568] [18:22] mn017: And
+[0569] [18:23] fe016: and I wanted to find actually a f a nicer format or a maybe a more compact format than what we used before .
+[0570] [18:27] me011: Right .
+[0571] [18:28] fe016: Just cuz you 've got ten channels or whatever and two hours of a meeting .
+[0572] [18:33] fe016: It
+[0573] [18:33] me011: Huge .
+[0574] [18:33] mn017: Now now how would you how would you represent , um , multiple speakers in this framework ?
+[0575] [18:41] mn017: Were
+[0576] [18:41] me011: Um ,
+[0577] [18:43] mn017: You would have like a speaker tag or something ?
+[0578] [18:45] me011: there 's a spea speaker tag up at the top which identifies them
+[0579] [18:47] me011: and then each utt
+[0580] [18:48] me011: the way I had it is each turn or each utterance , I don't even remember now , had a speaker ID tag attached to it .
+[0581] [18:49] mn017: Mm - hmm .
+[0582] [18:56] mn017: OK .
+[0583] [18:56] me011: And in this format you would have a different tag ,
+[0584] [19:00] me011: which which would , uh , be linked to the link .
+[0585] [19:03] fe016: Yeah .
+[0586] [19:04] me011: So so somewhere else you would have another thing that would be ,
+[0587] [19:07] me011: um
+[0588] [19:10] me011: Let 's see , would it be a node or a link ?
+[0589] [19:11] me011: Um
+[0590] [19:13] me011: And so so this one would have , um , an ID is link link seventy - four or something like that .
+[0591] [19:20] me011: And then somewhere up here you would have a link that that , uh , you know , was referencing L - seventy - four and had speaker Adam .
+[0592] [19:21] mn017: Mm - hmm .
+[0593] [19:33] fe016: Actually
+[0594] [19:33] mn017: Is i ?
+[0595] [19:33] me011: You know ,
+[0596] [19:33] me011: or something like that .
+[0597] [19:36] fe016: I mean , w
+[0598] [19:36] mn017: Well , channel or speaker or whatever .
+[0599] [19:36] fe016: yeah , channel is what the channelized output out
+[0600] [19:37] mn017: It
+[0601] [19:39] me011: This isn't quite right .
+[0602] [19:40] me011: I have to look at it again .
+[0603] [19:40] mn017: Right .
+[0604] [19:40] fe016: Yeah
+[0605] [19:40] mn017: But but so how in the NIST format do we express a hierarchical relationship between , um , say , an utterance and the words within it ?
+[0606] [19:50] mn017: So how do you tell that these are the words that belong to that utterance ?
+[0607] [19:56] me011: Um , you would have another structure lower down than this that would be saying they 're all belonging to this ID .
+[0608] [20:00] mn017: Mm - hmm .
+[0609] [20:05] me018: So each thing refers to the utterance that it belongs to .
+[0610] [20:09] me011: Right .
+[0611] [20:11] me018: So it 's it 's not hi it 's sort of bottom - up .
+[0612] [20:11] me011: And then each utterance could refer to a turn ,
+[0613] [20:13] me011: and each turn could refer to something higher up .
+[0614] [20:16] fe016: And
+[0615] [20:18] fe016: So right now what you have as utterance , um , the closest thing that comes out of the channelized is the stuff between the segment boundaries that the transcribers put in or that Thilo put in ,
+[0616] [20:29] fe016: which may or may not actually be , like , a s it 's usually not um , the beginning and end of a sentence , say .
+[0617] [20:35] me011: Well , that 's why I didn't call it " sentence " .
+[0618] [20:36] fe016: So ,
+[0619] [20:36] fe016: right .
+[0620] [20:37] fe016: Um , so it 's like a segment or something .
+[0621] [20:39] me011: Yeah .
+[0622] [20:39] fe016: So ,
+[0623] [20:41] fe016: I mean , I assume this is possible , that if you have someone annotates the punctuation or whatever when they transcribe , you can say , you know , from for from the c beginning of the sentence to the end of the sentence , from the annotations , this is a unit ,
+[0624] [20:54] fe016: even
+[0625] [20:56] fe016: i It 's only a unit by virtue of the annotations at the word - level .
+[0626] [21:00] me011: Sure .
+[0627] [21:01] me011: I mean , so you would you would have yet another tag .
+[0628] [21:01] fe016: And then that would get a tag somehow .
+[0629] [21:04] me011: You 'd have another tag which says this is of type " sentence " .
+[0630] [21:04] fe016: OK .
+[0631] [21:06] fe016: OK .
+[0632] [21:07] me011: And ,
+[0633] [21:08] fe016: But
+[0634] [21:08] me011: what
+[0635] [21:09] mn017: OK .
+[0636] [21:11] fe016: Um
+[0637] [21:13] mn017: So
+[0638] [21:15] fe016: I
+[0639] [21:18] fe016: But , uh , what I don't understand is where the where in this type of file that would be expressed .
+[0640] [21:24] me011: Right .
+[0641] [21:25] me011: You would have another tag somewhere .
+[0642] [21:27] me011: It 's well , there 're two ways of doing it .
+[0643] [21:27] fe016: S so it would just be floating before the sentence or floating after the sentence without a time - mark .
+[0644] [21:30] me011: You
+[0645] [21:34] me011: type equals " sentence " ,
+[0646] [21:37] me011: and ID is " S - whatever " .
+[0647] [21:40] me011: And then lower down you could have an utterance .
+[0648] [21:43] me011: So the type is " utterance " equals " utt " .
+[0649] [21:47] me011: And
+[0650] [21:49] me011: No .
+[0651] [21:49] me011: I
+[0652] [21:50] me011: I take that back .
+[0653] [21:50] mn017: So here 's the thing .
+[0654] [21:52] mn017: Um
+[0655] [21:52] fe016: See
+[0656] [21:53] me011: Can you can you say that this is part of this ,
+[0657] [21:55] mn017: Hhh .
+[0658] [21:55] fe016: it
+[0659] [21:56] me018: You would just have a r
+[0660] [21:57] fe016: S
+[0661] [21:58] me011: or do you say this is part of this ?
+[0662] [21:59] me011: I
+[0663] [21:59] fe016: But
+[0664] [21:59] me018: You would refer up to the sentence .
+[0665] [22:00] mn017: Well
+[0666] [22:01] fe016: they 're actually overlapping each other , sort of .
+[0667] [22:01] me011: So
+[0668] [22:03] mn017: the thing is that some something may be a part of one thing for one purpose and another thing of another purpose .
+[0669] [22:03] me011: Right .
+[0670] [22:10] fe016: You have to have another type then , I guess .
+[0671] [22:10] mn017: So f
+[0672] [22:11] mn017: s
+[0673] [22:12] mn017: Um ,
+[0674] [22:13] mn017: well ,
+[0675] [22:13] me011: Well , I think I 'm I think w I had better look at it again
+[0676] [22:13] mn017: s
+[0677] [22:13] fe016: Yeah .
+[0678] [22:16] fe016: OK .
+[0679] [22:16] mn017: so
+[0680] [22:16] me011: because
+[0681] [22:16] fe016: OK .
+[0682] [22:17] mn017: y So for instance @ @ sup
+[0683] [22:18] me011: There 's one level there 's one more level of indirection that I 'm forgetting .
+[0684] [22:21] mn017: Suppose you have a word sequence
+[0685] [22:23] mn017: and you have two different segmentations of that same word sequence .
+[0686] [22:26] mn017: f Say , one segmentation is in terms of , um , you know , uh , sentences .
+[0687] [22:34] mn017: And another segmentation is in terms of , um , I don't know , prosodic phrases .
+[0688] [22:40] mn017: And let 's say that they don't nest .
+[0689] [22:42] mn017: So , you know , a prosodic phrase may cross two sentences or something .
+[0690] [22:45] me011: Right .
+[0691] [22:47] mn017: I don't know if that 's true or not
+[0692] [22:48] mn017: but let 's as
+[0693] [22:48] fe016: Well , it 's definitely true with the segment .
+[0694] [22:50] mn017: Right .
+[0695] [22:50] fe016: That
+[0696] [22:51] mn017: Yeah .
+[0697] [22:53] mn017: So , you want to be s you want to say this this word is part of that sentence and this prosodic phrase .
+[0698] [22:55] fe016: Yeah .
+[0699] [23:01] fe016: Yeah .
+[0700] [23:01] mn017: But the phrase is not part of the sentence
+[0701] [23:02] mn017: and neither is the sentence part of the phrase .
+[0702] [23:03] fe016: Right .
+[0703] [23:04] me011: I I 'm pretty sure that you can do that ,
+[0704] [23:05] me011: but I 'm forgetting the exact level of nesting .
+[0705] [23:06] mn017: So , you would have to have two different pointers from the word up one level up ,
+[0706] [23:11] mn017: one to the sent
+[0707] [23:11] me011: So so what you would end up having is a tag saying " here 's a word ,
+[0708] [23:14] me011: and it starts here and it ends here " .
+[0709] [23:15] mn017: Right .
+[0710] [23:16] me011: And then lower down you would say " here 's a prosodic boundary
+[0711] [23:19] me011: and it has these words in it " .
+[0712] [23:21] me011: And lower down you 'd have " here 's a sentence ,
+[0713] [23:21] fe016: An - Right .
+[0714] [23:21] mn017: Right .
+[0715] [23:22] me011: and it has these words in it " .
+[0716] [23:23] fe016: So you would be able to go in and say , you know , " give me all the words in the bound in the prosodic phrase
+[0717] [23:27] fe016: and give me all the words in the "
+[0718] [23:27] me011: Yep .
+[0719] [23:28] fe016: Yeah .
+[0720] [23:29] me011: So I think that 's that would wor
+[0721] [23:29] fe016: Um , OK .
+[0722] [23:30] me011: Let me look at it again .
+[0723] [23:31] mn017: Mm - hmm .
+[0724] [23:31] fe016: OK .
+[0725] [23:32] mn017: The the o the other issue that you had was , how do you actually efficiently extract , um find and extract information in a structure of this type ?
+[0726] [23:32] me011: So .
+[0727] [23:33] fe016: That 's good .
+[0728] [23:44] mn017: So
+[0729] [23:47] fe016: Well ,
+[0730] [23:48] fe016: uh
+[0731] [23:50] fe016: I don't know if this is premature
+[0732] [23:52] fe016: because I suppose once you get the representation you can do this ,
+[0733] [23:56] fe016: but the kinds of things I was worried about is ,
+[0734] [23:59] fe016: uh
+[0735] [23:59] mn017: No , that 's not clear .
+[0736] [24:00] mn017: I mean , yeah , you c sure you can do it ,
+[0737] [24:00] fe016: Well , OK .
+[0738] [24:00] fe016: So
+[0739] [24:01] mn017: but
+[0740] [24:03] fe016: I I mean , I can't do it ,
+[0741] [24:04] fe016: but
+[0742] [24:06] fe016: um ,
+[0743] [24:06] mn017: y y you gotta you gotta do this you you 're gonna want to do this very quickly
+[0744] [24:07] me011: Well
+[0745] [24:10] mn017: or
+[0746] [24:14] fe016: Right .
+[0747] [24:14] fe016: You 'd need a p sort of a paradigm for how to do it .
+[0748] [24:16] fe016: But an example would be " find all the cases in which Adam started to talk while Andreas was talking and his pitch was rising ,
+[0749] [24:30] fe016: Andreas 's pitch " .
+[0750] [24:31] fe016: That kind of thing .
+[0751] [24:32] me011: Right .
+[0752] [24:32] me011: I
+[0753] [24:34] me011: Is the rising pitch a feature ,
+[0754] [24:36] me011: or is it gonna be in the same file ?
+[0755] [24:38] fe016: Well , the rising pitch will never be hand - annotated .
+[0756] [24:42] fe016: So
+[0757] [24:44] me011: But
+[0758] [24:45] me011: I mean , that 's gonna be hard regardless ,
+[0759] [24:45] fe016: So
+[0760] [24:47] me011: right ?
+[0761] [24:47] me011: Because you 're gonna have to write a program that goes through your feature file and looks for rising pitches .
+[0762] [24:49] mn017: Yeah .
+[0763] [24:51] fe016: So
+[0764] [24:51] fe016: Right .
+[0765] [24:52] fe016: So normally what we would do is we would say " what do we wanna assign rising pitch to ? "
+[0766] [24:56] fe016: Are we gonna assign it to words ?
+[0767] [24:57] fe016: Are
+[0768] [24:59] fe016: when it 's rising we have a begin - end rise representation ?
+[0769] [25:02] fe016: But suppose we dump out this file
+[0770] [25:03] fe016: and we say , uh , for every word we just classify it as , w you know , rise or fall or neither ?
+[0771] [25:09] me011: OK .
+[0772] [25:09] me011: Well , in that case you would add that to this format
+[0773] [25:10] fe016: OK .
+[0774] [25:12] fe016: So we would basically be sort of , um , taking the format and enriching it with things that we wanna query in relation to the words that are already in the file ,
+[0775] [25:12] me011: r
+[0776] [25:22] me011: Right .
+[0777] [25:22] fe016: and then querying it .
+[0778] [25:23] fe016: OK .
+[0779] [25:24] mn017: You want sort of a grep that 's that works at the structural on the structural representation .
+[0780] [25:27] me011: You have that .
+[0781] [25:28] me011: There 's a standard again in XML , specifically for searching XML documents structured X - XML documents , where you can specify both the content and the structural position .
+[0782] [25:39] mn017: Yeah
+[0783] [25:42] fe016: If
+[0784] [25:42] mn017: That 's relative to the structure of the XML document ,
+[0785] [25:45] mn017: not to the structure of what you 're representing in the document .
+[0786] [25:45] me011: You use it as a tool .
+[0787] [25:46] me011: You use it as a tool ,
+[0788] [25:47] me011: not an end - user .
+[0789] [25:48] me011: It 's not an end - user thing .
+[0790] [25:49] mn017: Right .
+[0791] [25:49] me011: It 's it 's you would use that to build your tool to do that sort of search .
+[0792] [25:52] mn017: Right .
+[0793] [25:53] mn017: Be
+[0794] [25:54] mn017: Because here you 're specifying a lattice .
+[0795] [25:54] fe016: Uh
+[0796] [25:56] mn017: So the underlying that 's the underlying data structure .
+[0797] [25:59] fe016: But
+[0798] [25:59] mn017: And you want to be able to search in that lattice .
+[0799] [26:01] me011: It 's a graph ,
+[0800] [26:02] me011: but
+[0801] [26:03] mn017: That 's different from searching through the text .
+[0802] [26:04] fe016: But
+[0803] [26:06] me011: Well ,
+[0804] [26:06] me011: no , no , no .
+[0805] [26:06] me011: The whole point is that the text and the lattice are isomorphic .
+[0806] [26:11] me011: They represent each other completely .
+[0807] [26:13] mn017: Um
+[0808] [26:15] me011: So
+[0809] [26:17] fe016: That 's true if the features from your acoustics or whatever that are not explicitly in this are at the level of these types .
+[0810] [26:17] me011: I mean th
+[0811] [26:18] mn017: Hhh .
+[0812] [26:26] fe016: That
+[0813] [26:27] me011: Yeah , but that 's gonna be the trouble no matter what .
+[0814] [26:29] me011: Right ?
+[0815] [26:29] me011: No
+[0816] [26:34] fe016: That 's right .
+[0817] [26:34] fe016: That 's true .
+[0818] [26:35] fe016: That 's why I was trying to figure out what 's the best format for this representation .
+[0819] [26:39] me011: Yep .
+[0820] [26:39] fe016: And
+[0821] [26:42] fe016: it 's still gonna be , uh , not direct .
+[0822] [26:42] mn017: Hmm .
+[0823] [26:44] fe016: You
+[0824] [26:44] me011: Right .
+[0825] [26:45] fe016: Or another example was , you know , uh , where in the language where in the word sequence are people interrupting ?
+[0826] [26:54] fe016: So ,
+[0827] [26:55] fe016: I guess that one 's actually easier .
+[0828] [26:58] me018: What
+[0829] [26:59] me018: what about , um , the idea of using a relational database to , uh , store the information from the XML ?
+[0830] [27:08] me018: So
+[0831] [27:10] me018: XML
+[0832] [27:13] me018: Uh ,
+[0833] [27:14] me018: you you could use the XML to put the data in ,
+[0834] [27:17] me018: and then when you get data out , you put it back in XML .
+[0835] [27:19] me018: So use XML as sort of the the transfer format ,
+[0836] [27:20] me011: Transfer .
+[0837] [27:22] me018: uh , but then you store the data in the database ,
+[0838] [27:24] me018: which allows you to do all kinds of good search things in there .
+[0839] [27:25] me011: The
+[0840] [27:28] me011: One of the things that ATLAS is doing is they 're trying to define an API which is independent of the back store ,
+[0841] [27:29] fe016: Huh .
+[0842] [27:34] me011: so that , uh , you could define a single API and the the storage could be flat XML files or a database .
+[0843] [27:39] me018: Mm - hmm .
+[0844] [27:41] me011: My opinion on that is for the s sort of stuff that we 're doing , I suspect it 's overkill to do a full relational database , that , um , just a flat file and , uh , search tools I bet will be enough .
+[0845] [27:48] mn017: But
+[0846] [27:55] me011: But that 's the advantage of ATLAS , is that if we actually take decide to go that route completely and we program to their API , then if we wanted to add a database later it would be pretty easy .
+[0847] [28:00] me018: Mm - hmm .
+[0848] [28:02] me018: Mm - hmm .
+[0849] [28:08] fe016: It seems like the kind of thing you 'd do if I don't know , if people start adding all kinds of s bells and whistles to the data .
+[0850] [28:15] fe016: And
+[0851] [28:16] fe016: I mean , it 'd be good for us to know to use a format where we know we can easily , um , input that to some database if other people are using it .
+[0852] [28:23] me011: Yep .
+[0853] [28:25] fe016: Something like that .
+[0854] [28:26] me011: I guess I 'm just a little hesitant to try to go whole hog on sort of the the whole framework that that NIST is talking about , with ATLAS and a database and all that sort of stuff ,
+[0855] [28:27] fe016: So
+[0856] [28:36] me011: cuz it 's a big learning curve , just to get going .
+[0857] [28:38] me018: Hmm .
+[0858] [28:39] mn017: Hmm .
+[0859] [28:39] me011: Whereas if we just do a flat file format , sure , it may not be as efficient
+[0860] [28:44] me011: but everyone can program in Perl and and use it .
+[0861] [28:47] fe016: OK .
+[0862] [28:49] me011: Right ?
+[0863] [28:49] me011: So
+[0864] [28:49] mn017: But
+[0865] [28:50] mn017: I I 'm still , um , not convinced that you can do much at all on the text on the flat file that that you know , the text representation .
+[0866] [29:01] mn017: e
+[0867] [29:02] mn017: Because the text representation is gonna be , uh , not reflecting the structure of of your words and annotations .
+[0868] [29:11] mn017: It
+[0869] [29:11] me011: Well , if it 's not representing it , then how do you recover it ?
+[0870] [29:14] me011: Of course it 's representing it .
+[0871] [29:14] mn017: No .
+[0872] [29:15] mn017: You
+[0873] [29:15] me011: That 's the whole point .
+[0874] [29:16] mn017: what
+[0875] [29:18] mn017: Y yeah . You can use Perl to read it in and construct a internal representation that is essentially a lattice .
+[0876] [29:26] mn017: But
+[0877] [29:28] me018: Yeah .
+[0878] [29:28] me011: OK .
+[0879] [29:28] mn017: and
+[0880] [29:28] me011: Well , that was a different point .
+[0881] [29:29] me011: Right ?
+[0882] [29:30] me011: So
+[0883] [29:30] mn017: Right .
+[0884] [29:32] mn017: But that 's what you 'll have to do .
+[0885] [29:34] me011: For Perl if you want to just do Perl .
+[0886] [29:34] mn017: Bec - be
+[0887] [29:35] me011: If you wanted to use the structured XML query language , that 's a different thing .
+[0888] [29:39] me011: And it 's a set of tools that let you specify given the D - DDT DTD of the document , um , what sorts of structural searches you want to do .
+[0889] [29:50] me011: So you want to say that , you know , you 're looking for , um , a tag within a tag within a particular tag that has this particular text in it , um , and , uh , refers to a particular value .
+[0890] [30:03] me011: And so the point isn't that an end - user , who is looking for a query like you specified , wouldn't program it in this language .
+[0891] [30:10] me011: What you would do is , someone would build a tool that used that as a library .
+[0892] [30:16] me011: So that they so that you wouldn't have to construct the internal representations yourself .
+[0893] [30:19] fe016: Is
+[0894] [30:22] fe016: See , I think the kinds of questions , at least in the next to the end of this year , are there may be a lot of different ones ,
+[0895] [30:29] fe016: but they 'll all have a similar nature .
+[0896] [30:30] fe016: They 'll be looking at either a word - level prosodic , uh , an a value ,
+[0897] [30:38] fe016: like a continuous value ,
+[0898] [30:39] me011: Mm - hmm .
+[0899] [30:39] fe016: like the slope of something .
+[0900] [30:41] fe016: But
+[0901] [30:42] fe016: you know , we 'll do something where we some kind of data reduction where the prosodic features are sort o uh , either at the word - level or at the segment - level ,
+[0902] [30:51] fe016: or or something like that .
+[0903] [30:51] me011: Right .
+[0904] [30:52] fe016: They 're not gonna be at the phone - level and they 're no not gonna be at the frame - level when we get done with sort of giving them simpler shapes and things .
+[0905] [31:00] fe016: And
+[0906] [31:04] fe016: Well , I guess , the two goals .
+[0907] [31:06] fe016: Um , one that Chuck mentioned is starting out with something that we don't have to start over , that we don't have to throw away if other people want to extend it for other kinds of questions ,
+[0908] [31:12] me011: Right .
+[0909] [31:14] fe016: and being able to at least get enough , uh , information out on where we condition the location of features on information that 's in the kind of file that you put up there .
+[0910] [31:27] fe016: And that would that would do it ,
+[0911] [31:28] fe016: I mean , for me .
+[0912] [31:28] me011: Yeah .
+[0913] [31:28] me011: I think that there are quick and dirty solutions ,
+[0914] [31:31] me011: and then there are long - term , big - infrastructure solutions .
+[0915] [31:34] me011: And so we want to try to pick something that lets us do a little bit of both .
+[0916] [31:37] fe016: In the between ,
+[0917] [31:38] fe016: right .
+[0918] [31:38] fe016: And especially that the representation doesn't have to be thrown away ,
+[0919] [31:39] me011: Um
+[0920] [31:41] me011: Right .
+[0921] [31:41] fe016: even if your tools change .
+[0922] [31:43] me011: And
+[0923] [31:44] me011: I mean , I have to look at it again to see whether it can really do what we want ,
+[0924] [31:48] me011: but if we use the ATLAS external file representation , um , it seems like it 's rich enough that you could do quick tools just as I said in Perl ,
+[0925] [31:59] fe016: Yeah .
+[0926] [31:59] me011: and then later on if we choose to go up the learning curve , we can use the whole ATLAS inter infrastructure ,
+[0927] [32:05] fe016: I mean , that sounds good to me .
+[0928] [32:06] me011: which has all that built in .
+[0929] [32:06] fe016: I
+[0930] [32:08] fe016: So
+[0931] [32:08] fe016: if if you would l look at that and let us know what you think .
+[0932] [32:10] me011: Sure .
+[0933] [32:11] fe016: I mean , I think we 're sort of guinea pigs ,
+[0934] [32:12] fe016: cuz I I want to get the prosody work done
+[0935] [32:14] fe016: but
+[0936] [32:16] mn017: Oh
+[0937] [32:18] fe016: Yeah ?
+[0938] [32:19] mn017: um
+[0939] [32:20] me011: Well , I wouldn't wait for the formats , because anything you pick we 'll be able to translate to another form .
+[0940] [32:21] mn017: Well
+[0941] [32:25] mn017: Ma
+[0942] [32:26] fe016: OK .
+[0943] [32:26] mn017: well , maybe you should actually look at it yourself too to get a sense of what it is you 'll you 'll be dealing with ,
+[0944] [32:32] mn017: because , um , you know , Adam might have one opinion but you might have another ,
+[0945] [32:38] me001: Yeah .
+[0946] [32:38] mn017: so
+[0947] [32:38] fe016: Yeah , definitely .
+[0948] [32:40] mn017: I think the more eyes look at this the better .
+[0949] [32:42] fe016: Especially
+[0950] [32:50] fe016: Oh , hi .
+[0951] [32:50] me011: Hi , Jane .
+[0952] [32:51] mn017: Mmm .
+[0953] [32:54] fe016: the right representation ,
+[0954] [32:55] fe016: then
+[0955] [32:58] fe016: We don't actually need the whole full - blown thing to be ready ,
+[0956] [33:00] me011: Can
+[0957] [33:01] me011: Oh , well .
+[0958] [33:01] fe016: so .
+[0959] [33:04] fe016: Um ,
+[0960] [33:04] fe016: so maybe if you guys can look at it and sort of see what ,
+[0961] [33:07] me011: Sure .
+[0962] [33:07] me001: Yeah .
+[0963] [33:09] fe016: um
+[0964] [33:11] fe016: I
+[0965] [33:12] me011: We 're about done .
+[0966] [33:13] fe016: yeah ,
+[0967] [33:13] fe016: wrapping up ,
+[0968] [33:13] me001: Hmm .
+[0969] [33:14] fe016: but ,
+[0970] [33:14] fe016: um
+[0971] [33:15] fe016: Yeah ,
+[0972] [33:15] fe016: sorry , it 's a uh short meeting ,
+[0973] [33:17] fe016: but
+[0974] [33:18] fe016: Well , I don't know .
+[0975] [33:19] fe016: Is there anything else ,
+[0976] [33:20] fe016: like
+[0977] [33:21] fe016: I mean that helps me a lot ,
+[0978] [33:22] me011: Well , I think the other thing we might want to look at is alternatives to P - file .
+[0979] [33:22] fe016: but
+[0980] [33:26] me011: I mean , th the reason I like P - file is I 'm already familiar with it ,
+[0981] [33:28] me011: we have expertise here ,
+[0982] [33:30] me011: and so if we pick something else , there 's the learning - curve problem .
+[0983] [33:33] me011: But , I mean , it is just something we developed at ICSI .
+[0984] [33:36] me011: And
+[0985] [33:36] mn017: Is there an is there an IP - API ?
+[0986] [33:39] me011: Yeah .
+[0987] [33:39] mn017: OK .
+[0988] [33:39] me011: There 's an API for it .
+[0989] [33:40] me011: And , uh ,
+[0990] [33:42] mn017: There used to be a problem that they get too large ,
+[0991] [33:42] me011: a bunch of libraries , P - file utilities .
+[0992] [33:44] mn017: and
+[0993] [33:49] me011: Well , that 's gonna be a problem no matter what .
+[0994] [33:50] me011: You have the two - gigabyte limit on the filesystem size .
+[0995] [33:53] me011: And we definitely hit that with Broadcast News .
+[0996] [33:56] mn017: Maybe you could extend the API to , uh , support , uh , like splitting up , you know , conceptually one file into smaller files on disk
+[0997] [34:05] mn017: so that you can essentially , you know , have arbitrarily long f
+[0998] [34:07] me011: Yep .
+[0999] [34:08] me011: Most of the tools can handle that .
+[1000] [34:10] me011: So that
+[1001] [34:10] mn017: Yeah .
+[1002] [34:11] me011: we didn't do it at the API - level .
+[1003] [34:12] me011: We did it at the t tool - level .
+[1004] [34:13] me011: That that most many of them can s you can specify several P - files
+[1005] [34:17] me011: and they 'll just be done sequentially .
+[1006] [34:19] mn017: OK .
+[1007] [34:20] me011: So .
+[1008] [34:22] fe016: So , I guess ,
+[1009] [34:22] fe016: yeah ,
+[1010] [34:22] fe016: if if you and Don can if you can show him the P - file stuff and see .
+[1011] [34:25] me011: Sure .
+[1012] [34:26] fe016: So
+[1013] [34:26] me011: I mean , if you do " man P - file " or " apropos P - file " , you 'll see a lot .
+[1014] [34:27] me001: True .
+[1015] [34:29] me001: I 've used the P - file , I think .
+[1016] [34:30] me001: I 've looked at it at least , briefly , I think when we were doing s something .
+[1017] [34:34] mn017: What does the P stand for anyway ?
+[1018] [34:35] me011: I have no idea .
+[1019] [34:38] me001: Oh , in there .
+[1020] [34:40] me011: I didn't de I didn't develop it .
+[1021] [34:41] me011: You know , it was I think it was Dave Johnson .
+[1022] [34:44] me011: So it 's all part of the Quicknet library .
+[1023] [34:46] me011: It has all the utilities for it .
+[1024] [34:48] mn017: No , P - files were around way before Quicknet .
+[1025] [34:50] me011: Oh , were they ?
+[1026] [34:50] mn017: P - files were were around when w with , um , RAP .
+[1027] [34:54] me018: Mm - hmm .
+[1028] [34:55] mn017: Right ?
+[1029] [34:55] fe016: It 's like the history of ICSI .
+[1030] [34:56] mn017: You worked with P - files .
+[1031] [34:57] fe016: Like
+[1032] [34:57] me011: Mm - hmm .
+[1033] [34:57] me018: No .
+[1034] [34:58] mn017: I worked with P - files .
+[1035] [34:58] fe016: Yeah ?
+[1036] [35:01] me018: I don't remember what the " P " is , though .
+[1037] [35:03] mn017: No .
+[1038] [35:05] me011: But
+[1039] [35:07] me011: The Quicknet library has a bunch of things in it to handle P - files ,
+[1040] [35:09] mn017: Yeah .
+[1041] [35:10] me011: so it works pretty well .
+[1043] [35:12] fe016: And
+[1044] [35:17] me011: Neither do I .
+[1045] [35:18] me018: Probably stands for " Phil " .
+[1046] [35:20] me018: Phil Kohn .
+[1047] [35:23] me011: It 's a Phil file ?
+[1048] [35:24] me018: Yeah .
+[1049] [35:25] me018: That 's my guess .
+[1050] [35:26] fe016: Huh .
+[1051] [35:28] fe016: OK .
+[1052] [35:28] fe016: Well , that 's really useful .
+[1053] [35:30] fe016: I mean , this is exactly the kind of thing that I wanted to settle .
+[1054] [35:33] fe016: Um ,
+[1055] [35:34] fe016: so
+[1056] [35:36] me011: Yeah , I 've been meaning to look at the ATLAS stuff again anyway .
+[1057] [35:36] fe016: Great .
+[1058] [35:39] me011: So
+[1059] [35:39] fe016: Yeah .
+[1060] [35:40] fe016: I guess it 's also sort of a political deci
+[1061] [35:42] fe016: I mean , if if you feel like that 's a community that would be good to tie into anyway , then it 's sounds like it 's worth doing .
+[1062] [35:49] me011: Yeah , I think it it w
+[1063] [35:50] mn017: j
+[1064] [35:51] me011: And , w uh , as I said , I what I did with this stuff I based it on theirs .
+[1065] [35:54] me011: It 's just they hadn't actually come up with an external format yet .
+[1066] [35:58] me011: So now that they have come up with a format , it doesn't it seems pretty reasonable to use it .
+[1067] [36:01] mn017: Mmm .
+[1068] [36:03] me011: But let me look at it again .
+[1069] [36:04] fe016: OK ,
+[1070] [36:05] fe016: great .
+[1071] [36:05] me011: As
+[1072] [36:06] fe016: Cuz
+[1073] [36:07] me011: There 's one level there 's one more level of indirection
+[1074] [36:09] me011: and I 'm just blanking on exactly how it works .
+[1075] [36:12] me011: I gotta look at it again .
+[1076] [36:14] fe016: I mean , we can start with , um , I guess , this input from Dave 's ,
+[1077] [36:18] fe016: which you had printed out , the channelized input .
+[1078] [36:21] fe016: Cuz he has all of the channels ,
+[1079] [36:24] fe016: you know , with the channels in the tag and stuff like that .
+[1080] [36:25] me011: Yeah , I 've seen it .
+[1081] [36:26] fe016: So that would be i directly ,
+[1082] [36:29] me011: Yep .
+[1083] [36:29] fe016: um
+[1084] [36:29] me011: Easy easy to map .
+[1085] [36:30] fe016: Yeah .
+[1086] [36:30] fe016: And so then it would just be a matter of getting making sure to handle the annotations that are , you know , not at the word - level and , um , t to import the
+[1087] [36:38] me001: Where are those annotations coming from ?
+[1088] [36:40] fe016: Well
+[1089] [36:42] me011: Mm - hmm .
+[1090] [36:44] fe016: Yeah .
+[1091] [36:47] fe008: Are you talking about the overlap a annotations ?
+[1092] [36:49] fe016: Yeah ,
+[1093] [36:49] fe016: any kind of annotation that , like , isn't already there .
+[1094] [36:53] fe016: Uh , you know , anything you can envision .
+[1095] [36:54] fe008: Yeah .
+[1096] [36:55] fe008: So what I was imagining was um , so Dave says we can have unlimited numbers of green ribbons .
+[1097] [37:00] fe008: And so put , uh , a a green ribbon on for an overlap code .
+[1098] [37:04] fe008: And
+[1099] [37:06] fe008: I I think it 's important to remain flexible regarding the time bins for now .
+[1100] [37:11] fe008: And
+[1101] [37:13] fe008: However , you know , you want to have it , uh , time time uh , located in the discourse .
+[1102] [37:20] fe008: So ,
+[1103] [37:20] fe008: um ,
+[1104] [37:21] fe008: if we if we tie the overlap code to the first word in the overlap , then you 'll have a time - marking .
+[1105] [37:28] fe008: It won't it 'll be independent of the time bins ,
+[1106] [37:30] fe008: however these e evolve , shrink , or whatever ,
+[1107] [37:33] fe008: increase ,
+[1108] [37:34] fe008: or
+[1109] [37:34] fe008: Also , you could have different time bins for different purposes .
+[1110] [37:37] fe008: And having it tied to the first word in an overlap segment is unique , uh , you know , anchored , clear .
+[1111] [37:45] fe008: And it would just end up on a separate ribbon .
+[1112] [37:47] fe008: So the overlap coding is gonna be easy with respect to that .
+[1113] [37:47] me011: Right .
+[1114] [37:52] fe008: You look puzzled .
+[1115] [37:53] me018: I I just I don't quite understand what these things are .
+[1116] [37:55] fe008: OK .
+[1117] [37:56] fe008: What , the codes themselves ?
+[1118] [37:56] me018: Uh .
+[1119] [37:58] me018: Well , th overlap codes .
+[1120] [37:58] fe008: Or the ?
+[1121] [37:59] me018: I
+[1122] [38:00] me011: Well
+[1123] [38:01] fe008: Well , we don't have to go into the codes .
+[1124] [38:02] me018: It probably doesn't matter .
+[1125] [38:02] fe008: We don't have to go into the codes .
+[1126] [38:03] me018: No , I d
+[1127] [38:03] me011: I mean , it doesn't .
+[1128] [38:03] me011: I mean , that not for the topic of this meeting .
+[1129] [38:04] fe008: But
+[1130] [38:06] fe008: No .
+[1131] [38:06] fe008: W the idea is just to have a separate green ribbon ,
+[1132] [38:08] fe008: you know ,
+[1133] [38:08] fe008: and and and let 's say that this is a time bin .
+[1134] [38:11] fe008: There 's a word here .
+[1135] [38:12] fe008: This is the first word of an overlapping segment of any length ,
+[1136] [38:15] fe008: overlapping with any other , uh , word uh , i segment of any length .
+[1137] [38:19] fe008: And , um ,
+[1138] [38:21] fe008: then you can indicate that this here was perhaps a ch a backchannel ,
+[1139] [38:24] fe008: or you can say that it was , um , a usurping of the turn ,
+[1140] [38:27] fe008: or you can you know , any any number of categories .
+[1141] [38:29] fe008: But the fact is , you have it time - tagged in a way that 's independent of the , uh , sp particular time bin that the word ends up in .
+[1142] [38:36] fe008: If it 's a large unit or a small unit , or
+[1143] [38:36] mn017: Mm - hmm .
+[1144] [38:38] fe008: we sh change the boundaries of the units ,
+[1145] [38:40] fe016: Right .
+[1146] [38:40] fe008: it 's still unique and and , uh , fits with the format ,
+[1147] [38:44] fe008: flexible , all that .
+[1148] [38:45] mn017: Um ,
+[1149] [38:48] mn017: it
+[1150] [38:49] mn017: um ,
+[1151] [38:49] mn017: eh , gr this is sort of r regarding uh , uh it 's related but not directly germane to the topic of discussion ,
+[1152] [38:55] mn017: but , when it comes to annotations , um , you often find yourself in the situation where you have different annotations of the same , say , word sequence .
+[1153] [39:09] fe008: Yeah .
+[1154] [39:10] mn017: OK ?
+[1155] [39:11] fe008: Yeah .
+[1156] [39:11] mn017: And sometimes the word sequences even differ slightly because they were edited s at one place but not the other .
+[1157] [39:17] mn017: So , once this data gets out there , some people might start annotating this for , I don't know , dialogue acts or , um , you know , topics or what the heck .
+[1158] [39:31] mn017: You know ,
+[1159] [39:31] mn017: there 's a zillion things that people might annotate this for .
+[1160] [39:34] mn017: And the only thing that is really sort of common among all the versi the various versions of this data is the word sequence ,
+[1161] [39:43] fe008: Yep .
+[1162] [39:43] mn017: or approximately .
+[1163] [39:44] fe016: Or the time .
+[1164] [39:46] mn017: Or the times .
+[1165] [39:47] mn017: But , see , if you 'd annotate dialogue acts , you don't necessarily want to or topics you don't really want to be dealing with time - marks .
+[1166] [39:47] fe016: I guess .
+[1167] [39:52] mn017: You 'd it 's much more efficient for them to just see the word sequence , right ?
+[1168] [39:54] fe016: Mm - hmm .
+[1169] [39:57] mn017: I mean , most people aren't as sophisticated as as we are here with , you know , uh , time alignments and stuff .
+[1170] [40:03] mn017: So
+[1171] [40:05] mn017: So
+[1172] [40:07] me011: Should should we mention some names on the people who are n ?
+[1173] [40:09] mn017: Right .
+[1174] [40:10] mn017: So ,
+[1175] [40:11] mn017: um ,
+[1176] [40:12] mn017: the p my point is that you 're gonna end up with , uh , word sequences that are differently annotated .
+[1177] [40:19] mn017: And you want some tool , uh , that is able to sort of merge these different annotations back into a single , uh , version .
+[1178] [40:31] mn017: OK ?
+[1179] [40:32] mn017: Um , and we had this problem very massively , uh , at SRI when we worked , uh , a while back on , uh well , on dialogue acts as well as , uh , you know ,
+[1180] [40:43] mn017: um , what was it ?
+[1181] [40:44] mn017: uh ,
+[1182] [40:45] fe016: Well , all the Switchboard in it .
+[1183] [40:45] mn017: utterance types .
+[1184] [40:46] fe016: Yeah .
+[1185] [40:46] mn017: There 's , uh , automatic , uh , punctuation and stuff like that .
+[1186] [40:51] mn017: Because we had one set of annotations that were based on , uh , one version of the transcripts with a particular segmentation ,
+[1187] [41:00] mn017: and then we had another version that was based on , uh , a different s slightly edited version of the transcripts with a different segmentation .
+[1188] [41:08] mn017: So , we had these two different versions which were you know , you could tell they were from the same source but they weren't identical .
+[1189] [41:16] mn017: So it was extremely hard to reliably merge these two back together to correlate the information from the different annotations .
+[1190] [41:23] me011: Yep .
+[1191] [41:23] me011: I I don't see any way that file formats are gonna help us with that .
+[1192] [41:26] mn017: No .
+[1193] [41:26] me011: It 's it 's all a question of semantic .
+[1194] [41:27] mn017: No .
+[1195] [41:28] mn017: But once you have a file format , I can imagine writing not personally , but someone writing a tool that is essentially an alignment tool , um , that mediates between various versions ,
+[1196] [41:28] fe016: Mm - hmm .
+[1197] [41:36] me011: Yeah .
+[1198] [41:40] mn017: and uh , sort of like th uh , you know , you have this thing in UNIX where you have , uh , diff .
+[1199] [41:45] me011: Diff .
+[1200] [41:45] fe016: W - diff or diff .
+[1201] [41:46] mn017: There 's the , uh , diff that actually tries to reconcile different two diffs f based on the same original .
+[1202] [41:47] fe016: Yeah .
+[1203] [41:51] fe008: Is it S - diff ?
+[1204] [41:54] me011: Yep .
+[1205] [41:54] fe008: Mmm .
+[1206] [41:55] mn017: Something like that ,
+[1207] [41:56] mn017: um , but operating on these lattices that are really what 's behind this uh , this annotation format .
+[1208] [42:02] me011: Yep .
+[1209] [42:03] mn017: So
+[1210] [42:03] fe016: You
+[1211] [42:03] me011: There 's actually a diff library you can use to do things like that that so you have different formats .
+[1212] [42:08] mn017: So somewhere in the API you would like to have like a merge or some some function that merges two two versions .
+[1213] [42:15] me011: Yeah , I think it 's gonna be very hard .
+[1214] [42:16] me011: Any sort of structured anything when you try to merge is really , really hard
+[1215] [42:18] mn017: Right .
+[1216] [42:21] me011: because you ha i
+[1217] [42:22] me011: The hard part isn't the file format .
+[1218] [42:24] me011: The hard part is specifying what you mean by " merge " .
+[1219] [42:25] mn017: Is
+[1220] [42:26] mn017: Exactly .
+[1221] [42:27] fe016: But the one thing that would work here actually for i that is more reliable than the utterances is the the speaker ons and offs .
+[1222] [42:27] me011: And that 's very difficult .
+[1223] [42:36] fe016: So if you have a good ,
+[1224] [42:37] fe016: um
+[1225] [42:38] me011: But this is exactly what I mean , is that that the problem i
+[1226] [42:39] fe016: Yeah .
+[1227] [42:40] fe016: You just have to know wha what to tie it to .
+[1228] [42:42] me011: Yeah ,
+[1229] [42:42] me011: exactly .
+[1230] [42:43] me011: The problem is saying " what are the semantics ,
+[1231] [42:43] fe016: And
+[1232] [42:45] me011: what do you mean by " merge " ? "
+[1233] [42:46] fe016: Right , right .
+[1234] [42:46] mn017: Right .
+[1235] [42:47] me011: So .
+[1236] [42:47] mn017: So so just to let you know what we where we kluged it by , uh , doing uh , by doing Hhh .
+[1237] [42:55] mn017: Both were based on words ,
+[1238] [42:56] mn017: so , bo we have two versions of the same words intersp you know , sprinkled with with different tags for annotations .
+[1239] [43:02] me011: And then you did diff .
+[1240] [43:03] mn017: And we did diff .
+[1241] [43:03] me011: Yeah ,
+[1242] [43:03] mn017: Exactly !
+[1243] [43:04] me011: that 's just what I thought .
+[1244] [43:05] mn017: And
+[1245] [43:05] me011: That 's just wh how I would have done it .
+[1246] [43:06] mn017: Yeah .
+[1247] [43:07] mn017: But , you know , it had lots of errors
+[1248] [43:09] mn017: and things would end up in the wrong order , and so forth .
+[1249] [43:11] mn017: Uh ,
+[1250] [43:12] mn017: so ,
+[1251] [43:12] me011: Yep .
+[1252] [43:13] mn017: um
+[1253] [43:15] mn017: Uh ,
+[1254] [43:16] mn017: it it was a kluge
+[1255] [43:17] mn017: because it was basically reducing everything to uh , to uh , uh , to textual alignment .
+[1256] [43:20] me011: A
+[1257] [43:22] mn017: Um ,
+[1258] [43:23] mn017: so
+[1259] [43:23] fe016: But ,
+[1260] [43:24] fe016: d
+[1261] [43:39] fe016: You know what I mean ?
+[1262] [43:40] fe016: Then Or if they tied it to an acoustic segment and we had the time - marks , that would help .
+[1263] [43:44] fe016: But the problem is exactly as Adam said , that you get , you know , y you don't have that information or it 's lost in the merge somehow ,
+[1264] [43:45] me011: Yep .
+[1265] [43:52] fe016: so
+[1266] [43:52] fe008: Well , can I ask one question ?
+[1267] [43:53] fe008: It it seems to me that , um , we will have o an official version of the corpus , which will be only one one version in terms of the words where the words are concerned .
+[1268] [44:01] fe008: We
+[1269] [44:05] mn017: And you 're gonna get that
+[1270] [44:05] fe008: But
+[1271] [44:06] mn017: because if the data gets out , people will do all kinds of things to it .
+[1272] [44:11] mn017: And , uh , s you know , several years from now you might want to look into , um , the prosody of referring expressions .
+[1273] [44:22] mn017: And someone at the university of who knows where has annotated the referring expressions .
+[1274] [44:28] me011: Right .
+[1275] [44:28] mn017: So you want to get that annotation and bring it back in line with your data .
+[1276] [44:32] me011: But unfortunately they 've also hand - edited it .
+[1277] [44:33] mn017: OK ?
+[1278] [44:33] fe008: OK
+[1279] [44:34] fe016: But
+[1280] [44:34] fe016: Exactly .
+[1281] [44:35] fe016: And so that 's exactly what we should somehow when you distribute the data , say that you know , that have some way of knowing how to merge it back in and asking people to try to do that .
+[1282] [44:35] mn017: Yeah .
+[1283] [44:36] me011: Yep .
+[1284] [44:37] mn017: Right .
+[1285] [44:38] fe008: Well
+[1286] [44:45] me018: What 's what 's wrong with doing times ?
+[1287] [44:47] fe008: I agree .
+[1288] [44:47] me018: I
+[1289] [44:47] fe008: That was what I was wondering .
+[1290] [44:47] fe016: Uh
+[1291] [44:49] fe008: Time is unique .
+[1292] [44:50] me011: Well ,
+[1293] [44:50] fe008: You
+[1294] [44:50] fe016: Time is passing !
+[1295] [44:52] mn017: Time time times are ephemeral .
+[1296] [44:52] fe008: Andreas
+[1297] [44:53] fe008: Yeah .
+[1298] [44:54] me011: what if they haven't notated with them , times ?
+[1299] [44:55] fe016: Yeah .
+[1300] [44:56] fe016: He he 's a language modeling person , though .
+[1301] [44:57] mn017: Um
+[1302] [44:58] me011: So
+[1303] [44:58] me011: I think his his example is a good one .
+[1304] [45:00] me011: Imagine that this person who developed the corpus of the referring expressions didn't include time .
+[1305] [45:04] mn017: Mm - hmm .
+[1306] [45:06] mn017: Yeah .
+[1307] [45:06] me011: He included references to words .
+[1308] [45:06] fe008: Ach !
+[1309] [45:08] fe008: Well
+[1310] [45:08] me011: He said that at this word is when when it happened .
+[1311] [45:08] mn017: Yeah .
+[1312] [45:10] mn017: Or she .
+[1313] [45:11] fe008: But then couldn't you just indirectly figure out the time tied to the word ?
+[1314] [45:11] me011: Or she .
+[1315] [45:12] fe016: But
+[1316] [45:13] fe016: Exactly .
+[1317] [45:14] me011: Sure .
+[1318] [45:14] fe016: Yeah .
+[1319] [45:14] me011: But what if what if they change the words ?
+[1320] [45:16] fe008: Not
+[1321] [45:17] fe008: Well ,
+[1322] [45:17] fe008: but you 'd have some anchoring point .
+[1323] [45:19] fe008: He couldn't have changed all the words .
+[1324] [45:20] me018: But can they change the words without changing the time of the word ?
+[1325] [45:21] me011: Sure .
+[1326] [45:21] me011: But they could have changed it a little .
+[1327] [45:23] me011: The the point is , that that they may have annotated it off a word transcript that isn't the same as our word transcript ,
+[1328] [45:30] me011: so how do you merge it back in ?
+[1329] [45:31] me011: I understand what you 're saying .
+[1330] [45:31] mn017: Mmm .
+[1331] [45:31] mn017: Mm - hmm .
+[1332] [45:32] me011: And I I guess the answer is , um , it 's gonna be different every time .
+[1333] [45:38] me011: It
+[1334] [45:38] fe016: Yeah .
+[1335] [45:38] fe008: Yeah .
+[1336] [45:39] fe016: You
+[1337] [45:40] me011: I it 's exactly what I said before ,
+[1338] [45:42] me011: which is that " what do you mean by " merge " ? "
+[1339] [45:44] me011: So in this case where you have the words and you don't have the times , well , what do you mean by " merge " ?
+[1340] [45:49] fe016: Right .
+[1341] [45:49] me011: If you tell me what you mean , I can write a program to do it .
+[1342] [45:51] fe016: Right .
+[1343] [45:51] fe016: You can merge at the level of the representation that the other person preserved and that 's it .
+[1344] [45:55] me011: Right .
+[1345] [45:55] me011: And that 's about all you can do .
+[1346] [45:56] fe016: And beyond that , all you know is is relative ordering
+[1347] [45:58] fe016: and sometimes even that is wrong .
+[1348] [46:00] me011: So so in so in this one you would have to do a best match between the word sequences ,
+[1349] [46:01] fe016: So .
+[1350] [46:05] mn017: Mm - hmm .
+[1351] [46:05] me011: extract the times f from the best match of theirs to yours ,
+[1352] [46:09] me011: and use that .
+[1353] [46:09] fe016: And then infer that their time - marks are somewhere in between .
+[1354] [46:11] me011: Right .
+[1355] [46:11] fe016: Yeah , exactly .
+[1356] [46:12] fe008: But it could be that they just uh , I mean , it could be that they chunked they they lost certain utterances and all that stuff ,
+[1357] [46:17] me011: Right ,
+[1358] [46:17] me011: exactly .
+[1359] [46:18] me011: So it could get very , very ugly .
+[1360] [46:18] fe008: or
+[1361] [46:19] fe016: Definitely .
+[1362] [46:19] fe016: Definitely .
+[1363] [46:20] fe008: Yeah .
+[1364] [46:21] fe016: Alright .
+[1365] [46:21] fe016: Well , I guess , w I I didn't want to keep people too long
+[1366] [46:22] fe008: That 's interesting .
+[1367] [46:24] fe016: and
+[1368] [46:25] fe016: I 'll read the digits .
+[1369] [46:26] fe016: If anyone else offers to , that 'd be great .
+[1370] [46:28] fe016: And
+[1371] [46:29] mn017: Ah , well .
+[1372] [46:29] fe016: if
+[1373] [46:29] me011: Yeah .
+[1374] [46:30] me011: More digits , the better .
+[1375] [46:30] mn017: For th for the for the benefit of science we 'll read the digits .
+[1376] [46:31] me011: OK ,
+[1377] [46:31] fe016: Thanks thanks a lot .
+[1378] [46:31] me011: this is
+[1379] [46:32] fe016: It 's really helpful .
+[1380] [46:33] fe016: I mean , Adam and Don will sort of meet
+[1381] [46:35] fe016: and I think that 's great .
+[1382] [46:37] fe016: Very useful .
+[1383] [46:46] fe016: Go next .
+[1384] [47:35] me018: Scratch that .
+[1385] [48:03] fe008: O three
+[1386] [48:10] me011: Oh , right .

@@ -1,0 +1,1146 @@
+================================================================================
+ICSI Meeting Transcript: Bed009
+================================================================================
+
+Total Utterances: 1136
+Unique Speakers: 7
+Duration: 53.33 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:01] me012: Hmm .
+[0002] [00:02] me012: Testing channel two .
+[0003] [00:05] me003: Two , two .
+[0005] [00:06] me012: Two .
+[0006] [00:07] me003: Two . Oh .
+[0007] [00:09] mn047: Hello ?
+[0008] [00:22] mn015: Hmm ?
+[0009] [00:23] mn015: Yeah
+[0010] [00:24] mn015: Thank You .
+[0011] [00:31] mn015: OK Well , so Ralf and Tilman are here .
+[0012] [00:32] me010: OK .
+[0013] [00:36] me010: Great . Great .
+[0014] [00:38] mn015: Made it safely .
+[0015] [00:39] me010: So the what w we h have been doing i
+[0016] [00:43] me010: they would like us all to read these digits .
+[0017] [00:45] me010: But we don't all read them
+[0018] [00:46] me010: but a couple people read them .
+[0019] [00:48] mn048: OK .
+[0020] [00:48] me010: Uh , wanna give them all with German accents today or ?
+[0021] [00:50] mn015: Sure .
+[0022] [00:51] me010: OK .
+[0023] [00:53] mn015: OK
+[0024] [00:54] mn015: and the way you do it is you just read the numbers not as uh each single ,
+[0025] [00:59] mn015: so just like I do it .
+[0026] [01:00] mn048: Mm - hmm .
+[0027] [01:00] mn015: OK .
+[0028] [01:01] mn015: First you read the transcript number .
+[0029] [01:45] mn047: OK ,
+[0030] [01:46] mn015: Turn .
+[0031] [01:46] mn047: uh
+[0032] [03:34] me010: OK . Let 's be done with this .
+[0033] [03:36] me010: OK .
+[0034] [03:36] mn048: OK .
+[0035] [03:36] me010: this
+[0036] [03:37] me010: And this is Tilman and Ralf .
+[0037] [03:38] mn048: Hi .
+[0038] [03:38] mn048: Uh - huh . Nice to meet you .
+[0039] [03:39] mn047: Hi .
+[0040] [03:39] me010: Hi .
+[0041] [03:41] me010: OK .
+[0042] [03:41] me010: So we 're gonna try to finish by five so people who want to can go hear Nancy Chang 's talk , uh downstairs .
+[0043] [03:47] mn048: Hmm .
+[0044] [03:49] me010: And you guys are g giving talks on tomorrow and Wednesday lunch times ,
+[0045] [03:53] mn048: Yes .
+[0046] [03:53] mn047: Mmm .
+[0047] [03:53] me010: right ?
+[0048] [03:53] me010: That 's great .
+[0049] [03:55] me010: OK so , do y do you know what we 're gonna do ?
+[0050] [03:58] mn015: I thought two things
+[0051] [03:59] mn015: uh we 'll introduce ourselves and what we do .
+[0052] [04:02] mn015: And um we already talked with Andreas , Thilo and David
+[0053] [04:07] mn015: and some lines of code were already written today
+[0054] [04:11] mn015: and almost tested
+[0055] [04:14] mn015: and just gonna say we have um again the recognizer to parser thing where we 're working on
+[0056] [04:20] mn015: and that should be no problem
+[0057] [04:23] mn015: and then that can be sort of developed uh as needed when we get enter the tourism domain .
+[0058] [04:32] mn015: em we have talked this morning with the with Tilman about the generator .
+[0059] [04:37] mn015: and um There one of our diligent workers has to sort of volunteer to look over Tilman 's shoulder while he is changing the grammars to English
+[0060] [04:37] mn048: S
+[0061] [04:49] mn048: Mm - hmm .
+[0062] [04:49] mn015: because w we have we face two ways .
+[0063] [04:53] mn015: Either we do a syllable concatenating um grammar for the English generation which is sort of starting from scratch and doing it the easy way ,
+[0064] [05:01] mn015: or we simply adopt the ah um more in - depth um style that is implemented in the German system
+[0065] [05:09] mn015: and um are then able not only to produce strings but also the syntactic parse
+[0066] [05:16] mn015: uh not parse not
+[0067] [05:17] mn015: the syntactic tree that is underneath in the syntactic structure
+[0068] [05:20] mn015: which is the way we decided we were gonna go because A , it 's easier in the beginning
+[0069] [05:23] mn048: Mm - hmm .
+[0070] [05:25] mn015: and um it does require some some knowledge of of those grammars and and and some ling linguistic background .
+[0071] [05:33] mn015: But um it shouldn't be a problem for anyone .
+[0072] [05:37] me010: OK So That sounds good .
+[0073] [05:40] me010: Johno , are you gonna have some time t to do that uh w with these guys ?
+[0074] [05:44] me003: Sure .
+[0075] [05:45] me010: cuz y you 're the grammar maven .
+[0076] [05:50] me003: OK .
+[0077] [05:51] me010: I mean it makes sense ,
+[0078] [05:51] me010: doesn't it ?
+[0079] [05:52] me003: Yeah .
+[0080] [05:52] me010: Yeah Good .
+[0081] [05:54] me010: OK .
+[0082] [05:54] me010: So , I think that 's probably the the right way to do that .
+[0083] [05:59] me010: And an
+[0084] [06:01] me010: Yeah , so I I actually wanna f to find out about it too ,
+[0085] [06:03] me010: but I may not have time to get in .
+[0086] [06:06] mn015: the the ultimate goal is that before they leave we we can run through the entire system input through output on at least one or two sample things .
+[0087] [06:17] mn015: And um and by virtue of doing that then in this case Johno will have acquired the knowledge of how to extend it .
+[0088] [06:25] mn015: Ad infinitum .
+[0089] [06:28] mn015: When needed , if needed , when wanted and so forth .
+[0090] [06:36] me010: OK that sounds great .
+[0091] [06:37] mn015: And um also um Ralf has hooked up with David and you 're gonna continue either all through tonight or tomorrow on whatever to get the er parser interface working .
+[0092] [06:47] mn047: Mmm .
+[0093] [06:52] mn015: They are thinning out and thickening out lattices
+[0094] [06:54] mn015: and doing this kind of stuff to see what works best .
+[0095] [06:56] mn047: Mmm ,
+[0096] [06:56] mn047: yep .
+[0097] [06:58] me010: Great .
+[0098] [07:00] me010: So , you guys enjoy your weekend ?
+[0099] [07:02] mn048: Yes , very much so .
+[0100] [07:02] mn047: Yeah , very much
+[0101] [07:02] me010: OK , before before you got put to work ?
+[0102] [07:05] mn047: Yeah
+[0103] [07:06] me010: Great .
+[0104] [07:09] me010: OK
+[0105] [07:11] me010: Sort of one branch is to get us caught up on what 's going on .
+[0106] [07:17] me010: Also of course it would be really nice to know what the plans are , in addition to what 's sort of already in code .
+[0107] [07:23] mn048: Yes .
+[0108] [07:23] me010: and we can d
+[0109] [07:25] me010: I dunno
+[0110] [07:25] me010: w w was there uh a time when we were set up to do that ?
+[0111] [07:30] me010: It probably will work better if we do it later in the week , after we actually understand uh better what 's going on .
+[0112] [07:33] mn048: Yes .
+[0113] [07:34] mn047: Hmm .
+[0114] [07:35] mn048: Yeah .
+[0115] [07:37] me010: So when do you guys leave ?
+[0116] [07:39] mn048: Um we 're here through Sunday ,
+[0117] [07:39] mn047: Oh
+[0118] [07:41] mn048: so
+[0119] [07:41] me010: Oh , OK ,
+[0120] [07:41] mn048: All through Friday would be fine .
+[0121] [07:41] me010: so
+[0122] [07:42] me010: OK
+[0123] [07:43] me010: so anyt we 'll find a time later in the week to uh get together and talk about your understanding of what SmartKom plans are .
+[0124] [07:52] mn048: Mm - hmm .
+[0125] [07:54] me010: and how we can change them .
+[0126] [07:56] mn048: Yes . Sure .
+[0127] [07:57] me010: Uh ,
+[0128] [07:59] mn015: Should we already set a date for that ?
+[0129] [08:00] mn015: Might be beneficial while we 're all here .
+[0130] [08:03] me010: OK ?
+[0131] [08:19] me010: um What what does not work for me is Thursday afternoon .
+[0132] [08:23] me010: I can do earlier in the day on Thursday , or um most of the time on Friday ,
+[0133] [08:30] me010: not all .
+[0134] [08:32] mn015: Thursday morning sounds fine ?
+[0135] [08:33] me010: Wha - but , Johno ,
+[0136] [08:34] mn048: Mm - hmm .
+[0137] [08:34] me010: what are your constraints ?
+[0138] [08:36] me003: um
+[0139] [08:42] mn015: Neither does Thursday morning ,
+[0140] [08:44] mn015: no ?
+[0141] [08:45] me003: Uh Thursday morning should be fine .
+[0142] [08:55] me010: Eleven ?
+[0143] [08:55] mn048: OK .
+[0144] [08:58] me010: Eleven on Thursday ?
+[0145] [09:00] me003: I was just thinking I w I will have leavened by eleven .
+[0146] [09:03] me010: Right . Right .
+[0147] [09:05] me010: This is then out of deference to our non - morning people .
+[0148] [09:07] mn048: Mm - hmm .
+[0149] [09:08] mn048: OK .
+[0150] [09:18] mn048: So at eleven ?
+[0151] [09:19] mn047: Hmm .
+[0152] [09:20] mn048: Thursday around eleven ?
+[0153] [09:21] mn048: OK .
+[0154] [09:21] me010: Yeah .
+[0155] [09:33] me010: And actually we can invite um Andreas as well .
+[0156] [09:37] mn015: Uh he will be in Washington , though .
+[0157] [09:38] me010: Oh that 's true .
+[0158] [09:38] me010: He 's off off on his trip already .
+[0159] [09:43] mn015: but um David is here and he 's actually knows everything about the SmartKom recognizer .
+[0160] [09:47] me010: Thilo .
+[0161] [09:51] me010: OK well yeah
+[0162] [09:52] me010: maybe we 'll see if David could make it .
+[0163] [09:53] me010: That would be good .
+[0164] [10:01] mn015: OK so
+[0165] [10:03] mn015: facing to to what we 've sort of been doing here
+[0166] [10:07] mn015: um
+[0167] [10:09] mn015: well for one thing we 're also using this room to collect data .
+[0168] [10:12] mn048: Yeah obviously .
+[0169] [10:12] mn015: um um Not this type of data ,
+[0170] [10:16] mn015: no not meeting data but sort of sort ah our version of a wizard experiment such
+[0171] [10:16] mn048: Oh , OK .
+[0172] [10:21] mn015: not like the ones in Munich but pretty close to it .
+[0173] [10:24] mn048: Mm - hmm .
+[0174] [10:25] mn015: The major difference to the Munich ones is that we do it via the telephone
+[0175] [10:31] mn048: OK .
+[0176] [10:31] mn015: even though all the recording is done here
+[0177] [10:33] mn015: and so it 's a sort of a computer call system that gives you tourist information
+[0178] [10:37] mn048: Mm - hmm .
+[0179] [10:38] mn015: tells you how to get places .
+[0180] [10:40] mn015: And it breaks halfway through the experiment and a human operator comes on .
+[0181] [10:44] mn015: and part of that is sort of trying to find out whether people change their linguistic verbal behavior when first thinking they speak to a machine and then to a human .
+[0182] [10:52] mn048: Yeah .
+[0183] [10:55] mn015: and we 're setting it up so that we can we hope to implant certain intentions in people .
+[0184] [11:01] mn015: For example um we have first looked at a simple sentence that " How do I get to the Powder - Tower ? "
+[0185] [11:11] mn015: OK so you have the castle of Heidelberg
+[0186] [11:12] mn048: OK .
+[0187] [11:13] mn015: and there is a tower and it 's called Powder - Tower .
+[0188] [11:13] mn048: Oh , OK .
+[0189] [11:14] mn048: Yeah .
+[0190] [11:16] mn015: and um so What will you parse out of that sentence ?
+[0191] [11:21] mn015: Probably something that we specified in M - three - L ,
+[0192] [11:23] mn047: Mmm .
+[0193] [11:23] mn015: that is @ @ " action go to whatever domain , object whatever Powder - Tower " .
+[0194] [11:31] mn015: And maybe some model will tell us , some GPS module , in the mobile scenario where the person is at the moment .
+[0195] [11:37] mn015: And um we 've sort of gone through that once before in the Deep Mail project
+[0196] [11:41] mn015: and
+[0197] [11:44] mn015: I should 've brought some slides ,
+[0198] [11:47] mn015: but
+[0199] [11:49] mn015: So here 's the tower .
+[0200] [11:52] mn015: Think of this as a two - dimensional representation of the tower .
+[0201] [11:55] mn015: And our system led people here , to a point where they were facing a wall in front of the tower .
+[0202] [12:00] mn015: There is no entrance there , but it just happens to be the closest point of the road network to the geometric center
+[0203] [12:06] mn015: Because that 's how the algorithm works .
+[0204] [12:09] mn015: So we took out that part of the road network as a hack
+[0205] [12:12] mn015: and then it found actually the way to the entrance .
+[0206] [12:15] mn015: which was now the closest point of the road network to
+[0207] [12:17] mn048: Yeah .
+[0208] [12:18] mn015: OK , geometric center .
+[0209] [12:19] mn015: But what we actually observed in Heidelberg is that most people when they want to go there they actually don't want to enter ,
+[0210] [12:23] mn015: because it 's not really interesting .
+[0211] [12:25] mn015: They wanna go to a completely different point where they can look at it and take a picture .
+[0212] [12:30] mn048: Oh , OK .
+[0213] [12:30] mn047: Hmm .
+[0214] [12:31] mn048: Yeah .
+[0215] [12:31] mn015: And so what uh uh a s you s
+[0216] [12:36] mn015: let 's say a simple parse from a s from an utterance won't really give us is what the person actually wants .
+[0217] [12:42] mn015: Does he wanna go there to see it ?
+[0218] [12:44] mn015: Does he wanna go there now ?
+[0219] [12:45] mn015: Later ?
+[0220] [12:47] mn015: How does the person wanna go there ?
+[0221] [12:48] mn015: Is that person more likely to want to walk there ?
+[0222] [12:52] mn015: Walk a scenic route ?
+[0223] [12:53] mn015: and so forth .
+[0224] [12:53] mn015: There are all kinds of decisions that we have identified in terms of getting to places and in terms of finding information about things .
+[0225] [13:02] mn015: And we are constructing and then we 've identified more or less the extra - linguistic parameters that may f play a role .
+[0226] [13:09] mn015: Information related to the user and information related to the situation .
+[0227] [13:14] mn015: And we also want to look closely on the linguistic information that
+[0228] [13:19] mn015: what we can get from the utterance .
+[0229] [13:20] mn015: That 's part of why we implant these intentions in the data collection to see whether people actually phrase things differently
+[0230] [13:26] mn015: whether they want to enter in order to buy something or whether they just wanna go there to look at it .
+[0231] [13:33] mn015: And um so the idea is to construct uh um suitable interfaces and a belief - net for a module that actually tries to guess what the underlying intention was .
+[0232] [13:47] mn015: And then enrich or augment the M - three - L structures with what it thought what more it sort of got out of that utterance .
+[0233] [13:57] mn015: So if it can make a good suggestion , " Hey ! "
+[0234] [14:00] mn015: you know , " that person doesn't wanna enter .
+[0235] [14:01] mn015: That person just wants to take a picture , " cuz he just bought film ,
+[0236] [14:06] mn015: or " that person wants to enter because he discussed the admission fee before " .
+[0237] [14:09] mn015: Or " that person wants to enter because he wants to buy something
+[0238] [14:12] mn015: and that you usually do inside of buildings " and so forth .
+[0239] [14:15] mn015: These ah these types of uh these bits of additional information are going to be embedded into the M - three - L structure in an sort of subfield that we have reserved .
+[0240] [14:28] mn015: And if the action planner does something with it , great .
+[0241] [14:32] mn015: If
+[0242] [14:39] mn015: at least we want to offer the extra information . We don't really um we 're not too worried .
+[0243] [14:41] mn048: Mm - hmm .
+[0244] [14:42] mn047: Hmm .
+[0245] [14:45] mn015: I mean t s Ultimately if you have if you can offer that information , somebody 's gonna s do something with it sooner or later .
+[0246] [14:52] mn015: That 's sort of part of our belief .
+[0247] [14:52] me003: What was he saying ?
+[0248] [14:54] mn015: Um , for example , right now I know the GIS from email is not able to calculate these viewpoints .
+[0249] [15:02] mn015: So that 's a functionality that doesn't exist yet to do that dynamically ,
+[0250] [15:04] mn048: Mm - hmm .
+[0251] [15:06] mn015: but if we can offer it that distinction , maybe somebody will go ahead and implement it .
+[0252] [15:12] mn015: Surely nobody 's gonna go ahead and implement it if it 's never gonna be used ,
+[0253] [15:15] mn015: so .
+[0254] [15:18] mn015: What have I forgotten about ?
+[0255] [15:19] mn015: Oh yeah ,
+[0256] [15:19] me010: Well th uh
+[0257] [15:19] mn015: how we do it ,
+[0258] [15:20] mn015: yeah that 's the
+[0259] [15:21] me010: No no .
+[0260] [15:22] me010: It 's a good time to pause .
+[0261] [15:23] me010: I s I see questions on peoples ' faces ,
+[0262] [15:26] me010: so
+[0263] [15:26] me010: let
+[0264] [15:27] mn048: Oh
+[0265] [15:30] mn048: Well the obvious one would be if if you envision this as a module within SmartKom , where exactly would that Sit ?
+[0266] [15:37] mn015: um so far I 've thought of it as sort of adding it onto the modeler knowledge module .
+[0267] [15:37] mn048: That 's the d
+[0268] [15:42] mn047: Hmm .
+[0269] [15:43] mn048: OK , yeah .
+[0270] [15:43] mn015: So this is one that already adds additional information to the
+[0271] [15:44] mn048: Makes perfect sense .
+[0272] [15:46] mn048: Yes .
+[0273] [15:46] mn047: Hmm , ah .
+[0274] [15:48] mn015: but it could sit anywhere in the attention - recognition
+[0275] [15:51] mn015: I
+[0276] [15:55] mn048: Well it 's supposed to do .
+[0277] [15:56] mn047: Mmm .
+[0278] [15:56] mn048: Yeah
+[0279] [15:56] me010: That 's what it should do .
+[0280] [15:57] me010: Right ,
+[0281] [15:57] me010: yeah .
+[0282] [15:57] mn048: Yeah .
+[0283] [15:57] mn048: Yeah .
+[0284] [15:58] mn047: Huh .
+[0285] [15:58] mn015: Yeah .
+[0286] [16:00] mn048: Well f from my understanding of what the people at Phillips were originally trying to do doesn't seem to quite fit into SmartKom currently
+[0287] [16:09] mn048: so what they 're really doing right now is only selecting among the alternatives , the hypotheses that they 're given enriched by the domain knowledge and the um discourse modeler and so on .
+[0288] [16:15] mn015: Yeah .
+[0289] [16:20] mn015: Yeah .
+[0290] [16:20] mn048: So if if this is additional information that could be merged in by them .
+[0291] [16:25] mn048: And then it would be available to action planning and and others .
+[0292] [16:27] mn015: Yeah .
+[0293] [16:34] mn015: the
+[0294] [16:36] me010: let 's let 's
+[0295] [16:37] me010: That w
+[0296] [16:38] me010: OK that was one question .
+[0297] [16:39] me010: Is there other other things that
+[0298] [16:41] me010: cuz we wanna not Pa - pass over any you know , questions or concerns that you have .
+[0299] [16:54] mn048: Well there 're there 're two levels of of giving an answer and I guess on both levels I don't have any um further questions .
+[0300] [16:54] mn047: Mmm .
+[0301] [16:58] mn047: Mmm .
+[0302] [17:00] mn048: uh the the two levels will be as far as I 'm concerned as uh standing here for the generation module
+[0303] [17:00] mn047: Mmm .
+[0304] [17:05] mn048: and the other is is my understanding of what SmartKom uh is supposed to be
+[0305] [17:08] me010: Right .
+[0306] [17:10] mn048: and I I think that fits in perfectly
+[0307] [17:10] me010: So well , let me Let me s expand on that a little bit from the point of view of the generation .
+[0308] [17:11] mn047: Hmm .
+[0309] [17:14] mn048: Yeah .
+[0310] [17:16] me010: So the idea is that we 've actually got this all laid out an and we could show it to you ig
+[0311] [17:20] me010: um
+[0312] [17:29] me010: There 's a first cut at a belief - net that that doesn't it isn't fully uh instantiated ,
+[0313] [17:34] me010: and in particular some of the the combination rules and ways of getting the the conditional probabilities aren't there .
+[0314] [17:39] me010: But we believe that we have laid out the fundamental decisions in this little space
+[0315] [17:45] mn048: Mm - hmm .
+[0316] [17:45] me010: and the things that influence them .
+[0317] [17:47] me010: So one of the decisions is what we call this AVE thing .
+[0318] [17:50] me010: Do you want to um access , view or enter a thing .
+[0319] [17:57] mn047: Hmm .
+[0320] [17:58] me010: So that 's a a discrete decision .
+[0321] [17:58] mn048: Mm - hmm .
+[0322] [17:59] me010: There
+[0323] [18:02] me010: what one would like is for this uh , knowledge modeling module to add which of those it is and give it to the planner .
+[0324] [18:12] mn048: Mm - hmm .
+[0325] [18:15] me010: But , uh th the current design suggests that if it seems to be an important decision and if the belief - net is equivocal so that it doesn't say that one of these is much more probable than the other , then an option is to go back and ask for the information you want .
+[0326] [18:34] mn048: Mm - hmm .
+[0327] [18:37] me010: Alright ?
+[0328] [18:38] me010: Now there are two ways one can go a imagine doing that .
+[0329] [18:41] me010: For the debugging we 'll probably just have a a drop - down menu
+[0330] [18:44] me010: and
+[0331] [18:45] me010: OK .
+[0332] [18:46] me010: But for a full system , then one might very well formulate a query ,
+[0333] [18:53] me010: give it to the dialogue planner and say this , you know ar are you know you are you planning to enter ?
+[0334] [18:53] mn048: Mm - hmm .
+[0335] [18:57] me010: Or whatever it whatever that might be .
+[0336] [19:00] me010: So that 's under that model
+[0337] [19:03] me010: then , There would be a uh um a loop in which this thing would formulate a query ,
+[0338] [19:08] mn048: Yes .
+[0339] [19:10] me010: presumably give it to you .
+[0340] [19:12] me010: That would get expressed and then hopefully you know , you 'd get an answer back .
+[0341] [19:17] mn048: Yep .
+[0342] [19:18] me010: And that would of course the answer would have to be parsed .
+[0343] [19:19] mn047: Mmm .
+[0344] [19:20] me010: right
+[0345] [19:20] mn047: Yep .
+[0346] [19:21] me010: and
+[0347] [19:21] me010: OK so , th that uh ,
+[0348] [19:21] mn048: Yes .
+[0349] [19:24] me010: We probably won't do this early on , because the current focus is more on the decision making and stuff like that .
+[0350] [19:27] mn048: Yep .
+[0351] [19:32] me010: But While we 're on the subject I just wanted to give you a sort of head 's up that it could be that some months from now we said " OK we 're now ready to try to close that loop " in terms of querying about some of these decisions .
+[0352] [19:35] mn048: Mm - hmm .
+[0353] [19:43] mn048: Mm - hmm .
+[0354] [19:44] mn047: Hmm .
+[0355] [19:48] mn048: Yep .
+[0356] [19:50] mn048: So my suggestion then is that you um look into the currently ongoing discussion about how the action plans are supposed to look like .
+[0357] [19:59] mn048: And they 're currently um Agreeing or or in the process of agreeing on an X M L - ification of um something like a state - transition network of how dialogues would proceed .
+[0358] [20:12] mn048: and The these um transition networks uh will be what the action planner interprets in a sense .
+[0359] [20:19] me010: Hmm .
+[0360] [20:20] me010: D did you know this Robert ?
+[0361] [20:21] mn015: uh Michael is doing that ,
+[0362] [20:22] mn015: right ?
+[0363] [20:23] mn048: Well uh Marcus Lerkult is actually implementing that stuff
+[0364] [20:27] mn048: and Marcus and Michael together are um leading the discussion there ,
+[0365] [20:31] mn015: OK .
+[0366] [20:31] mn048: yeah .
+[0367] [20:32] me010: So we ha we have to get in on that .
+[0368] [20:34] mn015: Mm - hmm .
+[0369] [20:34] mn048: Yep .
+[0370] [20:34] me010: because um partly those are like X - schemas .
+[0371] [20:34] mn047: Mmm .
+[0372] [20:36] mn048: Definitely .
+[0373] [20:40] me010: the transition diagrams .
+[0374] [20:42] mn015: Hmm .
+[0375] [20:42] me010: And it may be that that um we should early on make sure that they have the flexibility that we need .
+[0376] [20:50] mn015: Hmm .
+[0377] [20:51] mn015: But they uh
+[0378] [20:53] mn015: Have I understood this right ?
+[0379] [20:54] mn015: They
+[0380] [20:58] mn048: Mm - hmm .
+[0381] [20:59] mn015: It 's not really what you do with the content of the dialogue but it 's
+[0382] [21:06] mn015: So , I mean there is this this this nice interf
+[0383] [21:07] mn047: uh , No ,
+[0384] [21:08] mn047: it
+[0385] [21:09] mn015: i
+[0386] [21:10] me010: So there 's ac so there th the word " action " , OK , is is what 's ambiguous here .
+[0387] [21:12] mn047: I think .
+[0388] [21:15] mn047: Hmm .
+[0389] [21:16] mn048: Yes .
+[0390] [21:16] me010: So , um one thing is there 's an actual planner that tells the person in the tourist domain now ,
+[0391] [21:24] me010: per tells the person how to go ,
+[0392] [21:24] mn048: OK .
+[0393] [21:25] me010: " First go here ,
+[0394] [21:25] me010: first go there
+[0395] [21:26] mn047: Mm - hmm .
+[0396] [21:27] me010: uh , you know , take a bus " ,
+[0397] [21:28] me010: whatever it is .
+[0398] [21:29] me010: So that 's that form of planning , and action , and a route planner and GIS , all sort of stuff .
+[0399] [21:37] me010: uh But I think that isn't what you mean .
+[0400] [21:41] mn048: No .
+[0401] [21:41] mn048: No , in SmartKom terminology that 's um called a function that 's modeled by a function modeler .
+[0402] [21:48] mn048: And it 's th that 's completely um encapsulated from th the dialogue system .
+[0403] [21:53] mn048: That 's simply a functionality that you give data as in a query
+[0404] [21:56] mn048: and then you get back from that mmm , a functioning model um which might be a planner or a VCR or whatever .
+[0405] [22:03] mn048: um some result and that 's then then used .
+[0406] [22:04] me010: Well , OK ,
+[0407] [22:05] me010: so that 's what I thought .
+[0408] [22:07] me010: So action he action here means dia uh speech ac uh you know dialogue act .
+[0409] [22:08] mn048: Yeah , yeah .
+[0410] [22:10] mn015: Mmm .
+[0411] [22:10] mn048: Yeah , in that in that sense
+[0412] [22:12] mn048: yes ,
+[0413] [22:12] me010: Yeah .
+[0414] [22:12] mn048: dialogue act ,
+[0415] [22:13] mn048: yeah .
+[0416] [22:13] me010: Um , I think tha I think it 's not going to I think that 's not going to be good enough .
+[0417] [22:19] me010: I I don what uh what I meant by that .
+[0418] [22:22] me010: So I think the idea of having a , you know , transition diagram for the grammar of conversations is a good idea .
+[0419] [22:30] mn048: Mm - hmm .
+[0420] [22:32] me010: OK ?
+[0421] [22:32] me010: And I think that we do hav definitely have to get in on it and find out OK .
+[0422] [22:36] me010: But I think that um
+[0423] [22:41] me010: when so , when you get to the tourist domain it 's not just an information retrieval system .
+[0424] [22:45] mn048: Mm - hmm .
+[0425] [22:48] me010: Right ?
+[0426] [22:48] mn048: Clearly .
+[0427] [22:48] me010: So
+[0428] [22:49] mn048: Yes .
+[0429] [22:51] me010: people are gonna have to think this through a bit more carefully .
+[0430] [22:53] mn048: Mm - hmm .
+[0431] [22:53] me010: So , if it 's only like in in the in the film and T V thing ,
+[0432] [22:59] me010: OK , you can do this .
+[0433] [23:00] me010: And you just get information and give it to people .
+[0434] [23:02] me010: But what happens when you actually get them moving and so forth and so on
+[0435] [23:07] mn048: Yep .
+[0436] [23:09] me010: Uh , y y your I d I think the notion of this as a self contained uh module
+[0437] [23:17] me010: you know th the functional module that that interacts with with where the tourism g stuff is going probably is too restrictive .
+[0438] [23:21] mn048: Yep .
+[0439] [23:26] me010: Now I dunno how much people have thought ahead to the tourist domain in this
+[0440] [23:32] mn048: Probably not enough ,
+[0441] [23:33] mn048: I mean an another uh more basic point there is that the current um tasks and therefore th the concepts in this ac
+[0442] [23:41] mn048: what 's called the action plan and what 's really the dialogue manager .
+[0443] [23:42] me010: Yeah
+[0444] [23:44] mn048: um is based on slots that have to be filled
+[0445] [23:47] mn048: and the um kind of values in these slots would be fixed things like the a time or a movie title or something like this
+[0446] [23:47] me010: Mm - hmm .
+[0447] [23:53] me010: Right .
+[0448] [23:53] mn048: whereas in the a um tourist domain it might be an entire route .
+[0449] [23:57] me010: Indeed .
+[0450] [23:57] mn048: Set - based , or even very complex structured information in these slots
+[0451] [23:59] me010: Right .
+[0452] [24:01] mn048: and I 'm not sure if if complex slots of that type are really um being taken into consideration .
+[0453] [24:09] me010: OK .
+[0454] [24:09] me010: Could you could you put a message into the right place to see if we can at least ask that question ?
+[0455] [24:09] mn048: So that 's that 's really something we
+[0456] [24:17] mn015: Yep .
+[0457] [24:17] mn048: Mm - hmm .
+[0458] [24:18] mn015: rea
+[0459] [24:18] mn048: I mean nothing 's being completely settled there
+[0460] [24:20] mn015: yep
+[0461] [24:21] mn048: so this is really an ongoing discussion
+[0462] [24:22] mn015: Mm - hmm
+[0463] [24:23] mn015: yeah and um it might actually
+[0464] [24:23] mn048: and that 's
+[0465] [24:25] mn015: OK
+[0466] [24:26] mn015: ah also because um again in in Deep Map we have faced and implemented those problems once already
+[0467] [24:33] mn015: maybe we can even shuffle some know how from there to to Markus and Michael .
+[0468] [24:33] mn048: Mm - hmm .
+[0469] [24:36] mn048: Yes .
+[0470] [24:37] mn047: Mmm .
+[0471] [24:37] mn048: Yep .
+[0472] [24:38] mn015: And
+[0473] [24:44] mn015: OK th
+[0474] [24:47] mn015: I 'll I 'll talk to Michael
+[0475] [24:48] mn015: it 's what I do anyway .
+[0476] [24:50] mn015: Who How far is the uh the the M - three - L specification for for the la natural language input gone on the the uh
+[0477] [24:59] mn015: I haven't seen anything for the uh tourist path domain .
+[0478] [25:04] mn047: Yeah , it 's it 's not defined yet .
+[0479] [25:07] mn015: And um you are probably also involved in that ,
+[0480] [25:08] mn047: Um Yeah .
+[0481] [25:09] mn015: right ?
+[0482] [25:10] mn015: uh together with the usual gang ,
+[0483] [25:12] mn015: um Petra and Jan
+[0484] [25:13] mn047: Mmm .
+[0485] [25:15] mn047: Yeah , there 's a meeting next next week I think
+[0486] [25:22] mn015: OK
+[0487] [25:25] mn015: I think the the true key issues is how does the whatever comes out of the language input pipeline look like
+[0488] [25:32] mn015: and
+[0489] [25:36] mn015: and how that is uh specified .
+[0490] [25:38] mn015: I didn't think of the internal working of the uh the action planner and the language uh the function model as sort of relevant .
+[0491] [25:48] mn015: Because what what they take is sort of this this fixed representation of a of an intention .
+[0492] [25:54] mn015: And that can be as detailed or as crude as you want it to be .
+[0493] [25:54] mn048: Mm - hmm .
+[0494] [25:58] mn015: But
+[0495] [26:01] mn015: whether you know there 're dialogue action planners that work with belief - nets that are action planners that work with you know state automata .
+[0496] [26:08] mn015: So that shouldn't really matter too much .
+[0497] [26:10] mn015: I mean it does matter
+[0498] [26:11] mn015: because
+[0499] [26:13] mn015: we are on part six of r a route that consists of eight steps and so forth
+[0500] [26:17] me010: Yeah , th there there I think there are a lot of reasons why it matters .
+[0501] [26:17] mn048: Right .
+[0502] [26:20] me010: OK ,
+[0503] [26:21] me010: so that
+[0504] [26:23] me010: uh ,
+[0505] [26:23] me010: for example , the i it 's the action planner is going to take some spec and s make some suggestions about what the user should do .
+[0506] [26:35] me010: What the user says after that is going to be very much caught up with what the action planner told it .
+[0507] [26:42] mn048: Yes .
+[0508] [26:45] me010: If the If the parser and the language end doesn't know what the person 's been told
+[0509] [26:51] me010: OK
+[0510] [26:52] me010: th it 's you 're making your life much more difficult than it has to be .
+[0511] [26:54] mn015: Yeah .
+[0512] [26:55] me010: Right ?
+[0513] [26:56] me010: So if someone says the best t to uh go there is by taxi ,
+[0514] [27:01] me010: let 's say .
+[0515] [27:02] me010: Now the planner comes out and says you wanna get there fast ,
+[0516] [27:04] me010: take a taxi .
+[0517] [27:06] me010: OK .
+[0518] [27:06] me010: And the language end doesn't know that .
+[0519] [27:11] me010: OK , there 's all sorts of dialogues that won't make any sense which would be just fine .
+[0520] [27:14] mn048: hmm
+[0521] [27:16] me010: uh
+[0522] [27:16] mn015: Yeah .
+[0523] [27:17] mn048: That would
+[0524] [27:17] mn048: b but that I think that that uh point has been realized
+[0525] [27:20] mn048: and it 's it 's not really um been defined yet
+[0526] [27:24] mn048: but there 's gonna be some kind of feedback and input from uh the action planner into all the analysis modules , telling them what to expect and what the current state of the discourse is .
+[0527] [27:31] mn047: Mmm .
+[0528] [27:35] mn048: Beyond what 's currently being implemented which is just word lists .
+[0529] [27:38] me010: Yeah , but this is not the st this is not just the state of the discourse .
+[0530] [27:39] mn015: Mm - hmm .
+[0531] [27:40] mn048: Of of special interest .
+[0532] [27:41] me010: This is actually the state of the plan .
+[0533] [27:43] me010: That 's why
+[0534] [27:44] mn015: Mm - hmm .
+[0535] [27:45] mn048: Yes , Yes , Mm - hmm yeah .
+[0536] [27:45] me010: OK so it z
+[0537] [27:47] me010: and s
+[0538] [27:49] me010: uh , It 's great if people are already taking that into account .
+[0539] [27:53] me010: But One would have t have to see see the details .
+[0540] [27:57] mn048: The specifics aren't really there yet .
+[0541] [27:59] mn048: Yes .
+[0542] [27:59] me010: Yeah .
+[0543] [27:59] mn048: So , there 's work to do there .
+[0544] [28:01] me010: So anyway , Robert , that 's why I was thinking that
+[0545] [28:03] mn015: Mm - hmm .
+[0546] [28:03] me010: um
+[0547] [28:05] me010: I
+[0548] [28:07] me010: We talked about this several times that that the the input end is gonna need a fair amount of feedback from the planning end .
+[0549] [28:12] mn048: hmm
+[0550] [28:14] me010: In in one of these things which are are much more continuous than the just the dialogue over movies and stuff .
+[0551] [28:21] mn048: Yeah .
+[0552] [28:21] mn047: Mmm .
+[0553] [28:24] mn048: And even on on a more basic level the the action planner actually needs to be able to have um an expressive power that can deal with these structures .
+[0554] [28:34] me010: Hmm ?
+[0555] [28:34] mn048: And not just um say um um the dialogue um will consist of ten possible states and th these states really are fixed in in a certain sense .
+[0556] [28:45] me010: Would there be any chance of getting the terminology changed so that the dialogue planner was called a " dialogue planner " ?
+[0557] [28:45] mn048: You
+[0558] [28:53] me010: Because there 's this other thing The o There 's this other thing in in the tourist domain which is gonna be a route planner
+[0559] [28:53] mn048: That 'd be nice .
+[0560] [28:59] me010: or It 's really gonna be an action planner .
+[0561] [29:02] me010: And
+[0562] [29:05] mn048: It oughta be called a a dialogue manager .
+[0563] [29:07] mn048: cuz that 's what everybody else calls it .
+[0564] [29:07] me010: I would think ,
+[0565] [29:08] me010: yeah .
+[0566] [29:08] mn047: Mmm .
+[0567] [29:09] me010: Huh ?
+[0568] [29:09] mn048: Yeah .
+[0569] [29:10] me010: So , s So what would happen if we sent a note saying " Gee we 've talked about this and couldn't we change this uh th the whole word ? "
+[0570] [29:17] me010: I have no idea how complicated these things are .
+[0571] [29:21] mn015: Probably close to impossible .
+[0572] [29:24] mn048: Depends on who you talk to how .
+[0573] [29:27] mn048: We 'll see .
+[0574] [29:28] mn048: I 'll go check ,
+[0575] [29:29] mn048: cause I completely agree .
+[0576] [29:30] mn047: Mmm .
+[0577] [29:30] mn048: Yeah ,
+[0578] [29:31] mn048: and I think this is just for historical reasons within uh , the preparation phase of the project
+[0579] [29:36] mn048: and not because somebody actually believes it ought to be action planner .
+[0580] [29:40] mn048: So if there is resistance against changing it , that 's just because " Oh , We don't want to change things . "
+[0581] [29:44] mn048: That that not deep reason
+[0582] [29:47] me010: OK ,
+[0583] [29:47] me010: anyway .
+[0584] [29:49] me010: I if if that c in persists then we 're gonna need another term . for the thing that actually does the planning of the uh routes and whatever we are doing for the tourist .
+[0585] [30:01] mn015: That 's external services .
+[0586] [30:03] me010: Yeah , but that 's not g eh tha
+[0587] [30:06] me010: That ha has all the wrong connotations .
+[0588] [30:09] me010: it 's it sounds like it 's you know stand alone .
+[0589] [30:11] me010: It doesn't interact ,
+[0590] [30:12] me010: it doesn't
+[0591] [30:15] me010: That 's why I 'm saying .
+[0592] [30:15] me010: I
+[0593] [30:16] me010: it 's fine for looking up when T you know when the show 's on TV .
+[0594] [30:20] me010: You go to th
+[0595] [30:21] me010: but I I I I think it 's really really wrong headed for something that you that has a lot of state ,
+[0596] [30:29] me010: it 's gonna interact co in a complicated way with the uh understanding parts .
+[0597] [30:31] mn015: Yeah .
+[0598] [30:34] mn015: Yeah I think just the the spatial planner and the route planner
+[0599] [30:38] mn015: I showed you once the interac action between them among them in the deep map system
+[0600] [30:41] me010: Right .
+[0601] [30:42] mn015: so a printout of the communication between those two fills up
+[0602] [30:46] mn015: I don't know how many pages
+[0603] [30:47] mn015: and that 's just part of how do I get to one place .
+[0604] [30:47] mn048: Hmm
+[0605] [30:50] mn015: It 's really insane .
+[0606] [30:52] mn015: and uh
+[0607] [30:55] mn015: but um so this is um definitely a good point to get uh Michael into the discussion .
+[0608] [31:01] mn015: Or to enter his discussion , actually .
+[0609] [31:03] mn015: That 's the way around .
+[0610] [31:03] mn048: Yeah , Marcus .
+[0611] [31:04] mn015: Markus
+[0612] [31:08] mn015: Is he new in the in the ?
+[0613] [31:09] mn048: Wh - where 's ?
+[0614] [31:10] mn048: Yeah , he 's he started um I think January .
+[0615] [31:10] mn047: Yeah .
+[0616] [31:15] mn048: And he 's gonna be responsible for the implementation of this action planner .
+[0617] [31:19] mn048: Dialogue manager .
+[0618] [31:22] mn015: Is he gonna continue with the old uh thing ?
+[0619] [31:25] mn048: No ,
+[0620] [31:25] mn048: no he 's completely gonna rewrite everything . In Java .
+[0621] [31:27] mn015: OK .
+[0622] [31:30] mn048: OK so that 's interesting .
+[0623] [31:31] mn015: Yes I was just that 's my next question
+[0624] [31:32] mn048: hmm
+[0625] [31:33] mn015: whether we 're we 're gonna stick to Prolog or not .
+[0626] [31:35] mn048: No .
+[0627] [31:35] mn048: No , that 's gonna be phased out .
+[0628] [31:36] me010: Yeah .
+[0629] [31:37] mn015: OK
+[0630] [31:40] mn015: But I do think the the function modeling concept has a certain makes sense in a in a certain light
+[0631] [31:44] mn048: Yeah .
+[0632] [31:46] mn015: because the action planner should not be or the dialogue manager in that case should not um w have to worry about whether it 's interfacing with um something that does route planning in this way or that way
+[0633] [31:57] mn048: Mm - hmm .
+[0634] [31:58] me010: I I totally agree .
+[0635] [31:59] me010: Sure .
+[0636] [31:59] mn015: huh ,
+[0637] [31:59] mn015: it j
+[0638] [32:00] me010: Yeah I I agree .
+[0639] [32:00] me010: There is there 's a logic to dialogue which which is is separable .
+[0640] [32:05] me010: I
+[0641] [32:06] me010: Yeah .
+[0642] [32:06] mn015: and it cant sort of formulate its what it wants in a in a rather a abstract uh way ,
+[0643] [32:15] mn015: you know f " Find me a good route for this . "
+[0644] [32:15] me010: Mm - hmm .
+[0645] [32:18] mn015: It doesn't really have to worry ab how route planner A or how route planner B actually wants it .
+[0646] [32:23] mn015: So this is seemed like a good idea .
+[0647] [32:29] mn015: In the beginning .
+[0648] [32:30] me010: It 's tricky .
+[0649] [32:31] me010: It
+[0650] [32:33] me010: I think it will turn out to be the case that uh , this thing we 're talking about , th the extended n uh knowledge modeler will fill in some parameters about what the person wants .
+[0651] [32:45] me010: One could well imagine that the next thing that 's trying to fill out the detailed uh , route planning , let 's say , will also have questions that it would like to ask the user .
+[0652] [32:56] me010: You could well imagine you get to a point where it 's got a a choice to make and it just doesn't know something .
+[0653] [33:03] me010: And so y you would like it t also be able to uh formulate a query .
+[0654] [33:03] mn048: Mm - hmm .
+[0655] [33:12] me010: And to run that back through uh . the dialogue manager and to the output module and back around .
+[0656] [33:20] mn015: hmm
+[0657] [33:21] me010: And a I a a good design would would allow that to happen .
+[0658] [33:23] mn015: a lot of ,
+[0659] [33:23] mn015: yeah
+[0660] [33:24] mn047: Mmm .
+[0661] [33:25] me010: If if you know if if you can't make it happen then you you do your best .
+[0662] [33:26] mn048: Yeah
+[0663] [33:27] mn048: but that doesn't necessarily contradict um an architecture where there really is a pers a def well - defined interface .
+[0664] [33:33] me010: I totally agree .
+[0665] [33:34] mn048: and and
+[0666] [33:34] me010: But but what it nee
+[0667] [33:35] me010: but th what the point is the
+[0668] [33:37] me010: in that case the dialogue manager is sort of event driven .
+[0669] [33:40] me010: So the dialogue manager may think it 's in a dialogue state of one sort ,
+[0670] [33:45] me010: and this one of these planning modules comes along and says " hey , right now we need to ask a question " .
+[0671] [33:45] mn048: Mm - hmm .
+[0672] [33:51] me010: So that forces the dialogue manager to change state .
+[0673] [33:54] mn048: Yes
+[0674] [33:55] me010: OK .
+[0675] [33:55] me010: It could be y
+[0676] [33:55] mn048: Sure ,
+[0677] [33:56] mn048: ye yeah I I think that 's that 's the um concept that people have ,
+[0678] [33:56] me010: Yeah
+[0679] [33:58] me010: OK .
+[0680] [33:59] mn048: yep .
+[0681] [34:05] mn048: And and the the underlying idea of course is that there is something like kernel modules with kernel functionality that you can plug uh certain applications like tourist information or um the home scenario with uh controlling a VCR and so on .
+[0682] [34:20] mn048: And then extend it to an arbitrary number of applications eventually .
+[0683] [34:25] mn048: So wouldn't
+[0684] [34:25] mn048: That 's an additional reason to have this well - defined interface
+[0685] [34:29] me010: Oh , yeah , yeah .
+[0686] [34:29] mn048: and keep these things like uh tourist information external .
+[0687] [34:33] mn048: And then call it external services .
+[0688] [34:34] mn015: Hmm .
+[0689] [34:39] mn048: But
+[0690] [34:40] mn015: Yeah , there is another philosophical issue that I think you know you can evade
+[0691] [34:41] mn048: yep .
+[0692] [34:46] mn015: but , at at least it makes sense to me that sooner or later uh a service is gonna come and describe itself to you .
+[0693] [34:54] mn015: and that 's sort of what Srini is working on in in in the DAML uh project where um you you find a GIS about that gives you information on Berkeley ,
+[0694] [34:57] mn048: Yeah .
+[0695] [35:05] mn015: and it 's it 's gonna be there and tell you what it can do and how it wants to do things .
+[0696] [35:09] mn015: and so you can actually interface to such a system without ever having met it before
+[0697] [35:14] mn015: and the function modeler and a self - description of the um external service haggle it out
+[0698] [35:14] mn048: Hmm .
+[0699] [35:21] mn015: and you can use the same language core , understanding core to interface with planner - A , planner - B , planner - C and so forth .
+[0700] [35:25] mn048: Hmm .
+[0701] [35:25] mn047: Mmm .
+[0702] [35:28] mn015: Which
+[0703] [35:31] mn015: completely utopian at the moment ,
+[0704] [35:32] mn015: but slowly , you know , getting into the realm of the uh contingent .
+[0705] [35:38] mn048: Hmm .
+[0706] [35:44] mn015: But we are facing of course much more um realistic problems .
+[0707] [35:51] mn015: And language input for example , is of course uh crucial you know also when you do the sort of deep understanding analysis that we envision .
+[0708] [35:59] mn015: um Then of course , the uh um , you know
+[0709] [36:03] mn015: what
+[0710] [36:04] mn015: poverty of the stimulus ,
+[0711] [36:05] mn015: yet the m uh the less we get of that the better .
+[0712] [36:08] mn015: and um so we we 're thinking , for example how much syntactic analysis actually happens already in the parser .
+[0713] [36:15] mn047: Hmm .
+[0714] [36:15] mn015: and whether one could interface to that potentially
+[0715] [36:18] mn047: Yeah ,
+[0716] [36:18] mn047: are there currently is uh
+[0717] [36:20] mn047: no syntactic analysis
+[0718] [36:22] mn047: but in the next release there will be some .
+[0719] [36:25] mn015: Hmm .
+[0720] [36:26] me010: How
+[0721] [36:26] mn047: unless
+[0722] [36:26] mn047: and it 's
+[0723] [36:27] mn047: um uh
+[0724] [36:29] mn047: you can access this
+[0725] [36:31] me010: S so uh y we we looked at the e current pattern matching thing .
+[0726] [36:36] mn047: Hmm .
+[0727] [36:37] me010: And as you say it 's just a surface pattern matcher .
+[0728] [36:40] me010: Uh , So what are what are the plans roughly ?
+[0729] [36:43] mn047: um it 's to to integrate and syntactic analysis .
+[0730] [36:48] mn047: and um add some more features like segmentation .
+[0731] [36:54] mn047: So then an utter more than one utterance is There um there 's often uh pause between it
+[0732] [37:03] mn047: and a segmentation occurs .
+[0733] [37:09] me010: So
+[0734] [37:09] mn047: um
+[0735] [37:12] me010: So
+[0736] [37:13] mn047: yeah
+[0737] [37:18] me010: Do you have a particular parser in mind ?
+[0738] [37:20] me010: Is it uh partic d
+[0739] [37:22] me010: I mean have you thought through ?
+[0740] [37:25] me010: Is it an HPSG parser ?
+[0741] [37:27] me010: Is it a whatever ?
+[0742] [37:28] mn047: No no it 's uh I think it 's it 's totally complicated for
+[0743] [37:32] mn047: it 's just one one person
+[0744] [37:32] me010: OK .
+[0745] [37:33] mn047: and
+[0746] [37:35] me010: Oh , you have to do it .
+[0747] [37:36] me010: You have to do it ,
+[0748] [37:37] me010: yeah .
+[0749] [37:37] mn047: Yeah ,
+[0750] [37:37] mn047: ah and so things must be simpler
+[0751] [37:41] me010: I see ,
+[0752] [37:41] me010: so
+[0753] [37:42] mn047: but uh , Miel syntactic analysis with um finite state transducers .
+[0754] [37:44] me010: But the people at D F
+[0755] [37:46] me010: Yeah .
+[0756] [37:47] me010: People at DFKI have written a fair number of parsers .
+[0757] [37:50] me010: Other you know , people over the years . uh have written various parsers at DFKI .
+[0758] [37:55] me010: None of them are suitable ?
+[0759] [37:57] me010: I I I d I 'm asking .
+[0760] [37:58] me010: I don't know .
+[0761] [37:59] mn047: Yeah , uh the problem is th that it has to be very fast
+[0762] [38:02] mn047: because um if you want to for more than one path anywhere
+[0763] [38:04] me010: OK .
+[0764] [38:08] mn047: what 's in the latches from the speech recognizer
+[0765] [38:09] me010: Mm - hmm .
+[0766] [38:11] mn047: so it 's speed is crucial .
+[0767] [38:13] mn047: uh
+[0768] [38:15] mn047: And they are not fast enough .
+[0769] [38:18] me010: Mm - hmm .
+[0770] [38:20] mn047: And they also have to be very robust . cuz of um speech recognition errors
+[0771] [38:26] mn047: and
+[0772] [38:26] me010: OK .
+[0773] [38:27] me010: So , um So there was a chunk parser in Verbmobil , that was one of the uh branchers .
+[0774] [38:37] me010: You know they d th I c
+[0775] [38:38] me010: There were these various uh , competing uh syntax modules .
+[0776] [38:45] me010: And I know one of them was a chunk parser
+[0777] [38:48] me010: and I don't remember who did that .
+[0778] [38:51] mn047: I think it 's that
+[0779] [38:51] mn015: A Alan ?
+[0780] [38:54] mn047: might ,
+[0781] [38:54] mn047: at Tuebingen I thought .
+[0782] [38:56] me010: Yeah I d I don't remember .
+[0783] [38:57] mn047: was Do you know something about that ?
+[0784] [39:01] mn048: Tubingen was at least involved in putting the chunks together
+[0785] [39:01] mn047: In
+[0786] [39:05] mn048: I can't quite recall whether they actually produced the chunks in the first place .
+[0787] [39:10] mn047: oh
+[0788] [39:10] me010: Uh . I see .
+[0789] [39:11] me010: Yeah , that 's right .
+[0790] [39:12] mn048: Or wh
+[0791] [39:12] me010: There w
+[0792] [39:12] mn047: Oh from from Stuttgart ,
+[0793] [39:12] me010: That 's right .
+[0794] [39:12] me010: They w They had There were This was done with a two phase thing , where the chunk parser itself was pretty stupid
+[0795] [39:14] mn047: yeah , also
+[0796] [39:19] me010: and then there was a kind of trying to fit them together that h used more context .
+[0797] [39:22] mn048: Right .
+[0798] [39:23] mn048: Yeah
+[0799] [39:24] me010: Right ?
+[0800] [39:25] mn048: Well you s and and especially you did some some
+[0801] [39:29] mn048: um , l um
+[0802] [39:31] mn048: was a learning - based approach which learned from a big corpus of of trees .
+[0803] [39:34] me010: Right .
+[0804] [39:34] mn047: Mm - hmm .
+[0805] [39:35] me010: Right .
+[0806] [39:35] mn048: And yes the it the chunk parser was a finite - state machine that um Mark Light originally w worked on in while he was in Tuebingen
+[0807] [39:42] mn048: and then somebody else in Tuebingen picked that up . So it was done in Tuebingen ,
+[0808] [39:45] mn048: yeah .
+[0809] [39:46] mn048: Definitely .
+[0810] [39:46] me010: But is that the kind of thing y
+[0811] [39:47] me010: It sounds like the kind of thing that you were thinking of .
+[0812] [39:51] mn047: yeah .
+[0813] [39:51] mn048: Yeah I guess it 's similar .
+[0814] [39:52] mn047: yeah
+[0815] [39:52] mn047: that 's In this direction ,
+[0816] [39:55] mn047: yes
+[0817] [39:56] me010: What ?
+[0818] [39:56] mn047: Yeah , it 's in in this direction .
+[0819] [40:00] me010: Hmm .
+[0820] [40:00] mn015: The
+[0821] [40:02] mn015: From Michael Strube , I 've heard very good stuff about the chunk parser that is done by FORWISS ,
+[0822] [40:09] mn015: uh , which is in embassy doing the parsing .
+[0823] [40:14] mn048: Mm - hmm .
+[0824] [40:15] mn015: So this is sort of came as a surprise to me that you know , embassy s is featuring a nice parser
+[0825] [40:21] mn015: but it 's what I hear . One could also look at that and see whether there is some synergy possible .
+[0826] [40:24] mn047: Mm - hmm , yeah ,
+[0827] [40:25] mn047: it would be very interesting ,
+[0828] [40:27] mn047: Mm - hmm .
+[0829] [40:28] mn047: Mmm , yeah .
+[0830] [40:29] mn015: And they 're doing chunk parsing
+[0831] [40:31] mn015: and
+[0832] [40:33] mn015: I I can give you the names of the people who do it there .
+[0833] [40:36] mn015: But um .
+[0834] [40:40] mn015: Then there is of course more ways of parsing things .
+[0835] [40:44] me010: Of course .
+[0836] [40:44] me010: But But uh given th the constraints , that you want it to be small and fast and so forth , my guess is you 're probably into some kind of chunk parsing .
+[0837] [40:56] me010: And uh I 'm not a big believer in this um statistical you know , cleaning up
+[0838] [41:06] me010: uh
+[0839] [41:10] me010: It That seems to me kind of a last resort if uh you can't do it any other way .
+[0840] [41:19] me010: uh
+[0841] [41:20] me010: but I dunno .
+[0842] [41:20] me010: It may i i may be that 's what you guys finally decide do .
+[0843] [41:21] mn047: Hmm .
+[0844] [41:25] me010: Uh .
+[0845] [41:27] me010: And
+[0846] [41:28] me010: uh
+[0847] [41:29] mn047: Mm - hmm .
+[0848] [41:30] me010: There
+[0849] [41:33] me010: Fastus ?
+[0850] [41:35] mn047: um
+[0851] [41:35] me010: a
+[0852] [41:36] mn047: yeah , I 've I 've looked at it
+[0853] [41:37] mn047: but but it 's no not much uh information available .
+[0854] [41:41] me010: ah !
+[0855] [41:42] mn047: I found ,
+[0856] [41:42] mn047: but it 's also finite - state transducers , I thought .
+[0857] [41:45] me010: It is .
+[0858] [41:45] me010: Yeah .
+[0859] [41:46] me010: I mean it 's it was pretty ambitious .
+[0860] [41:47] mn047: and
+[0861] [41:47] me010: And of course it was English oriented ,
+[0862] [41:49] me010: um w
+[0863] [41:49] mn047: Yeah , and and Purely finite - state transducers are not so good for German since there 's um
+[0864] [41:56] me010: Right .
+[0865] [41:57] me010: Yeah , I guess that 's the point is is all the morphology and stuff .
+[0866] [41:57] mn047: The word order is is uh not fixed
+[0867] [42:00] me010: And English is all th all word order .
+[0868] [42:03] me010: And it makes a lot more sense .
+[0869] [42:03] mn047: Yeah .
+[0870] [42:04] me010: And e
+[0871] [42:05] me010: Yeah , OK .
+[0872] [42:06] me010: Good point .
+[0873] [42:07] me010: So in in in German you 've got uh most of this done with
+[0874] [42:10] mn047: Mm - hmm . Also it 's uh it 's um Yes , uh the um choice between uh this processing and that processing and my template matcher .
+[0875] [42:18] me010: Right .
+[0876] [42:20] me010: Right .
+[0877] [42:21] me010: So what about
+[0879] [42:22] me010: Um
+[0880] [42:25] me010: Did y
+[0881] [42:25] me010: like Morfix ?
+[0882] [42:26] me010: a a e y you 've got stemmers ?
+[0883] [42:28] me010: Or
+[0884] [42:30] mn047: Um , yeah but it 's all in the in the lexicon .
+[0885] [42:34] me010: But did you have that ?
+[0886] [42:35] mn047: So
+[0887] [42:36] mn047: Yeah th the information is available .
+[0888] [42:40] me010: OK .
+[0889] [42:40] me010: I see .
+[0890] [42:41] me010: So
+[0891] [42:42] me010: So y you just connect to the lexicon
+[0892] [42:42] mn047: So
+[0893] [42:45] mn047: Yeah
+[0894] [42:45] me010: and uh
+[0895] [42:46] me010: at least for German you have all all of the uh the stemming information .
+[0896] [42:51] mn047: Yeah , we can ,
+[0897] [42:52] mn047: oh yeah .
+[0898] [42:53] mn047: We have knowledge bases from from Verbmobil system we can use
+[0899] [42:55] me010: Yep .
+[0900] [42:56] mn047: and so .
+[0901] [43:01] me010: Right .
+[0902] [43:06] me010: But it it it doesn't look like i you 're using it .
+[0903] [43:09] me010: I didn't n see it being used in the current template uh parser .
+[0904] [43:15] me010: I
+[0905] [43:17] me010: of course we l actually only looked at the English .
+[0906] [43:18] mn047: It
+[0907] [43:20] me010: Did we look at the German ?
+[0908] [43:20] mn047: um
+[0909] [43:22] me010: I don't remember .
+[0910] [43:23] me010: So w wha
+[0911] [43:23] mn047: Yeah , but but it 's used for for stem forms .
+[0912] [43:28] mn048: n Well I think I think there 's some misunderstanding here
+[0913] [43:28] me010: i
+[0914] [43:29] mn047: Oh , OK .
+[0915] [43:30] mn048: it 's Morphix is not used on - line .
+[0916] [43:33] mn048: s so the lexicon might be derived by Morphix
+[0917] [43:33] mn047: What ?
+[0918] [43:35] mn048: but What what 's happening on - line is just um um a a retrieval from the lexicon which would give all the stemming information
+[0919] [43:35] me010: Right .
+[0920] [43:42] me010: Right .
+[0921] [43:42] mn047: Hmm .
+[0922] [43:43] mn048: so it would be a full foreign lexicon .
+[0923] [43:46] me010: And that 's what you have .
+[0924] [43:47] mn047: Yeah
+[0925] [43:47] mn048: Yep .
+[0926] [43:48] me010: OK .
+[0927] [43:49] me010: What
+[0928] [43:49] me010: uh I didn't reme
+[0929] [43:49] mn015: We threw out all the forms .
+[0930] [43:51] me010: Huh ?
+[0931] [43:51] mn015: We threw out all the forms
+[0932] [43:52] mn015: because , you know , English ,
+[0933] [43:53] mn015: well
+[0934] [43:54] me010: Oh OK ,
+[0935] [43:54] me010: so
+[0936] [43:55] mn047: Mm - hmm .
+[0937] [43:56] me010: So in German then you actually do case matching and things like in the in the pattern matcher or not ?
+[0938] [44:02] mn047: um Not yet but it 's planned to do that .
+[0939] [44:04] me010: OK .
+[0940] [44:06] me010: Cuz I r I didn't reme I didn't think I saw it .
+[0941] [44:08] me010: Have we looked at the German ?
+[0942] [44:08] mn047: Yeah
+[0943] [44:12] me010: Oh , I haven
+[0944] [44:12] me010: yeah
+[0945] [44:12] me010: that 's getting it from the lexicon is just fine .
+[0946] [44:15] me010: Yeah , yeah , yeah .
+[0947] [44:15] mn048: Sure ,
+[0948] [44:15] mn047: Oh yes .
+[0949] [44:15] mn048: right .
+[0950] [44:16] me010: No problem with that .
+[0951] [44:18] me010: um
+[0952] [44:21] me010: Yeah and here 's the case where the English and the German might really be significantly different .
+[0953] [44:27] me010: In terms of if you 're trying to build some fast parser and so forth
+[0954] [44:33] me010: and
+[0955] [44:35] me010: You really might wanna do it in a significantly different way .
+[0956] [44:41] me010: I don't know .
+[0957] [44:42] me010: So you 've you guys have looked at this ?
+[0958] [44:45] me010: also ?
+[0959] [44:45] me010: in terms of You know , w if you 're doing this for English as well as German
+[0960] [44:52] me010: Um Do you think now that it would be this doing it similarly ?
+[0961] [44:57] mn047: um Yeah ,
+[0962] [45:00] mn047: it 's um I think it 's um
+[0963] [45:03] mn047: yes , it 's it 's um possible to to do list processing .
+[0964] [45:08] mn047: and Maybe this is um more adequate for English
+[0965] [45:12] mn047: and in German um set processing is used .
+[0966] [45:15] me010: Set .
+[0967] [45:19] mn047: Maybe yeah .
+[0968] [45:21] mn047: Some extensions uh have to be made . For for a English version
+[0969] [45:31] me010: Mmm .
+[0970] [45:34] me010: OK .
+[0971] [45:35] me010: Interesting .
+[0972] [45:37] me010: Not easy .
+[0973] [45:38] mn015: Well there 's m I 'm sure there 's gonna be more discussion on that after your talk .
+[0974] [45:42] mn047: Mm - hmm ,
+[0975] [45:42] me010: Right .
+[0976] [45:42] mn047: yeah .
+[0977] [45:42] mn015: We 're just gonna foreshadow what we saw that
+[0978] [45:45] me010: Right .
+[0979] [45:46] mn015: and um
+[0980] [45:54] me010: Now actually ,
+[0981] [45:55] me010: um
+[0982] [45:58] me010: Are you guys free at five ?
+[0983] [46:01] me010: Or Do you have to go somewhere at five o ' clock tonight ?
+[0984] [46:03] me010: W in ten minutes ?
+[0985] [46:04] mn047: Ah
+[0986] [46:05] mn047: mmm . No .
+[0987] [46:06] mn048: uh
+[0988] [46:06] mn047: Oder there was an talk ?
+[0989] [46:08] mn048: Yeah , there there 's the um practice talk .
+[0990] [46:08] mn047: uh Mmm , yeah .
+[0991] [46:10] me010: Great .
+[0992] [46:11] me010: So you 're going to that .
+[0993] [46:11] mn048: Yeah , that that 's what we were planning to do .
+[0994] [46:12] me010: That 's good , because that will uh tell you a fair amount about The form of semantic construction grammar that we 're using .
+[0995] [46:13] mn048: Yeah .
+[0996] [46:23] me010: so So I th I think that probably as good an introduction as you 'll get .
+[0997] [46:23] mn048: Mm - hmm .
+[0998] [46:24] mn047: Ah .
+[0999] [46:30] me010: Uh to the form of of uh conceptual grammar that that w we have in mind for this .
+[1000] [46:38] mn047: Mmm , ah .
+[1001] [46:39] me010: It won't talk particularly about how that relates to what uh Robert was saying at the beginning .
+[1002] [46:48] me010: But let me give you a very short version of this .
+[1003] [46:50] me010: So we talked about the fact that There 're going to be a certain number of decisions That you want the knowledge modeler to make , that will be then fed to the function module , that does uh , route planning .
+[1004] [47:11] me010: It 's called the " route planner " or something .
+[1005] [47:12] mn048: Mm - hmm .
+[1006] [47:13] me010: So there are these decisions .
+[1007] [47:14] me010: And then one half of this we talked about at little bit is how if you had the right information ,
+[1008] [47:22] me010: if you knew something about what was said
+[1009] [47:25] me010: and about th the something about was the agent a tourist or a native or a business person
+[1010] [47:31] me010: or uh young or old ,
+[1011] [47:33] me010: whatever .
+[1012] [47:34] me010: That information ,
+[1013] [47:35] me010: and also about the
+[1014] [47:37] me010: Uh , what we 're calling " the entity " ,
+[1015] [47:39] me010: Is it a castle ,
+[1016] [47:40] me010: is it a bank ?
+[1017] [47:42] me010: Is it a s town square ,
+[1018] [47:43] me010: is it a statue ?
+[1019] [47:44] me010: Whatever .
+[1020] [47:45] me010: So all that kind of information could be combined into decision networks and give you decisions .
+[1021] [47:51] me010: But the other half of the problem is How would you get that kind of information from the parsed input ?
+[1022] [48:01] me010: So , um
+[1023] [48:03] me010: So what you might try to do is just build more templates , saying uh
+[1024] [48:08] me010: we 're trying to build a templ
+[1025] [48:10] me010: you know build a template that w uh somehow would capture the fact that he wants to take a picture .
+[1026] [48:11] mn047: Mmm .
+[1027] [48:17] me010: OK ?
+[1028] [48:17] me010: And and we could you could do this .
+[1029] [48:19] me010: And
+[1030] [48:22] mn047: Mmm .
+[1031] [48:23] me010: OK .
+[1032] [48:23] me010: You could do this .
+[1033] [48:24] me010: But uh from our point of view this is also a research project
+[1034] [48:29] me010: and there are a couple of people not here for various reasons who are doing doctoral dissertations on this ,
+[1035] [48:34] mn048: Mm - hmm .
+[1036] [48:35] me010: and the idea that we 're really after is a very deep semantics based on cognitive linguistics
+[1037] [48:44] me010: and the notion that there are a relatively small number of primitive conceptual schemas that characterize a lot of activity .
+[1038] [48:54] me010: So a typical one in this formulation is a container .
+[1039] [48:59] me010: So this is a static thing .
+[1040] [49:00] me010: And the notion is that all sorts of physical situations are characterized in terms of containers .
+[1041] [49:08] me010: Going in and out the portals and con
+[1042] [49:10] mn047: Mmm .
+[1043] [49:11] me010: OK .
+[1044] [49:12] me010: But also , importantly for Lakoff and these guys is all sorts of metaphorical things are also characterized this way .
+[1045] [49:18] me010: You get in trouble and you know et cetera
+[1046] [49:19] mn047: Mmm .
+[1047] [49:20] me010: and so s
+[1048] [49:21] me010: So , what we 're really trying to do is to map from the discourse to the conceptual semantics level .
+[1049] [49:30] me010: And from there to the appropriate decisions .
+[1050] [49:35] me010: So another one of these primitive , what are called " image schemas " , is uh goal seeking .
+[1051] [49:35] mn048: Mm - hmm .
+[1052] [49:43] me010: So this a notion of a source , path , goal , trajector , possibly obstacles .
+[1053] [49:43] mn048: Mm - hmm .
+[1054] [49:48] me010: And the idea is this is another conceptual primitive .
+[1055] [49:52] me010: And that all sorts of things , particularly in the tourist domain , can be represented in terms of uh source , path and goal .
+[1056] [49:52] mn048: Mm - hmm .
+[1057] [50:01] me010: So the idea would be could we build an analyser that would take an utterance
+[1058] [50:06] me010: and say " Aha !
+[1059] [50:07] me010: th this utterance is talking about an attempt to reach a goal .
+[1060] [50:11] me010: The goal is this ,
+[1061] [50:12] me010: the pers the , uh traveller is that ,
+[1062] [50:15] me010: uh
+[1063] [50:15] me010: the sor w where we are at now is is this ,
+[1064] [50:18] me010: they 've mentioned possible obstacles , et cetera . "
+[1065] [50:20] me010: So th the and this is an again attempt to get very wide coverage .
+[1066] [50:26] me010: So if you can do this , then the notion would be that across a very large range of domains , you could use this deep conceptual basis as the interface .
+[1067] [50:28] mn048: Mm - hmm .
+[1068] [50:35] mn048: Mm - hmm .
+[1069] [50:38] me010: And then ,
+[1070] [50:40] me010: uh
+[1071] [50:42] me010: The processing of that , both on the input end , recognizing that certain words in a language talk about containers or goals , et cetera ,
+[1072] [50:52] me010: and on the output end , given this kind of information , you can then uh make decisions about what actions to take .
+[1073] [51:02] me010: Provides , they claim , a very powerful , general notion of deep semantics .
+[1074] [51:10] me010: So that 's what we 're really doing .
+[1075] [51:12] mn048: Mm - hmm .
+[1076] [51:14] me010: And
+[1077] [51:16] me010: Nancy
+[1078] [51:17] me010: Her talk is going to be not about using this in applications , but about modeling how children might learn this kind of uh deep semantic grammar .
+[1079] [51:25] mn048: Mm - hmm .
+[1080] [51:26] mn048: Yep , yep .
+[1081] [51:32] mn048: And how do you envision um the the um this deep semantic to be worked with .
+[1082] [51:38] mn048: Would it be highly ambiguous if
+[1083] [51:40] mn048: and then there would be another module that takes that um highly underspecified deep semantic construction
+[1084] [51:46] mn048: and map it onto the current context to find out what the person really was talking about in that context .
+[1085] [51:52] me010: Well that 's that 's that 's where the belief - net comes in .
+[1086] [51:52] mn048: or
+[1087] [51:54] me010: So th the idea is ,
+[1088] [51:56] me010: let 's take this business about going to the Powder - Tower .
+[1089] [51:59] mn048: Mm - hmm .
+[1090] [51:59] me010: So part of what you 'll get out of this will be the fact tha w
+[1091] [52:04] me010: if it works right ,
+[1092] [52:06] me010: OK , that this is an agent that wants to go to this place
+[1093] [52:08] me010: and that 's their goal
+[1094] [52:10] me010: and there will be additional situational information .
+[1095] [52:10] mn048: Mm - hmm .
+[1096] [52:12] mn048: Oh , OK .
+[1097] [52:13] me010: Uh , OK ,
+[1098] [52:13] mn048: th
+[1099] [52:14] me010: part of it comes from the ontology .
+[1100] [52:15] me010: The tower is this kind of object .
+[1101] [52:16] mn048: Mm - hmm .
+[1102] [52:16] mn048: Yeah , OK .
+[1103] [52:17] me010: Part of it comes from the user model .
+[1104] [52:19] mn048: Mm - hmm .
+[1105] [52:19] me010: And the idea of the belief - net is it combines the information from the dialogue which comes across in this general way ,
+[1106] [52:28] mn048: Mm - hmm .
+[1107] [52:28] me010: you know this is a this is a goal seeking behavior , along with specific information from the ontology about the kinds of objects involved
+[1108] [52:30] mn048: Yeah
+[1109] [52:35] mn048: OK ,
+[1110] [52:35] mn048: Yeah ,
+[1111] [52:36] mn048: yep yep yep yep
+[1112] [52:36] me010: and about the situation about " Is it raining ? "
+[1113] [52:39] me010: I don't know .
+[1114] [52:39] me010: Whatever it is .
+[1115] [52:40] me010: And so that 's the belief - net that we 've laid out .
+[1116] [52:43] mn048: Mm - hmm .
+[1117] [52:44] me010: And so th the coupling to the situation comes in this model from , at th at th at the belief - net , combining evidence from the dialogue with the ontology with the situation .
+[1118] [52:52] mn048: Yeah .
+[1119] [52:55] mn047: Hmm .
+[1120] [52:58] me010: But Nancy isn't gonna talk about that ,
+[1121] [52:59] mn048: Yeah ,
+[1122] [53:00] me010: just about the um
+[1123] [53:00] mn048: oh yeah ,
+[1124] [53:00] mn048: I see ,
+[1125] [53:00] mn048: yeah yeah , really .
+[1126] [53:04] mn015: First steps .
+[1127] [53:05] me010: Right .
+[1128] [53:06] me010: The the construction grammar .
+[1129] [53:11] mn015: And she 's gonna start
+[1130] [53:12] mn015: in a minute .
+[1131] [53:12] me010: In a minute .
+[1132] [53:13] mn047: Ah , OK .
+[1133] [53:14] me010: OK .
+[1134] [53:16] mn036: Is it i in ,
+[1135] [53:17] mn036: then , your place , in five five - A ?
+[1136] [53:21] mn048: Alright .

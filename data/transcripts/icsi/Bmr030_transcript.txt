@@ -1,0 +1,895 @@
+================================================================================
+ICSI Meeting Transcript: Bmr030
+================================================================================
+
+Total Utterances: 888
+Unique Speakers: 5
+Duration: 26.13 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:00] me051: Mm - hmm .
+[0002] [00:00] me011: And we 're on .
+[0003] [00:02] me011: So
+[0004] [00:02] mn014: Time ?
+[0005] [00:04] mn014: Fourteen whatever .
+[0006] [00:06] me011: So
+[0007] [00:10] me011: ITR ,
+[0008] [00:10] me011: excuse me ,
+[0009] [00:11] me011: which was originally pretty big , but it 's divided among many sites ,
+[0010] [00:15] me011: and they , like , cut the budget by a th by two thirds .
+[0011] [00:19] me011: So they they approved it for all the sites ,
+[0012] [00:22] me011: but only gave us like sixty - two percent of the money .
+[0013] [00:25] me011: Or , excuse me , cut it by sixty - two percent .
+[0014] [00:26] mn014: Thirty - two .
+[0015] [00:27] mn014: Yeah . Thirty . Whatever .
+[0016] [00:29] me011: So
+[0017] [00:30] me011: And the other condition is that they have to get a budget out , like , immediately ,
+[0018] [00:34] me011: or the or they 'll give the money to someone else .
+[0019] [00:34] me018: By next Friday .
+[0020] [00:36] me011: So Morgan 's working on that .
+[0022] [00:37] me011: So , I mean , it 's good news .
+[0023] [00:38] me011: It 's not as good as it could have been
+[0024] [00:40] me011: but
+[0025] [00:42] me018: It 's more money .
+[0026] [00:42] me011: The the I T Rs are , you know , a a long shot , and so it 's it 's really nice that we got that .
+[0027] [00:47] me001: What does that stand for ?
+[0028] [00:49] me011: Information Technology Research ?
+[0029] [00:50] me011: Something like that ?
+[0030] [00:50] me018: Something like that .
+[0031] [00:51] me051: Hmm .
+[0032] [00:52] me001: Alright .
+[0033] [00:53] me011: It
+[0034] [00:53] mn014: Doesn't say much .
+[0035] [00:54] me001: Yeah , it 's pretty vague .
+[0036] [00:55] me018: It
+[0037] [00:55] me001: It 's government - run , I guess .
+[0038] [00:58] me018: Uh , I mean , we 're in conjunction with uh , SRI , Washington , and , um , Columbia .
+[0039] [01:01] me001: Mm - hmm .
+[0040] [01:04] me001: OK .
+[0041] [01:05] me018: And to do research on the meetings .
+[0042] [01:07] me001: Cool .
+[0043] [01:07] me011: Yeah , it was specifically on the meeting .
+[0044] [01:07] mn014: Not great .
+[0045] [01:09] me011: So , d was that the one that was the meeting maps ?
+[0046] [01:11] me018: Yeah .
+[0047] [01:12] me011: OK , good .
+[0048] [01:12] me011: I liked that one .
+[0049] [01:13] me018: Yeah .
+[0050] [01:14] mn014: What is meet meeting maps ?
+[0051] [01:15] me018: Mapping meetings , or ?
+[0052] [01:16] me011: Well , the the sort of general idea was , you can think about meetings at lots of different levels ,
+[0053] [01:21] me011: all the way d from all the way down to acoustics to all the way up to dialogue , discourse , topic .
+[0054] [01:24] mn014: Yeah .
+[0055] [01:26] mn014: Yeah .
+[0056] [01:27] mn014: Yeah .
+[0057] [01:28] me011: And so this this was , how do you map all that information onto that ?
+[0058] [01:32] me011: a onto the meeting domain .
+[0059] [01:32] me018: It 's like creating a m a map of a meeting , in a sense .
+[0060] [01:35] me011: So that the the analogy was you have maps of different things at different resolutions .
+[0061] [01:40] me011: And so , uh ,
+[0062] [01:41] mn014: Uh , OK .
+[0063] [01:43] me011: So this had a lot of different stuff in it .
+[0064] [01:43] mn014: OK .
+[0065] [01:44] me018: It actually doesn't have a whole lot of m speech stuff to it .
+[0066] [01:48] mn014: Yeah . Sure .
+[0067] [01:49] mn014: Yeah
+[0068] [01:49] me011: It 's mostly higher level .
+[0069] [01:49] me018: It
+[0070] [01:50] mn014: Yeah .
+[0071] [01:50] me018: Higher level , yeah .
+[0072] [01:50] me011: Yeah .
+[0073] [01:50] mn014: Yeah .
+[0074] [01:51] me011: But
+[0075] [01:54] me011: It 's a it 's a cool idea .
+[0076] [01:55] me011: And if we can actually get it get it going that would be neat .
+[0077] [02:00] me011: So And uh , this was the one also that was ,
+[0078] [02:02] me011: uh ,
+[0079] [02:04] me011: Was it with Susan Ervin - Tripp ?
+[0080] [02:07] me018: I don't remember .
+[0081] [02:08] me018: It might have been .
+[0082] [02:09] me018: Yeah
+[0083] [02:09] mn014: With who ?
+[0084] [02:10] me011: She 's a linguist on campus .
+[0085] [02:12] mn014: OK .
+[0086] [02:14] me011: Anyway .
+[0087] [02:15] me011: So , other topics I wanted to talk about are , um , the DARPA demo which , I guess , since Morgan isn't here we can't really talk about .
+[0088] [02:23] me011: I just wanted to make sure it was ready to go .
+[0089] [02:25] me001: Yeah .
+[0090] [02:26] me011: Uh
+[0091] [02:28] me001: I
+[0092] [02:28] me011: Your stuff is all ready
+[0093] [02:29] me011: so it 's just a question of , did Morgan get around to testing it .
+[0094] [02:32] me001: Yeah , and I sent you an email
+[0095] [02:34] me011: Yeah , I got it . With the instructions .
+[0096] [02:34] me001: with the instructions .
+[0097] [02:36] me001: I don't know .
+[0098] [02:36] me001: So
+[0099] [02:37] me001: I guess Morgan 's leaving on Saturday ?
+[0100] [02:39] me011: Yep .
+[0101] [02:40] me001: So until then ,
+[0102] [02:42] me001: I guess we might hear something ,
+[0103] [02:43] me011: Yeah , so I guess we ge we had better be on call for a little while .
+[0104] [02:43] me001: but
+[0105] [02:45] me001: Yeah , exactly .
+[0106] [02:48] me018: Did he ever figure out how to d switch between applications like he was wanting to do ?
+[0107] [02:52] me011: I don't know .
+[0108] [02:52] me011: I haven't spoken with him .
+[0109] [02:53] me001: Yeah .
+[0110] [02:53] me018: He did ?
+[0111] [02:53] me001: Oh - Yeah .
+[0112] [02:55] mn014: Switch between applications ?
+[0113] [02:55] me018: How is he gonna do it ?
+[0114] [02:56] me011: Alt Tab .
+[0115] [02:56] me001: It 's just Alt Tab .
+[0116] [02:58] me001: Like if you hold down Alt and then tap Tab , you just the s just the Task Manager w window comes up .
+[0117] [03:00] me018: Yeah
+[0118] [03:00] mn014: Yes
+[0119] [03:00] me011: I
+[0120] [03:01] me018: he
+[0121] [03:02] me018: Right .
+[0122] [03:02] me011: I think the problem was that , I was t saying " hit Alt Tab " with the assumption that he knew what I meant .
+[0123] [03:02] mn014: Yeah .
+[0124] [03:07] me011: But he didn't .
+[0125] [03:08] me011: So .
+[0126] [03:08] me018: No . He said he tried that , but he didn't like it because it ,
+[0127] [03:09] me001: We
+[0128] [03:11] me001: Well
+[0129] [03:12] me018: uh
+[0130] [03:13] me018: it took it out of the , um ,
+[0131] [03:15] me011: But it doesn't .
+[0132] [03:15] me018: presentation mode .
+[0133] [03:15] me011: It doesn't .
+[0134] [03:16] me001: Well , because if you just touch Alt a
+[0135] [03:17] me001: If you just hit it once ? it 'll go back to the previous application .
+[0136] [03:20] me001: And the previous application was the PowerPoint demo ,
+[0137] [03:23] me001: which
+[0138] [03:24] me018: Oh !
+[0139] [03:25] me011: And and all I said was oh just cycle through with Alt Tab
+[0140] [03:26] me001: Not the slide show .
+[0141] [03:27] me011: because that 's the standard way of doing it in Windows .
+[0142] [03:28] me001: Yeah
+[0143] [03:30] me011: But of course he doesn't use Windows .
+[0144] [03:30] me018: Yeah .
+[0145] [03:31] me001: Right .
+[0146] [03:32] me011: So ,
+[0147] [03:32] me011: he didn't know what I meant .
+[0148] [03:32] me018: Oh , so what do you have to do ?
+[0149] [03:33] me051: Hmm .
+[0150] [03:33] me018: You
+[0151] [03:33] me011: Hold down at hold down Alt ,
+[0152] [03:35] me011: and then tap Tab several times
+[0153] [03:37] me011: and you 'll cycle through all the open applications .
+[0154] [03:37] me001: Yeah .
+[0155] [03:38] mn014: Yeah .
+[0156] [03:39] me018: Ah
+[0157] [03:41] me018: And then you can come back to your full screen version of your presenta
+[0158] [03:42] me011: Right .
+[0159] [03:42] me001: Right .
+[0160] [03:42] mn014: Yeah .
+[0161] [03:43] me018: Oh !
+[0162] [03:44] me001: And I told them , um , if he decides to use multiple examples for , um , the prosody demo , to open up separate Transcribers .
+[0163] [03:50] me001: Just so you don't have to load up files e during the meeting .
+[0164] [03:53] me011: That 's a good idea .
+[0165] [03:53] mn014: Yeah .
+[0166] [03:54] me001: So .
+[0167] [03:54] mn014: Yeah .
+[0168] [03:54] me011: That 's not a bad idea at all ,
+[0169] [03:55] me011: so
+[0170] [03:55] me001: He 's got the memory for it .
+[0171] [03:56] me001: So .
+[0172] [03:57] me011: Yeah
+[0173] [03:59] me001: Yeah , they 're all really short .
+[0174] [04:00] me011: I mean the Tcl - TK overhead is pretty high ,
+[0175] [04:02] me011: but it shouldn't matter .
+[0176] [04:03] me018: How much memory does he have ?
+[0177] [04:03] me001: No
+[0178] [04:04] me001: I 'm sorry ?
+[0179] [04:05] me018: How much memory does he have ?
+[0180] [04:06] me001: I don't know ,
+[0181] [04:06] me001: but it seemed it didn't seem to be a problem at all .
+[0182] [04:08] me001: I would imagine you add sixty - four to a hundred and twenty eight .
+[0183] [04:08] me018: Hmm .
+[0184] [04:10] me011: I think he had one twenty - eight ,
+[0185] [04:11] me001: Yeah , either one will work , I think .
+[0186] [04:11] me011: eh ,
+[0187] [04:11] me011: but
+[0188] [04:13] me011: It was faster than my PC .
+[0189] [04:13] me001: I
+[0190] [04:13] me018: Hmm .
+[0191] [04:15] me011: So .
+[0192] [04:16] me018: Wow !
+[0193] [04:17] me001: Yeah , it was fine . I think y
+[0194] [04:19] me001: Yeah , I mean I I I We kinda walked through it a little bit on his p on his laptop .
+[0195] [04:25] me018: So , are we the only ones who are giving demo ? Or is , uh , Washington gonna have a demo too ?
+[0196] [04:25] me001: I could
+[0197] [04:32] me011: I assume . But they 're all doing Communicator stuff .
+[0198] [04:33] me018: or ?
+[0199] [04:35] me018: Oh ! OK .
+[0200] [04:36] me011: So .
+[0201] [04:38] me018: Hmm .
+[0202] [04:38] me001: And it 's part of the talk itself ,
+[0203] [04:39] me001: so it 's really not a big part .
+[0204] [04:41] me018: Yeah , I see .
+[0205] [04:41] me011: I mean , the talk 's only twenty minutes .
+[0206] [04:41] me001: It
+[0207] [04:43] me011: So . You know , all this time we spent on it 's gonna be thirty seconds of screen time .
+[0208] [04:45] me001: I know .
+[0209] [04:46] me018: Oh , my gosh .
+[0210] [04:46] me001: Right . Uh - huh .
+[0211] [04:47] me018: Oh .
+[0212] [04:48] me001: But it 's a good tool to have .
+[0213] [04:49] me011: Yeah , I
+[0214] [04:49] me001: The
+[0215] [04:52] me011: Actually , both of them .
+[0216] [04:53] me011: You
+[0217] [04:55] me001: Mm - hmm .
+[0218] [04:57] me011: uh
+[0219] [04:57] me011: help
+[0220] [04:58] me011: with the uh ,
+[0221] [04:59] me001: Prosody ?
+[0222] [04:59] me011: prosody stuff anyway .
+[0223] [05:03] me011: Um , so , actually , at some point w we should talk to users of that technology who are actually gonna be using it
+[0224] [05:08] me011: and see what they would like to see .
+[0225] [05:10] me001: Yeah , have you guys seen the display ?
+[0226] [05:11] me001: Have you guys seen either of the demos ?
+[0227] [05:12] me001: They 're pretty cool ,
+[0228] [05:12] me018: No .
+[0229] [05:13] mn014: Nope .
+[0230] [05:13] me001: like the prosody demo , we basically w loaded up um , word alignments .
+[0231] [05:17] me001: So , instead of having um , utterances in the bottom , it 's like just word by word .
+[0232] [05:21] me018: Mm - hmm .
+[0233] [05:21] me001: So you can see exactly where the overlaps are .
+[0234] [05:24] me018: Oh .
+[0235] [05:24] me001: And then , um , Adam did something where , um , we converted these feature files into wave files ,
+[0236] [05:29] me001: so you can display them .
+[0237] [05:31] me018: Display the features .
+[0238] [05:31] mn014: Instead of the wave file ?
+[0239] [05:31] me001: Yeah . Instead of the wave file .
+[0240] [05:32] mn014: Oh . OK .
+[0241] [05:33] me001: And then w using multi - wave you can add a file and play that sound .
+[0242] [05:36] me018: Mm - hmm .
+[0243] [05:36] me001: Play the audio corresponding to that , um , um , feature file ,
+[0244] [05:38] mn014: OK .
+[0245] [05:40] me001: and it 's all like , aligned and stuff .
+[0246] [05:40] mn014: Ah , great .
+[0247] [05:41] me018: So you see , like , the F - zero contour ?
+[0248] [05:42] me001: Yeah , so you see the pitch contours
+[0249] [05:44] me001: and you and when you hit play , like there 's a line that goes through it ,
+[0250] [05:46] me001: you know , and it 's all aligned with like the t the audio and the feature file .
+[0251] [05:47] me018: Mm - hmm .
+[0252] [05:48] mn014: Oh , that 's great .
+[0253] [05:48] me011: Audio .
+[0254] [05:49] mn014: Yeah .
+[0255] [05:49] me011: And the stylized F - naught features are pretty cool .
+[0256] [05:52] me018: Hmm .
+[0257] [05:52] me001: Yeah .
+[0258] [05:52] me011: So , these this it 's - does a piece - wise linear
+[0259] [05:54] me011: and so , normally if you look at an F - naught track , it jumps all over the place .
+[0260] [05:57] me018: Yeah .
+[0261] [05:57] mn014: Yeah .
+[0262] [05:58] me011: This is a nice smooth one
+[0263] [06:00] me018: Oh , neat .
+[0264] [06:00] me011: and it really does a good job .
+[0265] [06:00] mn014: And there 's something like a median filter in it ? or something ?
+[0266] [06:02] mn014: And uh , and it 's it 's a linear fit or whatever .
+[0267] [06:03] me001: Yeah
+[0268] [06:03] me011: It 's a combination .
+[0269] [06:03] me001: Yeah .
+[0270] [06:05] me001: There 's a median filtering and then there 's a piece - wise linear fit , based on some criteria .
+[0271] [06:05] mn014: Yeah .
+[0272] [06:07] mn014: Yeah .
+[0273] [06:09] me001: I 'm not sure .
+[0274] [06:09] mn014: OK .
+[0275] [06:09] me011: Uh , t
+[0276] [06:10] me011: G Actually could you email me a reference to that paper ? If you have it ?
+[0277] [06:13] me001: Yeah , sure .
+[0278] [06:13] me011: Cuz I 'm sorta curious how what criteria it has .
+[0279] [06:14] me001: I should email Morgan about it too ,
+[0280] [06:16] me001: because he was asking about that .
+[0281] [06:18] me001: And Yeah .
+[0282] [06:19] me011: I mean , so , there 's obviously a trade - off between the number of knots y you pick , and the best fit .
+[0283] [06:25] me011: I mean , so , if you 're doing a piece - wise linear , you have to figure out how many pieces you want .
+[0284] [06:27] mn014: Yeah .
+[0285] [06:30] mn014: Yeah . Sure .
+[0286] [06:30] me011: And so there 's a trade - off
+[0287] [06:31] me011: because the best the best mean squared fit would be with an infinite number of knots .
+[0288] [06:36] me001: Right , well , then it 's not a linear f fit .
+[0289] [06:36] mn014: Yeah .
+[0290] [06:37] mn014: Yeah . Yeah .
+[0291] [06:38] me001: You 're not fitting anything then .
+[0292] [06:38] me011: Well , sure it is .
+[0293] [06:39] me011: But
+[0294] [06:39] me001: Well
+[0295] [06:40] mn014: Yeah .
+[0296] [06:41] me011: So so you There 's a trade - off
+[0297] [06:41] me001: Yeah
+[0298] [06:42] me001: It 's kind of a useless one .
+[0299] [06:42] me011: and I 'm wondering what criteria they use .
+[0300] [06:44] me001: Yeah , I actually don't know off the top of my head .
+[0301] [06:46] me011: Mm - hmm .
+[0302] [06:47] me018: Was this code that you downloaded to do this ?
+[0303] [06:49] me018: Or
+[0304] [06:49] me001: This was um , Kemal Sonmez at SRI ,
+[0305] [06:52] me001: who 's a co - worker with , uh , Liz .
+[0306] [06:52] me018: Hmm .
+[0307] [06:52] me011: Dot com .
+[0308] [06:56] me018: At SRI dot com ?
+[0309] [06:58] me001: Yeah
+[0310] [06:59] me011: No , I you said " at SRI "
+[0311] [06:59] me018: No , i
+[0312] [07:00] me011: so I had to add the " dot com " .
+[0313] [07:01] me018: It sounded like a URL , the way you were saying it ,
+[0314] [07:02] me001: Oh . Oh .
+[0315] [07:03] me018: yeah .
+[0316] [07:04] me001: Sorry .
+[0317] [07:05] me001: Um
+[0318] [07:09] me001: He did a paper on this for some v speech verification , uh , project ,
+[0319] [07:13] me001: and we basically e extrapolated what he what he did for that work and applied it to our files .
+[0320] [07:20] me001: And that 's how we do That 's how we get our feature files and everything for all the prosody .
+[0321] [07:23] me018: So what I mean is , like the implementation that you used was something that you coded up here ?
+[0322] [07:27] me018: Or you grabbed code from somewhere else ?
+[0323] [07:27] me001: That
+[0324] [07:28] me001: No , we grabbed most of it .
+[0325] [07:30] me001: Like , we grabbed the linear fitting stuff .
+[0326] [07:30] me018: Ah .
+[0327] [07:31] me018: I see .
+[0328] [07:32] me001: We did all the alignments
+[0329] [07:33] me001: and all the matching and stuff ,
+[0330] [07:33] me018: Mm - hmm .
+[0331] [07:34] mn014: And
+[0332] [07:35] me001: but
+[0333] [07:37] mn014: And the
+[0334] [07:37] me001: the math was done somewhere else .
+[0335] [07:38] mn014: These are our F - zero candidates which I 'm supposed to use for the synthesis thing ?
+[0336] [07:44] mn014: I suppose ?
+[0337] [07:44] me001: Uh , so that 's what you were working on ,
+[0338] [07:46] me001: right ?
+[0339] [07:47] me051: Right . That 's the same software I used to get the data .
+[0340] [07:48] mn014: Yeah . OK .
+[0341] [07:50] mn014: OK .
+[0342] [07:50] me051: I I gave you a c couple examples ,
+[0343] [07:52] mn014: Yeah , I m didn't have time to to look at that ,
+[0344] [07:52] me051: and
+[0345] [07:53] me011: Hmm .
+[0346] [07:54] mn014: so .
+[0347] [07:54] me051: Right . Right .
+[0348] [07:55] mn014: Yeah .
+[0349] [07:59] me011: So , other topic is , uh , the IBM transcription status stuff .
+[0350] [08:04] me011: So we 've sent a few to them .
+[0351] [08:05] me011: We 've gotten a few back .
+[0352] [08:07] me011: Um ,
+[0353] [08:08] me011: I sorta wish Jane was were here
+[0354] [08:10] me011: because
+[0355] [08:11] me011: Didn't she give one of them to one of the transcribers ?
+[0356] [08:14] me018: Yeah , it 's done now .
+[0357] [08:15] me011: And , how was it ?
+[0358] [08:16] me018: She said it was much faster .
+[0359] [08:18] me011: Great .
+[0360] [08:18] me018: It really helped a lot to have that .
+[0361] [08:20] me018: So , um , you know , there were a l
+[0362] [08:20] mn014: Much faster than doing everything alone .
+[0363] [08:22] me011: Hand .
+[0364] [08:22] me018: From scratch .
+[0365] [08:23] mn014: OK .
+[0366] [08:24] me018: Yeah
+[0367] [08:24] me001: From end to en Like , from the beginning of the process to the end of the process ?
+[0368] [08:26] me018: No , f no . So from the point where we s take it , it 's faster .
+[0369] [08:29] me011: Well , but that 's what we wanted .
+[0370] [08:31] mn014: Yeah .
+[0371] [08:31] me011: Right .
+[0372] [08:31] me011: We knew it would be longer to have multiple groups .
+[0373] [08:32] me001: Ooo . Yeah .
+[0374] [08:34] me018: u So it 's sorta like doing things in parallel .
+[0375] [08:35] me001: Yeah , right .
+[0376] [08:35] me011: Right .
+[0377] [08:35] me018: You know ? So if , you know , if they can be working on that while we 're working on the other things , then when we get them in , they don't have to do that one from scratch , basically .
+[0378] [08:38] me011: Well , pipelined .
+[0379] [08:38] me001: Mm - hmm .
+[0380] [08:43] me001: Right .
+[0381] [08:43] me011: The idea is that we 're taking less time of the linguists .
+[0382] [08:46] me001: Right .
+[0383] [08:46] me011: Of the transcribers .
+[0384] [08:47] me011: So .
+[0385] [08:48] me001: S
+[0386] [08:48] me018: Yeah , th Right now it is taking a bit of time to turn around the meetings from IBM ,
+[0387] [08:52] me018: part
+[0388] [08:53] me018: There 's there 's several problems .
+[0389] [08:54] me018: One is , um , we were giving them these large files ,
+[0390] [08:58] mn014: Fff !
+[0391] [08:58] me018: which they then had to split up and put onto cassette tapes .
+[0392] [09:01] me018: So either ninety minute or sixty minute tapes ,
+[0393] [09:02] me001: Oh .
+[0394] [09:03] me018: so they had to try to find an appropriate place to break this large file that we gave them .
+[0395] [09:07] me018: So one of the things that we did is , Adam made a modification to th his script that generates this so you can tell it that you want , uh , basically , uh , chunks that are no more than either thirty or forty - five minutes .
+[0396] [09:19] me001: Mm - hmm .
+[0397] [09:19] me018: And then we can give those to IBM
+[0398] [09:20] me018: and it 'll make it easier for them to put them on tape .
+[0399] [09:22] me018: Um , then the other thing is that these pool of transcribers that they 're using , um , sort of are not dedicated to to our project ,
+[0400] [09:30] me018: but are in use for all IBM projects ,
+[0401] [09:33] me018: and IBM has recently giving given them uh , a whole bunch of stuff .
+[0402] [09:38] me018: So it 's gonna , sort of delay us .
+[0403] [09:40] me011: We might wanna revisit hiring our own external transcription company .
+[0404] [09:45] me011: Because I think that would be cheaper than having our people do it ,
+[0405] [09:48] me011: but do it with the same process with these beep files .
+[0406] [09:50] me018: Hmm , that 's an interesting idea .
+[0407] [09:51] me011: I mean , cuz , originally I had disc discounted that
+[0408] [09:54] me011: because it was just gonna be too hard .
+[0409] [09:56] me011: But now we have this procedure with the beep files worked out .
+[0410] [09:58] me018: Yeah . So the only difference would be , we would be putting the stuff on tape versus IBM .
+[0411] [09:59] me011: Then maybe it would be OK .
+[0412] [10:02] mn014: Yeah .
+[0413] [10:02] me011: Yep .
+[0414] [10:03] me018: And then we could send If if we had that process down , of putting the audio onto tape ,
+[0415] [10:08] me018: we can send IBM the tapes or we can send this transcription place the tape
+[0416] [10:10] me011: And we might wanna do that anyway .
+[0417] [10:11] me011: Because it seems like that 's being a bottleneck and that 's silly .
+[0418] [10:14] me011: It shouldn't be a bottleneck .
+[0419] [10:15] me018: Yeah .
+[0420] [10:16] me011: I
+[0421] [10:18] me018: Well , u u
+[0422] [10:19] me018: So , I don't know where the bottleneck was .
+[0423] [10:21] me018: Was the bottleneck in breaking this large file up into the appropriate size chunks ? or was it actually putting it onto the tape ?
+[0424] [10:27] me011: It may well have been partially that , you know ,
+[0425] [10:28] me011: because they tried it ,
+[0426] [10:29] me011: and then they would have to listen to the tape and find out where it bleeps ,
+[0427] [10:32] me018: Exactly .
+[0428] [10:32] me011: and go forward in the file , et cetera , et cetera .
+[0429] [10:33] me018: Yeah .
+[0430] [10:34] me011: But , uh ,
+[0431] [10:35] me018: Yeah .
+[0432] [10:36] me011: it just seems like it 's not hard for us to do ,
+[0433] [10:39] me011: and that would just make things go faster .
+[0434] [10:41] me018: Yeah , so how do we do that ?
+[0435] [10:43] me018: How
+[0436] [10:43] me011: Get a tape deck ,
+[0437] [10:44] mn014: Yeah .
+[0438] [10:44] me018: Yeah .
+[0439] [10:45] me011: plug it in to the computer ,
+[0440] [10:45] mn014: Plug it into the sound card .
+[0441] [10:46] me011: hit record ,
+[0442] [10:48] me011: on the tape deck ,
+[0443] [10:48] mn014: Yeah .
+[0444] [10:49] me011: and just do it all all uh , analog .
+[0445] [10:51] me018: So plug i So , like , the headphone output in the back of the computer ?
+[0446] [10:54] me011: Well , line out .
+[0447] [10:54] mn014: Line out , yeah .
+[0448] [10:55] me018: Line - out into the line - in on a tape player ,
+[0449] [10:57] me011: Mm - hmm .
+[0450] [10:58] me001: Hmm .
+[0451] [10:58] mn014: Yep .
+[0452] [10:58] me018: and
+[0453] [10:59] me018: Oh ! Well , that sounds pretty easy .
+[0454] [11:00] me011: So I mean , that 's the easy way .
+[0455] [11:01] me011: They might have a more complex set - up at IBM .
+[0456] [11:03] me011: I 've seen digital digital analog tapes where it 's controlled by the computer .
+[0457] [11:09] mn014: Yeah
+[0458] [11:09] me018: Mmm .
+[0459] [11:10] me011: But w But we don't need to do that .
+[0460] [11:10] mn014: Yeah . I know .
+[0461] [11:11] mn014: No .
+[0462] [11:11] mn014: Yeah .
+[0463] [11:11] me011: The the disadvantage of doing it this way is it 's real time .
+[0464] [11:14] me011: So you would have to sit there for an hour while it 's recording .
+[0465] [11:17] me018: Yeah
+[0466] [11:17] me011: But
+[0467] [11:18] mn014: Yeah
+[0468] [11:19] mn014: Yeah . Pfff . Yeah .
+[0469] [11:19] me011: Right . It 's not a big deal .
+[0470] [11:20] me001: So , what 's the turn around period right now from IBM ?
+[0471] [11:23] me018: Well
+[0472] [11:24] me001: Should we be discussing this ,
+[0473] [11:24] me018: OK .
+[0474] [11:25] me018: So
+[0475] [11:28] me018: Since we started doing this new , uh , beep format with " beep number beep " ,
+[0476] [11:32] me001: Mm - hmm .
+[0477] [11:33] me018: they 've given us , uh , I think , two full , uh , transcripts .
+[0478] [11:37] me018: They have a third one
+[0479] [11:38] me018: and Brian just sent me a note saying " oh , that third one somehow slipped through the cracks of their tr of the eh transcriptionists ' , uh , s company " .
+[0480] [11:45] me001: Mmm .
+[0481] [11:47] me018: And so there 's gonna be delay of a week before we get that third one back .
+[0482] [11:50] me018: And I 've already given him three more to work on ,
+[0483] [11:51] me001: OK .
+[0484] [11:52] me018: but he said those new three won't get done until this big chunk of data has been processed by the company .
+[0485] [11:59] me001: OK .
+[0486] [12:00] me001: And the transcribers here are still , uh are working , though .
+[0487] [12:03] me018: Yeah . Yeah , they 're working away .
+[0488] [12:04] me001: Th - they 're just doing their own thing , like , while they 're waiting .
+[0489] [12:05] me018: They
+[0490] [12:05] me018: Right , right .
+[0491] [12:06] me001: OK .
+[0492] [12:06] me018: So
+[0493] [12:12] me018: well , into the the , uh , master sheet here with the statuses
+[0494] [12:12] me011: Master .
+[0495] [12:15] me001: Mm - hmm .
+[0496] [12:15] me018: and I pick ones that Thilo has , um , pre - segmented ,
+[0497] [12:19] me018: and I change the status to " Trans - IP IBM " ,
+[0498] [12:22] me018: so that , you know , when Jane or whoever goes to select the next meeting they won't choose one of those .
+[0499] [12:27] me018: And
+[0500] [12:28] me018: So I 'm not picking huge chunks , right now , of meetings for them ,
+[0501] [12:29] me011: So
+[0502] [12:31] me011: We should at least ask , um , Brian if there are any particular requirements for putting things on tape .
+[0503] [12:32] me001: Mm - hmm .
+[0504] [12:32] me018: but
+[0505] [12:38] me011: Is there a particular type of tape that they want to use or anything else like that ?
+[0506] [12:42] me018: Mm - hmm . That 's a good idea .
+[0507] [12:43] me011: And
+[0508] [12:46] me011: And then we should see how much of a pain it is for one of us .
+[0509] [12:48] me011: I mean the o the other problem is you would wanna r do it on an unloaded machine .
+[0510] [12:53] me011: Right ?
+[0511] [12:54] me011: Because you wouldn't want it to start stuttering .
+[0512] [12:54] mn014: Yep .
+[0513] [12:55] mn014: Yeah .
+[0514] [12:56] me018: Yeah .
+[0515] [12:56] mn014: Yeah .
+[0516] [12:58] me018: Huh .
+[0517] [13:00] me011: And that means That that 's more of a problem
+[0518] [13:01] mn014: And
+[0519] [13:02] me011: because y then you have to be there .
+[0520] [13:03] mn014: Yeah .
+[0521] [13:05] mn014: And all of the P Cs are connected to the network , too , here .
+[0522] [13:05] me001: What i
+[0523] [13:08] mn014: Or , uh ,
+[0524] [13:08] me011: Right .
+[0525] [13:09] me001: You 're just talking about playing it and recording it , like , real - time ?
+[0526] [13:09] mn014: bad .
+[0527] [13:14] me011: Yep .
+[0528] [13:15] me001: Oh .
+[0529] [13:16] me018: So when that thing When it stutters like that , is it because there 's a delay getting the data off a disk ? Or is it because there 's a delay in the D to A ?
+[0530] [13:20] me011: Mm - hmm .
+[0531] [13:23] me011: It could be either .
+[0532] [13:24] me011: I mean , there are lots of different places .
+[0533] [13:24] me018: OK .
+[0534] [13:25] me011: It can be delay on the disk ,
+[0535] [13:27] me011: or it can be just load gets high on the machine .
+[0536] [13:29] me018: Yeah .
+[0537] [13:30] me011: Um , either IO load or processor load .
+[0538] [13:33] me018: I see .
+[0539] [13:34] me011: You know , it 's a problem with these multi - user systems is that lots of processes are running
+[0540] [13:38] me011: and you don't t really have control .
+[0541] [13:40] me018: Maybe we could do it from a w a PC or something .
+[0542] [13:41] me011: Wha
+[0543] [13:42] mn014: Yeah .
+[0544] [13:43] mn014: But they are also on the networks ,
+[0545] [13:43] me018: Yeah .
+[0546] [13:45] mn014: so .
+[0547] [13:45] me051: If you used a line out , too , you have to worry about if you click around and you hit a beep or something . It 'll beep onto onto the tape too .
+[0548] [13:45] mn014: Maybe .
+[0549] [13:50] me011: That 's true .
+[0550] [13:52] me011: It
+[0551] [13:52] me011: That
+[0554] [13:57] me001: And you have to record every channel separately .
+[0555] [13:59] me011: No , because we 're doing the beep files .
+[0556] [14:00] mn014: The beep files .
+[0557] [14:01] me018: Well , you know , I I think David might have a bunch of o old P Cs ,
+[0558] [14:01] me001: Oh , OK .
+[0559] [14:05] me018: cuz he 's replacing them with these new ones .
+[0560] [14:07] me018: Maybe we could get one ,
+[0561] [14:08] me018: and just dedicate it to doing this .
+[0562] [14:10] me018: Not even hook it u
+[0563] [14:10] me018: Well , I guess we need to hook it to the network
+[0564] [14:11] me001: We
+[0565] [14:12] me018: so we can get the files to it ,
+[0566] [14:13] me018: but
+[0567] [14:14] me011: Yep .
+[0568] [14:14] me018: Uh ,
+[0569] [14:16] me011: Or you could just You could have it no active connection .
+[0570] [14:18] me011: Just SCP them .
+[0571] [14:20] me018: Yeah . Right .
+[0572] [14:22] me018: And then just use that machine to hook up to the tape .
+[0573] [14:24] me011: Actually , it wouldn't be bad to have that , plus put on that machine a CD burner .
+[0574] [14:29] mn014: Yep .
+[0575] [14:29] me018: Yeah .
+[0576] [14:30] me018: We don't need a powerful machine to do these things ,
+[0577] [14:32] me018: right ?
+[0578] [14:32] me011: No .
+[0579] [14:32] me018: So
+[0580] [14:36] me018: Hmm .
+[0581] [14:37] me018: Should talk to him about that .
+[0582] [14:38] mn014: Or even a DVD burner .
+[0583] [14:39] me011: A DVD burner , yeah .
+[0585] [14:41] me011: I guess the real question is , where would we put it and who would do it ?
+[0586] [14:45] me011: I guess whoever records the meeting .
+[0587] [14:47] me011: I mean , it it 's not a big deal ,
+[0588] [14:49] me011: but it 's yet another thing you have to do .
+[0589] [14:50] me018: Yeah , yeah .
+[0590] [14:52] me018: That 's why I wanted to avoid having to do that if we could ,
+[0591] [14:55] me018: but
+[0592] [14:57] me018: It
+[0593] [14:57] me001: They couldn't use C Ds ?
+[0594] [15:00] me011: No , because the transcription company does what they do .
+[0595] [15:02] me018: They have a um a device that , you put the cassette in
+[0596] [15:05] me018: and it has a foot pedal that lets you go back and forth and stuff like that .
+[0597] [15:06] me001: Oh , I see .
+[0598] [15:08] me001: I see .
+[0599] [15:08] me018: So .
+[0600] [15:12] me018: I guess they haven't got a p
+[0601] [15:14] me011: Actually there are a few I saw a web - based one at one point .
+[0602] [15:17] mn014: Web - based ?
+[0603] [15:17] me011: Where you could send them audio files over the web
+[0604] [15:20] me011: and they send you back text files over the web .
+[0605] [15:20] me018: Really !
+[0606] [15:22] me011: I should look that up again .
+[0607] [15:24] me018: Y can you send them huge audio files ?
+[0608] [15:26] me011: Mmm . Mmm .
+[0609] [15:27] mn014: You can ,
+[0610] [15:27] mn014: but they never will be able to read them .
+[0611] [15:28] me018: Yeah .
+[0612] [15:29] me011: I assume that you can send them anything that they can access with HTTP .
+[0613] [15:33] me018: Huh !
+[0614] [15:36] me001: Well , they must be dealing with large amounts of data if they 're transcribing , anyway .
+[0615] [15:36] me018: That 's interesting .
+[0616] [15:39] mn014: Yeah .
+[0617] [15:40] me001: I mean People probably aren't sending them , you know an utterance or two .
+[0618] [15:40] me018: Well , that 's true .
+[0619] [15:44] me018: Are How big are these files that we send to Brian ?
+[0620] [15:47] mn014: Uh , pfff !
+[0621] [15:47] me011: Half a gig .
+[0622] [15:49] me018: Really ?
+[0623] [15:49] me018: That big ?
+[0624] [15:51] me011: Oh , no , wait .
+[0625] [15:51] me018: I thought it was , like , a hundred megs .
+[0626] [15:52] me011: They 're the beep files .
+[0627] [15:53] me011: Yeah , it 's a p hundred meg .
+[0628] [15:54] me011: They 're the beep files .
+[0629] [15:54] me011: That 's right .
+[0630] [15:55] me011: So they 're smaller .
+[0631] [15:55] me018: Yeah .
+[0632] [15:57] me018: Hmm .
+[0633] [15:58] me018: That 's still pretty dang big .
+[0634] [15:59] me011: Yes .
+[0635] [16:02] mn014: Send it via email .
+[0636] [16:03] me018: Yeah .
+[0637] [16:03] me011: And we are sending them the compressed ones ,
+[0638] [16:05] me011: right ?
+[0639] [16:07] me018: I don't know .
+[0640] [16:08] me018: Wha - whatever you generate .
+[0641] [16:09] me011: Yeah .
+[0642] [16:10] me018: Yeah , the last ones you did were compressed .
+[0643] [16:12] me011: Were " shortened " .
+[0644] [16:12] me011: Yeah .
+[0645] [16:12] me018: Yeah .
+[0646] [16:14] me018: Wonder if the ones before that were shortened .
+[0647] [16:16] me011: Yeah .
+[0648] [16:17] me011: The beep files , actually the " shorten " doesn't save a whole lot .
+[0649] [16:20] me011: Right ?
+[0650] [16:20] me018: Cuz
+[0651] [16:21] me011: Because the whole point is that it 's extracting pie pars parts that are loud anyway .
+[0652] [16:21] mn014: It 's all speech .
+[0653] [16:22] mn014: Yeah . Yeah .
+[0655] [16:25] me018: Mmm .
+[0656] [16:25] me011: So .
+[0657] [16:26] me018: Hmm !
+[0658] [16:28] me011: I think it only saves , like , half .
+[0659] [16:30] mn014: Only .
+[0660] [16:34] me011: OK . So I think we just gotta let things slide for now ,
+[0661] [16:37] me011: and see see what 's gonna happen .
+[0662] [16:38] me018: Yeah .
+[0663] [16:39] me011: Nothing else really to do .
+[0664] [16:41] me011: Um ,
+[0665] [16:44] me011: We have new equipment that I 'm gonna try to set up tomorrow .
+[0666] [16:48] me011: New wireless .
+[0667] [16:49] me018: What will that do ?
+[0668] [16:49] me011: And
+[0669] [16:50] me018: Is that going to ?
+[0670] [16:51] me011: Give us a couple more wireless channels .
+[0671] [16:53] me018: Oh
+[0672] [16:54] me011: Yep .
+[0673] [16:54] me018: Oh ! That 'll be nice .
+[0674] [16:55] me011: Yep .
+[0675] [16:57] me011: But it involves rewiring .
+[0676] [16:59] me011: And so , if I could borrow someone tomorrow afternoon to help my brain .
+[0677] [17:03] me018: I should be around .
+[0678] [17:05] me011: You know , just have someone to bounce the instructions off of
+[0679] [17:08] me011: and make sure I don't do anything too stupid .
+[0680] [17:12] mn014: Yeah , sure .
+[0681] [17:15] me011: Did I have another topic on the on the list ?
+[0682] [17:17] me018: Experiments ?
+[0683] [17:19] me001: Isn't that next week ?
+[0684] [17:20] me011: That
+[0685] [17:20] mn014: Experiments ?
+[0686] [17:21] me018: Yeah , I guess that 's probably next .
+[0687] [17:21] mn014: Yeah .
+[0688] [17:21] mn014: These are next week .
+[0689] [17:21] me011: Wha - what did I have on the agenda I mailed out ?
+[0690] [17:22] me018: Yeah .
+[0691] [17:23] me001: I
+[0692] [17:24] me001: Oh yeah , I don't know .
+[0693] [17:25] mn014: The demo ?
+[0694] [17:26] me018: Something
+[0695] [17:26] me001: The demo was one of them .
+[0696] [17:27] mn014: Demo and IBM , I think .
+[0697] [17:27] me018: Demo .
+[0698] [17:28] me011: Yeah , that 's it .
+[0699] [17:28] mn014: Yeah .
+[0700] [17:28] me001: Yeah . I think that 's it .
+[0701] [17:29] mn014: Yeah .
+[0702] [17:29] me011: That was it .
+[0703] [17:30] me018: Yeah .
+[0704] [17:30] mn014: Short meeting ?
+[0705] [17:31] me018: Yeah .
+[0706] [17:31] me011: Short meeting ?
+[0707] [17:32] me011: Does anyone have anything else ?
+[0708] [17:35] me018: Oh
+[0709] [17:36] me018: Oh , but that 's not specific to Meeting Recorder .
+[0710] [17:38] me018: I was gonna say I took some a suggestion of Adam 's ,
+[0711] [17:41] me018: and I , um , created a m CGI script that lets you see the current status of the speech disks .
+[0712] [17:50] me001: Mm - hmm .
+[0713] [17:50] me018: So if you go to the speech local web page , and then there 's a disk status page .
+[0714] [17:55] me018: You can click on that
+[0715] [17:56] me018: and it 'll query Abbott ,
+[0716] [17:57] me018: and give you a a list of all the disks that we have
+[0717] [18:01] me018: and then , uh , what 's on each one ,
+[0718] [18:03] me018: and then it shows how big the disk is
+[0719] [18:05] me018: and what percent full it is .
+[0720] [18:06] me001: Cool .
+[0721] [18:06] me018: So .
+[0722] [18:07] me018: And that 's , you know , each time you go there , it 's updated .
+[0723] [18:09] me018: So .
+[0724] [18:09] me001: So , the new disks are installed now ?
+[0725] [18:09] mn014: So
+[0726] [18:11] me001: Or ?
+[0727] [18:11] me018: The new disks are installed .
+[0728] [18:12] me018: If you need space just let me know .
+[0729] [18:14] me018: I have to create the p appropriate sub - directory .
+[0730] [18:17] me018: So we 're s kinda trying to keep even the scratch ones we 're keeping a little organized , where we put a y a U doctor speech data ,
+[0731] [18:22] me001: Mm - hmm .
+[0732] [18:23] me018: and then I 'll either create a sub - directory for , like if it 's Meeting Recorder project , or Hub - five or whatever .
+[0733] [18:29] me018: So we c
+[0734] [18:30] me018: I just have to create those sub - directories ,
+[0735] [18:32] me001: OK .
+[0736] [18:32] me011: Do we have new DD disks also ?
+[0737] [18:32] me018: and
+[0738] [18:34] me018: No .
+[0739] [18:35] me011: Darn .
+[0740] [18:35] me018: No .
+[0741] [18:36] me018: Nnn .
+[0742] [18:36] me011: So , it 's all just scratch .
+[0743] [18:38] me018: It 's all scratch .
+[0744] [18:38] me011: OK .
+[0745] [18:39] me018: Yeah .
+[0746] [18:39] me011: How
+[0747] [18:42] me018: Uh
+[0748] [18:46] me011: No , DE is full .
+[0749] [18:47] me011: We must be doing it on D F .
+[0750] [18:49] me018: No , it 's D E .
+[0751] [18:50] mn014: D E , I think ,
+[0752] [18:50] me018: D E 's not full .
+[0753] [18:50] mn014: yeah ?
+[0754] [18:51] mn014: D D is full .
+[0755] [18:52] me018: DD 's full .
+[0756] [18:53] me018: That was the first one .
+[0757] [18:54] me018: Or , that was the last one that w filled up ,
+[0758] [18:56] me018: and DE still had like ,
+[0759] [18:56] me011: OK , I guess I 'm just one off .
+[0760] [18:58] me018: last time I looked it was like seven gigs or something .
+[0761] [19:00] me011: OK .
+[0762] [19:00] me018: So .
+[0763] [19:01] me018: And each meeting is roughly half a gig ,
+[0764] [19:02] me011: Half .
+[0765] [19:03] me018: and so .
+[0766] [19:04] me011: So that means we 're p getting pretty close .
+[0767] [19:05] me018: We 're getting close .
+[0768] [19:06] me018: Yeah .
+[0769] [19:06] me018: So .
+[0770] [19:07] me011: Shoot !
+[0771] [19:09] me001: Are we g just gonna keep recording ?
+[0772] [19:09] me018: Yeah .
+[0773] [19:10] me001: Like
+[0774] [19:12] me018: Morgan said something about stopping at the end of the year .
+[0775] [19:14] me001: OK .
+[0776] [19:14] me018: Like when we get around a hundred meetings .
+[0777] [19:16] me001: OK .
+[0778] [19:17] me018: Um , because there 's gonna be data coming from UW , hopefully by then .
+[0779] [19:20] me001: Cuz u
+[0780] [19:21] me011: I just hate not to get data .
+[0781] [19:21] me001: How m
+[0782] [19:23] me018: Yeah , it feels funny ,
+[0783] [19:24] me018: huh ?
+[0784] [19:24] me001: You 're a data fiend .
+[0785] [19:24] me018: If we have the capability .
+[0786] [19:24] me011: Yeah .
+[0787] [19:26] me001: Yeah , it 's like you build this room up for so long ,
+[0788] [19:29] me001: and then it 's just like , you stop .
+[0789] [19:30] me018: Now that we 're used to recording , it 's like , eh , well , why not keep going ?
+[0790] [19:34] me011: I The other thing we could do is stop doing the regular ones .
+[0791] [19:37] me011: And try to convince other topics to come in and do some .
+[0792] [19:41] me011: Cuz I think that would be nice .
+[0793] [19:42] me018: Mm - hmm .
+[0794] [19:43] me018: We have right now , like , seventy - five or seventy - six hours of meetings .
+[0795] [19:48] me011: Yeah , the other thing we were talking about also is once we exp once the disk has been backed up , we don't actually need it on - line .
+[0796] [19:57] me011: So another option is to copy it to tape manually
+[0797] [20:00] me011: so we have the back - up copy and the tape copy ,
+[0798] [20:03] me011: the archive copy and the back - up copy .
+[0799] [20:05] me011: And then just take them off - line .
+[0800] [20:08] me018: But
+[0801] [20:10] me011: Once we have the expanded versions .
+[0802] [20:12] me011: So if we have a ton of scratch disk maybe the thing to do is leave those up ,
+[0803] [20:13] me018: Oh .
+[0804] [20:17] me018: Yeah .
+[0805] [20:17] me011: and then use And then not necessarily have the original data on - line .
+[0806] [20:24] me018: Yeah , we need to figure something out ,
+[0807] [20:26] me018: cuz
+[0808] [20:29] me011: Full .
+[0809] [20:29] me018: e e We can't add anymore disks to it .
+[0810] [20:31] me018: We can increase the size of the disks that are on it ,
+[0811] [20:33] me018: but that will only take us so far .
+[0812] [20:36] me018: So , um ,
+[0813] [20:37] me018: David had the suggestion about , you know , new servers and things like that ,
+[0814] [20:41] me018: and so I 'm gonna see if we can talk to Morgan about getting some money for a new disk server .
+[0815] [20:48] me018: And
+[0816] [20:50] me011: Well , that would be pretty tight i in the machine room .
+[0817] [20:53] me018: Yeah , it would have to replace Abbott , basically .
+[0818] [20:56] me011: Eesh !
+[0819] [20:56] me018: Yeah .
+[0820] [20:57] me018: Well , he David 's planning to get new servers anyways for all of the main servers .
+[0821] [21:01] me011: Mm - hmm .
+[0822] [21:02] me018: I think he wants to sorta go with the same type of machine for all of these .
+[0823] [21:06] me018: But
+[0824] [21:08] me018: Yeah , it 's full in there .
+[0825] [21:09] me018: Have
+[0826] [21:12] me001: Mm - mmm .
+[0827] [21:12] me018: uh , the SUN - Blade - one - hundreds ?
+[0828] [21:14] me018: They 're like stacked up on benches and things all over .
+[0829] [21:17] me018: It 's really crowded .
+[0830] [21:19] me018: So .
+[0831] [21:20] mn014: But they are not yet accessible ?
+[0832] [21:22] mn014: The new machines ?
+[0833] [21:22] me018: Oh , yeah . Yeah , yeah .
+[0834] [21:23] mn014: Yeah ? They are ?
+[0835] [21:23] me018: They
+[0836] [21:24] mn014: Oop .
+[0837] [21:25] me011: What are they called ?
+[0838] [21:25] me011: What are they named ?
+[0839] [21:26] mn014: Yeah .
+[0840] [21:27] me018: Oh ! I 've forgotten now .
+[0841] [21:28] me018: Um .
+[0842] [21:30] me011: I assume they 're in the P - make pool .
+[0843] [21:31] me018: Yeah . They 're in the P - make pool .
+[0844] [21:32] me018: So if you do a " reginfo minus show attribute " , and
+[0845] [21:36] me018: uh
+[0846] [21:36] mn014: A what ?
+[0847] [21:37] me018: A r
+[0848] [21:38] me011: P - make stuff .
+[0849] [21:38] me011: P - make magic .
+[0850] [21:39] me018: Yeah . Y
+[0851] [21:40] me011: Or customs magic .
+[0852] [21:40] mn014: Oh god .
+[0853] [21:41] me018: You can get a list of all the machines that are available to P - make , by using the command " reginfo
+[0854] [21:44] mn014: OK .
+[0855] [21:46] mn014: " Reginfo " , OK .
+[0856] [21:47] me018: minus show - ATTR " .
+[0857] [21:50] mn014: Maybe you can send me that .
+[0858] [21:50] me018: Yeah .
+[0859] [21:51] me018: Yeah .
+[0860] [21:52] me018: And
+[0861] [21:53] me011: If you do " man customs " , it has almost all of that .
+[0862] [21:55] mn014: OK .
+[0863] [21:56] me018: Yeah .
+[0864] [21:56] me018: And I for I 'm not sure what attributes we attach to the SUN - Blade - one - hundreds ,
+[0865] [22:01] me018: but it could be SB - one - hundred .
+[0866] [22:03] me018: And so if you query for f all machines that have that attribute , then you should see the names of the new machines .
+[0867] [22:05] mn014: OK .
+[0868] [22:07] mn014: OK .
+[0869] [22:08] me018: But .
+[0870] [22:09] me011: Do we have an attribute for non - interactive machines ?
+[0871] [22:12] me011: Cuz I was thinking that would be a good one to have .
+[0872] [22:14] me018: Non
+[0873] [22:15] me011: Ones that aren't on people 's desks .
+[0874] [22:18] me018: Well , there 's sort of .
+[0875] [22:19] me018: There 's this one called There 's the attribute called " no " What 's that called , uh , " n " " no " uh , " no - evict " .
+[0876] [22:26] me018: Which is roughly that .
+[0877] [22:29] me011: Y right .
+[0878] [22:29] me018: It 's Although it 's like it h My machine has it on my desk .
+[0879] [22:32] me018: So , I do get jobs running on my machine all the time .
+[0880] [22:37] me018: Um , But , uh ,
+[0881] [22:40] me018: So so that 's that 's sort of what it is .
+[0882] [22:42] me011: Yep .
+[0883] [22:43] me018: Uh - huh .
+[0884] [22:44] me011: Anyway .
+[0885] [22:45] me011: Shall we do digits ?
+[0886] [22:46] me018: Sure .
+[0887] [23:37] me051: one three , one three O , eight eight six seven . One three , five four , one two , two three , seven zero .
+[0888] [26:07] me011: And off .

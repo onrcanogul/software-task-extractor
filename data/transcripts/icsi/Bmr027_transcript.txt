@@ -1,0 +1,1557 @@
+================================================================================
+ICSI Meeting Transcript: Bmr027
+================================================================================
+
+Total Utterances: 1546
+Unique Speakers: 8
+Duration: 48.80 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:00] me011: OK .
+[0002] [00:01] me018: Adam , what is the mike that , uh , Jeremy 's wearing ?
+[0003] [00:04] me011: It 's the ear - plug mike .
+[0005] [00:06] fe016: That 's good .
+[0006] [00:06] fe008: Ear - plug .
+[0007] [00:07] me018: Is that a wireless ,
+[0008] [00:08] me018: or ?
+[0009] [00:09] me011: No .
+[0010] [00:09] me018: Oh .
+[0011] [00:09] me051: It 's wired .
+[0012] [00:11] me013: Oh !
+[0013] [00:12] fe008: Is that Does that mean you can't hear anything during the meeting ?
+[0014] [00:13] me001: It 's old - school .
+[0015] [00:16] me011: Huh ? What ? Huh ?
+[0016] [00:18] me013: Should we , uh , close the door , maybe ?
+[0017] [00:19] me011: It it 's a fairly good mike , actually .
+[0018] [00:19] me013: So
+[0019] [00:21] me013: Yeah .
+[0020] [00:25] me013: Huh .
+[0021] [00:26] me011: Well , I shouldn't say it 's a good mike .
+[0022] [00:27] me011: All I really know is that the signal level is OK .
+[0023] [00:30] me011: I
+[0024] [00:31] me011: the quality .
+[0025] [00:33] me013: Well , that 's a
+[0026] [00:34] me011: Ugh !
+[0027] [00:36] me011: So I didn't send out agenda items
+[0028] [00:37] me011: because until five minutes ago we only had one agenda item
+[0029] [00:40] me011: and now we have two .
+[0030] [00:41] me011: So . And , uh .
+[0031] [00:42] me013: OK .
+[0032] [00:43] me013: So , just to repeat the thing bef that we said last week ,
+[0033] [00:46] me013: it was there 's this suggestion of alternating weeks on more , uh , automatic speech recognition related or not ?
+[0034] [00:55] me011: Right .
+[0035] [00:55] me013: Was that sort of the division ?
+[0036] [00:57] me013: So which week are we in ?
+[0037] [00:59] me011: Well We haven't really started ,
+[0038] [01:01] me011: but I thought we more we more or less did Meeting Recorder stuff last week ,
+[0039] [01:05] me011: so
+[0040] [01:07] me013: I thought we had a thing about speech recognition last week too .
+[0041] [01:11] me011: But I figure also if they 're short agenda items , we could also do a little bit of each .
+[0042] [01:11] me018: Yeah .
+[0043] [01:14] me013: Yeah .
+[0044] [01:14] me011: So .
+[0045] [01:17] me011: I seem to be having difficulty getting this adjusted .
+[0046] [01:20] me011: Here we go .
+[0047] [01:20] me013: OK .
+[0048] [01:22] me011: So , uh , as most of you should know , I did send out the consent form thingies
+[0049] [01:26] me011: and , uh ,
+[0050] [01:28] me011: so far no one has made any Ach ! any comments on them .
+[0051] [01:32] me011: So , no on no one has bleeped out anything .
+[0052] [01:35] me013: Um . Yeah .
+[0053] [01:35] me011: So .
+[0054] [01:37] me011: I don't expect anyone to .
+[0055] [01:38] me011: But .
+[0056] [01:39] me013: Um . So , w what follows ?
+[0057] [01:41] me013: At some point y you go around and get people to sign something ?
+[0058] [01:43] me011: No .
+[0059] [01:44] me011: We had spoken w about this before
+[0060] [01:46] me011: and we had decided that they have they only needed to sign once .
+[0061] [01:46] me013: Yeah , but I 've forgotten .
+[0062] [01:50] me011: And the agreement that they already signed simply said that we would give them an opportunity .
+[0063] [01:54] me011: So as long as we do that , we 're covered .
+[0064] [01:56] me013: And how long of an opportunity did you tell them ?
+[0065] [01:58] me011: Uh , July fifteenth .
+[0066] [02:00] me013: July fifteenth .
+[0067] [02:01] me013: Oh , so they have a plenty of time ,
+[0068] [02:03] me011: Yep .
+[0069] [02:03] me013: and y
+[0070] [02:03] me013: Given that it 's that long ,
+[0071] [02:05] me013: um
+[0072] [02:08] me013: Why was that date chosen ?
+[0073] [02:08] me013: You just felt you wanted to ?
+[0074] [02:09] me011: Jane told me July fifteenth .
+[0075] [02:10] me011: So , that 's what I set it .
+[0076] [02:11] me013: Oh , OK .
+[0077] [02:11] fe008: Oh . I just meant that that was the release date that you had on the data .
+[0078] [02:16] me011: Oh . I I didn't understand that there was something specific .
+[0079] [02:17] fe008: I
+[0080] [02:19] fe008: I
+[0081] [02:19] me011: You
+[0082] [02:20] me013: I
+[0083] [02:21] me011: I had heard July fifteenth ,
+[0084] [02:22] me011: so that 's what I put .
+[0085] [02:23] me013: No , the only th the only mention I recall about that was just that July fifteenth or so is when this meeting starts .
+[0086] [02:23] fe008: Mm - hmm .
+[0087] [02:23] me011: So .
+[0088] [02:30] fe008: That 's right .
+[0089] [02:31] fe008: That 's why .
+[0090] [02:31] me013: Oh , I see .
+[0091] [02:34] fe008: You said you wanted it to be available then .
+[0092] [02:34] me013: OK .
+[0093] [02:36] me013: Right .
+[0094] [02:36] fe008: I didn't mean it to be the hard deadline .
+[0095] [02:38] fe008: It 's fine with me if it is ,
+[0096] [02:39] fe008: or we cou
+[0097] [02:40] fe008: But I thought it might be good to remind people two weeks prior to that
+[0098] [02:41] me013: w
+[0099] [02:43] fe008: in case , uh you know , " by the way this is your last "
+[0100] [02:45] me013: Right .
+[0101] [02:46] fe008: Uh . Yeah .
+[0102] [02:47] me013: We probably should have talked about it ,
+[0103] [02:48] me013: cuz i because if we wanna be able to give it to people July fifteenth ,
+[0104] [02:53] me013: if somebody 's gonna come back and say " OK , I don't want this and this and this used " , uh , clearly we need some time to respond to that .
+[0105] [03:00] me013: Right ?
+[0106] [03:00] me011: Yeah . As I said , we I just got one date
+[0107] [03:01] mn017: Damn !
+[0108] [03:02] me013: Yeah .
+[0109] [03:02] me011: and that 's the one I used .
+[0110] [03:03] me011: So . But I can send a follow - up .
+[0111] [03:03] me013: Yeah .
+[0112] [03:05] me011: I mean , it 's almost all us .
+[0113] [03:07] me011: I mean the people who are in the meeti this meeting was , uh , these the meetings that in are in set one .
+[0114] [03:12] me018: Was my was my response OK ?
+[0115] [03:13] fe008: That 's right .
+[0116] [03:14] me018: I just wrote you replied to the email saying they 're all fine .
+[0117] [03:16] me011: Right . I mean , that 's fine .
+[0118] [03:17] me018: OK , good .
+[0119] [03:18] me011: I we don't My understanding of what we had agreed upon when we had spoken about this months ago was that , uh , we don't actually need a reply .
+[0120] [03:19] me018: That makes it easy .
+[0121] [03:28] me011: We just need to tell them that they can do it if they want .
+[0122] [03:29] me013: OK .
+[0123] [03:30] me013: I just didn't remember ,
+[0124] [03:31] me013: but
+[0125] [03:31] me011: And so no reply is no changes .
+[0126] [03:34] fe008: And he 's got it so that the default thing you see when you look at the page is " OK " .
+[0127] [03:34] me013: OK .
+[0128] [03:38] fe008: So that 's very clear
+[0129] [03:39] fe008: all the way down the page , " OK " .
+[0130] [03:40] fe008: And they have two options
+[0131] [03:41] fe008: they can change it to . One of them is " censor " , and the other one is " incorrect " .
+[0132] [03:45] fe008: Is it is your word is " incorrect " ?
+[0133] [03:46] me011: Right .
+[0134] [03:47] fe008: Which means also we get feedback on if um , there 's something that they w that needs to be adjusted ,
+[0135] [03:54] fe008: because , I mean , these are very highly technical things .
+[0136] [03:57] fe008: I mean , it 's an added , uh , level of checking on the accuracy of the transcription , as I see it .
+[0137] [04:01] fe008: But in any case , people can agree to things that are wrong .
+[0138] [04:01] me011: Well
+[0139] [04:03] fe008: So .
+[0140] [04:04] me011: Yeah . The reason I did that it was just so that people would not censor not ask to have stuff removed because it was transcribed incorrectly ,
+[0141] [04:11] fe008: And
+[0142] [04:12] me011: as
+[0143] [04:14] fe008: was because it , um it gives them the option of , uh , being able to correct it .
+[0144] [04:19] me011: Right .
+[0145] [04:20] fe008: Approve it and correct it .
+[0146] [04:22] fe008: And um .
+[0147] [04:24] fe008: So , you have it nicely set up so they email you
+[0148] [04:27] fe008: and
+[0149] [04:29] me011: When they submit the form , it gets processed and emailed to me .
+[0150] [04:30] fe008: Mm - hmm . Mm - hmm .
+[0151] [04:32] me011: So .
+[0152] [04:33] fe008: And I wanted to say the meetings that are involved in that set are Robustness and Meeting Recorder .
+[0153] [04:37] fe008: The German ones will be ready for next week .
+[0154] [04:39] fe008: Those are three three of those .
+[0155] [04:41] fe008: A different set of people .
+[0156] [04:42] fe008: And
+[0157] [04:42] me018: The German ones ?
+[0158] [04:44] fe008: Uh , well .
+[0159] [04:44] mn017: Yeah
+[0160] [04:45] me013: NSA .
+[0161] [04:46] fe008: OK . I spoke loosely .
+[0162] [04:47] fe008: The the German , French Sorry , the German , Dutch , and Spanish ones .
+[0163] [04:50] fe016: Spanish .
+[0164] [04:51] fe016: Yeah .
+[0165] [04:51] me011: Mm - hmm .
+[0166] [04:52] me018: Oh , those are the NSA meetings ?
+[0167] [04:52] mn017: Those
+[0168] [04:53] fe016: The
+[0169] [04:54] fe008: Yeah . Uh - huh .
+[0170] [04:54] me018: Oh , oh ! OK .
+[0171] [04:54] me013: German , Dutch , Swiss and Spanish .
+[0172] [04:55] fe016: The
+[0173] [04:56] fe008: That 's that 's that 's r
+[0174] [04:56] me011: Mm - hmm .
+[0175] [04:56] mn017: Uh - huh .
+[0176] [04:58] me018: OK . I 'd I d
+[0177] [04:58] fe008: Yeah . It 's the other group .
+[0178] [04:58] me013: I It was the network network services group .
+[0179] [05:00] me018: OK .
+[0180] [05:01] fe008: Uh - huh .
+[0181] [05:01] me013: Yeah .
+[0182] [05:02] fe008: Yeah , exactly . Yeah .
+[0183] [05:02] fe008: I didn't mean to isolate them .
+[0184] [05:03] me013: Otherwise known as the German , Dutch , and Spanish .
+[0185] [05:04] fe008: Yeah . Sorry .
+[0186] [05:05] me011: Mm - hmm .
+[0187] [05:05] fe008: It was it was not the best characterization .
+[0188] [05:07] fe008: But what what I meant to say was that it 's the other group that 's not n no m no overlap with our present members .
+[0189] [05:14] fe008: And then maybe it 'd be good to set an explicit deadline ,
+[0190] [05:16] fe008: something like a week before that ,
+[0191] [05:19] fe008: uh , J July fifteenth date ,
+[0192] [05:20] fe008: or two weeks before .
+[0193] [05:22] me013: I
+[0194] [05:23] me013: I mean , if we 're going to have a policy on it ,
+[0195] [05:25] me013: that we discuss the length of time that we want to give people ,
+[0196] [05:27] me011: Mm - hmm .
+[0197] [05:28] me013: so that we have a uniform thing .
+[0198] [05:30] me013: So , tha that 's a month ,
+[0199] [05:31] me013: which is fine .
+[0200] [05:31] me018: Twelve hours .
+[0201] [05:31] me011: Well , the only thing I said in the email is that the data is going to be released on the fifteenth .
+[0202] [05:32] me013: I
+[0203] [05:36] me011: I didn't give any other deadline .
+[0204] [05:37] fe008: Mm - hmm .
+[0205] [05:38] me011: So my feeling is if someone after the fifteenth says , " wow I suddenly found something " , we 'll delete it from our record .
+[0206] [05:44] me011: We just won't delete it from whatever 's already been released .
+[0207] [05:46] fe008: Hmm . That 's a little bit difficult .
+[0208] [05:51] me011: What else can we do ?
+[0209] [05:52] fe008: Yeah .
+[0210] [05:53] me011: If someone says " hey , look , I found something in this meeting and it 's libelous and I want it removed " . What can we do ?
+[0211] [06:00] me011: We have to remove it .
+[0212] [06:01] fe008: Well . That 's true .
+[0213] [06:02] fe008: I I agree with that part ,
+[0214] [06:03] fe008: but I think that it would it , uh we need to have , uh , a a a message to them very clearly that beyond this date , you can't make additional changes .
+[0215] [06:14] me013: I mean ,
+[0216] [06:15] me013: um ,
+[0217] [06:16] me013: I I i I think that somebody might request something
+[0218] [06:21] me013: even though we say that .
+[0219] [06:22] me013: But I think it 's good to at least start some place like that .
+[0220] [06:24] me013: So
+[0221] [06:25] fe008: Mm - hmm . Good .
+[0222] [06:29] me013: if we say two weeks , or if we say a month ,
+[0223] [06:31] me013: I
+[0224] [06:32] me013: say that , you know , i a as um , " per the the the , uh , page you signed , you have the ability to look over this stuff " and so forth
+[0225] [06:43] me013: "
+[0226] [06:45] me013: I would I would imagine some sort of generic thing that would say " because we , uh , will continually be making these things available to other researchers , uh , this can't be open - ended
+[0227] [06:57] me013: and so , uh , uh , please give us back your response within this am you know , within this amount of time " , whatever time we agree upon .
+[0228] [07:02] me011: Well , did you read the email and look at the pages I sent ?
+[0229] [07:05] me013: Did I ?
+[0230] [07:06] me013: No , I haven't yet .
+[0231] [07:06] me011: No . OK , well why don't you do that
+[0232] [07:06] me013: No
+[0233] [07:07] me011: and then make comments on what you want me to change ?
+[0234] [07:10] me013: No , no . I 'm not saying that you should change anything .
+[0235] [07:12] me013: I I 'm what I 'm what I 'm I 'm trying to spark a discussion hopefully among people who have read it
+[0236] [07:17] me013: so that that you can you can , uh , decide on something .
+[0237] [07:18] fe008: Mm - hmm .
+[0238] [07:20] me013: So I 'm not telling you what to decide .
+[0239] [07:21] fe008: Mm - hmm .
+[0240] [07:22] me013: I 'm just saying you should decide something ,
+[0241] [07:23] me011: I already did decide something ,
+[0242] [07:23] fe008: OK .
+[0243] [07:23] me013: and
+[0244] [07:25] me011: and that 's what 's in the email .
+[0245] [07:25] fe008: Yeah
+[0246] [07:26] me011: And if you disagree with it , why don't you read it and give me comments on it ?
+[0247] [07:27] fe008: Yeah .
+[0248] [07:28] fe008: Well
+[0249] [07:29] fe008: I I think that there 's one missing line .
+[0250] [07:31] me013: Well , the one thing that I did read and that you just repeated to me was that you gave the specific date of July fifteenth .
+[0251] [07:36] me011: Mm - hmm .
+[0252] [07:37] me013: And you also just said that the reason you said that was because someone said it to you .
+[0253] [07:41] me011: Right .
+[0254] [07:41] me013: So what I 'm telling you is that what you should do is come up with a length of time that you guys think is enough
+[0255] [07:48] me013: and you should use that rather than this date that you just got from somewhere .
+[0256] [07:52] me013: That 's all I 'm saying .
+[0257] [07:52] me011: OK .
+[0258] [07:53] me013: OK ?
+[0259] [07:54] fe008: I ha I have one question .
+[0260] [07:55] fe008: This is in the summer period
+[0261] [07:56] fe008: and presumably people may be out of town .
+[0262] [07:58] fe008: But we can make the assumption , can't we ? that , um , they will be receiving email , uh , most of the month .
+[0263] [08:04] fe008: Right ?
+[0264] [08:07] fe008: Because
+[0265] [08:07] me013: It well , it well , you 're right . Sometimes somebody will be away
+[0266] [08:11] me013: and , uh , you know , there 's , uh for any length of time that you uh , choose there is some person sometime who will not end up reading it .
+[0267] [08:19] fe008: OK .
+[0268] [08:20] me013: That 's it 's , you know , just a certain risk to take .
+[0269] [08:24] mn017: S
+[0270] [08:25] mn017: Am I on , by the way ?
+[0271] [08:27] me011: I don't know .
+[0272] [08:27] mn017: Oh .
+[0273] [08:27] me011: You should be .
+[0274] [08:28] mn017: Hello ? Hello ?
+[0275] [08:30] me011: You should be channel B .
+[0276] [08:32] mn017: Oh , OK . Alright . So . The ,
+[0277] [08:34] mn017: um
+[0278] [08:35] mn017: Maybe
+[0279] [08:37] mn017: w
+[0280] [08:43] mn017: you know , specify exactly uh , what , you know , how how they will be contacted
+[0281] [08:49] mn017: and they can , you know they can be asked to give a phone number and an email address , or both .
+[0282] [08:54] mn017: And
+[0283] [08:55] fe008: We did that , I I believe .
+[0284] [08:56] mn017: Right .
+[0285] [08:56] mn017: So . A And , then , you know , say very clearly that if they don't if we don't hear from them , you know , as Morgan suggested , by a certain time or after a certain period after we contact them that is implicitly giving their agreement .
+[0286] [08:56] fe016: Yeah .
+[0287] [09:11] me011: Well , they 've already signed a form .
+[0288] [09:13] mn017: Right .
+[0289] [09:13] fe008: And
+[0290] [09:13] fe016: And nobody nobody really reads it anyway .
+[0291] [09:14] me011: So .
+[0292] [09:14] me011: And the s and the form was approved by Human Subjects ,
+[0293] [09:14] mn017: Says that .
+[0294] [09:16] mn017: Right .
+[0295] [09:17] mn017: Well
+[0296] [09:17] fe008: Uh , the f
+[0297] [09:18] me011: so , eh , that 's gonna be a little hard to modify .
+[0298] [09:21] fe008: Well , the form Well , the form doesn't say , if uh , you know , " if you don't respond by X number of days or X number of weeks "
+[0299] [09:21] mn017: I see .
+[0300] [09:25] mn017: Uh
+[0301] [09:25] mn017: Oh , OK .
+[0302] [09:26] mn017: So what does it say about the the the process of of , uh y the review process ?
+[0303] [09:28] fe008: It doesn't have a time limit .
+[0304] [09:31] fe008: That you 'll be provided access to the transcripts
+[0305] [09:33] mn017: Oh , OK .
+[0306] [09:34] fe008: and then , uh , allowed to remove things that you 'd like to remove , before it goes to the general uh , larger audience .
+[0307] [09:37] mn017: Hmm .
+[0308] [09:40] mn017: Right .
+[0309] [09:42] mn017: Oh .
+[0310] [09:42] me011: Here .
+[0311] [09:42] me011: You can read what you already signed .
+[0312] [09:42] fe008: There you go .
+[0313] [09:44] fe016: I
+[0314] [09:45] mn017: OK .
+[0315] [09:46] fe016: I 'm not as diligent as Chuck ,
+[0316] [09:48] fe016: but I had the feeling I should probably respond
+[0317] [09:49] fe016: and tell Adam , like , " I got this and I will do it by this date ,
+[0318] [09:54] fe016: and if you don't hear from me by then " You know , in other words responding to your email once , right away , saying " as soon as you get this could you please respond . "
+[0319] [09:58] me011: Right .
+[0320] [10:02] fe016: And then if you if the person thinks they 'll need more time because they 're out of town or whatever , they can tell you at that point ?
+[0321] [10:09] fe016: Because
+[0322] [10:10] me011: Oh , I just I didn't wanna do that ,
+[0323] [10:11] me011: because I don't wanna have a discussion with every person if I can avoid it .
+[0324] [10:16] fe016: Well
+[0325] [10:16] me011: So what I wanted to do was just send it out
+[0326] [10:18] me011: and say " on the fifteenth , the data is released ,
+[0327] [10:20] fe008: Mm - hmm .
+[0328] [10:21] me011: if you wanna do something about it , do something about it ,
+[0329] [10:23] me011: but that 's it " .
+[0330] [10:24] fe008: I I kind of like this .
+[0331] [10:24] fe016: Well
+[0332] [10:25] fe016: OK
+[0333] [10:25] fe008: Yeah .
+[0334] [10:26] mn017: Well
+[0335] [10:29] mn017: but you should probably have a legal person look at this
+[0336] [10:31] mn017: and make sure it 's OK .
+[0337] [10:33] mn017: Because
+[0338] [10:50] fe016: Or they they might never have gotten the email ,
+[0339] [10:52] fe016: because although they signed this , they don't know by which date to expect your email .
+[0340] [10:57] fe016: And
+[0341] [11:01] fe016: I
+[0342] [11:01] me013: Mm - hmm .
+[0343] [11:02] fe016: in internally we know that people are there ,
+[0344] [11:03] me011: Well , OK . l Let me Let me reverse this .
+[0345] [11:04] fe016: but we have no confirmation that they got the mail .
+[0346] [11:06] me011: So let 's say someone I send this out ,
+[0347] [11:08] me011: and someone doesn't respond .
+[0348] [11:10] me011: Do we delete every meeting that they were in ?
+[0349] [11:13] me011: I don't think so .
+[0350] [11:14] fe016: Well
+[0351] [11:15] mn017: No .
+[0352] [11:15] fe016: It we 're hoping that doesn't happen ,
+[0353] [11:16] fe016: but that 's why there 's such a thing as registered mail
+[0354] [11:17] me011: That will happen .
+[0355] [11:19] fe016: or
+[0356] [11:19] mn017: That will happen .
+[0357] [11:19] me011: That will absolutely happen .
+[0358] [11:20] fe016: Right .
+[0359] [11:21] me011: Because people don't read their email ,
+[0360] [11:23] me011: or they 'll read and say " I don't care about that ,
+[0361] [11:24] me011: I 'm not gonna delete anything "
+[0362] [11:25] me011: and they don just won't reply to it .
+[0363] [11:26] mn017: Maybe uh , do we have mailing addresses for these people ?
+[0364] [11:28] me011: No .
+[0365] [11:29] mn017: No .
+[0366] [11:29] me011: We have what they put on the speaker form ,
+[0367] [11:31] mn017: Oh .
+[0368] [11:31] me011: which was just generic contact information .
+[0369] [11:31] fe008: Well
+[0370] [11:33] fe008: But the ones that we 're dealing with now are all local ,
+[0371] [11:34] mn017: Well
+[0372] [11:35] fe008: except
+[0373] [11:36] fe008: I mean , we we 're totally in contact with all the ones in those two groups .
+[0374] [11:36] mn017: Mmm .
+[0375] [11:38] mn017: OK .
+[0376] [11:40] fe008: So maybe , uh , I you know , that 's not that many people
+[0377] [11:43] fe008: and
+[0378] [11:44] fe008: i
+[0379] [11:47] fe008: and if I can help with with processing that , I will .
+[0380] [11:49] fe008: It
+[0381] [11:54] me011: Yeah . I mean I thought we had discussed this , like , a year ago .
+[0382] [11:56] fe008: Yes , we did .
+[0383] [11:56] me011: And so it seems like this is a little odd for it to be coming up yet again .
+[0384] [11:58] fe008: You 're right .
+[0385] [12:00] fe008: Well
+[0386] [12:00] me013: Well , we we haven't experienced it before .
+[0387] [12:01] me011: So .
+[0388] [12:03] fe008: That 's right .
+[0389] [12:03] me013: Right ?
+[0390] [12:04] me013: So
+[0391] [12:04] fe016: You 'll either wonder at the beginning or you 'll wonder at the end .
+[0392] [12:05] fe008: Need to get it right .
+[0393] [12:08] fe016: I
+[0394] [12:10] fe016: I It 's pretty much the same am amount of work
+[0395] [12:13] fe016: except for an additional email just saying they got the email .
+[0396] [12:16] fe008: Yeah .
+[0397] [12:16] fe016: And
+[0398] [12:20] fe016: you
+[0399] [12:20] me011: Well
+[0400] [12:21] fe008: It 's much easier to explain this way .
+[0401] [12:22] me011: OK . Well , why don't you talk t
+[0402] [12:23] fe008: T t to have it on record .
+[0403] [12:24] me011: Morgan , can you talk to our lawyer about it ,
+[0404] [12:26] me011: and find out what the status is on this ?
+[0405] [12:28] me011: Cuz I don't wanna do something that we don't need to .
+[0406] [12:30] fe008: Yeah , but w Mmm .
+[0407] [12:30] me011: Because
+[0408] [12:31] me011: what I 'm telling you , people won't respond to the email .
+[0409] [12:34] me011: No matter what you do , you there 're gonna be people who you 're gonna have to make a lot of effort to get in contact with .
+[0410] [12:39] me001: I mean , i it 's k
+[0411] [12:40] mn017: Hmm .
+[0412] [12:40] fe008: Well , then we make the effort .
+[0413] [12:40] me011: And do we want to spend that effort ?
+[0414] [12:41] me001: It 's kind of like signing up for a mailing list .
+[0415] [12:41] fe008: We make the effort .
+[0416] [12:42] me001: They have opt in and opt out .
+[0417] [12:44] me001: And there are two different ways .
+[0418] [12:45] me001: I mean , and either way works
+[0419] [12:46] me001: probably , I mean .
+[0420] [12:48] fe008: Except
+[0421] [12:49] fe008: I I 'm agr I agree with Liz , that we need to be in the clear
+[0422] [12:53] fe008: and not have to after the fact say " oh , but I assumed " ,
+[0423] [12:56] fe008: and " oh , I 'm sorry that your email address was just accumulating mail without notifying you " ,
+[0424] [13:00] me013: If this is a purely administrative task , we can actually have administration do it .
+[0425] [13:00] fe008: you know .
+[0426] [13:04] fe008: Oh , excellent .
+[0427] [13:05] me013: But the thing is that , you know , I I I think , without going through a whole expensive thing with our lawyers , from my previous conversations with them , my my sense very much is that we would want something on record as indicating that they actually were aware of this .
+[0428] [13:17] fe008: Yes .
+[0429] [13:21] me011: Well , we had talked about this before
+[0430] [13:23] me011: and I thought that we had even gone by the lawyers asking about that
+[0431] [13:23] me013: Mm - hmm .
+[0432] [13:27] me011: and
+[0433] [13:31] me011: that they 've already signed once .
+[0434] [13:33] fe008: I don't remember that this issue of the time period allowed for response was ever covered .
+[0435] [13:37] me011: Yeah .
+[0436] [13:39] me011: OK .
+[0437] [13:39] me013: Yeah . We never really talked about that .
+[0438] [13:40] fe016: Or the date at which they would be receiving the email from you .
+[0439] [13:43] me013: Yeah .
+[0440] [13:43] fe008: Or
+[0441] [13:44] fe016: They probably forgot all about it .
+[0442] [13:45] me013: We certainly didn't talk , uh , about with them at all about , uh , the manner of them being made the , uh , uh , materials available .
+[0443] [13:45] fe016: Yeah .
+[0444] [13:49] mn017: We
+[0445] [13:52] me013: That was something that was sort of just within our implementation .
+[0446] [13:54] mn017: We can use it we can use a a ploy
+[0447] [13:55] me011: OK .
+[0448] [13:57] mn017: like
+[0449] [14:00] mn017: you
+[0450] [14:02] mn017: uh , uh , uh uh ,
+[0451] [14:03] mn017: you know , like dead - beat dads ,
+[0452] [14:05] mn017: they they they make it look like they won something in the lottery
+[0453] [14:08] mn017: and then they open the envelope
+[0454] [14:10] mn017: and
+[0455] [14:10] me001: And they 're served .
+[0456] [14:11] mn017: Right ?
+[0457] [14:11] mn017: Because and then the the the the thing is served .
+[0458] [14:14] mn017: So
+[0459] [14:16] mn017: you know , go to this web site
+[0460] [14:17] mn017: and you 've , uh you 're "
+[0461] [14:19] fe016: That 's why you never open these things that come in the mail .
+[0462] [14:19] fe008: That one .
+[0463] [14:21] me013: Yeah .
+[0464] [14:21] me011: Well , it 's just , we 've gone from one extreme to the other , where at one point , a few months ago , Morgan was you were saying let 's not do anything ,
+[0465] [14:22] mn017: Right
+[0466] [14:26] fe008: Well , it doesn't matter .
+[0467] [14:27] mn017: i i
+[0468] [14:28] mn017: it
+[0469] [14:29] me011: and
+[0470] [14:30] mn017: it
+[0471] [14:30] me011: we 're saying we have to follow up each person and get a signature ?
+[0472] [14:31] mn017: Right .
+[0473] [14:32] me011: I mean , what are we gonna doing here ?
+[0474] [14:33] mn017: It might well be the case that that this is perfectly you know , this is enough to give us a basis t to just , eh , assume their consent if they don't reply .
+[0475] [14:34] me013: Well .
+[0476] [14:42] me011: Mm - hmm .
+[0477] [14:43] mn017: But , I 'm not you know , me not being a lawyer , I wouldn't just wanna do that without having the the expert , uh , opinion on that .
+[0478] [14:50] fe008: And how many people ?
+[0479] [14:51] me011: Then I think we had better find out ,
+[0480] [14:51] fe008: Al - altogether we 've got twenty people . These people are people who read their email almost all the time .
+[0481] [14:52] me011: so
+[0482] [14:52] mn017: Yeah .
+[0483] [14:53] me013: Let me look at this again .
+[0484] [14:56] me011: Right .
+[0485] [14:56] fe008: I I really don't see that it 's a problem .
+[0486] [14:58] fe008: I I think that it 's a common courtesy to ask them uh , to expect for them to , uh , be able to have @ @ us try to contact them ,
+[0487] [14:59] me011: For for th
+[0488] [15:07] fe008: u just in case they hadn't gotten their email .
+[0489] [15:09] fe008: I think they 'd appreciate it .
+[0490] [15:11] me013: Yeah . My Adam , my my view before was about the nature of what was of the presentation ,
+[0491] [15:16] me011: Mm - hmm .
+[0492] [15:17] me013: of
+[0493] [15:19] me013: the
+[0494] [15:23] me013: uh ,
+[0495] [15:23] me013: h
+[0496] [15:29] me011: Mm - hmm .
+[0497] [15:29] me013: That was the kind of dispute I was making before .
+[0498] [15:31] fe008: Mm - hmm .
+[0499] [15:31] fe008: I remember that .
+[0500] [15:32] me013: But
+[0501] [15:37] me013: and we have to decide how stringent we want to be in these things ,
+[0502] [15:40] me013: but they will always come back with saying that , um , you need to you want to have someth some paper trail or which includes electronic trail that they have , uh , in fact O K 'd it .
+[0503] [15:52] me011: Mm - hmm .
+[0504] [15:53] me013: So , um ,
+[0505] [15:55] me013: I think that if you f i if we send the email as you have
+[0506] [15:58] me013: and if there 's half the people , say , who don't respond at all by , you know , some period of time , we can just make a list of these people
+[0507] [16:06] me013: and
+[0508] [16:08] me013: you know , just give it to me
+[0509] [16:09] me013: and I 'll hand it to administrative staff or whatever ,
+[0510] [16:10] me011: Right .
+[0511] [16:10] me013: and
+[0512] [16:13] me013: Is is this OK ? And would you please mail you know , mail Adam that it is , if i if it , you know , is or not . "
+[0513] [16:19] me013: So , you know , we can we can do that .
+[0514] [16:19] fe016: The other thing that there 's a psychological effect that at least for most people , that if they 've responded to your email saying " yes , I will do it " or " yes , I got your email " , they 're more likely to actually do it later than to just ignore it .
+[0515] [16:30] me013: Mm - hmm .
+[0516] [16:32] fe016: And of course we don't want them to bleep things out ,
+[0517] [16:34] fe016: but it it 's a little bit better if we 're getting the their , uh , final response , once they 've answered you once than if they never answer you 'd at al at all .
+[0518] [16:44] fe016: That 's how these mailing houses work .
+[0519] [16:46] fe016: So , I mean , it 's not completely lost work
+[0520] [16:48] fe016: because it might benefit us in terms of getting responses .
+[0521] [16:49] fe008: Mm - hmm .
+[0522] [16:52] fe016: You know , an official OK from somebody is better than no answer , even if they responded that they got your email .
+[0523] [16:58] fe016: And they 're probably more likely to do that once they 've responded that they got the email .
+[0524] [17:01] fe008: I also think they 'd just simply appreciate it .
+[0525] [17:03] fe008: I think it 's a good a good way of of fostering goodwill among our subjects .
+[0526] [17:08] fe008: Well , our participants .
+[0527] [17:09] me013: I think the main thing is I mean , what lawyers do is they always look at worst cases .
+[0528] [17:10] me011: Sending lots of spam .
+[0529] [17:12] me013: So they s so so Tha - that 's what they 're paid to do .
+[0530] [17:12] me011: Yep .
+[0531] [17:14] me013: And so , it is certainly possible that , uh , somebody 's server would be down or something
+[0532] [17:19] me013: and they wouldn't actually hear from us ,
+[0533] [17:21] me013: and then they find this thing is in there
+[0534] [17:22] me013: and we 've already distributed it to someone .
+[0535] [17:24] me013: So , what it says in there , in fact , is that they will be given an opportunity to blah - blah - blah ,
+[0536] [17:28] fe008: Mm - hmm .
+[0537] [17:29] me013: but if in fact if we sent them something or we thought we sent them something but they didn't actually receive it for some reason , um , then we haven't given them that .
+[0538] [17:36] me011: Well , so how far do we have to go ?
+[0539] [17:38] me011: Do we need to get someone 's signature ?
+[0540] [17:40] me011: Or , is email enough ?
+[0541] [17:41] me011: Do we have to have it notarized ?
+[0542] [17:41] me013: I i i em email is enough .
+[0543] [17:42] me011: I
+[0544] [17:44] me011: OK .
+[0545] [17:46] me013: Yeah .
+[0546] [17:47] me013: I
+[0547] [17:47] me013: I mean , I 'm not a lawyer ,
+[0548] [17:48] me013: but I 've been through these things a f things f like this a few times with lawyers now
+[0549] [17:51] me011: Mm - hmm .
+[0550] [17:51] me013: so I I I I 'm pretty comfortable with that .
+[0551] [17:56] me018: Do you track , um , when people log in
+[0552] [18:00] me018: to look at the ?
+[0553] [18:00] me011: Uh . If they submit the form , I get it .
+[0554] [18:03] me018: Uh - huh .
+[0555] [18:03] me011: If they don't submit the form , it goes in the general web log .
+[0556] [18:06] me011: But that 's not sufficient .
+[0557] [18:08] me018: Hmm .
+[0558] [18:08] me011: Right ?
+[0559] [18:08] me011: Cuz if someone just visits the web site that doesn't imply anything in particular .
+[0560] [18:13] me018: Except that you know they got the mail .
+[0561] [18:14] fe008: Mm - hmm . That 's right .
+[0562] [18:14] me011: Right .
+[0563] [18:15] fe008: I I could get you on the notify list if you want me to .
+[0564] [18:18] me011: I 'm already on it .
+[0565] [18:19] fe008: For that directory ?
+[0566] [18:20] me011: Mm - hmm .
+[0567] [18:20] fe008: OK , great .
+[0568] [18:25] me013: So again , hopefully , um , this shouldn't be quite as odious a problem either way ,
+[0569] [18:30] me013: uh , in any of the extremes we 've talked about
+[0570] [18:32] me013: because uh , we 're talking a pretty small number of people .
+[0571] [18:34] me011: W
+[0572] [18:36] me011: For this set , I 'm not worried ,
+[0573] [18:37] me011: because we basically know everyone on it .
+[0574] [18:38] me013: Mm - hmm .
+[0575] [18:40] fe008: Hmm .
+[0576] [18:40] me013: Mm - hmm .
+[0577] [18:41] me011: You know , they 're all more or less here
+[0578] [18:42] me011: or it 's it 's Eric and Dan and so on .
+[0579] [18:45] me011: But for some of the others , you 're talking about visitors who are gone from ICSI , whose email addresses may or may not work ,
+[0580] [18:49] me013: Mm - hmm .
+[0581] [18:51] me013: Mm - hmm .
+[0582] [18:51] fe008: Oh .
+[0583] [18:52] me011: and
+[0584] [18:54] me011: So what are we gonna do when we run into someone that we can't get in touch with ?
+[0585] [18:58] fe008: I don't think , uh They 're so recent , these visitors .
+[0586] [19:01] me011: Mm - hmm .
+[0587] [19:01] fe008: I
+[0588] [19:02] me013: Mm - hmm .
+[0589] [19:04] fe008: They
+[0590] [19:06] fe008: I I mean , I I w I 'll be able to if you have any trouble finding them , I really think I could find them .
+[0591] [19:07] me011: Other methods ?
+[0592] [19:11] me011: OK .
+[0593] [19:13] me013: Yeah . Cuz it what it what it really does promise here is that we will ask their permission .
+[0594] [19:18] me013: Um , and I think , you know , if you go into a room and close the door and and ask their permission and they 're not there , it doesn't seem that
+[0595] [19:25] me013: that 's the intent of , uh , meaning here .
+[0596] [19:27] me013: So .
+[0597] [19:28] me011: Well , the qu the question is just whether how active it has to be .
+[0598] [19:31] me011: I mean , because they they filled out a contact information
+[0599] [19:33] me011: and that 's where I 'm sending the information .
+[0600] [19:35] me013: Right .
+[0601] [19:35] me011: And so far everyone has done email .
+[0602] [19:37] me011: There isn't anyone who did , uh , any other contact method .
+[0603] [19:40] me013: Well , the way ICSI goes , people , uh , who , uh , were here ten years ago still have acc have forwards to other accounts and so on .
+[0604] [19:45] me011: Yeah .
+[0605] [19:48] me013: So
+[0606] [19:49] me011: So my original impression was that that was sufficient ,
+[0607] [19:53] me011: that if they give us contact information and that contact information isn't accurate that we fulfilled our burden .
+[0608] [19:53] me013: Yeah .
+[0609] [19:54] fe016: Then they just come back .
+[0610] [19:58] me018: All my files were still here .
+[0611] [20:00] fe016: Same as us .
+[0612] [20:00] fe008: I
+[0613] [20:00] me013: So if we get to a boundary case like that then maybe I will call the attorney about it .
+[0614] [20:01] me018: Yeah .
+[0615] [20:04] me011: OK .
+[0616] [20:05] me013: But , you know , hopefully we won't need to .
+[0617] [20:06] fe008: I d I just don't think we will .
+[0618] [20:07] me011: Alright .
+[0619] [20:08] fe008: For all the reasons that we 've discussed .
+[0620] [20:09] me013: So we 'll we 'll see if we do or not .
+[0621] [20:10] me011: Yep . And we 'll see how many people respond to that email .
+[0622] [20:10] fe008: Yeah .
+[0623] [20:12] me011: So far , two people have .
+[0624] [20:14] me013: Yeah . I think very few people will
+[0625] [20:14] me011: So .
+[0626] [20:15] me013: and and and , you know , people people see long emails about things that they don't think is gonna be high priority , they typically , uh , don't don't read it , or half read it .
+[0627] [20:24] me011: Right .
+[0628] [20:25] me013: Cuz people are swamped .
+[0629] [20:26] me013: But
+[0630] [20:26] fe008: And actually ,
+[0631] [20:27] fe008: um , I I didn't anticipate this
+[0632] [20:29] fe008: so I that 's why I didn't give this comment ,
+[0633] [20:31] fe008: and it I this discussion has made me think it might be nice to have a follow - up email within the next couple of days saying " by the way , you know , we wanna hear back from you by X date
+[0634] [20:44] fe008: and please " ,
+[0635] [20:45] fe008: and
+[0636] [20:46] fe008: " please , uh , respond to please indicate you received this mail . "
+[0637] [20:50] me013: Uh , or e well , maybe even additionally , uh , um ,
+[0638] [20:53] me013: " Even if you 've decided you have no changes you 'd like to make , if you could tell us that " .
+[0639] [20:58] me011: Respond to the email . Yep .
+[0640] [20:59] fe008: Mm - hmm .
+[0641] [20:59] fe016: Right . That would that would definitely work on me .
+[0642] [20:59] me013: Yeah .
+[0643] [20:59] fe008: It is the first time through the cycle .
+[0644] [21:02] fe016: You know , it makes you feel m like ,
+[0645] [21:04] fe016: um ,
+[0646] [21:05] fe016: if you were gonna p if you 're predicting that you might not answer , you have a chance now to say that .
+[0647] [21:11] fe016: Whereas , I I mean , I would be much more likely myself ,
+[0648] [21:14] me018: And the other th
+[0649] [21:14] fe016: given all my email , t to respond at that point , saying " you know what , I 'm probably not gonna get to it " or whatever ,
+[0650] [21:19] fe016: rather than just having seen the email , thinking I might get to it ,
+[0651] [21:22] fe016: and never really , uh , pushing myself to actually do it until it 's too late .
+[0652] [21:24] me018: Yeah
+[0653] [21:26] me018: I was thinking that it also lets them know that they don't have to go to the page to accept this .
+[0654] [21:31] fe016: Right . R Right . That 's true .
+[0655] [21:32] me013: Right .
+[0656] [21:33] me018: I
+[0657] [21:33] me018: Yeah .
+[0658] [21:34] me018: So that way they could they can see from that email that if they just write back and say " I got it , no changes " , they 're off the hook .
+[0659] [21:39] me013: Yeah .
+[0660] [21:39] me018: They don't have to go to the web page
+[0661] [21:40] me018: and
+[0662] [21:41] me013: I mean , the other thing I 've learned from dealing with dealing with people sending in reviews and so forth , uh , is , um , if you say " you 've got three months to do this review " , um , people do it , you know , two and seven eighths months from now .
+[0663] [21:41] fe016: Yeah . That 's true .
+[0664] [21:54] me011: Right .
+[0665] [21:54] me013: If you say " you 've got three weeks to do this review " , they do do it , you know , two and seven eighths weeks from now they do the review .
+[0666] [22:00] me013: And , um So ,
+[0667] [22:03] me013: if
+[0668] [22:05] me011: Well , and also if we want it ready by the fifteenth , that means we better give them deadline of the first ,
+[0669] [22:09] me011: if we have any prayer of actually getting everyone to respond in time .
+[0670] [22:14] me013: There 's the responding part
+[0671] [22:15] me013: and there 's also what if ,
+[0672] [22:16] me013: uh , I mean , I hope this doesn't happen ,
+[0673] [22:18] me013: what if there are a bunch of deletions that have to get put in and changes ?
+[0674] [22:21] me011: Right .
+[0675] [22:22] me013: Then we actually have to deal with that
+[0676] [22:23] fe008: Mm - hmm . Some lead time .
+[0677] [22:23] me013: if
+[0678] [22:25] me011: Ugh !
+[0679] [22:25] me011: Disk space ,
+[0680] [22:26] me011: oh my god !
+[0681] [22:27] fe008: By the way , has has Jeremy signed the form ?
+[0682] [22:28] me011: I hadn't thought about that .
+[0683] [22:29] fe008: OK .
+[0684] [22:30] me011: That
+[0685] [22:32] me011: any meeting which has any bleeps in it we need yet another copy of .
+[0686] [22:37] mn017: Oh .
+[0687] [22:37] me018: Just that channel .
+[0688] [22:37] me001: Can't you just do that channel ?
+[0689] [22:39] me018: Oh
+[0690] [22:39] me011: No , of course not .
+[0691] [22:40] me011: You need all the channels .
+[0692] [22:40] fe016: Yeah . You have to do all of them ,
+[0693] [22:41] me001: Oh .
+[0694] [22:42] me018: Do you have to do the other close - talking ?
+[0695] [22:42] fe016: as well as all of these .
+[0696] [22:43] me001: Yeah .
+[0697] [22:43] me051: Wow .
+[0698] [22:44] me011: Yes . Absolutely . There 's a lot of cross - talk .
+[0699] [22:44] fe016: You have to do all You could just do it in that time period , though ,
+[0700] [22:45] fe008: Well
+[0701] [22:47] fe016: but I guess it 's a pain .
+[0702] [22:49] me011: Well , but you have to copy the whole file .
+[0703] [22:50] fe016: Yeah .
+[0704] [22:50] me011: Right ?
+[0705] [22:50] me011: Because we 're gonna be releasing the whole file .
+[0706] [22:52] fe016: Yeah . You 're right .
+[0707] [22:52] fe008: Well I you know , I think at a certain point , that copy that has the deletions will become the master copy .
+[0708] [22:58] me011: Yeah . It 's just I hate deleting any data .
+[0709] [23:00] me011: So I I don't want I really would rather make a copy of it , rather than bleep it out
+[0710] [23:04] me013: Are you del are you bleeping it by adding ?
+[0711] [23:05] me011: and
+[0712] [23:08] me011: Overlapping .
+[0713] [23:09] me011: So , it 's it 's exactly a censor bleep .
+[0714] [23:12] me011: So what I really think is " bleep "
+[0715] [23:13] me013: I I
+[0716] [23:14] me013: I I understand ,
+[0717] [23:14] me011: and
+[0718] [23:15] me013: but is is it summing signals
+[0719] [23:17] me013: or do you delete the old one and put the new one in ?
+[0720] [23:19] me011: I delete the old one , put the new one in .
+[0721] [23:20] me013: Oh , OK .
+[0722] [23:20] me011: There 's nothing left of the original signal .
+[0723] [23:20] me013: Cuz
+[0724] [23:21] me013: Oh
+[0725] [23:23] me013: No
+[0726] [23:24] me011: Yeah . It would be qui quite easy to get it back again .
+[0727] [23:26] fe008: But And then w I was gonna say also that the they don't have to stay on the system , as you know ,
+[0728] [23:26] me013: Yeah .
+[0729] [23:27] fe016: Then someday we can sell the unedited versions .
+[0730] [23:30] fe008: cuz
+[0731] [23:30] me011: Say again ?
+[0732] [23:33] fe008: Once it 's been successfully bleeped , can't you rely on the ?
+[0733] [23:34] me018: Or we 'll tell people the frequency of the beep
+[0734] [23:35] me013: Encrypt it .
+[0735] [23:36] me001: You can hide it . Yeah .
+[0736] [23:36] me018: and then they could subtract the beep out .
+[0737] [23:37] mn017: Oh , yeah .
+[0738] [23:37] fe008: Can't you rely on the archiving to preserve the older version ?
+[0739] [23:38] fe016: Right . Exactly . I see .
+[0740] [23:38] me001: It wouldn't be that hard to hide it .
+[0741] [23:38] me011: Yeah , that 's true . Yeah . Yep , that 's true .
+[0742] [23:39] fe016: See , this is good .
+[0743] [23:40] fe016: I wanted to create some side conversations in these meetings .
+[0744] [23:40] me013: Yeah . You could encrypt it ,
+[0745] [23:40] fe008: OK .
+[0746] [23:42] me001: You can use spread spectrum .
+[0747] [23:42] me013: you
+[0748] [23:43] me018: Uh - huh .
+[0749] [23:43] fe016: So
+[0750] [23:43] me001: Hide it .
+[0751] [23:44] me018: Here we go .
+[0752] [23:44] fe016: Yeah . Yeah .
+[0753] [23:45] me001: Yeah , there you go .
+[0754] [23:46] fe016: Cuz we don't have enough asides .
+[0755] [23:46] mn017: I have an idea .
+[0756] [23:46] mn017: You reverse the signal ,
+[0757] [23:48] mn017: so it it lets people say what they said backwards .
+[0758] [23:48] me001: There you go .
+[0759] [23:50] me011: Backwards .
+[0760] [23:52] me001: Then you have , like , subliminal , uh , messages ,
+[0761] [23:52] me011: But ,
+[0762] [23:53] me011: ha you 've seen the this the speech recognition system that reversed very short segments .
+[0763] [23:53] mn017: Yeah .
+[0764] [23:54] me001: like .
+[0765] [23:58] me011: Did you read that paper ?
+[0766] [23:59] mn017: No .
+[0767] [23:59] me011: It wouldn't work .
+[0768] [24:00] me011: The speech recognizer still works .
+[0769] [24:02] fe016: Yeah
+[0770] [24:05] me013: Yeah .
+[0771] [24:05] me018: That 's cuz they use forward - backward .
+[0772] [24:05] fe016: H - good old HMM .
+[0773] [24:07] me011: Forward but backward . That 's right .
+[0774] [24:07] fe016: No , it 's backward - forward .
+[0775] [24:08] me011: Good point .
+[0776] [24:10] me011: A point .
+[0777] [24:13] me011: Well , I 'm sorry if I sound a little peeved about this whole thing .
+[0778] [24:15] me011: It 's just we 've had meeting after meeting after meeting a on this
+[0779] [24:18] me011: and it seems like we 've never gotten it resolved .
+[0780] [24:20] me013: Well , but we never also we 've also never done it .
+[0781] [24:21] fe008: Hmm .
+[0782] [24:21] fe016: Uh .
+[0783] [24:21] me011: So .
+[0784] [24:22] me011: Yeah .
+[0785] [24:23] fe008: This is the first cycle .
+[0786] [24:23] fe016: If
+[0787] [24:23] fe008: There 're bound to be some glitches the first time through .
+[0788] [24:25] me013: So . And , uh and I 'm sorry responding without , uh , having much knowledge ,
+[0789] [24:29] me013: but the thing is , uh , I am , like , one of these people who gets a gazillion mails
+[0790] [24:32] me013: and and stuff comes in as
+[0791] [24:32] me011: Well , and that 's exactly why I did it the way I did it ,
+[0792] [24:34] me011: which is the default is if you do nothing we 're gonna release it .
+[0793] [24:37] me011: Because , you know , I have my stack of emails of to d to be done ,
+[0794] [24:37] me013: Yeah .
+[0795] [24:42] me011: that , you know , fifty or sixty long ,
+[0796] [24:44] me011: and the ones at the top I 'm never gonna get to .
+[0797] [24:46] me013: Right .
+[0798] [24:46] me011: And
+[0799] [24:47] me018: Move them to the bottom .
+[0800] [24:49] me011: Yeah , right .
+[0801] [24:49] me013: So so the only thing we 're missing is is some way to respond to easily to say , uh , " OK , go ahead " or something .
+[0802] [24:50] me011: So
+[0803] [24:53] me018: Just re - mail them to yourself and then they 're at the bottom .
+[0804] [24:55] me013: Yeah .
+[0805] [24:55] me011: Yeah .
+[0806] [24:56] me011: Yeah . That 's actually definitely a good point .
+[0807] [24:56] fe008: Yeah .
+[0808] [24:57] me011: The m email doesn't specify that you can just reply to the email , as op as opposed to going to the form
+[0809] [25:03] mn017: In
+[0810] [25:03] fe008: Mm - hmm .
+[0811] [25:03] fe016: Right .
+[0812] [25:03] me011: and
+[0813] [25:04] fe008: And it also doesn't give a a specific I didn't think of it .
+[0814] [25:06] fe008: S I think it 's a good idea an ex explicit time by which this will be considered definite .
+[0815] [25:11] me011: Yeah , release .
+[0816] [25:12] fe008: And and it has to be a time earlier than that endpoint .
+[0817] [25:14] me013: Yeah . It 's converging .
+[0818] [25:16] mn017: This um , I 've seen this recently .
+[0819] [25:17] fe008: Yeah . That 's right .
+[0820] [25:18] mn017: Uh , I got email ,
+[0821] [25:19] mn017: and it i if I use a MIME - capable mail reader , it actually says , you know , click on this button to confirm receipt of the of the mail .
+[0822] [25:30] me001: Hmm .
+[0823] [25:30] fe008: Oh , that 's interesting .
+[0824] [25:31] mn017: So
+[0825] [25:31] me011: You
+[0826] [25:32] me011: A lot of mailers support return receipt .
+[0827] [25:32] me001: It 's like certified mail .
+[0828] [25:34] fe008: Could do that .
+[0829] [25:35] mn017: Right .
+[0830] [25:35] me011: But it doesn't confirm that they 've read it .
+[0831] [25:36] mn017: No , no , no . This is different .
+[0832] [25:38] mn017: This is not So , I I know , you can tell , you know , the , uh , mail delivery agent to to confirm that the mail was delivered to your mailbox .
+[0833] [25:42] fe008: Mmm .
+[0834] [25:44] me011: Right .
+[0835] [25:45] mn017: But but , no . This was different .
+[0836] [25:46] mn017: Ins
+[0837] [25:49] me011: Oh , just a button .
+[0838] [25:49] mn017: uh , th there was a button that when you clicked on it , it would send , uh , you know , a actual acknowledgement to the sender that you had actually looked at the mail .
+[0839] [25:50] me011: Oh , yeah .
+[0840] [25:59] me011: Yeah . Unfor - Yeah , we could do that .
+[0841] [26:01] me011: But I hate that .
+[0842] [26:01] mn017: But
+[0843] [26:04] mn017: you know , if you use Netscape or something like that for your n
+[0844] [26:05] me011: Yeah .
+[0845] [26:06] fe016: You might as well just respond to the mail .
+[0846] [26:06] me013: And
+[0847] [26:07] me013: And we actually need a third thing .
+[0848] [26:07] mn017: Right .
+[0849] [26:08] fe016: I mean
+[0850] [26:09] me013: It 's not that you 've looked at it ,
+[0851] [26:10] me013: it 's that you 've looked at it and and and agree with one of the possible actions .
+[0852] [26:14] mn017: No , no . You can do that .
+[0853] [26:15] me013: Right ?
+[0854] [26:15] mn017: You know , you can put this button anywhere you want ,
+[0855] [26:16] me013: Oh ?
+[0856] [26:17] mn017: and you can put it the bottom of the message and say " here , by you know , by clicking on this , I I agree uh , you know , I acknowledge "
+[0857] [26:17] me013: Oh , I see .
+[0858] [26:22] me013: That i i my first - born children are yours ,
+[0859] [26:25] me013: and
+[0860] [26:25] me013: Yeah .
+[0861] [26:27] me013: Yeah .
+[0862] [26:28] fe016: Quick question .
+[0863] [26:29] fe016: Are
+[0864] [26:29] me011: Well , I could put a URL in there without any difficulty
+[0865] [26:31] me011: and even pretty simple MIME readers can do that .
+[0866] [26:34] me011: So .
+[0867] [26:34] fe008: But why shouldn't they just email back ?
+[0868] [26:36] me011: Yeah . Reply .
+[0869] [26:36] me013: Yeah .
+[0870] [26:36] fe008: I don't see there 's a problem .
+[0871] [26:36] mn017: Right .
+[0872] [26:37] fe008: It 's very nice .
+[0873] [26:38] me013: Yeah .
+[0874] [26:38] fe008: I I like the high - tech aspect of it ,
+[0875] [26:39] mn017: No , no , no . I actually don't .
+[0876] [26:40] fe008: but
+[0877] [26:41] fe008: I appreciate it .
+[0878] [26:42] mn017: I 'm just saying that
+[0879] [26:43] me011: Well , I cuz I use a text mail reader .
+[0880] [26:43] mn017: if
+[0881] [26:44] fe016: Don't you use VI
+[0882] [26:46] fe016: for your mai ?
+[0883] [26:46] mn017: Yeah .
+[0884] [26:47] me013: Wow . That 's that 's my guy .
+[0885] [26:49] me013: Alright .
+[0886] [26:49] me011: You you read email in VI ?
+[0887] [26:49] mn017: Yeah .
+[0888] [26:50] mn017: So I i
+[0889] [26:51] fe008: Yeah . I like VI .
+[0890] [26:52] mn017: There 's these logos that you can put at the bottom of your web page , like " powered by VI " .
+[0891] [26:57] me001: Yeah .
+[0892] [26:58] me013: Wow .
+[0893] [26:59] fe016: Anyway , quick question .
+[0894] [26:59] me011: You could put wed bugs in the email .
+[0895] [26:59] me001: I see .
+[0896] [27:00] fe016: How m
+[0897] [27:00] mn017: Yeah .
+[0898] [27:01] fe016: Like , there were three meetings this time , or so
+[0899] [27:03] fe016: or how many ?
+[0900] [27:03] fe008: Six .
+[0901] [27:03] fe016: Six ?
+[0902] [27:04] fe016: But , no of different people .
+[0903] [27:06] fe016: So I guess if you 're in both these types of meetings , you 'd have a lot .
+[0904] [27:08] fe016: But
+[0905] [27:10] fe016: I
+[0906] [27:12] fe016: Like , if we release this time it 's a fairly small number of meetings ,
+[0907] [27:16] fe016: but what if we release , like , twenty - five meetings to people ?
+[0908] [27:19] me011: Well , what my s expectation is , is that we 'll send out one of these emails every time a meeting has been checked and is ready .
+[0909] [27:19] fe016: In th
+[0910] [27:20] fe016: I don't know .
+[0911] [27:26] fe016: Oh . Oh , OK .
+[0912] [27:27] me011: So . Tha - that was my intention .
+[0913] [27:27] fe016: So this time was just the first chunk . OK .
+[0914] [27:28] me011: It
+[0915] [27:29] me011: yeah
+[0916] [27:29] me011: that we just happened to have a bunch all at once .
+[0917] [27:30] fe016: Well , that 's a good idea .
+[0918] [27:31] me011: I
+[0919] [27:32] me011: Is that the way it 's gonna be , you think , Jane ?
+[0920] [27:33] fe008: I agree with you .
+[0921] [27:34] fe008: It 's we could do it , uh I I could I 'd be happy with either way ,
+[0922] [27:36] fe008: batch
+[0923] [27:37] fe008: What
+[0924] [27:37] fe008: Uh
+[0925] [27:38] fe008: That was exactly right ,
+[0926] [27:39] fe008: that
+[0927] [27:40] fe008: I I had wanted to get the entire set of twelve hours ready .
+[0928] [27:44] fe008: Don't have it .
+[0929] [27:45] fe008: But , uh , this was the biggest clump I could do by a time where I thought it was reasonable .
+[0930] [27:48] me013: Mm - hmm .
+[0931] [27:49] fe008: People would be able to check it and still have it ready by then .
+[0932] [27:51] fe008: My , um I was thinking that with the NSA meetings , I 'd like there are three of them ,
+[0933] [27:56] fe008: and they 're uh , I I will have them done by Monday .
+[0934] [28:00] fe008: Uh , unfortunately the time is later
+[0935] [28:02] fe008: and I don't know how that 's gonna work out ,
+[0936] [28:03] fe008: but I thought it 'd be good to have that released as a clump , too ,
+[0937] [28:05] fe008: because then , you know , they 're they they have a it it 's in a category ,
+[0938] [28:09] fe008: it 's not quite so distracting to them , is what I was thinking ,
+[0939] [28:11] fe008: and it 's all in one chu
+[0940] [28:12] fe008: But after that , when we 're caught up a bit on this process , then , um , I could imagine sending them out periodically as they become available .
+[0941] [28:20] fe016: OK .
+[0942] [28:20] fe008: I could do it either way .
+[0943] [28:21] fe008: I mean , it 's a question of how distracting it is to the people who have to do the checking .
+[0944] [28:28] me013: We heard anything from IBM ?
+[0945] [28:30] me013: at all ?
+[0946] [28:30] me018: Uh . Let 's see .
+[0947] [28:32] me018: We
+[0948] [28:33] me018: Yeah , right .
+[0949] [28:33] me018: So we got the transcript back from that one meeting .
+[0950] [28:35] me018: Everything seemed fine .
+[0951] [28:37] me018: Adam had a script that will put everything back together and there was Well , there was one small problem but it was a simple thing to fix .
+[0952] [28:43] me018: And then , um , we , uh I sent him a pointer to three more .
+[0953] [28:48] me018: And so he 's off and working on those .
+[0954] [28:51] me011: Yeah . Now we haven't actually had anyone go through that meeting , to see whether the transcript is correct
+[0955] [28:56] me011: and to see how much was missed and all that sort of stuff .
+[0956] [28:58] fe008: That 's on my list .
+[0957] [28:58] me011: So at some point we need to do that .
+[0958] [28:59] me018: Yeah .
+[0959] [29:00] fe008: Well , that 's on my list .
+[0960] [29:01] me018: Yeah . It 's gonna have to go through our regular process .
+[0961] [29:03] me011: I mean , the one thing I noticed is it did miss a lot of backchannels .
+[0962] [29:06] me011: There are a fair number of " yeahs " and " uh - huhs " that it 's just that aren't in there .
+[0963] [29:10] me011: So .
+[0964] [29:11] fe008: Hmm .
+[0965] [29:12] me013: But I think Yeah . Like you said , I mean , that 's that 's gonna be our standard proc
+[0966] [29:15] me013: that 's what the transcribers are gonna be spending most of their time doing , I would imagine ,
+[0967] [29:15] fe008: Mm - hmm .
+[0968] [29:17] fe008: Mm - hmm , mm - hmm .
+[0969] [29:18] me013: once
+[0970] [29:18] me011: Yes , absolutely . Yeah .
+[0971] [29:19] fe008: One question about the backchannels .
+[0972] [29:19] me013: It
+[0973] [29:21] fe008: Do you suppose that was because they weren't caught by the pre - segmenter ?
+[0974] [29:24] me011: Yes , absolutely . Absolutely .
+[0975] [29:24] fe008: Oh , interesting .
+[0976] [29:26] fe008: Oh , interesting . OK .
+[0977] [29:27] me011: Yeah . They 're they 're not in the segmented .
+[0978] [29:29] me011: It 's not that the IBM people didn't do it .
+[0979] [29:30] fe008: OK .
+[0980] [29:32] fe008: OK .
+[0981] [29:33] me011: Just they didn't get marked .
+[0982] [29:34] fe008: OK
+[0983] [29:37] fe008: I
+[0984] [29:38] fe008: There
+[0985] [29:39] fe008: we
+[0986] [29:43] fe008: We sent them the transcripts that correspond to those six meetings
+[0987] [29:47] fe008: and they 're downloading the audio files .
+[0988] [29:50] fe008: So they 'll be doing that .
+[0989] [29:51] fe008: Chuck 's Chuck 's , uh , put that in .
+[0990] [29:54] me018: Mm - hmm . Yeah , I pointed them to the set that Andreas put , uh , on the web
+[0991] [29:59] me018: so th if they want to compare directly with his results they can .
+[0992] [30:02] me018: And , um , then once , uh ,
+[0993] [30:05] me018: th we can also point them at the , um , uh , the original meetings
+[0994] [30:10] me018: and they can grab those , too , with SCP .
+[0995] [30:12] fe016: Wait . So you put the reference files ?
+[0996] [30:14] me018: No , no . They d they wanted the audio .
+[0997] [30:15] fe016: Or the ?
+[0998] [30:15] me018: Jane sent them the , uh , transcripts .
+[0999] [30:17] fe016: No , I mean of the transcripts .
+[1000] [30:19] fe016: Um .
+[1001] [30:22] fe016: Well , we can talk about it off - line .
+[1002] [30:23] me011: There 's another meeting in here , what , at four ?
+[1003] [30:23] me018: Mm - hmm .
+[1004] [30:26] me011: Right ?
+[1005] [30:27] me011: Yeah , so we have to finish by three forty - five .
+[1006] [30:27] mn017: D d So , does Washi - does does UW wanna u do this wanna use this data for recognition or for something else ?
+[1007] [30:35] me018: Uh , for recognition .
+[1008] [30:36] mn017: Oh .
+[1009] [30:36] fe016: I think they 're doing w
+[1010] [30:37] fe016: didn't they want to do language modeling on , you know , recognition - compatible transcripts
+[1011] [30:39] mn017: Oh . I see .
+[1012] [30:41] me013: Yeah .
+[1013] [30:41] fe016: or ?
+[1014] [30:41] fe008: This is to show you , uh , some of the things that turn up during the checking procedure .
+[1015] [30:46] fe008: Um @ @ So , this is from one of the NSA meetings
+[1016] [30:48] fe008: and , uh , i if you 're familiar with the diff format , the arrow to the left is what it was ,
+[1017] [30:52] fe008: and the arrow to the right is what it was changed to .
+[1018] [30:55] fe008: So ,
+[1019] [30:56] fe008: um . And now the first one .
+[1020] [30:57] fe008: " OK . So , then we started a weekly meeting .
+[1021] [30:58] fe008: The last time , uh " And the transcriber thought " little too much "
+[1022] [31:03] fe008: But , uh ,
+[1023] [31:05] fe008: really , um , it was " we learned too much " ,
+[1024] [31:07] fe008: which makes more sense syntactically as well .
+[1025] [31:09] mn017: And
+[1026] [31:10] fe008: Then
+[1027] [31:11] fe008: Oh , this that 's the convention for indicating uncertain .
+[1028] [31:12] me011: U uncertains .
+[1029] [31:13] fe008: So the transcriber was right .
+[1030] [31:14] mn017: S
+[1031] [31:15] fe008: You know , she was uncertain about that .
+[1032] [31:16] mn017: OK .
+[1033] [31:17] fe008: So she 's right to be uncertain .
+[1034] [31:19] mn017: Oh . OK .
+[1035] [31:19] fe008: And it 's also a g a good indication of the of that .
+[1036] [31:21] fe008: The next one . This was about , uh , Claudia
+[1037] [31:23] fe008: and she 'd been really b busy with stuff , such as waivers .
+[1038] [31:28] fe008: Uh , OK .
+[1039] [31:29] fe008: Um , next one .
+[1040] [31:30] fe008: Um . This was an interesting one .
+[1041] [31:32] fe008: So the original was " So that 's not so Claudia 's not the bad master here " ,
+[1042] [31:36] fe008: and then he laughs ,
+[1043] [31:37] me011: Web master .
+[1044] [31:37] fe008: but it really " web master " .
+[1045] [31:38] me001: Oh . Uh - oh .
+[1046] [31:40] fe008: And then you see another type of uncertainty which is , you know , they just didn't know what to make out of that .
+[1047] [31:44] fe008: So instead of " split upon unknown " , it 's " split in principle " .
+[1048] [31:44] me011: Yep .
+[1049] [31:47] me001: Jane , these are from IBM ?
+[1050] [31:48] me011: Spit upon ?
+[1051] [31:49] me001: The top lines ?
+[1052] [31:49] fe008: No , no . These are these are our local transcriptions of the NSA meetings .
+[1053] [31:50] me011: No , these are ours .
+[1054] [31:53] me001: Oh .
+[1055] [31:53] fe008: The transcribers transcriber 's version ver versus the checked version .
+[1056] [31:56] me001: Oh , I see .
+[1057] [31:57] fe008: My my checked version , after I go through it .
+[1058] [31:58] me001: OK .
+[1059] [31:59] fe008: Um , then you get down here .
+[1060] [32:01] fe008: Um .
+[1061] [32:01] fe008: Sometimes some speakers will insert foreign language terms .
+[1062] [32:05] fe008: That 's the next example ,
+[1063] [32:06] fe008: the next one .
+[1064] [32:07] fe008: The
+[1065] [32:09] fe008: So instead of saying " or " ,
+[1066] [32:11] fe008: especially those words , " also " and " oder " and some other ones .
+[1067] [32:15] fe008: Those sneak in .
+[1068] [32:16] fe008: Um
+[1069] [32:17] mn017: Discourse markers .
+[1070] [32:17] me011: That 's cool .
+[1071] [32:18] mn017: Discourse markers .
+[1072] [32:18] fe008: S
+[1073] [32:20] fe008: Sorry , what ?
+[1074] [32:20] fe008: Discourse markers ?
+[1075] [32:20] mn017: Discourse markers .
+[1076] [32:21] fe008: Sure . Sure , sure , sure .
+[1077] [32:21] mn017: Yeah . Yeah .
+[1078] [32:22] fe008: And it 's and it makes sense
+[1079] [32:23] fe008: cuz it 's , like , below this it 's a little subliminal there .
+[1080] [32:23] mn017: Yeah .
+[1081] [32:24] mn017: Yeah , yeah .
+[1082] [32:25] fe008: Um . OK , the next one ,
+[1083] [32:27] fe008: uh , this is a term .
+[1084] [32:28] fe008: The problem with terminology .
+[1085] [32:30] fe008: Description with th the transcriber has " X as an advance " .
+[1086] [32:33] fe008: But really it 's " QS in advance " .
+[1087] [32:35] fe008: I mean , I I 've benefited from some of these , uh , cross - group meetings .
+[1088] [32:38] fe008: OK , then you got ,
+[1089] [32:39] fe008: um , uh ,
+[1090] [32:41] fe008: instead of " from something - or - other cards " , it 's " for multicast " .
+[1091] [32:45] fe008: And instead of " ANN system related " , it 's " end system related " .
+[1092] [32:49] fe008: This was changed to an acronym initially
+[1093] [32:50] fe008: and it should shouldn't have been .
+[1094] [32:52] fe008: And then , you can see here " GPS " was misinterpreted .
+[1095] [32:57] fe008: It 's just totally understanda
+[1096] [32:58] fe008: This is this is a lot of jargon .
+[1097] [33:00] fe008: Um , and the final one ,
+[1098] [33:02] fe008: the transcriber had th " in the core network itself
+[1099] [33:05] fe008: or the exit unknown ,
+[1100] [33:07] fe008: not the internet unknown " .
+[1101] [33:09] fe008: And it it comes through as " in the core network itself of the access provider ,
+[1102] [33:12] fe008: not the internet backbone core " .
+[1103] [33:14] fe008: Now this is a lot of terminology .
+[1104] [33:16] mn017: Mmm .
+[1105] [33:16] fe008: And they 're generally extremely good ,
+[1106] [33:18] fe008: but , you know in this this area it really does pay to , um to double check
+[1107] [33:22] fe008: and I 'm hoping that when the checked versions are run through the recognizer that you 'll see s substantial improvements in performance
+[1108] [33:28] fe008: cuz the you know , there 're a lot of these in there .
+[1109] [33:31] mn017: Yeah . So how often ?
+[1110] [33:31] me011: Yeah , but I bet I bet they 're acoustically challenging parts anyway , though .
+[1111] [33:35] me001: Mmm .
+[1112] [33:35] fe008: No , actually no .
+[1113] [33:36] me011: Oh , really ?
+[1114] [33:36] fe008: Huh - uh .
+[1115] [33:36] me011: Uh
+[1116] [33:37] me011: Oh , so it 's just jargon .
+[1117] [33:38] fe008: It 's jargon . Yeah .
+[1118] [33:39] fe008: I mean this is cuz , you know you don't realize in daily life how much you have top - down influences in what you 're hearing .
+[1119] [33:40] mn017: Well
+[1120] [33:44] mn017: But
+[1121] [33:45] fe008: And it 's jar it 's jargon coupled with a foreign accent .
+[1122] [33:46] mn017: But we don't I mean , our language model right now doesn't know about these words anyhow .
+[1123] [33:50] mn017: So ,
+[1124] [33:51] mn017: you know , un until you actually get a decent language model , @ @ Adam 's right .
+[1125] [33:52] me013: Yeah .
+[1126] [33:55] me011: It probably won't do any better .
+[1127] [33:56] mn017: You probably won't notice a difference .
+[1128] [33:57] mn017: But it 's I mean , it 's definitely good that these are fixed .
+[1129] [34:00] mn017: I mean , obviously .
+[1130] [34:01] me013: Yeah .
+[1131] [34:02] fe008: Well , also from the standpoint of getting people 's approval ,
+[1132] [34:04] fe008: cuz
+[1133] [34:09] me011: Did I say that ?
+[1134] [34:12] me013: Yeah .
+[1135] [34:13] me013: Yeah . That would be a shame if people said " well , I don't approve it because the it 's not what I said " .
+[1136] [34:13] fe008: OK .
+[1137] [34:17] me011: Well , that 's exactly why I put the extra option in ,
+[1138] [34:18] me013: Yeah .
+[1139] [34:20] fe008: Exactly . That 's why we discussed that .
+[1140] [34:20] me011: is that I was afraid people would say , " let 's censor that because it 's wrong " ,
+[1141] [34:20] me013: Yeah .
+[1142] [34:23] me011: and I don't want them to do that .
+[1143] [34:23] me013: Yeah .
+[1144] [34:25] fe008: And then I also the final thing I have for transcription is that I made a purchase of some other headphones
+[1145] [34:26] mn017: C
+[1146] [34:30] fe008: because of the problem of low gain in the originals .
+[1147] [34:33] fe008: And and they very much appro they mu much prefer the new ones ,
+[1148] [34:36] fe008: and actually I I mean , I I think that there will be fewer things to correct because of the the choice .
+[1149] [34:41] fe008: We 'd originally chosen , uh , very expensive head headsets
+[1150] [34:41] me011: Yeah .
+[1151] [34:43] me011: Ugh !
+[1152] [34:44] fe008: but , um , they 're just not as good as these , um , in this with this respect to this particular task .
+[1153] [34:50] mn017: Well , return the old ones .
+[1154] [34:51] me011: It 's probably impedance matching problems .
+[1155] [34:53] me011: But
+[1156] [34:54] fe008: I don't know exactly ,
+[1157] [34:54] fe008: but we chose them because that 's what 's been used here by prominent projects in transcription .
+[1158] [34:56] me013: Could be .
+[1159] [34:58] me011: Mm - hmm .
+[1160] [34:58] fe008: So it i we had every reason to think they would work .
+[1161] [34:58] mn017: So you have spare headsets ?
+[1162] [35:00] fe008: Sorry , what ?
+[1163] [35:01] mn017: You have spare headsets ?
+[1164] [35:02] me011: They 're just earphones .
+[1165] [35:03] me011: They 're not headsets .
+[1166] [35:04] me011: They 're not microphones .
+[1167] [35:05] mn017: No , no . I mean , just earphones ?
+[1168] [35:05] fe016: Right .
+[1169] [35:07] mn017: Um ,
+[1170] [35:08] mn017: because I , uh , I could use one on my workstation ,
+[1171] [35:11] mn017: just to t
+[1172] [35:12] mn017: because sometimes I have to listen to audio files
+[1173] [35:14] mn017: and I don't have to b go borrow it from someone
+[1174] [35:17] mn017: and
+[1175] [35:18] fe008: We
+[1176] [35:19] fe008: W Well , the thing is , that if we have four people come to work for a day , I was I was hanging on to the others for , eh for spares ,
+[1177] [35:24] mn017: Oh , OK .
+[1178] [35:25] mn017: Sure . No problem .
+[1179] [35:26] me013: No , but you 'd If you Yeah , w we should get it .
+[1180] [35:26] fe008: but I can tell you what I recommend .
+[1181] [35:26] me011: But if you need it , just get it .
+[1182] [35:26] mn017: I
+[1183] [35:27] me011: Come on .
+[1184] [35:28] mn017: Right .
+[1185] [35:29] me013: Yeah . If you need it .
+[1186] [35:29] mn017: Yeah .
+[1187] [35:30] me013: Yeah .
+[1188] [35:30] me001: Yeah , I still I still need to get a pair , too .
+[1189] [35:31] fe008: It 'd just have to be a s a separate order an added order .
+[1190] [35:31] me013: They 're they 're they 're they 're pretty inexpensive .
+[1191] [35:32] fe016: Yeah
+[1192] [35:33] fe016: We should order a cou uh , t two or three or four , actually .
+[1193] [35:34] me001: I 'm using one of these .
+[1194] [35:34] me013: Yeah .
+[1195] [35:35] me001: Yeah .
+[1196] [35:36] mn017: I think I have a pair that I brought from home ,
+[1197] [35:36] fe016: We
+[1198] [35:38] mn017: but it 's f just for music listening
+[1199] [35:38] me013: No . Just just just just buy them .
+[1200] [35:39] mn017: and
+[1201] [35:39] fe016: Sh - Just get the model number
+[1202] [35:40] mn017: Nnn . Yeah .
+[1203] [35:41] fe016: and
+[1204] [35:41] me013: Just buy them .
+[1205] [35:41] fe016: Where do you buy these from ?
+[1206] [35:42] mn017: Yeah .
+[1207] [35:42] fe008: Cambridge SoundWorks , just down the street .
+[1208] [35:42] fe016: Like ?
+[1209] [35:44] fe016: You just b go and b
+[1210] [35:45] fe016: Oh .
+[1211] [35:45] fe008: Yeah . They always have them in stock .
+[1212] [35:45] me013: Yeah .
+[1213] [35:46] mn017: Anyway .
+[1214] [35:46] fe016: That 'd be a good idea .
+[1215] [35:47] me011: W uh , could you email out the brand ?
+[1216] [35:47] me013: Yeah .
+[1217] [35:49] fe008: Oh , sure . Yeah . OK .
+[1218] [35:49] me011: Cuz I think sounds like people are interested .
+[1219] [35:50] me001: Yeah .
+[1220] [35:51] me011: So .
+[1221] [35:51] me001: Definitely .
+[1222] [35:51] me013: Yeah .
+[1223] [35:52] fe008: It 's made a difference in in how easy .
+[1224] [35:54] fe008: Yeah .
+[1225] [35:54] me013: I realized something I should talk about .
+[1226] [35:56] me013: So what 's the other thing on the agenda actually ?
+[1227] [35:57] me011: Uh , the only one was Don wanted to , uh , talk about disk space yet again .
+[1228] [36:01] me001: Yeah .
+[1229] [36:02] me001: u It 's short .
+[1230] [36:03] me001: I mean , if you wanna go , we can just throw it in at the end .
+[1231] [36:04] me013: No , no . Why don't you why don't you go ahead
+[1232] [36:05] me013: since it 's short .
+[1233] [36:05] me001: Um , well , uh .
+[1234] [36:06] me011: Oh , I thought you meant the disk space .
+[1235] [36:07] mn017: The disk space was short .
+[1236] [36:07] me011: Yeah , we know disk space is short .
+[1237] [36:08] mn017: Yeah . That 's what I thought too .
+[1238] [36:09] fe016: That 's a great ambiguity .
+[1239] [36:11] me013: Yeah .
+[1240] [36:11] fe016: It
+[1241] [36:12] fe016: it 's it 's social
+[1242] [36:12] me013: It
+[1243] [36:13] fe016: and , uh , discourse level
+[1244] [36:13] me013: I i i it i
+[1245] [36:13] me001: Yeah .
+[1246] [36:14] fe016: and
+[1247] [36:15] me013: Yeah , it 's great .
+[1248] [36:15] fe016: Sorry .
+[1249] [36:16] me013: Yeah ,
+[1250] [36:16] me013: double
+[1251] [36:16] me011: Yeah , it was really goo
+[1252] [36:17] fe016: See , if I had that little scratch - pad , I would have made an X there .
+[1253] [36:18] me001: Thank you , thank you .
+[1254] [36:20] me011: Uh , well , we 'll give you one then .
+[1255] [36:22] me013: Yeah .
+[1256] [36:22] me001: Um . So , um ,
+[1257] [36:25] me001: without
+[1258] [36:29] me011: Oh , no .
+[1259] [36:29] fe016: It was while I was out of town .
+[1260] [36:29] me001: Um , this is always a suspect phrase .
+[1261] [36:32] me001: But , um , no . I , uh I realized that we 're going to be doing a lot of experiments , um , o for this , uh , paper we 're writing ,
+[1262] [36:40] me001: so
+[1263] [36:42] me001: We 're probably gonna need that disk space that we had on that eighteen gig hard drive .
+[1264] [36:46] me001: But , um , we also have someone else coming in that 's gonna help us out with some stuff .
+[1265] [36:49] me001: So
+[1266] [36:49] me013: We 've just ordered a hundred gigabytes .
+[1267] [36:52] fe016: I think we need , like , another eighteen gig disk to be safe .
+[1268] [36:52] me001: OK
+[1269] [36:55] me013: Well , we 're getting three thirty thirty - sixes .
+[1270] [36:56] fe016: So .
+[1271] [36:57] me001: OK .
+[1272] [36:57] me013: Right ?
+[1273] [36:57] me013: That are going into the main f file server .
+[1274] [36:58] fe016: OK .
+[1275] [36:59] me018: Markham 's ordering and they should be coming in soon .
+[1276] [36:59] me001: W
+[1277] [36:59] me013: So .
+[1278] [36:59] me011: Soon ?
+[1279] [37:01] me001: Yeah . I mean , I guess the thing is is , all I need is to hang it off , like , the person who 's coming in , Sonali 's , computer .
+[1280] [37:06] mn017: Oh , so so , you mean the d the internal the disks on the machines that we just got ?
+[1281] [37:07] me001: Whew .
+[1282] [37:08] me001: Or we can move them .
+[1283] [37:11] me011: No .
+[1284] [37:11] mn017: Or extra disk ?
+[1285] [37:11] me018: These are gonna go onto Abbott .
+[1286] [37:11] me011: Ne - new disks .
+[1287] [37:12] me013: Onto Abbott ,
+[1288] [37:13] me001: So are we gonna move the stuff off of my hard drive onto that when those come in ?
+[1289] [37:13] me013: the file server .
+[1290] [37:13] mn017: Oh , oh . OK .
+[1291] [37:13] me011: On
+[1292] [37:14] me011: Yeah .
+[1293] [37:16] me011: Once they come in . Sure .
+[1294] [37:16] fe016: Uh , i
+[1295] [37:16] me001: OK . That 's fine .
+[1296] [37:17] fe016: Do when when is this planned for roughly ?
+[1297] [37:18] me018: They should be I I imagine next week or something .
+[1298] [37:22] fe016: OK .
+[1299] [37:22] me001: OK .
+[1300] [37:22] me011: If you 're if you 're desperate , I have some space on my drive .
+[1301] [37:22] fe016: So
+[1302] [37:24] me001: I
+[1303] [37:25] me011: But I I vacillate between no space free and a few gig free .
+[1304] [37:28] fe016: Yeah .
+[1305] [37:28] me001: Yeah . I think I can find something if I 'm desperate
+[1306] [37:29] me011: So .
+[1307] [37:31] me001: and , um , in the meantime I 'll just hold out .
+[1308] [37:31] me011: OK .
+[1309] [37:32] me001: That was the only thing I wanted to bring up .
+[1310] [37:34] me018: It should be soon .
+[1311] [37:35] me018: We
+[1312] [37:35] me001: OK .
+[1313] [37:35] me013: So there 's another hundred gig .
+[1314] [37:36] me013: So .
+[1315] [37:37] me001: Alright . Great .
+[1316] [37:37] mn017: Mm - hmm .
+[1317] [37:37] me013: OK .
+[1318] [37:38] me001: That 's it .
+[1319] [37:39] me013: It 's great to be able to do it ,
+[1320] [37:39] fe016: Good .
+[1321] [37:39] me013: just say " oh yeah , a hundred gig ,
+[1322] [37:40] me001: Yeah .
+[1323] [37:40] me011: Yeah .
+[1324] [37:40] me013: no big deal " .
+[1325] [37:41] me011: A hundred gig here ,
+[1326] [37:42] me011: a hundred gig there .
+[1327] [37:42] fe016: Well , each meeting is like a gig or something ,
+[1328] [37:43] me011: It 's eventually real disk space .
+[1329] [37:44] me013: Yeah .
+[1330] [37:44] fe016: so
+[1331] [37:46] me013: Yeah .
+[1332] [37:48] me013: Um . Yeah . I was just going to comment that I I 'm going to , uh , be on the phone with Mari tomorrow , late afternoon .
+[1333] [37:54] me011: Oh , yeah .
+[1334] [37:54] me013: We 're supposed to get together and talk about , uh , where we are on things .
+[1335] [38:00] me013: Uh , there 's this meeting coming up ,
+[1336] [38:03] me013: uh , and there 's also an annual report . Now ,
+[1337] [38:05] me013: I
+[1338] [38:06] me013: I I was asking about this .
+[1339] [38:07] me013: I don't really quite understand this .
+[1340] [38:09] me013: She
+[1341] [38:11] me013: I think this actually didn't just come from her ,
+[1342] [38:14] me013: but this is what , uh , DARPA had asked for .
+[1343] [38:17] me013: Um , she 's referring to it as the an annual report for the fiscal year .
+[1344] [38:21] me013: But of course the fiscal year starts in October ,
+[1345] [38:23] me013: so I don't quite understand w w why we do an annual report that we 're writing in July .
+[1346] [38:27] me018: She 's either really late or really early .
+[1347] [38:29] me011: Huh .
+[1348] [38:30] me011: Or she 's getting a good early start .
+[1349] [38:32] me013: Uh , I think basically it it 's none of those .
+[1350] [38:34] me013: It 's that the meeting is in July
+[1351] [38:35] me013: so they so DARPA just said do an annual report .
+[1352] [38:37] me013: So .
+[1353] [38:39] me013: So .
+[1354] [38:40] me013: So anyway , I 'll be putting together stuff .
+[1355] [38:41] me013: I 'll do it , uh , you know , as much as I can without bothering people ,
+[1356] [38:44] me013: just by looking at at papers and status reports .
+[1357] [38:47] mn017: Hmm .
+[1358] [38:47] me013: I mean , the status reports you do are very helpful .
+[1359] [38:49] me013: Uh , so I can grab stuff there .
+[1360] [38:51] me013: And
+[1361] [38:51] me011: When we remember to fill them out .
+[1362] [38:53] me013: Yeah . If people could do it as soon as as you can , if you haven't done one si recently .
+[1363] [38:57] me013: Uh . Uh ,
+[1364] [38:59] me013: but , you know , I 'm I 'm sure before it 's all done , I 'll end up bugging people for for more clarification about stuff .
+[1365] [39:06] me013: Um . But , um ,
+[1366] [39:08] me013: I don't know ,
+[1367] [39:09] me013: I guess I guess I know pretty much what people have been doing .
+[1368] [39:12] me013: We have these meetings and and there 's the status reports .
+[1369] [39:16] me013: Uh . But , um . Um .
+[1370] [39:21] me013: Yeah
+[1371] [39:25] me013: I 'll be talking to her late tomorrow afternoon ,
+[1372] [39:27] me013: and if something hasn't been in a status report and you think it 's important thing to mention on this kind of thing , uh , uh , just pop me a one - liner
+[1373] [39:34] me013: and and and I 'll I 'll have it in front of me for the phone conversation .
+[1374] [39:40] mn017: OK .
+[1375] [39:42] me013: Uh .
+[1376] [39:43] me013: I guess , uh , you you 're still pecking away at the demos and all that , probably .
+[1377] [39:48] me011: Yep .
+[1378] [39:49] me011: And Don is gonna be helping out with that .
+[1379] [39:50] me013: Oh , that 's right .
+[1380] [39:52] me011: So .
+[1381] [39:52] me013: OK .
+[1382] [39:53] me011: Did you wanna talk about that this afternoon ?
+[1383] [39:55] me001: Um .
+[1384] [39:55] me011: Not here , but later today ?
+[1385] [39:57] me001: We should probably talk off - line about when we 're gonna talk off - line .
+[1386] [39:59] me011: OK . OK .
+[1387] [40:01] me013: OK .
+[1388] [40:02] me013: Yeah , I might want to get updated about it in about a week
+[1389] [40:05] me013: cuz , um , I 'm actually gonna have a a few days off the following week ,
+[1390] [40:09] me013: a after the after the picnic .
+[1391] [40:11] me013: So .
+[1392] [40:11] me011: Oh , OK .
+[1393] [40:15] me013: That 's all I had .
+[1394] [40:17] me011: So
+[1395] [40:21] me011: automatic transcription ,
+[1396] [40:22] me011: but we 're kind of running late .
+[1397] [40:23] me011: So .
+[1398] [40:25] fe016: How long does it take you to save the data ?
+[1399] [40:27] me011: Fifteen minutes .
+[1400] [40:28] fe016: Yeah .
+[1401] [40:28] me011: So .
+[1402] [40:29] me011: If you wanna do a quick
+[1403] [40:31] fe016: Yeah .
+[1404] [40:32] me011: ten
+[1405] [40:33] fe016: Guess we should stop , like , twenty of at the latest .
+[1406] [40:36] me013: Uh
+[1407] [40:36] fe016: We we have another meeting coming in that they wanna record .
+[1408] [40:38] fe016: So .
+[1409] [40:39] me013: And there 's the digits to do .
+[1410] [40:40] me013: So
+[1411] [40:40] me011: Yeah . Well , we can skip the digits .
+[1412] [40:42] me013: We could .
+[1413] [40:43] me013: Fi - five minute report or something .
+[1414] [40:45] fe016: It 's up to you .
+[1415] [40:45] fe016: I
+[1416] [40:46] me011: Whatever you want .
+[1417] [40:46] me013: Yeah , yeah .
+[1418] [40:47] me013: Well , I would love to hear about it ,
+[1419] [40:47] me011: What do you have to say ?
+[1420] [40:48] me011: I 'm interested ,
+[1421] [40:48] me013: especially
+[1422] [40:49] me011: so
+[1423] [40:49] me013: Yeah . Well , I 'm gonna be on the phone tomorrow ,
+[1424] [40:51] me013: so this is just a good example of the sort of thing I 'd like to hear about .
+[1425] [40:54] fe016: Wait . Why is everybody looking at me ?
+[1426] [40:55] me011: Sorry .
+[1427] [40:55] me018: I don't know .
+[1428] [40:56] me013: Cuz he looked at you
+[1429] [40:57] mn017: What ?
+[1430] [40:57] me013: and says you 're sketching .
+[1431] [40:58] fe016: Uh . I 'm not sure what you were referring to .
+[1432] [40:58] mn017: I I I I 'm not actually , I 'm not sure what ?
+[1433] [41:01] mn017: Are we supposed to have done something ?
+[1434] [41:02] me011: No . We were just talking before about alternating the subject of the meeting .
+[1435] [41:04] mn017: Oh .
+[1436] [41:07] mn017: Alternating .
+[1437] [41:07] fe016: Uh - huh .
+[1438] [41:07] me011: And this week we were gonna try to do t automatic transcription status .
+[1439] [41:08] fe016: I wasn't here last week .
+[1440] [41:09] mn017: Oh !
+[1441] [41:09] fe016: Sorry .
+[1442] [41:11] fe016: Oh .
+[1443] [41:11] mn017: We did that last week .
+[1444] [41:11] me011: But we sort of failed .
+[1445] [41:13] mn017: Right ?
+[1446] [41:13] fe016: Hhh .
+[1447] [41:13] me011: No .
+[1448] [41:14] me013: I thought we did .
+[1449] [41:15] me011: Did we ?
+[1450] [41:15] mn017: Yeah . We did .
+[1451] [41:15] me011: OK .
+[1452] [41:16] me011: OK . So now now we have the schedule .
+[1453] [41:18] me011: So next week we 'll do automatic transcription status ,
+[1454] [41:20] me011: plus anything that 's real timely .
+[1455] [41:20] mn017: OK .
+[1456] [41:21] fe016: Oh . OK .
+[1457] [41:22] fe008: OK .
+[1458] [41:23] me013: OK . Whew !
+[1459] [41:24] me011: Whew !
+[1460] [41:24] me018: Good update .
+[1461] [41:24] me013: That
+[1462] [41:24] me011: Dodged that bullet .
+[1463] [41:26] me013: Yeah . Nicely done , Liz .
+[1464] [41:30] fe008: A woman of few words .
+[1465] [41:33] me013: But but lots of prosody .
+[1466] [41:36] me013: OK . OK .
+[1467] [41:40] mn017: Uh , I mean , we we really haven't done anything .
+[1468] [41:40] me011: Th
+[1469] [41:43] me011: Excuse me ?
+[1470] [41:43] mn017: Sorry .
+[1471] [41:45] fe008: Well , since last week .
+[1472] [41:46] fe016: Yeah
+[1473] [41:46] mn017: I mean , the the next thing on our agenda is to go back and look at the , um the automatic alignments
+[1474] [41:52] mn017: because
+[1475] [41:54] mn017: I
+[1476] [42:04] mn017: or , of the foreground speech with background speech .
+[1477] [42:06] mn017: So .
+[1478] [42:06] me011: Yeah .
+[1479] [42:07] mn017: But
+[1480] [42:07] fe016: And
+[1481] [42:10] fe016: the
+[1482] [42:12] fe016: when
+[1483] [42:13] fe016: You know , before we were working with these segments that were all synchronous
+[1484] [42:17] fe016: and that caused a lot of problems
+[1485] [42:18] mn017: Mmm .
+[1486] [42:19] me011: Oh . Right , right .
+[1487] [42:19] fe016: because you have timed sp at on either side .
+[1488] [42:22] me011: Mm - hmm .
+[1489] [42:22] fe016: And so that 's sort of a
+[1490] [42:24] fe016: stage - two of trying the same kinds of alignments with the tighter boundaries with them is really the next step .
+[1491] [42:27] me011: Right .
+[1492] [42:30] fe016: We
+[1493] [42:30] fe008: I 'll be interested .
+[1494] [42:31] fe016: I guess , good news .
+[1495] [42:32] fe016: We got our abstract accepted for this conference ,
+[1496] [42:35] fe016: um workshop ,
+[1497] [42:36] fe016: ISCA workshop , in , um , uh , New Jersey .
+[1498] [42:41] fe016: And we sent in a very poor abstract ,
+[1499] [42:43] fe016: but
+[1500] [42:44] fe016: very poor ,
+[1501] [42:45] fe016: very quick .
+[1502] [42:46] fe016: Um ,
+[1503] [42:47] fe016: but we 're hoping to have a paper for that as well ,
+[1504] [42:50] fe016: which
+[1505] [42:51] me011: When 's it due ?
+[1506] [42:52] fe016: The t paper isn't due until August .
+[1507] [42:54] fe016: The abstracts were already due .
+[1508] [42:55] fe016: So it 's that kind of workshop .
+[1509] [42:55] me011: Mm - hmm .
+[1510] [42:57] fe016: But
+[1511] [43:01] fe016: sort of a different crowd ,
+[1512] [43:02] fe016: and I think we 're the only people working on prosody in meetings so far ,
+[1513] [43:05] fe016: so that should be interesting .
+[1514] [43:07] fe008: What 's the name of the meeting ?
+[1515] [43:08] fe016: Uh
+[1516] [43:10] mn017: It
+[1517] [43:16] me011: Mm - hmm .
+[1518] [43:17] fe016: some
+[1519] [43:17] fe008: Good .
+[1520] [43:19] fe016: Uh , so it 's focused on using prosody in automatic systems
+[1521] [43:21] fe016: and there 's a um , a web page for it .
+[1522] [43:26] me013: Y you going to , uh , Eurospeech ?
+[1523] [43:29] mn017: Yeah .
+[1524] [43:29] me013: Yeah .
+[1525] [43:29] me011: I don't have a paper
+[1526] [43:30] me011: but I 'd kinda like to go ,
+[1527] [43:31] me011: if I could .
+[1528] [43:32] me011: Is that alright ?
+[1529] [43:34] me013: We 'll discuss it .
+[1530] [43:35] me011: OK . I guess that 's " no " .
+[1531] [43:37] me013: My my my car my car needs a good wash , by the way .
+[1532] [43:38] me011: OK . Well , that th Hey , if that 's what it takes , that 's fine with me .
+[1533] [43:46] me013: Um .
+[1534] [43:47] me011: I 'll pick up your dry - cleaning , too .
+[1535] [43:52] me011: Should we do digits ?
+[1536] [43:53] me013: Yeah .
+[1537] [43:54] me011: Uh .
+[1538] [44:26] mn017: Can I go next ?
+[1539] [44:27] mn017: Because I have to leave , actually .
+[1540] [44:28] me011: Yep .
+[1541] [44:28] me011: Go for it .
+[1542] [45:58] me011: Hmm !
+[1543] [48:12] me011: Thanks .
+[1544] [48:43] me011: Thank you .
+[1545] [48:45] me013: So you get to be the one who has all the paper rustling .
+[1546] [48:47] me013: Right ?

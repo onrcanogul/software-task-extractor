@@ -1,0 +1,93 @@
+meeting_id,title,description,assignee,priority,task_type,tech_stack
+ES2003a,Design touch screen remote control interface,Create a user-friendly interface for a touch screen remote control that allows for programming and customization of functions.,Belirtilmedi,High,Feature,"Embedded, UI/UX"
+ES2003a,Implement macro functionality for remote control,Develop a feature that allows users to program macros for controlling multiple devices with a single button press.,Belirtilmedi,Medium,Feature,"Embedded, C++"
+ES2003a,Create interactive television control features,"Design and implement features that allow users to control interactive television functions, such as camera angles and playback options.",Belirtilmedi,Medium,Feature,"Embedded, UI/UX"
+ES2003b,Implement voice recognition feature for remote control,Integrate voice recognition software to allow users to control the remote using voice commands.,Belirtilmedi,High,Feature,Embedded
+ES2003b,Design user interface for voice-controlled remote,Create a user-friendly interface that accommodates voice commands and simplifies remote control usage.,Belirtilmedi,Medium,UI/UX,"JavaScript, HTML, CSS"
+ES2003b,Optimize remote control button layout,Refactor the button layout to enhance usability based on user feedback regarding button accessibility.,Belirtilmedi,Medium,Refactor,Embedded
+ES2004a,Design remote control user interface,Create a user-friendly interface for the remote control that simplifies navigation and access to features.,Belirtilmedi,High,UI/UX,"JavaScript, HTML, CSS"
+ES2004a,Implement menu display for remote control,Incorporate a menu display feature into the remote control to allow users to access additional functions easily.,Belirtilmedi,Medium,Feature,"Embedded, Electronics"
+ES2004d,Integrate voice recognition software,Incorporate voice recognition functionality into the remote control system.,Belirtilmedi,High,Feature,Embedded
+ES2004d,Design infrared transmission system,Develop the infrared transmission system for remote control communication.,Belirtilmedi,Medium,Integration,Electronics
+ES2004d,Create touch screen interface,Design and implement the touch screen interface for the remote control.,Belirtilmedi,High,UI/UX,Embedded
+ES2008b,Design user interface for remote control,Create several prototypes of user interfaces for the remote control and gather feedback on usability.,Belirtilmedi,Medium,Feature,UI/UX
+ES2008b,Implement voice recognition feature,Develop a voice recognition module that allows users to control the remote with voice commands.,Belirtilmedi,High,Feature,"Embedded, Voice Recognition"
+ES2008b,Optimize remote control button layout,Refactor the button layout to prioritize frequently used functions like volume and channel change.,Belirtilmedi,Medium,Refactor,UI/UX
+ES2011a,Design water-resistant remote control,"Create a design for a remote control that is water-resistant, strong, and user-friendly.",Belirtilmedi,High,Feature,Embedded
+ES2011a,Implement remote control button mapping,"Map the buttons on the remote control to their respective functions, ensuring ease of use.",Belirtilmedi,Medium,Feature,Embedded
+ES2011a,Create remote control with call button,Develop a feature that allows the remote control to emit a sound or light signal to help locate it.,Belirtilmedi,Medium,Feature,Embedded
+ES2011a,Integrate screen functionality in remote control,Design and integrate a screen into the remote control for displaying channel information and programming options.,Belirtilmedi,High,Feature,Embedded
+ES2011b,Design remote control button layout,"Create a user-friendly layout focusing on frequently used buttons for channel selection, volume, and power.",Belirtilmedi,High,Feature,UI/UX
+ES2011b,Implement location function for remote,Develop a feature that allows the remote to signal its location through beeping or vibrating.,Belirtilmedi,Medium,Feature,Embedded/Electronics
+ES2011b,Integrate speech recognition functionality,Implement speech recognition to allow users to control the remote using voice commands.,Belirtilmedi,High,Feature,Voice Recognition
+ES2011b,Optimize remote control power management,Design an efficient power management system for the remote to extend battery life.,Belirtilmedi,Medium,Refactor,Embedded/Electronics
+ES2011c,Design circuit board for remote control,Create a circuit board that takes button input and sends it to the output.,Belirtilmedi,High,Hardware/Firmware,Electronics
+ES2011c,Create UI for remote control,Develop a graphical interface system for the remote control that displays options and allows user interaction.,Belirtilmedi,Medium,UI/UX,"JavaScript, HTML/CSS"
+ES2011c,Implement menu navigation for remote control,Develop functionality to navigate through different settings and options on the remote control's interface.,Belirtilmedi,Medium,Feature,JavaScript
+ES2014a,Design new remote control interface,Create a user-friendly interface for the new remote control device that is easy to use and visually appealing.,Belirtilmedi,High,Feature,UI/UX
+ES2014a,Develop button layout for remote control,"Design a button layout that is easy to press and access for users, ensuring functionality is prioritized.",Belirtilmedi,Medium,Feature,Embedded
+ES2014a,Integrate remote control with multiple devices,"Develop a system that allows the remote control to operate multiple devices seamlessly, reducing the number of remotes needed.",Belirtilmedi,High,Integration,Embedded
+ES2014b,Design remote control interface,Create a user-friendly interface for the remote control with clearly labeled buttons for volume and channel control.,Belirtilmedi,High,Feature,Embedded/Electronics
+ES2014b,Implement infrared signal transmission,Develop the functionality to send infrared signals from the remote to the television for various commands.,Belirtilmedi,High,Feature,Embedded/Electronics
+ES2014b,Optimize button layout for user experience,Refactor the button layout on the remote control to enhance usability and accessibility.,Belirtilmedi,Medium,Refactor,Embedded/Electronics
+ES2014c,Implement speech recognition module,"Integrate speech recognition functionality into the remote control system, ensuring it can process voice commands effectively.",Belirtilmedi,Medium,Feature,Embedded
+ES2014c,Design printed circuit board for remote control,Create a schematic for the printed circuit board that supports the required features including push buttons and scroll wheel.,Belirtilmedi,High,Feature,Electronics
+ES2014c,Develop user interface for remote control,"Design and implement the user interface for the remote control, including button layout and functionality.",Belirtilmedi,Medium,Feature,UI/UX
+IS1008b,Implement remote control button mapping,"Map remote control buttons to corresponding device functions, ensuring user-friendly operation.",Belirtilmedi,High,Feature,Embedded
+IS1008b,Design REST API for remote control functions,"Create a REST API to manage remote control functionalities, including on/off, channel change, and volume control.",Belirtilmedi,Medium,API,JavaScript
+IS1008b,Write unit tests for remote control features,"Develop unit tests to validate the functionality of remote control features, ensuring reliability and performance.",Belirtilmedi,Medium,Test,Python
+IS1008b,Optimize UI for remote control settings,Refactor the user interface for remote control settings to enhance usability and accessibility.,Belirtilmedi,Low,Refactor,JavaScript
+IS1008c,Implement speech recognition integration,"Integrate speech recognition functionality into the remote control system, allowing users to control devices via voice commands.",Belirtilmedi,High,Feature,Embedded
+IS1008c,Design ergonomic remote control layout,"Create a user-friendly layout for the remote control that includes an on/off switch, volume control, and channel buttons, ensuring comfort and accessibility.",Belirtilmedi,Medium,Feature,UI/UX
+IS1008c,Add battery life indicator feature,"Implement a battery life indicator that alerts users when the battery is low, enhancing user experience.",Belirtilmedi,Medium,Feature,Embedded
+IS1008c,Develop custom remote control case design,"Allow users to customize the design of their remote control cases through a web interface, enabling personalized aesthetics.",Belirtilmedi,Low,Feature,Web Development
+IS1009a,Design multifunctional remote control,"Create a design for a remote control that can control various household devices, including heating systems.",Belirtilmedi,High,Feature,Embedded
+IS1009a,Implement signal activation for remote control,Develop a feature that allows the remote control to emit a signal (beep or light) when it is in a dark spot or lost.,Belirtilmedi,Medium,Feature,Embedded
+IS1009b,Design remote control circuit,"Create a circuit design for the remote control that integrates a chip, power supply, and user interface controls.",Belirtilmedi,High,Hardware/Firmware,Electronics
+IS1009b,Implement intuitive user interface for remote control,"Develop a user interface that is simple and intuitive, minimizing the number of buttons to reduce confusion.",Belirtilmedi,High,UI/UX,"JavaScript, HTML/CSS"
+IS1009b,Add light and sound features to remote control,Incorporate a light-emitting feature and sound alerts to help users locate the remote control easily.,Belirtilmedi,Medium,Feature,"Embedded, Electronics"
+IS1009c,Implement speech recognition feature for remote control,Integrate a speech recognition module that allows users to control the television by voice commands.,Belirtilmedi,High,Feature,Embedded
+IS1009c,Design user-friendly interface for remote control,Create a simple and intuitive UI for the remote control that is easy for children to use.,Belirtilmedi,Medium,UI/UX,Embedded
+IS1009c,Develop channel switching functionality,Implement functionality to switch channels using buttons on the remote control.,Belirtilmedi,Medium,Feature,Embedded
+IS1009c,Create volume control feature,Add functionality to increase or decrease the volume using dedicated buttons on the remote control.,Belirtilmedi,Medium,Feature,Embedded
+IS1009c,Integrate subtitle control for TV programs,Develop a feature that allows users to toggle subtitles on and off for programs being watched.,Belirtilmedi,Medium,Feature,Embedded
+IS1009d,Integrate speech recognition in remote control,Implement a speech recognition module that can interpret voice commands and control the remote functionalities.,Belirtilmedi,High,Feature,Embedded
+IS1009d,Design circuit board for remote control,"Create a circuit board design that includes necessary components like capacitors, diodes, and a rechargeable battery.",Belirtilmedi,Medium,Hardware/Firmware,Electronics
+IS1009d,Develop user interface for remote control,Create a user-friendly interface for the remote control that includes buttons for channel control and volume adjustment.,Belirtilmedi,Medium,UI/UX,Embedded
+IS1009d,Implement button mapping for remote control,Map physical buttons to their respective functions in the remote control software.,Belirtilmedi,Medium,Feature,Embedded
+TS3003b,Design remote control docking station,"Create a docking station that sends a signal to the remote to beep, helping users locate it in the room.",Belirtilmedi,Medium,Feature,Electronics
+TS3003b,Implement rechargeable battery system for remote,Design a system that allows the remote to be charged when placed in the docking station.,Belirtilmedi,Medium,Feature,Electronics
+TS3003b,Create LCD display interface for remote control,Develop an interface for a touch screen display that shows the functions of different devices.,Belirtilmedi,High,UI/UX,Embedded
+TS3003c,Implement speech recognition for remote control,Integrate speech recognition functionality to allow users to control the remote with voice commands.,B,High,Feature,Embedded
+TS3003c,Design UI for remote control interface,Create a user-friendly interface for the remote control that includes large buttons and a small display for showing functions.,B,Medium,UI/UX,JavaScript
+TS3003c,Develop subtitle button functionality,"Implement a button that toggles subtitles on and off, with options for small and large text display.",B,Medium,Feature,Embedded
+TS3003c,Create display function for channel information,Build a function that shows the current channel on the remote's display when the television is on.,B,Medium,Feature,Embedded
+TS3004b,Design universal remote control interface,"Create a user-friendly interface for a universal remote control, focusing on usability for older adults.",Belirtilmedi,High,Feature,UI/UX
+TS3004b,Implement button functionality for remote control,Develop the basic button functionalities including volume control and channel selection for the remote control.,Belirtilmedi,Medium,Feature,Embedded
+TS3004b,Create a clap detection system for remote control,"Develop a system that allows the remote control to beep when the user claps, aiding in locating the remote.",Belirtilmedi,Medium,Feature,Embedded
+TS3004b,Conduct user testing for remote control features,Gather feedback from elderly users on the usability of the remote control features and interface.,Belirtilmedi,Low,Test,Research
+TS3004c,Design innovative remote control interface,"Create a new look-and-feel for the remote control that is different from ordinary designs, focusing on usability and aesthetic appeal.",Belirtilmedi,High,Feature,UI/UX
+TS3004c,Implement technological innovations in remote control,"Integrate new technical features into the remote control, avoiding traditional methods like speech recognition.",Belirtilmedi,High,Feature,Embedded
+TS3004c,Create changeable front designs for remote control,Develop multiple interchangeable front designs for the remote control to enhance user customization.,Belirtilmedi,Medium,Feature,Design
+TS3004c,Research advanced chip requirements for display,Investigate the specifications and costs associated with using an advanced chip for the remote control display.,Belirtilmedi,Medium,Research,Hardware
+TS3004d,Design speech recognition button layout,Create a layout for the speech recognition buttons including on/off and configuration options.,Belirtilmedi,Medium,Feature,Embedded
+TS3004d,Implement menu navigation buttons,"Develop buttons for menu navigation including up, down, and select functionalities.",Belirtilmedi,Medium,Feature,Embedded
+TS3004d,Add color changing functionality for buttons,Implement functionality to change button colors based on user input.,Belirtilmedi,Medium,Feature,Embedded
+TS3004d,Create volume control button,Design and implement a button for volume control with visual feedback.,Belirtilmedi,Medium,Feature,Embedded
+TS3006a,Develop new remote control prototype,Create a prototype for a user-friendly remote control that incorporates both original and trendy features.,Belirtilmedi,High,Feature,Embedded
+TS3006a,Design user interface for remote control,"Create a functional design for the user interface of the remote control, ensuring it meets user requirements.",Belirtilmedi,Medium,Feature,UI/UX
+TS3006a,Implement infrared communication for remote control,Use infrared light to enable communication between the remote control and the devices it controls.,Belirtilmedi,High,Feature,Embedded
+TS3006b,Integrate screen and speech recognition,Combine the screen functionality with speech recognition capabilities for the remote control.,Belirtilmedi,High,Integration,Embedded
+TS3006b,Create screen menu for configuration options,Develop a screen menu to manage configuration options while keeping basic functions accessible on the device.,Belirtilmedi,Medium,Feature,Embedded
+TS3006c,Implement speech command integration,"Integrate speech commands with existing remote control functions, ensuring compatibility with both basic and advanced options.",Belirtilmedi,High,Integration,"JavaScript, Embedded"
+TS3006c,Design UI for remote control,Create a user-friendly interface for the remote control that incorporates a fancy look-and-feel with spongy materials and fruit-like colors.,Belirtilmedi,Medium,UI/UX,"JavaScript, HTML/CSS"
+TS3006c,Select energy source for remote control,"Evaluate and decide on the energy source for the remote control, considering options like traditional batteries, kinetic energy, and solar cells.",Belirtilmedi,Medium,Research,Electronics
+TS3006d,Integrate scroll-wheel pushbutton,Develop an integrated scroll-wheel pushbutton that can control all menu functions including channel and volume adjustments.,Belirtilmedi,High,Feature,Embedded
+TS3006d,Design UI for channel selection,Create a user interface that allows users to select channels using the integrated scroll-wheel and display options on the LCD screen.,Belirtilmedi,Medium,UI/UX,"JavaScript, HTML/CSS"
+TS3006d,Implement sound adjustment feature,Develop a feature that allows users to adjust sound levels with a preview of the sound output.,Belirtilmedi,Medium,Feature,Embedded
+TS3007b,Design remote control button layout,"Create a user-friendly layout focusing on the most used buttons for switching channels, teletext, and volume controls.",Belirtilmedi,High,Feature,UI/UX
+TS3007b,Implement speech function for remote location,Develop a feature that allows the remote to respond with a sound when a user asks 'Where is the remote?',Belirtilmedi,Medium,Feature,Embedded
+TS3007b,Explore Bluetooth integration for remote control,Investigate the feasibility of adding Bluetooth functionality to the remote control for enhanced connectivity.,Belirtilmedi,Medium,Research,Embedded
+IS1008d,Implement voice recognition control for remote,Enable voice recognition functionality to control TV functions such as volume and channel.,Belirtilmedi,High,Feature,Embedded
+IS1008d,Design LCD display interface for remote control,"Create an interface for the LCD display that shows volume, channel, and menu options.",Belirtilmedi,Medium,UI/UX,Embedded
+IS1008d,Develop customizable remote control firmware,Implement firmware that allows customization of remote control features and settings.,Belirtilmedi,Medium,Feature,Embedded

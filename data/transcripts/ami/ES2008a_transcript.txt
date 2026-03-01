@@ -1,0 +1,401 @@
+================================================================================
+AMI Meeting Transcript: ES2008a
+================================================================================
+
+Total Utterances: 389
+Unique Speakers: 4
+Duration: 16.81 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:32] A: Okay
+[0002] [00:32] A: good morning everybody
+[0003] [00:33] A: um i'm glad you can come
+[0004] [00:35] A: and really set aside
+[0005] [00:36] A: esteem
+[0006] [00:37] A: Um i'm just gonna have a powerpoint presentation for us for the kick-off meeting
+[0007] [00:41] A: My name is rose and then
+[0008] [00:43] A: i'll be the project manager
+[0009] [00:46] A: Um are done is a is we're gonna do a little opening
+[0010] [00:48] A: and then um i'm gonna talk a little bit about the project
+[0011] [00:51] A: The whole thing to
+[0012] [00:51] A: acquaint and such a strange know each other little bit Including a tool training exercise
+[0013] [00:56] A: Uh nor moving to the project plan
+[0014] [00:58] A: to little discussion
+[0015] [00:59] A: in close
+[0016] [01:00] A: as we only have twenty five minutes
+[0017] [01:01] A: uh-huh First of all our project aim
+[0018] [01:05] A: um we're creating a new remote control which we have three goals about
+[0019] [01:09] A: it needs to be original trendy and user-friendly
+[0020] [01:12] A: I'm hoping that we can all work together to achieve all three of those
+[0021] [01:17] A: Um So we're gonna define this up in the three uh Compact three parts
+[0022] [01:22] A: first the functional design
+[0023] [01:23] A: which will be Um for so do individual work um into a meeting
+[0024] [01:27] A: conceptual design individual work and a meeting
+[0025] [01:30] A: And then the detailed design individual work and a meeting
+[0026] [01:34] A: So the what you need to be doing our own ideas
+[0027] [01:36] A: might come together
+[0028] [01:37] A: and
+[0029] [01:37] A: Um Collaborating
+[0030] [01:41] A: Okay
+[0031] [01:41] A: we're gonna get snow it a little bit uh-huh
+[0032] [01:43] A: So
+[0033] [01:44] A: um we're gonna do is
+[0034] [01:45] A: start off with um Let's start off with the me now
+[0035] [01:49] B: Okay
+[0036] [01:50] A: only my
+[0037] [01:51] A: sorry
+[0038] [01:51] A: only one
+[0039] [01:52] A: Um we're gonna do a little tool training
+[0040] [01:54] A: so we're gonna work that
+[0041] [01:55] A: whiteboard behind yeah
+[0042] [01:57] A: A
+[0043] [01:58] A: introduce yourself
+[0044] [01:59] A: um say one thing about yourself
+[0045] [02:01] A: and then try your favourite animal
+[0046] [02:02] A: what else about it
+[0047] [02:03] B: Okay
+[0048] [02:04] B: Um I don't know which one of these i have to bring with me
+[0049] [02:09] A: Probably both
+[0050] [02:12] B: Right so
+[0051] [02:14] B: and so's to draw my favourite animal
+[0052] [02:15] B: i have no drawing skills whatsoever
+[0053] [02:18] B: But
+[0054] [02:18] B: uh alessi introduce myself
+[0055] [02:20] B: my name is uh we not pretending
+[0056] [02:22] B: a
+[0057] [02:22] B: um I'm from The state of maine in the
+[0058] [02:26] B: u.
+[0059] [02:26] B: s.
+[0060] [02:26] B: and doing a show them studies
+[0061] [02:29] B: Well upon
+[0062] [02:29] B: have an artistic talents
+[0063] [02:32] A: I sat in a
+[0064] [02:32] A: uh-huh
+[0065] [02:33] B: A
+[0066] [02:33] B: l. i
+[0067] [02:33] B: n.
+[0068] [02:34] B: a.
+[0069] [02:35] B: Oh
+[0070] [02:36] B: and i guess i'm the industrial designer On this project
+[0071] [02:40] B: So
+[0072] [02:40] B: let's see if i can get
+[0073] [02:42] B: Um here
+[0074] [02:45] B: I'll draw a little Turtle for you all
+[0075] [02:49] B: huh Not necessarily "'cause" it's i have a solution favourite animal
+[0076] [02:54] B: but is that I think the trouble
+[0077] [03:00] B: You have a pretty little shell going on
+[0078] [03:05] B: It's
+[0079] [03:12] B: You go
+[0080] [03:13] B: It's a turtle
+[0081] [03:15] A: what your favourite characteristics
+[0082] [03:18] B: i i like the whole have in the shelf thing
+[0083] [03:20] A: Hmm
+[0084] [03:21] B: It's Quite cool okay your home
+[0085] [03:23] B: around or you go
+[0086] [03:24] B: on Quite tech rid of oh animals
+[0087] [03:27] B: they can split
+[0088] [03:27] B: they can
+[0089] [03:29] B: They're very adaptable
+[0090] [03:30] B: Pick a everything they need with that
+[0091] [03:32] B: Um And they're easy to draw
+[0092] [03:36] A: Excellent
+[0093] [03:38] A: So just go round table
+[0094] [03:40] C: okay
+[0095] [03:40] C: well
+[0096] [03:41] C: My name's yeah
+[0097] [03:42] C: Ah And i'm the user interface designer for the project
+[0098] [03:50] C: And Try and for my favourite animal
+[0099] [03:59] C: Oh
+[0100] [03:59] C: i should do that one i
+[0101] [04:00] C: should
+[0102] [04:00] B: Yeah
+[0103] [04:00] B: you can erase that it'll
+[0104] [04:01] C: Right I was a little bit off
+[0105] [04:01] B: it'll right
+[0106] [04:02] A: Might be nice to have them all at the same time
+[0107] [04:07] C: I'm not gonna draw it quite a scare
+[0108] [04:35] C: Is that at least identify with
+[0109] [04:38] D: Some way out
+[0110] [04:39] C: It a one yeah
+[0111] [04:39] A: And
+[0112] [04:39] B: Where
+[0113] [04:39] B: is the
+[0114] [04:40] C: I
+[0115] [04:41] D: Format so that when i'm a very old
+[0116] [04:41] B: So i
+[0117] [04:44] C: and yeah
+[0118] [04:44] C: there is no like well this "'cause" um that Well first of all the quite intelligent
+[0119] [04:49] C: um And also the the kind of mysterious
+[0120] [04:53] C: We don't really know much about them
+[0121] [04:55] C: all On the stand out that work
+[0122] [04:58] C: for groups
+[0123] [05:00] C: It's fun and interesting animal
+[0124] [05:08] D: Okay attractive to me
+[0125] [05:12] D: Alright
+[0126] [05:12] D: and
+[0127] [05:12] D: jesse
+[0128] [05:13] D: on um Around
+[0129] [05:15] D: d.
+[0130] [05:15] D: c.
+[0131] [05:15] D: h. sort of thing and you
+[0132] [05:17] D: lapse
+[0133] [05:19] D: And we're gonna keep a
+[0134] [05:21] D: t.
+[0135] [05:21] D: c. sort of thing or not That animals
+[0136] [05:26] D: Uh-huh I don't know how it wrong but
+[0137] [05:30] D: i
+[0138] [05:32] D: have Mm Uh-huh Yep into the water
+[0139] [05:42] D: How
+[0140] [05:43] D: It's more uh give an
+[0141] [05:45] D: i.
+[0142] [05:45] D: t.
+[0143] [05:45] D: r.
+[0144] [05:46] D: I have no idea how one would explain
+[0145] [05:48] D: uh It's an whiskers
+[0146] [05:53] D: Basically it supposed to be a feel
+[0147] [05:56] D: You can that in in the water
+[0148] [05:58] D: i like that
+[0149] [05:59] D: um take five So like a four and i'll use whatever
+[0150] [06:03] D: A good time
+[0151] [06:06] D: I'm gonna try and for some make it can get any better than that I
+[0152] [06:15] A: okay
+[0153] [06:16] A: i'm rose
+[0154] [06:16] A: and and project manager uh-huh From california
+[0155] [06:21] A: Um mm uh-huh Uh-huh
+[0156] [06:26] A: Uh-huh i i Uh-huh Uh-huh Uh-huh uh mm So i I
+[0157] [06:51] D: It's doubtful a signal gonna be harder wondered you wanna
+[0158] [06:52] B: Oh
+[0159] [06:52] B: okay
+[0160] [06:55] A: I was actually really
+[0161] [06:56] A: let's see I
+[0162] [06:56] B: Right
+[0163] [06:58] D: That's impressive
+[0164] [06:58] A: give it a little bit of
+[0165] [06:59] A: snout had no teeth
+[0166] [07:03] A: Yeah
+[0167] [07:04] B: That's pretty impressive
+[0168] [07:07] A: Oh dear Yes
+[0169] [07:09] A: i have it on And a very costly for the open space and off and
+[0170] [07:13] A: we have coyotes how old i am
+[0171] [07:15] A: So i really enjoy there I was thinking
+[0172] [07:18] A: in a really beautiful animal has an
+[0173] [07:20] A: eye mm Okay
+[0174] [07:23] A: um moving on to Slightly more serious stuff
+[0175] [07:30] A: It at a project finance is
+[0176] [07:32] A: um with a couple uh-huh I
+[0177] [07:35] A: would like to sell it for about twenty five euro um uh with a
+[0178] [07:38] A: profit aim of Um fifty million euro um from our sales
+[0179] [07:43] A: and because this is such this is for television it uh it would
+[0180] [07:46] A: market range of the internet like it's in international market range
+[0181] [07:49] A: we do have to worry about specifics
+[0182] [07:51] A: Um In order to make a profit of this magnitude
+[0183] [07:55] A: we need to um be able to produce each one at a maximum of twelve Fifty euro uh-huh
+[0184] [08:02] A: So we're selling it for twice what would like to use it or
+[0185] [08:05] A: uh-huh Okay
+[0186] [08:11] A: um Just to generate a little bit of discussion about the project um could have like to you by your experiences using rubber remote controls
+[0187] [08:20] A: Um your first ideas about um creating a new remote control
+[0188] [08:24] A: would be the best Um the way you would have the features that you really like
+[0189] [08:28] A: what features that you don't like Etcetera
+[0190] [08:31] A: so
+[0191] [08:33] D: okay when there's like Welcome but then you have to pass to uh Actually train on the
+[0192] [08:38] D: t.
+[0193] [08:38] D: v.
+[0194] [08:38] D: like you have to do one for the power the
+[0195] [08:40] D: t.
+[0196] [08:40] D: v.
+[0197] [08:40] D: in um like No the one to get actual screen own
+[0198] [08:43] D: and many of their logo i know i don't know
+[0199] [08:45] D: now we keep combining All different Remotes together
+[0200] [08:49] D: on a on a plate Necessarily like
+[0201] [08:52] D: max of the trend up To multimedia
+[0202] [08:54] D: overload
+[0203] [08:55] D: could just wanna watch the
+[0204] [08:56] D: t.
+[0205] [08:56] D: v.
+[0206] [08:56] A: Hmm
+[0207] [09:01] D: With the cost
+[0208] [09:02] D: them sort of like Device to help you find that
+[0209] [09:11] C: I've used I do use remote controls things like T. v. and the
+[0210] [09:15] C: c.
+[0211] [09:15] C: d. player and Video recorder
+[0212] [09:18] C: And Oh i guess that that pretty neat All tools
+[0213] [09:23] C: uh you don't have to Get up
+[0214] [09:24] C: and "'cause" i mean to change the channel
+[0215] [09:27] C: So especially if you're someone really lazy
+[0216] [09:29] C: like mean the
+[0217] [09:31] C: Um A fine then
+[0218] [09:33] C: they can be a bit annoying
+[0219] [09:35] C: especially I know if i'm watching
+[0220] [09:37] C: t.
+[0221] [09:37] C: v. i have After three separate remote controls The front of me you know one for the
+[0222] [09:42] C: t.
+[0223] [09:42] C: v. one for the digital box One for the video recorder as well
+[0224] [09:46] C: Um And also
+[0225] [09:48] C: evidence
+[0226] [09:49] C: uh They tend to be a bit confusing
+[0227] [09:50] C: that Too many buttons on them
+[0228] [09:53] C: Um To sort of Of complicated supply
+[0229] [09:56] C: and Well i really wanna do is So on and off change the channel
+[0230] [10:00] C: change the volume
+[0231] [10:03] B: Yeah
+[0232] [10:03] B: um I agree with Having too many remotes around
+[0233] [10:08] B: my dad has a whole drawer At home of remotes for various things
+[0234] [10:12] B: i don't know how to work half of them
+[0235] [10:15] B: Um What's important for me I guess is that it's easy to use
+[0236] [10:21] B: And There's not too many buttons
+[0237] [10:24] B: are not too small
+[0238] [10:25] B: you know No you needing to know what you're doing
+[0239] [10:30] B: And one thing i particularly like is If you're not
+[0240] [10:34] B: um strive moving it around to get it to work with the infrared
+[0241] [10:37] D: Yeah
+[0242] [10:39] B: i think there's a way around that
+[0243] [10:40] B: But i know it in my residence right now that The television you should have to walk all around the room together to turn on
+[0244] [10:46] A: Uh-huh
+[0245] [10:47] B: so it's just simpler Just to just turn on the
+[0246] [10:50] B: t.
+[0247] [10:50] B: v. itself
+[0248] [10:51] B: and i think that's If we're gonna make a remote control it should actually work for what it's doing
+[0249] [10:58] D: about like batteries and things like that
+[0250] [10:59] D: like either some remotes that all the dark where Like batteries are to warm up to our brothers
+[0251] [11:07] A: how much all of them
+[0252] [11:07] B: Yeah
+[0253] [11:08] A: but we could
+[0254] [11:09] A: But also we could use like a lithium battery
+[0255] [11:11] B: Yeah
+[0256] [11:12] B: something that doesn't
+[0257] [11:12] A: That would last longer than like double
+[0258] [11:13] D: Uh-huh
+[0259] [11:14] A: a. is
+[0260] [11:15] A: Like that does of the batteries they're used in a lot of um three players now on a kind of thing
+[0261] [11:19] D: Uh-huh
+[0262] [11:27] A: Okay
+[0263] [11:28] A: seems a little bit of a complex over um Did combining all the remotes can together versus having By different remotes
+[0264] [11:37] A: So
+[0265] [11:38] A: um Like you say you don't like having all the buttons on one On one remote
+[0266] [11:43] A: and yeah you don't wanna have five remotes
+[0267] [11:45] A: So how do we work with that
+[0268] [11:46] B: Yeah
+[0269] [11:47] B: Could we get something that
+[0270] [11:49] B: Just has
+[0271] [11:51] B: You know
+[0272] [11:52] B: doesn't have all the buttons that you need to programme the video recorder
+[0273] [11:55] B: or Programme it's other things that i'm not A coherent about
+[0274] [12:01] B: But that just has your major buttons For that work for everything you know volume control On off
+[0275] [12:06] A: Uh-huh
+[0276] [12:09] B: Channel changing
+[0277] [12:10] D: Maybe that's
+[0278] [12:11] D: spatial
+[0279] [12:11] D: a divided
+[0280] [12:12] D: so it's like if your body if you're trying to get the
+[0281] [12:14] D: t.
+[0282] [12:14] D: v. on that's not the top banana remote i don't have a beep or a
+[0283] [12:17] D: corporate an hour In terms of how we're gonna make it but if it's like all the
+[0284] [12:21] D: t.
+[0285] [12:21] D: v. status here are
+[0286] [12:22] D: the non
+[0287] [12:23] D: p.
+[0288] [12:23] D: c.
+[0289] [12:23] D: r. suppose you're
+[0290] [12:24] D: all the Whatever else you know programmed into it it's all just ended the place and not like all the on button see a
+[0291] [12:25] A: Yeah
+[0292] [12:25] B: No way
+[0293] [12:29] D: doctor
+[0294] [12:29] D: doctor know like i don't even know what i'm trained on
+[0295] [12:31] B: Yeah
+[0296] [12:32] B: and if um If it's if the more complicated functions maybe for separate remotes That you would need to use every day
+[0297] [12:40] D: Uh-huh
+[0298] [12:41] A: Okay
+[0299] [12:41] A: so maybe have like one remote that has the main function of the on off channel changing
+[0300] [12:45] A: volume I'm not the right remote with all the special things
+[0301] [12:48] A: because that is one thing that um Remotes ten to have buttons that the t. v.s no longer have as well
+[0302] [12:54] A: So like you have to have some some work
+[0303] [12:56] A: as you can um we need a special functions occasionally
+[0304] [12:58] B: Right
+[0305] [12:59] A: But I'm still a lot of them that normal remote
+[0306] [13:03] C: Can i ask
+[0307] [13:04] C: are we Designing a remote control for television only
+[0308] [13:09] A: Good question
+[0309] [13:10] C: I mean if This device is just to be used for the television
+[0310] [13:15] C: Would leave and technically be possible to ensure
+[0311] [13:17] C: A record of functions on that
+[0312] [13:21] A: I don't know that yet
+[0313] [13:22] C: or should we just stick to To stick to having Television Television like that
+[0314] [13:30] A: Good question
+[0315] [13:34] D: Okay yeah
+[0316] [13:34] A: A look into it
+[0317] [13:36] A: Okay
+[0318] [13:36] D: I think it's just
+[0319] [13:37] D: t.
+[0320] [13:37] D: v.
+[0321] [13:37] D: mean if it For taking it That's right that's that New product a new television remote control it's not like that Doesn't say
+[0322] [13:47] B: Yeah
+[0323] [13:48] D: know i think might be more advanced that
+[0324] [13:50] A: Hmm
+[0325] [13:52] C: So we should Maybe we should assume that a two Just a television that we want to control
+[0326] [13:59] C: Well
+[0327] [13:59] C: I mean i suppose it would be nice to have
+[0328] [14:01] C: Play in the court and stop buttons on a video recorder as well
+[0329] [14:05] C: I don't know if uh Technologically or not
+[0330] [14:10] B: Yes
+[0331] [14:10] B: i guess we have to define what Or aiming for
+[0332] [14:14] B: If it's just a television on that It's a bit simpler
+[0333] [14:17] B: to show us buttons that would even need to be on it
+[0334] [14:21] D: It's an idea of the buttons being the
+[0335] [14:24] B: Large
+[0336] [14:25] D: Yeah
+[0337] [14:25] B: If you have older people or people like me that are fake
+[0338] [14:27] B: court needed hand i It's really quite important that you're not pressing
+[0339] [14:31] B: a small Teeny mobile phones size buttons If we can help it
+[0340] [14:39] A: Okay
+[0341] [14:39] A: sounds like we've had a good little session for our first ideas
+[0342] [14:42] A: mind if we move on
+[0343] [14:44] D: Yeah
+[0344] [14:47] A: Our next meeting starts in thirty minutes
+[0345] [14:51] A: They've they've actually but only working on this this one for about twenty
+[0346] [14:55] A: so we continue discussing more new ideas if you'd like
+[0347] [14:57] A: um But It's just a breakdown of what will be doing individually
+[0348] [15:03] A: um the industrial design only now we we doing on the working design
+[0349] [15:05] B: Yeah
+[0350] [15:10] A: User interface designer that's real that so Technical functions i guess like keeping in mind the buttons thing the size of the buttons
+[0351] [15:18] A: I'm user requirements Um So do we hearing about different runs how about different things that people need
+[0352] [15:25] A: Um i guess kind of the same discussion that we've been having will get from the actual concern is consumers
+[0353] [15:28] D: Uh-huh
+[0354] [15:32] A: Okay
+[0355] [15:33] A: um And you will get specific instructions sent by your personal coach
+[0356] [15:38] A: i realised in this past
+[0357] [15:39] A: when we we didn't have much
+[0358] [15:40] A: we just wanted to Oh brainstorming done
+[0359] [15:43] A: a hmm So Very excited to see our animals
+[0360] [15:49] A: And how what wonderful um are the
+[0361] [15:51] A: cellar I
+[0362] [15:54] A: Um Any questions
+[0363] [16:12] C: Are we gonna be discussing and the next meeting
+[0364] [16:15] C: Do we know
+[0365] [16:15] A: I haven't gotten an agenda yeah it's
+[0366] [16:17] A: um i'll put that together
+[0367] [16:19] A: I'm sure as well each get around instructions
+[0368] [16:21] A: and then um Because what we're gonna do is first are individual actions
+[0369] [16:24] A: and then we'll come back together
+[0370] [16:26] A: So um Sure we'll have more concrete things to continue next time
+[0371] [16:32] B: She would be to
+[0372] [16:36] A: Okay
+[0373] [16:37] A: um Okay but maybe minutes
+[0374] [16:40] A: and probably numbers that are all of you know Um just including all the things that we talked about a
+[0375] [16:45] C: Can you email your slides as well
+[0376] [16:48] C: Is that
+[0377] [16:49] A: Yeah said yes i think
+[0378] [16:50] A: again
+[0379] [16:52] A: I'll just attach it to you know
+[0380] [16:53] A: And you're you're number two
+[0381] [16:55] B: And two
+[0382] [16:56] A: Three
+[0383] [16:56] A: for
+[0384] [16:57] D: four
+[0385] [16:57] A: that right
+[0386] [17:00] B: Right
+[0387] [17:01] A: That's lovely meeting
+[0388] [17:02] A: um To make sure you keep checking company less any emails
+[0389] [17:20] A: It's it's written

@@ -1,0 +1,1030 @@
+{
+  "total_tasks": 108,
+  "total_meetings": 43,
+  "summary": {
+    "by_priority": {
+      "Medium": 79,
+      "High": 29
+    },
+    "by_task_type": {
+      "Feature": 70,
+      "Refactor": 13,
+      "Research": 7,
+      "Integration": 5,
+      "Test": 5,
+      "Bug": 4,
+      "Performance": 2,
+      "Library/tool": 1,
+      "DevOps": 1
+    },
+    "by_tech_stack": {
+      "Belirtilmedi": 37,
+      "Python": 22,
+      "XML": 7,
+      "Audio Processing": 4,
+      "N/A": 3,
+      "HTK": 3,
+      "Tcl-TK": 3,
+      "Audio": 3,
+      "Signal Processing": 2,
+      "Speech Processing": 2,
+      "Not specified": 2,
+      "Linux": 1,
+      "JavaScript": 1,
+      "P-make": 1,
+      "Shell scripting": 1,
+      "Shell": 1,
+      "Linux, HTK": 1,
+      "HMM": 1,
+      "Feacalc": 1,
+      "Digital Signal Processing": 1,
+      "UNIX, Windows": 1,
+      "AI, NLP": 1,
+      "LISP, XML": 1,
+      "Tcl-TK, UNIX": 1,
+      "Audio Processing, Machine Learning": 1,
+      "Prolog": 1,
+      "Speech Recognition": 1,
+      "XML, Java": 1,
+      "HMM, Gaussian Mixtures": 1,
+      "Electronics": 1,
+      "C/C++": 1
+    }
+  },
+  "tasks": [
+    {
+      "meeting_id": "Bdb001",
+      "title": "Develop XML format for transcripts",
+      "description": "Create an XML schema to represent word transcripts and annotations with time-stamps for words and phone boundaries.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "XML"
+    },
+    {
+      "meeting_id": "Bdb001",
+      "title": "Implement time-line tag in XML",
+      "description": "Define a time-line tag in the XML format that includes multiple sections with IDs for referencing.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "XML"
+    },
+    {
+      "meeting_id": "Bdb001",
+      "title": "Optimize phone-level data representation",
+      "description": "Develop a binary representation for phone-level data to reduce file size and improve parsing efficiency.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Refactor",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bed005",
+      "title": "Complete English parser implementation",
+      "description": "Ensure the English parser performs all functions of the German parser and handles various sentence structures correctly.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bed005",
+      "title": "Modify parser templates for English",
+      "description": "Update the parser templates to replace German terms with their English equivalents and ensure proper capitalization.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bed009",
+      "title": "Get parser interface working",
+      "description": "Continue development on the parser interface to ensure it functions correctly with the existing system.",
+      "assignee": "Ralf and David",
+      "priority": "High",
+      "task_type": "Integration",
+      "tech_stack": "Not specified"
+    },
+    {
+      "meeting_id": "Bed009",
+      "title": "Construct suitable interfaces and belief-net module",
+      "description": "Develop interfaces and a belief-net module to infer user intentions from utterances and augment M-three-L structures.",
+      "assignee": "Not specified",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Not specified"
+    },
+    {
+      "meeting_id": "Bed010",
+      "title": "Write XML tags for dialogue manager",
+      "description": "Implement XML tags for the dialogue manager to facilitate communication with the synthesis module.",
+      "assignee": "Johno",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "XML"
+    },
+    {
+      "meeting_id": "Bed010",
+      "title": "Generate XML tree from LISP notation",
+      "description": "Create a tool to convert LISP notation into an XML tree structure for syntactic generation.",
+      "assignee": "Tilman",
+      "priority": "Medium",
+      "task_type": "Library/tool",
+      "tech_stack": "LISP, XML"
+    },
+    {
+      "meeting_id": "Bed010",
+      "title": "Develop general construction parser",
+      "description": "Implement a parser for general constructions to enhance the system's flexibility in handling various syntactic structures.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Prolog"
+    },
+    {
+      "meeting_id": "Bed011",
+      "title": "Work on belief-net semantics",
+      "description": "Define the parameters and choices for the belief-net inference engine, ensuring it can handle various decision nodes effectively.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bed011",
+      "title": "Implement decision nodes for user intentions",
+      "description": "Create decision nodes that represent user intentions for entering, viewing, or approaching objects, ensuring they are linked to the belief-net.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bed011",
+      "title": "Define conditional probabilities for user decisions",
+      "description": "Establish conditional probabilities related to user financial states and their willingness to visit locations based on costs.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bed012",
+      "title": "Define XML schema for Bayes-net input",
+      "description": "Create an XML schema that specifies permissible structures for input into the Bayes-net, including situation nodes and their attributes.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "XML"
+    },
+    {
+      "meeting_id": "Bed012",
+      "title": "Implement XSL transformation for Java Bayes format",
+      "description": "Develop an XSL transformation to convert the defined XML schema into the format required by Java Bayes.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Integration",
+      "tech_stack": "XML, Java"
+    },
+    {
+      "meeting_id": "Bed012",
+      "title": "Extract relevant decision node data from output",
+      "description": "Implement functionality to extract specific decision node data from the output of the Bayes-net based on user queries.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "XML"
+    },
+    {
+      "meeting_id": "Bed013",
+      "title": "Enable system to generate questions based on understanding",
+      "description": "Develop functionality that allows the system to produce questions based on its understanding of user intentions and contextual conditions.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "AI, NLP"
+    },
+    {
+      "meeting_id": "Bed013",
+      "title": "Create script to test system's question generation",
+      "description": "Write a script that changes all the settings and goes through all permutations to test the system's ability to generate appropriate questions.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Test",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bed014",
+      "title": "Write new set of tree combining rules",
+      "description": "Develop a new set of tree combining rules for the synthesizer's XML trees, ensuring they are similar to the previous rules.",
+      "assignee": "me003",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "XML"
+    },
+    {
+      "meeting_id": "Bed014",
+      "title": "Run SmartKom system on ICSI Linux machines",
+      "description": "Ensure the SmartKom system runs on the ICSI Linux machines, increasing the number of operational systems.",
+      "assignee": "mn015",
+      "priority": "Medium",
+      "task_type": "Integration",
+      "tech_stack": "Linux"
+    },
+    {
+      "meeting_id": "Bed016",
+      "title": "Parser'ı tamamla",
+      "description": "Tablet tabanlı parser'ın tamamlanması ve stratejilerin değiştirilmesi.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bed016",
+      "title": "Sentezleme işlemlerini geliştir",
+      "description": "Fey'in sentezleme işlemleri üzerinde çalışması.",
+      "assignee": "Fey",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bed017",
+      "title": "Refactor PRM classes",
+      "description": "Simplify the PRM structure by reducing decision nodes and optimizing class relationships for user, site, and query.",
+      "assignee": "fn050",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bed017",
+      "title": "Investigate PRM interpreter availability",
+      "description": "Research and track down existing PRM interpreters to determine if we can utilize one for our implementation.",
+      "assignee": "Eva",
+      "priority": "High",
+      "task_type": "Research",
+      "tech_stack": "N/A"
+    },
+    {
+      "meeting_id": "Bmr001",
+      "title": "Build a pre-amp for microphones",
+      "description": "Design and construct a pre-amplifier that reduces noise and supports multiple microphone inputs.",
+      "assignee": "Jim",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "Bmr002",
+      "title": "Implement scanner program for forms",
+      "description": "Develop a scanner program that scans forms and processes the data for transcription.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bmr002",
+      "title": "Develop transcription tool",
+      "description": "Create a tool for transcribing meetings, including speaker change identification and word transcripts.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bmr010",
+      "title": "Add multi-mixture support for speech and nonspeech detection",
+      "description": "Enhance the existing HMM-based system to support multiple Gaussian mixtures for both speech and nonspeech detection.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "HMM, Gaussian Mixtures"
+    },
+    {
+      "meeting_id": "Bmr010",
+      "title": "Improve speaker change point detection",
+      "description": "Modify the existing algorithm to include non-silence boundaries for detecting speaker change points.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Speech Processing"
+    },
+    {
+      "meeting_id": "Bmr010",
+      "title": "Optimize silence portion detection parameters",
+      "description": "Adjust the minimum length parameters for silence detection to improve the accuracy of pause and utterance boundary detection.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Speech Processing"
+    },
+    {
+      "meeting_id": "Bmr012",
+      "title": "Fix synchronization bug in audio channels",
+      "description": "Identify and resolve the glitch causing channels to become asynchronous during recording, ensuring accurate audio transcription.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Bug",
+      "tech_stack": "Audio Processing"
+    },
+    {
+      "meeting_id": "Bmr012",
+      "title": "Improve transcription accuracy",
+      "description": "Analyze and enhance the transcription algorithm to reduce the overall error rate, particularly addressing issues observed during the first twenty minutes of audio.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Speech Recognition"
+    },
+    {
+      "meeting_id": "Bmr013",
+      "title": "Extract digits from transcripts",
+      "description": "Use existing scripts to extract actual digits from the transcripts, ensuring to handle false starts and misreads.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bmr013",
+      "title": "Enter metadata for digit recordings",
+      "description": "Input name, time, and date information into the system to accompany the digit recordings.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bmr016",
+      "title": "Fix parsable key files",
+      "description": "Identify and correct key files that were manually created and are not automatically parsable.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Bug",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bmr016",
+      "title": "Update speaker form instructions",
+      "description": "Add instructions to read digits as single digits instead of connected numbers, providing examples for clarity.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bmr018",
+      "title": "Parse channelized transcripts for beep insertion",
+      "description": "Develop a parser to analyze the output of channelized transcripts and determine the appropriate locations for beep insertions.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bmr018",
+      "title": "Run boundary adjustment on transcripts",
+      "description": "Execute Thilo's tool on the transcripts to adjust the boundaries and ensure accuracy before sending to IBM.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Test",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bmr019",
+      "title": "Test SRI system on TI-digits dataset",
+      "description": "Run the current SRI system recognizer on the TI-digits test set to compare performance metrics.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Test",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "state": false,
+      "meeting_id": "Bmr021",
+      "title": "Replace Andrea microphone with Shure",
+      "description": "Test the Shure microphone to ensure it works properly before replacing the Andrea microphone.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Audio"
+    },
+    {
+      "meeting_id": "Bmr021",
+      "title": "Purchase additional wireless microphones",
+      "description": "Acquire two more Crown microphones to ensure adequate audio quality for meetings.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Audio"
+    },
+    {
+      "meeting_id": "Bmr021",
+      "title": "Transition to all wireless microphone system",
+      "description": "Replace existing wired microphones with wireless ones to streamline the audio setup.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Integration",
+      "tech_stack": "Audio"
+    },
+    {
+      "meeting_id": "Bmr022",
+      "title": "Create tool for beep insertion and deletion",
+      "description": "Develop a tool that simplifies the process of inserting and deleting beeps in the Channeltrans format to improve synchronization.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bmr022",
+      "title": "Implement forced alignment for individual channels",
+      "description": "Run a forced alignment process that includes beeps as words to identify errors in the transcription for individual channels.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bmr022",
+      "title": "Train beep model for transcription",
+      "description": "Create a model that recognizes beeps as unique words to improve transcription accuracy.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bmr023",
+      "title": "Generate beep and digit audio for transcription",
+      "description": "Create a script to generate audio beeps followed by digits for use in transcription, ensuring clarity and ease of use for transcribers.",
+      "assignee": "Adam",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Audio Processing"
+    },
+    {
+      "meeting_id": "Bmr023",
+      "title": "Implement automatic segmentation for meeting recognition",
+      "description": "Develop a system to perform recognition on automatically segmented audio instead of hand-segmented audio to improve accuracy.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Audio Processing, Machine Learning"
+    },
+    {
+      "meeting_id": "Bmr023",
+      "title": "Create chunked audio files for transcription",
+      "description": "Generate chunked audio files that include beeps and digits for easier transcription by the team.",
+      "assignee": "Adam",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Audio Processing"
+    },
+    {
+      "meeting_id": "Bmr025",
+      "title": "Implement information retrieval using THISL tools",
+      "description": "Develop a command line tool for indexing and querying meeting data, allowing users to input keywords and retrieve start-end times of relevant segments.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Tcl-TK, UNIX"
+    },
+    {
+      "meeting_id": "Bmr025",
+      "title": "Create user interface for THISL tools",
+      "description": "Design a user-friendly GUI for the THISL information retrieval tool that allows users to query and play audio segments based on search results.",
+      "assignee": "Dave Gelbart",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Tcl-TK"
+    },
+    {
+      "meeting_id": "Bmr025",
+      "title": "Port THISL tools to Windows",
+      "description": "Modify the THISL information retrieval tools to ensure compatibility with Windows operating systems, addressing compilation issues.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "UNIX, Windows"
+    },
+    {
+      "meeting_id": "Bmr026",
+      "title": "Add filtering by meeting type and user ID",
+      "description": "Implement filtering functionality in the front-end based on meeting type (MR, EDU, etc.) and user ID.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Tcl-TK"
+    },
+    {
+      "meeting_id": "Bmr026",
+      "title": "Optimize Transcriber interface",
+      "description": "Enhance the Transcriber interface to include an additional window for displaying an arbitrary valued function synchronized with the waveform.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Tcl-TK"
+    },
+    {
+      "meeting_id": "Bmr028",
+      "title": "Optimize Transcriber tool loading speed",
+      "description": "Investigate and fix the slow loading issue of the Transcriber tool when handling larger transcript files.",
+      "assignee": "Dave Gelbart",
+      "priority": "High",
+      "task_type": "Bug",
+      "tech_stack": "XML"
+    },
+    {
+      "meeting_id": "Bmr028",
+      "title": "Display multiple waveforms in Transcriber",
+      "description": "Implement functionality to display more than one waveform simultaneously in the Transcriber tool.",
+      "assignee": "Dave Gelbart",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "JavaScript"
+    },
+    {
+      "meeting_id": "Bmr028",
+      "title": "Fix Transcriber shape file computation bug",
+      "description": "Resolve the bug in Transcriber that causes crashes when computing the shape file with low sample rates.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Bug",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bmr028",
+      "title": "Implement audio playback feature in Transcriber",
+      "description": "Add functionality to play audio files in the Transcriber tool without displaying the waveform.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "state": false,
+      "meeting_id": "Bro003",
+      "title": "Prepare French test data",
+      "description": "Create a digit French database of microphone speech downsampled to eight kilohertz, add noise using Aurora-two noises for training and testing.",
+      "assignee": "mn007",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Audio Processing"
+    },
+    {
+      "meeting_id": "Bro003",
+      "title": "Develop HTK baseline for French test data",
+      "description": "Implement HTK baseline using mel cepstra for the prepared French test data.",
+      "assignee": "mn007",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "HTK"
+    },
+    {
+      "meeting_id": "Bro005",
+      "title": "Redo experiments with PLP and delta",
+      "description": "Train the net with PLP and delta to evaluate performance improvements.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro005",
+      "title": "Combine PLP and MSG features",
+      "description": "Investigate the combination of PLP and MSG features to improve recognition accuracy.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro005",
+      "title": "Feature combination experiments",
+      "description": "Conduct experiments using different feature combinations and net outputs.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro010",
+      "title": "Implement recursive filtering routine",
+      "description": "Develop a routine that performs recursive filtering using the newly designed IIR filters.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro010",
+      "title": "Add low-pass filter for downsampling",
+      "description": "Implement a low-pass filter at twenty-five hertz to improve downsampling process.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro010",
+      "title": "Optimize online normalization filter",
+      "description": "Refactor the online normalization process to reduce the delay caused by the current filter implementation.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro011",
+      "title": "Implement noise removal feature",
+      "description": "Integrate noise removal functionality based on Ericsson's approach into the existing system.",
+      "assignee": "Carmen",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro011",
+      "title": "Modify spectral subtraction code",
+      "description": "Adapt Barry's spectral subtraction code for initial testing with the Italian database features.",
+      "assignee": "fn002",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro011",
+      "title": "Write unit tests for recognition scripts",
+      "description": "Develop unit tests for the recognition scripts that will be used on Meeting Recorder digits.",
+      "assignee": "me026",
+      "priority": "Medium",
+      "task_type": "Test",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro012",
+      "title": "Implement digital filter for data processing",
+      "description": "Apply the suggested digital filter to the collected data before processing to mitigate noise effects.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Digital Signal Processing"
+    },
+    {
+      "meeting_id": "Bro012",
+      "title": "Check high-pass filter usage in Feacalc",
+      "description": "Verify if the high-pass filter option is being utilized in the Feacalc software when processing data.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "Feacalc"
+    },
+    {
+      "meeting_id": "Bro012",
+      "title": "Optimize transition probabilities in HMM",
+      "description": "Adjust the self-loop transition probabilities in the HMM to improve recognition rates based on recent findings.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Refactor",
+      "tech_stack": "HMM"
+    },
+    {
+      "meeting_id": "Bro014",
+      "title": "Optimize HTK training iterations",
+      "description": "Reduce the number of iterations in HTK training from four rounds to three, two, two, five to improve training speed without significant loss in accuracy.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Performance",
+      "tech_stack": "HTK"
+    },
+    {
+      "meeting_id": "Bro014",
+      "title": "Compile HTK for Linux",
+      "description": "Compile the HTK software for Linux machines to enable running experiments on a five-processor Linux machine.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "DevOps",
+      "tech_stack": "Linux, HTK"
+    },
+    {
+      "meeting_id": "Bro014",
+      "title": "Update .CSHRC for environment detection",
+      "description": "Modify the .CSHRC file to detect whether the environment is Linux or Sparc and point to the correct executables.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Shell"
+    },
+    {
+      "meeting_id": "Bro015",
+      "title": "Explore phase normalization techniques",
+      "description": "Investigate methods to normalize phase in speech processing to improve performance.",
+      "assignee": "me026",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "N/A"
+    },
+    {
+      "meeting_id": "Bro015",
+      "title": "Decrease number of iterations in HTK system",
+      "description": "Adjust the number of iterations in the HTK system to allow for more experiments while working on variations.",
+      "assignee": "me018",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "HTK"
+    },
+    {
+      "meeting_id": "Bro015",
+      "title": "Increase number of Gaussians in silence model",
+      "description": "Experiment with increasing the number of Gaussians in the silence model to improve recognition accuracy.",
+      "assignee": "me018",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "N/A"
+    },
+    {
+      "meeting_id": "Bro016",
+      "title": "Adjust insertion penalties for noise handling",
+      "description": "Run experiments with different insertion penalties on the front-end to evaluate performance improvements in noisy conditions.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro016",
+      "title": "Optimize mel cepstrum parameters",
+      "description": "Experiment with the number of states and Gaussians in mel cepstrum to improve performance metrics.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro017",
+      "title": "Modify recognizer for long silences",
+      "description": "Adjust the recognizer algorithm to account for long silences in voice activity detection.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro017",
+      "title": "Improve mel spectrum estimation",
+      "description": "Develop methods to provide a better initial estimate of the mel spectrum that is more robust to noise.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro017",
+      "title": "Explore LPC model for noise robustness",
+      "description": "Investigate the use of LPC model spectrum instead of Fourier spectrum to improve robustness against noise.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro017",
+      "title": "Implement noise addition technique",
+      "description": "Add a moderate amount of noise to training data to reduce the effect of additive noise during recognition.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro018",
+      "title": "Develop voice-unvoice detection feature",
+      "description": "Implement a new feature to detect voice, unvoice, and silence using MLP with three outputs and integrate with the Aurora system.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro018",
+      "title": "Optimize feature extraction for MLP",
+      "description": "Refactor the feature extraction process to improve the input features for the MLP, focusing on the variance of the auto-correlation function.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro018",
+      "title": "Experiment with log magnitude spectrum input",
+      "description": "Test the performance of the neural net by feeding it the log magnitude spectrum directly to evaluate improvements in voice-unvoice detection.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro019",
+      "title": "Implement parallel job execution script",
+      "description": "Write a script that utilizes 'run command' to execute multiple sub-jobs while limiting the number of concurrent jobs to avoid saturating the network.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Shell scripting"
+    },
+    {
+      "meeting_id": "Bro019",
+      "title": "Optimize P-make usage for job scheduling",
+      "description": "Create a Makefile that defines dependencies for a large number of jobs and utilizes P-make with a specified number of concurrent jobs to optimize resource usage.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "P-make"
+    },
+    {
+      "meeting_id": "Bro021",
+      "title": "Investigate online normalization approaches",
+      "description": "Explore different methods for online normalization, including varying time constants and means for silence and speech.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro021",
+      "title": "Add noise for smoothing MFCC",
+      "description": "Implement a method to add white noise energy to the MFCC processing to achieve smoother results.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro022",
+      "title": "Build phoneme recognition system",
+      "description": "Develop a system that classifies intermediate categories using multi-band techniques and performs phoneme recognition.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro022",
+      "title": "Train on larger dataset for robustness",
+      "description": "Train the system on the Macrophone set of read speech to improve robustness against artifacts in re-synthesized audio.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro022",
+      "title": "Implement VAD-like processing for low-energy sections",
+      "description": "Develop a method to identify and set very low-energy sections to near zero value to improve audio quality.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro023",
+      "title": "Integrate mean log magnitude spectral subtraction into SmartKom system",
+      "description": "Implement the mean log magnitude spectral subtraction algorithm in the SmartKom system, ensuring it can handle varying lengths of input frames for optimal performance.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro023",
+      "title": "Design a filter for mean cepstral subtraction",
+      "description": "Create a filter design that can effectively remove low-frequency components while maintaining the integrity of the speech signal in the SmartKom system.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro024",
+      "title": "Integrate mean subtraction approach into SmartKom system",
+      "description": "Integrate the mean subtraction method into the SmartKom system and determine the optimal data length for training models.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Integration",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro024",
+      "title": "Conduct experiments on analysis window length",
+      "description": "Perform experiments varying the analysis window length between one and three seconds under different reverberation conditions and plot the results.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro024",
+      "title": "Test varying data lengths for training",
+      "description": "Test the impact of varying training data lengths (e.g., 6 seconds vs 12 seconds) on model performance and document findings.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Test",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro025",
+      "title": "Combine spectral subtraction and Wiener filtering software",
+      "description": "Integrate the functionalities of spectral subtraction and Wiener filtering into a single software package that allows for command-line argument parsing to choose between the two methods.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro025",
+      "title": "Implement neural network for noise reduction",
+      "description": "Develop a neural network that operates on the output from either the Wiener filtering or the spectral subtraction to enhance noise reduction capabilities.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro025",
+      "title": "Optimize software for latency",
+      "description": "Refactor the software to ensure it meets latency requirements while processing audio signals, considering the constraints discussed in the meeting.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "Bro026",
+      "title": "Implement Wiener filtering on FFT bins",
+      "description": "Apply Wiener filtering on FFT bins with two-step smoothing of the transfer function, using recursion for time smoothing and a sliding window for frequency smoothing.",
+      "assignee": "mn007",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Signal Processing"
+    },
+    {
+      "meeting_id": "Bro026",
+      "title": "Fix noise suppression module",
+      "description": "Finalize the noise suppression module that integrates with the existing system, ensuring it effectively handles both noise and reverberation.",
+      "assignee": "mn007",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Signal Processing"
+    },
+    {
+      "meeting_id": "Bro027",
+      "title": "Compile Mississippi State recognizer software",
+      "description": "Download and compile the Mississippi State recognizer software without issues.",
+      "assignee": "me018",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "C/C++"
+    },
+    {
+      "meeting_id": "Bro028",
+      "title": "Optimize VAD for latency reduction",
+      "description": "Reduce VAD processing time to achieve a latency of 220 milliseconds.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Performance",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro028",
+      "title": "Train tandem network on more data",
+      "description": "Increase the training dataset for the tandem network to improve performance.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro028",
+      "title": "Implement hierarchical structure for silence probability",
+      "description": "Use silence probability from VAD network instead of tandem network to improve accuracy.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Belirtilmedi"
+    },
+    {
+      "meeting_id": "Bro028",
+      "title": "Investigate noise estimation methods",
+      "description": "Explore alternative noise estimation techniques to enhance tandem network training.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "Belirtilmedi"
+    }
+  ]
+}

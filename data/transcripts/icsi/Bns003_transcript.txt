@@ -1,0 +1,1088 @@
+================================================================================
+ICSI Meeting Transcript: Bns003
+================================================================================
+
+Total Utterances: 1077
+Unique Speakers: 6
+Duration: 49.55 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:26] mn082: OK ,
+[0002] [00:26] mn082: we can start ?
+[0003] [00:27] mn082: OK .
+[0004] [00:27] mn082: Thank you , Adam .
+[0005] [00:28] mn082: I will call you then when we are ready .
+[0006] [00:30] mn082: I believe , maybe one hour , in that sense .
+[0007] [00:32] mn082: OK ,
+[0008] [00:33] mn082: welcome to our next meeting .
+[0009] [00:35] mn082: Um I have couple of points we should discussed .
+[0010] [00:38] mn082: One is related to the proposal ,
+[0011] [00:40] mn082: Michael , please can you close the door ?
+[0012] [00:41] mn035: Yep .
+[0013] [00:42] mn082: Thank you .
+[0014] [00:44] mn082: And , um
+[0015] [00:46] mn082: furthermore , as most of you know I will leave in tenth of December ,
+[0016] [00:50] mn082: I think we should discuss how we proceed in the meantime ,
+[0017] [00:53] mn082: because I get , I would like to say , different signals from Siemens ,
+[0018] [00:57] mn082: I believe , in the meantime it 's a higher probability that I will return ,
+[0019] [01:01] mn082: but based on the pro uh , procedure to get a J - one visa and the IP six six it will be I would like to say , earliest stage will be end of January ,
+[0020] [01:12] mn082: so that means we have to get over six weeks
+[0021] [01:14] mn082: and
+[0022] [01:16] mn082: Then furthermore I would like to know the status of everybody .
+[0023] [01:19] mn082: I know for sure , OK , um Miguel , you will have your plans for this , uh , ongoing process , uh , concerning your work .
+[0024] [01:29] mn082: OK , from you it 's definitely clear , in principle .
+[0025] [01:32] mn082: OK , for Michael , what are your current plans
+[0026] [01:34] mn082: and Dietmar , maybe you then , also .
+[0027] [01:37] mn082: What we have discussed , in principle , concerning the ongoing process with U USAIA and also this , uh , your current work ,
+[0028] [01:45] mn082: and from my point , it seems to be clear that I will go back
+[0029] [01:49] mn082: definitely at tenth of December ,
+[0030] [01:51] mn082: and , as I mentioned before , probably will be more than fifty percent , I would like to say , that I will be come back to get the freedom to launch here the project in the sense in whatever kind of form and get , in principle , paid by another project within Siemens .
+[0031] [02:11] mn082: So the point is how long I will stay .
+[0032] [02:13] mn082: I believe , a couple of months definitely
+[0033] [02:15] mn082: and based on the success , I think that 's always an ongoing process to go back to uh , to Germany for a couple of weeks
+[0034] [02:22] mn082: and then come here and and go on with with this work
+[0035] [02:25] mn082: and
+[0036] [02:26] mn082: so that is my current opinion , concerning how Siemens deal with with my , uh , ongoing effort .
+[0037] [02:32] mn082: And , furthermore , I would like to First of all , thanks to uh Dietmar
+[0038] [02:38] mn082: because he started to use a testbed .
+[0039] [02:40] mn030: Oh .
+[0040] [02:41] mn082: Eh
+[0041] [02:42] mn082: in principle , in his spare time .
+[0042] [02:43] mn082: Yeah !
+[0043] [02:44] mn030: Yeah .
+[0044] [02:45] mn082: Uh
+[0045] [02:46] mn082: So so the first , uh uh , box , this morning .
+[0046] [02:50] mn082: I will set up , definitely , in my spare time , in the evenings and the weekends the second box ,
+[0047] [02:54] mn082: and I 'm looking for two other volunteers who are setting the third and the fourth box .
+[0048] [02:59] mn021: But wh wh wh what are the box ?
+[0049] [03:01] mn082: A box is a s P C .
+[0050] [03:02] mn030: P Cs .
+[0051] [03:03] mn030: P Cs .
+[0052] [03:03] mn021: But what w
+[0053] [03:04] mn082: Equipped with with we should equipped it with with Linux
+[0054] [03:07] mn082: or maybe too with Free BSD ,
+[0055] [03:08] mn030: Well the first
+[0056] [03:09] mn082: I doubt I don't know
+[0057] [03:10] mn030: stop
+[0058] [03:10] mn082: and
+[0059] [03:10] mn030: the first thing the most , eh , complicated is to fit them with the removal removable um , hard disk .
+[0060] [03:18] mn082: And now we have an expert .
+[0061] [03:18] mn030: But
+[0062] [03:19] mn030: Yeah .
+[0063] [03:21] mn030: So
+[0064] [03:23] mn030: um
+[0065] [03:25] mn030: the
+[0066] [03:26] mn030: Oh ,
+[0067] [03:26] mn030: what 's the right word ?
+[0068] [03:28] mn030: I had to put everything out
+[0069] [03:30] mn030: to to put the removable hard disk in
+[0070] [03:32] mn082: Yeah , to remov
+[0071] [03:33] mn082: So that you can pull eh the plug in the removable hard disk to the ID bus
+[0072] [03:33] mn030: and
+[0073] [03:34] mn021: OK .
+[0074] [03:35] mn030: Yeah
+[0075] [03:36] mn082: and
+[0076] [03:38] mn030: but i but it 's not not , um very , uh difficult or something like that .
+[0077] [03:42] mn082: Uh - huh ,
+[0078] [03:42] mn030: So
+[0079] [03:43] mn082: And
+[0080] [03:44] mn082: Why you are laughing ?
+[0081] [03:47] mn082: I ju
+[0082] [03:47] mn082: I don't know ,
+[0083] [03:48] mn082: I cou I s I didn't see him ,
+[0084] [03:50] mn082: so I don't know what he did .
+[0085] [03:52] mn082: I know in the meantime it 's running ,
+[0086] [03:52] mn030: Uh !
+[0087] [03:53] mn082: and I will definitely set up the next one .
+[0088] [03:54] mn030: So Wilbert will set up the second computer .
+[0089] [03:56] mn082: Yeah ,
+[0090] [03:56] mn082: though my idea maybe you eh can equip it with a
+[0091] [03:59] mn082: I don't know what your time constrain whether the time constraint allows you to set up one with with Free BSD , for instance .
+[0092] [04:01] mn021: You know , I I can I can build , eh , any computer uh you n installing whatever . It 's needed ,
+[0093] [04:04] mn082: Yeah .
+[0094] [04:06] mn082: OK ,
+[0095] [04:07] mn082: uh - huh .
+[0096] [04:08] mn021: I mean , I will enjoy doing it .
+[0097] [04:09] mn082: Do you find the time ?
+[0098] [04:10] mn021: So .
+[0099] [04:11] mn021: That 's OK for me .
+[0100] [04:12] mn081: Mmm .
+[0101] [04:13] mn082: Maybe
+[0102] [04:14] mn081: No promises .
+[0103] [04:15] mn082: No promises ?
+[0104] [04:17] mn081: No .
+[0105] [04:17] mn082: and even maybe to to , uh put your I G M P stuff on it .
+[0106] [04:21] mn082: Eh
+[0107] [04:23] mn081: No promises .
+[0108] [04:24] mn082: No promises .
+[0109] [04:24] mn081: No .
+[0110] [04:27] mn082: Ah , he 's very hard to sell .
+[0111] [04:28] mn030: So it 's about one hour to put this , uh hard disk in
+[0112] [04:31] mn030: and a further hour to , uh Well , two or three hours to install the operating systems .
+[0113] [04:37] mn082: Nee , because then the network is still running then .
+[0114] [04:39] mn082: Could we wait until the network is running ?
+[0115] [04:41] mn082: Because currently it 's not possible , uh , based on certain fire wall constraints .
+[0116] [04:41] mn030: Yeah .
+[0117] [04:42] mn030: At the moment .
+[0118] [04:45] mn082: I believe David is , uh , currently working on that . to set up the fire wall ,
+[0119] [04:51] mn082: and he 's not an expert for that
+[0120] [04:53] mn082: and when I get the signal I will ask one more time .
+[0121] [04:56] mn082: Nah , but nevertheless thanks to Dietmar that he @ @ .
+[0122] [04:58] mn081: Did the networks have internet connectivity ?
+[0123] [05:00] mn082: Yes ,
+[0124] [05:00] mn082: we have , eh , for for secure socket ,
+[0125] [05:03] mn082: and , uh for web access , the fire wall is open .
+[0126] [05:07] mn082: That 's all .
+[0127] [05:08] mn082: And But currently it 's not working , right ?
+[0128] [05:10] mn030: Right ,
+[0129] [05:10] mn030: um On Friday when I installed , um uh Linux the first time I got access to the local network here , um , but not to any machines outside of , uh , ICSI .
+[0130] [05:24] mn030: And , till Monday there 's no access at all to any machines ,
+[0131] [05:29] mn030: also not to inside machines .
+[0132] [05:31] mn082: But then ,
+[0133] [05:31] mn082: uh
+[0134] [05:32] mn030: So , I think it 's related to the work , um they 've done on Sunday here
+[0135] [05:36] mn030: and
+[0136] [05:37] mn081: But normally you should have access to th all the internet , r to outside .
+[0137] [05:41] mn082: Yes .
+[0138] [05:41] mn082: Yeah ,
+[0139] [05:42] mn082: You have internet outside access ,
+[0140] [05:42] mn081: Full .
+[0141] [05:44] mn082: but no telnet and not R - login or whatever kind of things , you know .
+[0142] [05:45] mn081: A restricted in .
+[0143] [05:48] mn081: Not .
+[0144] [05:48] mn081: Huh .
+[0145] [05:50] mn081: Not a no FTP .
+[0146] [05:51] mn082: Yeah , FTP yes .
+[0147] [05:53] mn081: H
+[0148] [05:53] mn082: But no telnet .
+[0149] [05:54] mn081: Hmm .
+[0150] [05:56] mn082: Uh
+[0151] [05:57] mn082: The the the point is that we will use it , as it is uh described several times , that we will use it as a local network , in principle ,
+[0152] [06:03] mn082: but it doesn't make sense to use certain kinds of uh , media transportation f to put some stuff you need from your PC or your LS to this , uh uh , uh , to this testbed ,
+[0153] [06:14] mn082: you know .
+[0154] [06:14] mn021: Mm - hmm .
+[0155] [06:15] mn082: So
+[0156] [06:15] mn082: you download it , if that s must be possible from the network ,
+[0157] [06:18] mn082: but normally it should be used as um uh for demonstrations or to figure out if you have a scenario where you have to use more than , uh , one box which you have on your desktop ,
+[0158] [06:30] mn082: cuz that is the primary , uh uh reason for this testbed .
+[0159] [06:35] mn082: So , definitely you have to have web access to download the necessary files .
+[0160] [06:39] mn021: Hmm - hmm - hmm .
+[0161] [06:44] mn082: So and then furthermore , one more thanks to Claudia .
+[0162] [06:48] mn082: He did a lot of work
+[0163] [06:49] fn083: Right .
+[0164] [06:49] mn082: and I could only pass her some advices and some discussions with her concerning the web pages .
+[0165] [06:51] fn083: Ah , the messages .
+[0166] [06:52] fn083: Oh .
+[0167] [06:56] mn082: And now we are , in principle , in the state we have to do it with a project area .
+[0168] [07:02] mn082: But they 're also some contributions from you guys requested .
+[0169] [07:05] mn082: Um
+[0170] [07:06] mn082: and the alumni page , in principle , we have to ,
+[0171] [07:09] mn082: you
+[0172] [07:17] mn082: alumnis ,
+[0173] [07:18] mn082: yeah .
+[0174] [07:19] mn082: Is it " alumni " " alumni " ?
+[0175] [07:20] mn082: I
+[0176] [07:20] fn083: " Alumni " .
+[0177] [07:20] mn082: " Alumni " .
+[0178] [07:21] mn082: I 'm not sure how to pronounce this word .
+[0179] [07:22] mn035: Aber das wird jetzt geaendert .
+[0180] [07:24] mn082: Huh ?
+[0181] [07:24] mn035: Das wird geaendert .
+[0182] [07:26] mn082: And
+[0183] [07:28] mn082: But , um
+[0184] [07:30] mn082: I think everybody should take a look to the web pages , and inform Claudia if something , uh , has to be improved or if there 's some comments
+[0185] [07:40] mn021: Mm - hmm .
+[0186] [07:42] mn082: or
+[0187] [07:43] mn082: uh
+[0188] [07:44] mn082: He 's laughing all the time .
+[0189] [07:45] mn082: Why ?
+[0190] [07:47] mn082: Uh because it is you know , that 's very important
+[0191] [07:51] mn082: maybe now not for us
+[0192] [07:53] mn082: but maybe for our successors
+[0193] [07:54] mn082: and maybe somebody will come back once a day or send some students or some colleagues or whatever .
+[0194] [07:59] mn082: So , my point of view I will doc I will documented everything when I will leave here in the sense that potential successor as a group leader can hook in with these things and that these web pages will be updated every time when it is necessary .
+[0195] [08:16] mn082: We tried to do it , so that it must be at least updated only when really major changes happen .
+[0196] [08:21] mn082: So that means somebody 's leaving the group ,
+[0197] [08:24] mn082: uh , somebody is joining the group ,
+[0198] [08:25] mn082: a new project is started ,
+[0199] [08:27] mn082: but , uh , the effort should be minimized as possible .
+[0200] [08:31] mn082: And , so please take a look to the web pages
+[0201] [08:35] mn082: and
+[0202] [08:36] mn082: I have announced in the project area the major headlines .
+[0203] [08:43] mn082: And especially , Wilbert , maybe you can write something about yours ?
+[0204] [08:49] mn082: I call it , I believe , " Multicast " and then " Development deployment " , eh , for for source specific multicas
+[0205] [08:55] mn082: maybe a few lines ,
+[0206] [08:56] mn082: maybe a picture .
+[0207] [08:58] mn082: And something like that should be added to USAIA ?
+[0208] [09:00] mn082: OK , that 's my stuff .
+[0209] [09:02] mn082: And
+[0210] [09:04] mn082: um
+[0211] [09:06] mn082: then the next point is then this active routing stuff ?
+[0212] [09:12] mn082: Um
+[0213] [09:13] mn082: I would like to discuss it before ,
+[0214] [09:14] mn082: but you were busy .
+[0215] [09:16] mn021: Yeah ,
+[0216] [09:16] mn082: And
+[0217] [09:16] mn021: OK .
+[0218] [09:19] mn082: um ,
+[0219] [09:19] mn082: I believe , it must be adjusted to the current activities a little bit more .
+[0220] [09:25] mn021: Mm - hmm .
+[0221] [09:26] mn082: And , um
+[0222] [09:27] mn082: I
+[0223] [09:29] mn082: It is not worth to discuss it now
+[0224] [09:31] mn082: because nobody raised it before .
+[0225] [09:32] mn021: Yeah ,
+[0226] [09:32] mn021: I think so .
+[0227] [09:33] mn082: And , uh , so l let us have a bilateral discussion afterwards .
+[0228] [09:37] mn082: I would what I would like to have is that um , your contributions is related to certain kind of things happened here .
+[0229] [09:46] mn082: And that means really to the project proposal itself and also maybe to the USAIA architecture ,
+[0230] [09:53] mn082: in that sense , that at certain stages , cuz it 's a general architecture , certain stages maybe to future mobile core networks , that it is related to these kind of things .
+[0231] [10:05] mn082: Um , having uh , I what I have in mind is that things should not be started from the end system .
+[0232] [10:12] mn082: That 's my principle concern ,
+[0233] [10:13] mn082: because that will never be happen , from my point of view .
+[0234] [10:18] mn082: It should be started as the edge device ,
+[0235] [10:21] mn082: so that it cu certain kind of mechanism , whatever , is enabled between the ingress edge device and the outgress a edge device ,
+[0236] [10:29] mn082: because it will be at the certain stage IP based in the future generation telecommunication networks before its goal .
+[0237] [10:32] mn021: Mm - hmm .
+[0238] [10:34] mn021: That 's OK .
+[0239] [10:35] mn082: Fuel it to the over the internet ,
+[0240] [10:38] mn082: and b between these both boxes , I can assume uh because the mobility happens there as a normal natural thing
+[0241] [10:47] mn082: and the forwarding process and the routing process should be no more separated , from my point of view .
+[0242] [10:52] mn082: And to have there a certain kind of intelligent mechanism , that the packets can be used to set up the routes because they have all the information .
+[0243] [11:00] mn082: They know where they have to go because IP addresses are still there and within the packet .
+[0244] [11:03] mn021: Hmm - hmm - hmm .
+[0245] [11:04] mn082: I mean , how can this use , uh , within this area , and how this area is then aligned to the more traditional routing within the internet backbone itself .
+[0246] [11:15] mn082: That 's my question .
+[0247] [11:17] mn082: And I think that is good a research area ,
+[0248] [11:18] mn082: then
+[0249] [11:20] mn082: I 'm not a e xpert at all for this .
+[0250] [11:22] mn082: But I I I believe , there 's a lot of potential for that .
+[0251] [11:25] mn082: And we should discuss it maybe bilateral afterwards .
+[0252] [11:27] mn021: OK .
+[0253] [11:28] mn021: OK .
+[0254] [11:29] mn082: Yeah ?
+[0255] [11:30] mn082: So , one more time , everybody should take a look to the web pages
+[0256] [11:36] mn082: and from Claudia , at the general remarks
+[0257] [11:38] mn082: and should write based on the , uh , headlines in the project proposal the um things what still happened , the things what they have still in mind
+[0258] [11:52] mn082: uh so that we can update these last @ @ you know @ @ present the last major part of the web pages .
+[0259] [11:59] mn030: The pages are already on the web ?
+[0260] [11:59] mn021: OK .
+[0261] [12:01] mn082: Yes ,
+[0262] [12:01] fn083: Yeah , yeah .
+[0263] [12:01] mn030: Yeah .
+[0264] [12:02] fn083: It is .
+[0265] [12:02] mn082: you can now access it normally with maybe WWW ICSI Berkeley EDU ,
+[0266] [12:04] fn083: So there are some gaps .
+[0267] [12:04] mn030: OK .
+[0268] [12:06] mn030: Hmm .
+[0269] [12:07] mn082: and
+[0270] [12:08] mn082: so .
+[0271] [12:08] mn030: OK .
+[0272] [12:09] fn083: Yeah , so there are some gaps left
+[0273] [12:10] fn083: and ,
+[0274] [12:11] fn083: I don't know ,
+[0275] [12:11] fn083: you Maybe you can also read through the all the text which is on the web pages
+[0276] [12:15] fn083: cuz I 'd like to change the text a bit
+[0277] [12:17] fn083: cuz sometimes it 's too long ,
+[0278] [12:19] fn083: sometimes it 's too short ,
+[0279] [12:21] fn083: maybe the English is not that good ,
+[0280] [12:22] fn083: so
+[0281] [12:23] fn083: um ,
+[0282] [12:24] fn083: but
+[0283] [12:25] fn083: So I tried to do this today
+[0284] [12:26] fn083: and if you could do it afterwards it would be really nice
+[0285] [12:29] fn083: cuz I 'm quite sure that I can't find every , like , orthographic mistake in it or something .
+[0286] [12:33] mn021: Uh , there there there are couple of comments I I have about the web pages .
+[0287] [12:37] fn083: Good .
+[0288] [12:37] mn021: One is is the , uh , I think it 's Joe 's , uh , graphic , I think it should be better .
+[0289] [12:42] fn083: Yeah , yeah , yeah ,
+[0290] [12:42] mn082: Yeah .
+[0291] [12:42] fn083: the graphics are too bad .
+[0292] [12:43] mn021: Maybe you are working at it .
+[0293] [12:43] fn083: I know .
+[0294] [12:43] mn082: You are definitely right .
+[0295] [12:45] mn082: It was in a good shape , but it , uh , then we disturbed .
+[0296] [12:46] mn021: OK ,
+[0297] [12:47] mn021: And then maybe the the ICSI logo could be could be could be ,
+[0298] [12:51] fn083: I can't change something with a logo .
+[0299] [12:53] mn021: uh
+[0300] [12:53] mn021: No ,
+[0301] [12:54] mn021: it is just ,
+[0302] [12:54] mn021: uh
+[0303] [12:55] mn021: Maybe we can we can , uh , translate the white color into transparent color
+[0304] [13:01] mn021: so it will get more natural .
+[0305] [13:02] fn083: Yeah ,
+[0306] [13:02] fn083: OK .
+[0307] [13:03] fn083: Good ,
+[0308] [13:04] fn083: yeah I ju
+[0309] [13:04] mn021: It 's just a suggestion .
+[0310] [13:05] fn083: an
+[0311] [13:05] fn083: another thing is I 'd want to get a link on the logo so that you can come from the logo to the ICSI web p home page back .
+[0312] [13:11] mn021: To the home page .
+[0313] [13:12] mn021: OK .
+[0314] [13:13] mn021: That 's that 's OK .
+[0315] [13:13] fn083: So .
+[0316] [13:14] fn083: That 's these are th some things I have to do .
+[0317] [13:17] fn083: Yeah ,
+[0318] [13:17] fn083: and if you have something which I should put on the web page for you ,
+[0319] [13:20] fn083: so
+[0320] [13:20] fn083: yeah , some pictures will be nice ,
+[0321] [13:22] fn083: a few sentences will be nice ,
+[0322] [13:23] fn083: and
+[0323] [13:24] fn083: yeah , it depends on how much time you have .
+[0324] [13:26] fn083: And
+[0325] [13:29] fn083: So , some information for people who are new comers or ,
+[0326] [13:33] fn083: I don't know a good word for it ,
+[0327] [13:34] fn083: should we use uh " new comers "
+[0328] [13:36] fn083: or
+[0329] [13:37] fn083: So , with somebody who is new , arriving here , or wants to to , uh , send an application ?
+[0330] [13:44] mn081: Newbies .
+[0331] [13:44] fn083: S
+[0332] [13:45] fn083: Huh ?
+[0333] [13:46] mn081: Newbies .
+[0334] [13:47] fn083: Newbies ?
+[0335] [13:49] fn083: Yeah , OK .
+[0336] [13:51] fn083: So , there I have to add some information ,
+[0337] [13:53] fn083: I don't know , I t I tried to set up everything by today for this page
+[0338] [13:57] fn083: cuz I 've started with this ,
+[0339] [13:59] fn083: um , if you have any kind of ideas what was important for you then just let m
+[0340] [14:04] fn083: cuz I have some points like um I don't know f yeah , like Pacific Bell ,
+[0341] [14:11] fn083: like uh , long - distance carriers ,
+[0342] [14:13] fn083: then like uh , cars and car insurances ,
+[0343] [14:16] fn083: health
+[0344] [14:18] fn083: So , health insurance is k something I can only say for German people .
+[0345] [14:20] mn021: Hmm - hmm - hmm .
+[0346] [14:21] fn083: So maybe
+[0347] [14:22] fn083: I don't know if this is different in Spain .
+[0348] [14:23] fn083: That would be fine too , to have some information , or in D nnn Holland .
+[0349] [14:25] mn021: OK .
+[0350] [14:27] mn021: I
+[0351] [14:28] fn083: I don't know .
+[0352] [14:28] mn021: I will take a look and I will tell you something .
+[0353] [14:30] fn083: Yeah ,
+[0354] [14:30] mn082: Mm - hmm .
+[0355] [14:30] fn083: so how maybe how you did it or whatsoever .
+[0356] [14:33] mn082: OK ,
+[0357] [14:33] mn082: I will send you some because I have something in mind .
+[0358] [14:34] fn083: So
+[0359] [14:35] fn083: yeah ,
+[0360] [14:36] fn083: then what else did I have ?
+[0361] [14:37] fn083: Then
+[0362] [14:39] fn083: another point 's like , uh , what about the bank ,
+[0363] [14:41] fn083: uh , so , transferring your money from Europe t over here , what is the cheapest way or what could you recommend or something .
+[0364] [14:49] fn083: um
+[0365] [14:49] fn083: another point
+[0366] [14:51] fn083: yeah , and then there 's there 's another point like going out in Berkeley or what to do in Berkeley or in the neighborhood .
+[0367] [14:57] mn081: This a lot of this stuff is not networking group NSA , uh , restricted .
+[0368] [15:01] fn083: No ,
+[0369] [15:01] fn083: I know .
+[0370] [15:02] mn082: Yeah , but nobody do that , you know .
+[0371] [15:03] fn083: I know .
+[0372] [15:05] fn083: But there 's nothing like this on the on the ICSI page as far as I know .
+[0373] [15:09] mn082: So ,
+[0374] [15:10] mn082: that 's the point .
+[0375] [15:11] mn082: We discussed it still a couple of weeks or months ago .
+[0376] [15:14] mn082: Uh , the point is normally it is an ICSI task anyway .
+[0377] [15:18] mn021: Mm - hmm .
+[0378] [15:18] mn081: M
+[0379] [15:18] mn082: But
+[0380] [15:19] mn081: Yeah , but a at least then it should be mmm , I think be , uh , ICSI part , and not network restricted .
+[0381] [15:20] mn082: Right .
+[0383] [15:24] mn021: Well
+[0384] [15:27] mn082: Yeah , that is from nineteen ninety - one or nineteen ninety - two , you know . A
+[0385] [15:27] fn083: Yeah
+[0386] [15:30] fn083: This is not on the web .
+[0387] [15:31] mn082: A
+[0388] [15:31] mn082: And this is not on the web ,
+[0389] [15:31] mn021: No ,
+[0390] [15:32] mn021: no , no .
+[0391] [15:33] mn082: and
+[0392] [15:33] mn021: I I just I
+[0393] [15:33] mn082: people
+[0394] [15:34] mn082: normally
+[0395] [15:37] mn021: In fact the Pacific Bell phone was not working , for example
+[0396] [15:40] mn021: when I tried the the phone on this booklet it was not working .
+[0397] [15:43] mn082: Hmm .
+[0398] [15:44] mn021: But the thing is that maybe this could be on a starting point or or if digest
+[0399] [15:48] fn083: Yeah .
+[0400] [15:50] fn083: I don't know ,
+[0401] [15:50] fn083: maybe I talk with Jane about this .
+[0402] [15:52] fn083: If we can use this information , I don't know , somewhere on the ICSI home page too .
+[0403] [15:56] mn081: M move it on the normal ICSI , ICSI .
+[0404] [15:58] fn083: Yeah .
+[0405] [15:59] fn083: Maybe .
+[0406] [16:00] mn081: Maybe
+[0407] [16:00] mn082: We can do that .
+[0408] [16:05] mn082: Yeah , but the point is that nobody feel responsible for that .
+[0409] [16:09] mn082: And
+[0410] [16:09] mn081: Yeah , but eh but my point is that it should not be under the networking group thing .
+[0411] [16:14] mn021: It
+[0412] [16:14] mn082: Yes ,
+[0413] [16:15] mn082: Uh , yes ,
+[0414] [16:15] mn081: eh
+[0415] [16:15] mn082: I see there your point .
+[0416] [16:16] mn081: OK .
+[0417] [16:16] mn082: That 's right .
+[0418] [16:16] mn082: But if it is under the networking points , the group leader is responsible to get up to date information .
+[0419] [16:22] mn082: I believe , we are the group , where the people are , uh , changing much more faster to join the group and to leave the group as other groups .
+[0420] [16:28] mn021: Mm - hmm .
+[0421] [16:31] mn082: And , so , the most problem as as of , uh , it 's likely that uh , the people here in this group needs this information um , much more f uh , often as as other groups .
+[0422] [16:42] mn081: But
+[0423] [16:42] mn081: b
+[0424] [16:44] mn081: But that could still be applicable if you put it under the ICSI site if you take the responsibility for that .
+[0425] [16:51] mn082: Yes ,
+[0426] [16:51] mn082: I see th
+[0427] [16:52] fn083: Yeah , I talk to Jane about this .
+[0428] [16:52] mn081: Uh ,
+[0429] [16:53] mn082: Yeah ,
+[0430] [16:53] mn081: So I think th I think both arguments are not an ar are arguments against having this under the normal ICSI page .
+[0431] [16:53] mn082: but we we can do that .
+[0432] [17:00] mn081: Or only the networking , uh , page .
+[0433] [17:04] mn035: But the problem is , are you allowed to change anything on the general ICSI server ?
+[0434] [17:04] mn081: Yeah .
+[0435] [17:09] fn083: No ,
+[0436] [17:09] fn083: this is why I have to talk to Jane .
+[0437] [17:10] mn035: Yeah .
+[0438] [17:10] mn082: Yeah
+[0439] [17:11] mn082: yeah ,
+[0440] [17:11] mn035: So you may need just a link from the main ICSI page to the NSA page .
+[0441] [17:11] mn082: that
+[0442] [17:12] mn082: We have the we have the directory structure , of the real UNIX tree . in compliance and in accordance with what you with the structure of the web pages .
+[0443] [17:24] mn082: And , um , that means , uh , the group leader normally do not have access to the general web pages .
+[0444] [17:32] mn082: He has access to the N S A pages .
+[0445] [17:34] mn082: And , um ,
+[0446] [17:36] mn082: but I think that 's an administration problem and that everybody agrees that the information page must be on the general , on the highest level .
+[0447] [17:45] mn082: OK ,
+[0448] [17:45] mn082: I have no problem with that .
+[0449] [17:47] mn030: But , uh
+[0450] [17:47] mn082: But
+[0451] [17:48] mn082: but
+[0452] [17:48] mn030: your argument is , uh , I think it we have to have the right to change it .
+[0453] [17:49] mn035: Yeah .
+[0454] [17:54] mn030: So if there 's anything changing in insurances or something something like that , that we have access to this page further on to chan to make any changes .
+[0455] [18:02] mn081: Yeah .
+[0456] [18:05] fn083: Yeah , but this is not a problem at all ,
+[0457] [18:06] fn083: I I mean , if y you are coming from Germany and you know that there is something changed with the health insurance , then you send Jane an email like " Could you please change this , blah - blah - blah . "
+[0458] [18:13] mn030: Yeah , but it 's much more complicated .
+[0459] [18:14] mn035: Yeah , but that 's that 's effort .
+[0460] [18:16] mn035: That 's the whole problem , that nobody wants to do it .
+[0461] [18:16] mn030: Yeah .
+[0462] [18:19] mn082: Yeah .
+[0463] [18:19] fn083: Yeah , OK .
+[0464] [18:19] mn082: You know how it you know the process here within the NSA group .
+[0465] [18:22] mn082: You know
+[0466] [18:23] fn083: Yes .
+[0467] [18:24] mn082: And and that was a reason I we finally decided here that we put it information on the N S
+[0468] [18:30] mn082: A page , we have discuss dis this discussed still a couple of months ago ago .
+[0469] [18:32] mn030: I think the best solution is really to put a link on the ICSI page to this stuff .
+[0470] [18:36] mn081: Yeah .
+[0471] [18:38] mn035: Yep .
+[0472] [18:40] mn030: And the stuff itself is , uh , located at our server .
+[0473] [18:46] mn082: In our directory .
+[0474] [18:47] mn030: Yeah ,
+[0475] [18:47] mn030: in our directory ,
+[0476] [18:47] mn082: Yeah .
+[0477] [18:48] mn030: yeah .
+[0478] [18:48] mn082: Yeah , we can do that .
+[0479] [18:48] fn083: Yes , also fine .
+[0480] [18:49] mn082: We then create a link and then we have to ask with Jane ,
+[0481] [18:52] fn083: Yeah .
+[0482] [18:52] mn082: OK ?
+[0483] [18:52] fn083: Another point is I want I want to would like to add a another button , something which is called like " events " or , I don't know , yeah , I guess I call it " events "
+[0484] [19:01] mn021: Hmm ?
+[0485] [19:02] fn083: like where we could s uh , announce talks which are , you know , future talks for the future ,
+[0486] [19:09] fn083: or and where we could also have a link on for instance the two workshops which have going on , uh , last summer ,
+[0487] [19:17] fn083: so , Hannes ' workshop and then the workshop from Oliver ,
+[0488] [19:21] fn083: that there might be a link behind these workshops and or former talks we have ,
+[0489] [19:25] fn083: so like from people who have been here before
+[0490] [19:27] fn083: and he wants to , uh , publish their slides , or an article , or whatsoever , behind there .
+[0491] [19:33] fn083: So , that we have like a button for events which are where workshops can be announced or old workshops could could be , um , shown or whatever .
+[0492] [19:42] mn021: Mm - hmm .
+[0493] [19:43] mn082: Of course that is a living thing .
+[0494] [19:44] mn082: I think it 's a good idea ,
+[0495] [19:45] mn082: not only that the workshop was a talk announce because they are still announce it is a broader sense .
+[0496] [19:51] mn082: Eh , but I think the idea from Claudia is very good , that the slides from the talks here , if it 's worth to have it on the web , anyway um , should be published in that way that the people can access it .
+[0497] [20:03] mn021: Mm - hmm .
+[0498] [20:04] mn082: For instance I have my USAIA slides .
+[0499] [20:06] mn082: maybe if some things and is going on maybe you have some Multicast slides concerning your work at IGMP
+[0500] [20:07] mn021: Yeah ,
+[0501] [20:08] mn021: that 's OK , too .
+[0502] [20:14] mn082: and uh
+[0503] [20:17] mn082: and
+[0504] [20:26] mn082: because then they 're still cau still a growing context for us , opportunity for the people you know there ,
+[0505] [20:31] mn082: " Oh ,
+[0506] [20:31] mn082: this guy did something there ,
+[0507] [20:33] mn082: maybe I can contact him and ask him would you like to do something , contribute , whatever . "
+[0508] [20:35] mn021: Hmm - hmm - hmm .
+[0509] [20:38] mn082: Uh , so
+[0510] [20:39] mn082: that 's and I think it 's a great idea from Claudia to to have this event page
+[0511] [20:43] mn082: because it 's not a big deal ,
+[0512] [20:46] mn082: you know .
+[0513] [20:46] fn083: No , it 's easy to to add it ,
+[0514] [20:47] mn082: It
+[0515] [20:48] fn083: I mean .
+[0516] [20:48] mn082: Yeah ,
+[0517] [20:48] mn082: and
+[0518] [20:48] mn082: Nah , OK .
+[0519] [20:49] mn082: If there are no events , then there are no events .
+[0520] [20:50] fn083: Yeah , yeah .
+[0521] [20:51] mn082: But we still have a few which happened in the last year
+[0522] [20:54] mn082: and OK ,
+[0523] [20:55] mn082: then it is a growing thing
+[0524] [20:56] mn082: but it 's done automatically that the group leader or the group , uh , put some things eh , also on the web .
+[0525] [21:04] mn082: Something in the center pipe .
+[0526] [21:07] mn082: Yeah ?
+[0527] [21:08] mn082: Everybody agree ?
+[0528] [21:10] mn030: Um , I don't know .
+[0529] [21:10] mn021: OK .
+[0530] [21:12] mn030: Maybe it could be a good thing if we have such an event button that , um , somewhere beneath this button or wherever , that there 's a date , when the last update was .
+[0531] [21:25] mn030: So that you know it 's worth to click this button to see there 's a new , um , announcement or not .
+[0532] [21:33] fn083: Yeah , OK .
+[0533] [21:33] mn030: S So otherwise , you are often clicking this button
+[0534] [21:36] mn030: and you get your old information or even an uh empty page .
+[0535] [21:40] mn082: Maybe
+[0536] [21:40] fn083: Yeah but this will be then down on the button of the page anyways .
+[0537] [21:44] mn082: Yeah , maybe we can have " updated on " , you know the button itself ?
+[0538] [21:44] mn030: So
+[0539] [21:47] mn030: Yeah ,
+[0540] [21:47] mn030: something like that .
+[0541] [21:48] mn082: And then , " updated " and the current date , when when something happened .
+[0542] [21:50] mn030: " Last updated " ,
+[0543] [21:51] mn030: yeah .
+[0544] [21:53] mn082: I don't know how we deal with that .
+[0545] [21:53] fn083: Yep .
+[0546] [21:54] mn082: Is it another thing we have to ?
+[0547] [21:55] fn083: Yep .
+[0548] [21:56] mn030: So it 's just a su suggestion
+[0549] [21:58] mn030: I don't know how easy it is to to implement something like that .
+[0550] [22:02] mn082: Yeah .
+[0551] [22:02] fn083: Huh !
+[0552] [22:02] fn083: OK .
+[0553] [22:03] mn082: OK you
+[0554] [22:04] mn082: Well .
+[0555] [22:06] mn082: Let 's consider " update event button " .
+[0556] [22:16] mn082: OK .
+[0557] [22:18] mn082: So , and then the next point and , I believe , yeah , So , not the last one , @ @ is one that I would like to know the status as far it is possible from everybody concerning his future intention here at ICSI or whether e when he will leave whether he can contri or will he consider currently , uh , contribute here to the proposal
+[0558] [22:47] mn082: because you know , I 've I 'm facing the problem , if I go back to Siemens
+[0559] [22:51] mn082: and I say " OK ,
+[0560] [22:52] mn082: there 's a potential . "
+[0561] [22:53] mn082: " There are potential contacts . "
+[0562] [22:54] mn082: currently , maybe no money ,
+[0563] [22:56] mn082: but if we go in one direction it it is worth to know if people can still go on in that area of that kind of work then they are back in their university or their company or whatever .
+[0564] [23:09] mn082: and even if it 's nur unschl part - time jobs and and if it 's come to a real proposal , that maybe the people can hook in , uh , one more time
+[0565] [23:19] mn082: because I need this information definitely t uh , to inform the uh , the Siemens management that it 's worth to send me back here .
+[0566] [23:29] mn082: So maybe Wilbert you can start .
+[0567] [23:31] mn082: You will leave end of January definitely .
+[0568] [23:34] mn082: And currently you see no chance , as far as I know , uh , to stay longer here
+[0569] [23:40] mn082: and either you will go back to KPN or you will stay here and find then a job opportunity another company ,
+[0570] [23:48] mn082: is that right ?
+[0571] [23:48] mn081: Yes ,
+[0572] [23:49] mn081: yeah .
+[0573] [23:50] mn082: Can you give us more details of concerning the status ?
+[0574] [23:54] mn081: No ,
+[0575] [23:54] mn082: No ?
+[0576] [23:54] mn081: no .
+[0577] [23:57] mn081: Pending .
+[0578] [23:58] mn082: Pending .
+[0579] [23:59] mn081: Yeah .
+[0580] [24:01] fn083: See for me it 's the same
+[0581] [24:02] fn083: I can also say , uh ,
+[0582] [24:03] fn083: for me everything has completely changed ,
+[0583] [24:06] fn083: so now I go back and I don't anything what to do ,
+[0584] [24:08] fn083: so it 's like I have to sort everything out when I 'm back in Germany
+[0585] [24:11] mn082: Yes ,
+[0586] [24:11] mn082: but
+[0587] [24:12] fn083: but I won't go back to the university
+[0588] [24:13] mn082: yeah ?
+[0589] [24:14] fn083: so
+[0590] [24:15] fn083: I don't think so .
+[0591] [24:15] mn082: So you are looking for a job .
+[0592] [24:17] mn082: That 's probably then OK .
+[0593] [24:18] mn082: in principle , I would like to say you are lost for the NSA group ,
+[0594] [24:18] fn083: Then it 's like
+[0595] [24:20] fn083: yeah .
+[0596] [24:20] mn082: because ffft that 's uh , it would be a a wonder if , uh , it hook in at the same area , you know .
+[0597] [24:22] fn083: Yeah ,
+[0598] [24:22] fn083: No , no , no .
+[0599] [24:24] fn083: Yeah .
+[0600] [24:26] mn081: Uh , but that 's also for me ,
+[0601] [24:27] mn082: Yeah .
+[0602] [24:28] mn081: I 'm kind of lost for the NSA group .
+[0603] [24:28] mn082: Yeah .
+[0604] [24:30] mn082: Yeah .
+[0605] [24:30] mn082: I think so , yeah .
+[0606] [24:31] fn083: "
+[0607] [24:31] mn081: And oh , also also
+[0608] [24:32] mn082: Ja
+[0609] [24:34] mn082: from the work contributions , you know .
+[0610] [24:34] mn081: Well ,
+[0611] [24:35] mn081: b but I think even also K P N . i is lost for the , uh , for the I C
+[0612] [24:38] mn082: Yeah .
+[0613] [24:41] mn082: Yeah .
+[0614] [24:42] mn082: Uh
+[0615] [24:42] mn081: There 's a lot of , uh , z budget cuts going on
+[0616] [24:46] mn081: and nothing is possible anymore ,
+[0617] [24:48] mn081: so .
+[0618] [24:49] mn082: Um , so from your side the statement is , um , that , uh , independently of your person uh , the KPN is not they 're not willing to send us another guy here to ICSI anyway .
+[0619] [25:01] mn081: Yes .
+[0620] [25:02] mn081: Absolutely .
+[0621] [25:03] mn082: And , if they are interested in uh , a certain kind of project then it must be related to a certain kind of really service or a certain kind of end system or real product or whatever kind of thing with respect to UMTS ,
+[0622] [25:17] mn081: I it It will be different thing .
+[0623] [25:18] mn082: right ?
+[0624] [25:19] mn081: It will be a it will be a start - up .
+[0625] [25:22] mn081: And I know they 're they 're working on a w a few of them in this area ,
+[0626] [25:26] mn081: but it 's ou outside of ICSI .
+[0627] [25:28] mn082: Mmm .
+[0628] [25:30] mn082: So ,
+[0629] [25:31] mn082: KPN and and ICSI in principle .
+[0630] [25:33] mn081: Yeah .
+[0631] [25:34] mn082: After you will leave here that is .
+[0632] [25:37] mn082: Yeah , and then what do you intend to do in the last two months beside of course , looking for ,
+[0633] [25:41] mn081: u
+[0634] [25:41] mn030: Holidays
+[0635] [25:42] mn081: Th
+[0636] [25:43] mn082: yeah .
+[0637] [25:44] mn081: Um , I am working now on on something ,
+[0638] [25:48] mn081: uh an open source router .
+[0639] [25:50] mn082: This is that from from Mark , right ?
+[0640] [25:51] mn081: No ,
+[0641] [25:52] mn081: in
+[0642] [25:52] mn082: Not ?
+[0643] [25:52] mn081: well , it 's a little bit u out of Mark .
+[0644] [25:54] mn081: I
+[0645] [25:55] mn081: Right now I 'm interested and I 'm looking into it
+[0646] [25:57] mn081: and I 'm working started yesterday , actually working on it ,
+[0647] [26:01] mn081: to do the , uh u to do an implementation of the protocol that was designed by Mark , um , on an open - source router that 's different from the one that of Mark 's project .
+[0648] [26:12] mn082: Mm - hmm .
+[0649] [26:14] mn082: Yeah , do you finish that and do you believe that you can finish that until end of January ?
+[0650] [26:15] mn081: S s
+[0651] [26:17] mn081: I hope so .
+[0652] [26:17] mn081: I
+[0653] [26:19] mn082: It sounded sounded to me a little bit little bit , hard t hard hard time constraint , right ?
+[0654] [26:19] mn081: That would be cool .
+[0655] [26:21] mn081: Yeah .
+[0656] [26:21] mn081: It 's
+[0657] [26:22] mn081: hard work .
+[0658] [26:24] mn081: Yeah .
+[0659] [26:25] mn081: That 's right .
+[0660] [26:26] mn081: But I 'm working on it .
+[0661] [26:28] mn082: Mm - hmm .
+[0662] [26:32] mn082: OK ,
+[0663] [26:32] mn082: Mi - Miguel , maybe you can say also .
+[0664] [26:33] mn021: Oh , I 'll be I 'll be here until the end of July .
+[0665] [26:38] mn021: And , uh ,
+[0666] [26:39] mn021: well , eh
+[0667] [26:40] mn021: even later if , uh , there is some interesting work , uh , going on ,
+[0668] [26:45] mn021: well I I will be able to to do some work from Spain too .
+[0669] [26:51] mn082: Mm - hmm .
+[0670] [26:51] mn021: So , that 's my future uh forecast .
+[0671] [26:56] mn082: Mm - hmm ,
+[0672] [26:57] mn082: and
+[0673] [27:01] mn021: Yeah .
+[0674] [27:02] mn082: I assume there is a certain activity .
+[0675] [27:04] mn082: Maybe i if you will leave in July
+[0676] [27:05] mn021: Yeah , well , you know , uh the problem the I think that we have a a problem or a difference in Spain , at least , compared with the Americans .
+[0677] [27:13] mn021: And i is that our students are , uh are not getting involved in research until they have , uh , finished their studies .
+[0678] [27:23] mn021: So , uh , it 's something a little bit , uh , strange
+[0679] [27:26] mn021: but it is this this is the w
+[0680] [27:28] mn082: What ?
+[0681] [27:28] mn082: They
+[0682] [27:28] mn082: sorry ?
+[0683] [27:29] mn082: They are not involved in in research ?
+[0684] [27:31] mn021: Yeah .
+[0685] [27:32] mn021: You
+[0686] [27:32] mn082: What they are doing then ?
+[0687] [27:33] mn082: I 'm sorry .
+[0688] [27:33] mn081: Lectures .
+[0689] [27:34] mn082: Huh ?
+[0690] [27:35] mn021: You
+[0691] [27:35] mn082: Ach so , ach so ,
+[0692] [27:36] mn082: OK .
+[0693] [27:37] mn021: You you have to to pass the different tests
+[0694] [27:39] mn021: and you have to study the different subjects .
+[0695] [27:41] mn021: And , until you have finished with this , uh well OK , you can do it by by your own ,
+[0696] [27:42] mn082: Mm - hmm .
+[0697] [27:47] mn021: but but the thing is that you 're not supposed to do it .
+[0698] [27:50] mn021: And usually students are pretty busy for not doing other things .
+[0699] [27:55] mn082: Mm - hmm .
+[0700] [27:55] mn021: Uh .
+[0701] [27:55] mn030: And there 's no final master 's thesis or something like that what they have to perform ?
+[0702] [27:58] mn021: Ah yeah em nnn , not really .
+[0703] [28:01] mn021: You know , there is .
+[0704] [28:03] mn021: There is .
+[0705] [28:03] mn030: Mm - hmm .
+[0706] [28:03] mn021: But , uh , it is not a research work .
+[0707] [28:06] mn021: Usually it 's an application work .
+[0708] [28:08] mn021: So you build a web site , your own E - commerce site , uh , whatever ,
+[0709] [28:09] mn030: Mm - hmm .
+[0710] [28:13] mn021: or
+[0711] [28:15] mn082: Why I didn't study in Spain ?
+[0712] [28:15] mn021: but
+[0713] [28:18] mn021: But it is not , uh , something your teacher provides you some research papers and you , let 's say , build a simulator or try to .
+[0714] [28:21] mn082: Mmm .
+[0715] [28:22] mn082: Mm - hmm .
+[0716] [28:27] mn030: Mm - hmm .
+[0717] [28:27] mn082: Are certain tasks
+[0718] [28:27] mn030: OK .
+[0719] [28:28] mn082: and so ?
+[0720] [28:28] mn021: So
+[0721] [28:29] mn021: we have , uh , other students are which are , uh , mmm people that has a grant
+[0722] [28:35] mn021: and they are they are starting as , uh , researchers ,
+[0723] [28:39] mn021: aaa , but this is only connected to your own funding
+[0724] [28:43] mn021: so if you if you have projects you can have , uh , people working with you .
+[0725] [28:44] mn082: Mm - hmm .
+[0726] [28:47] mn021: If you don't have , a research project well , you cannot pay them
+[0727] [28:51] mn021: so u u usually you don't have anybody .
+[0728] [28:55] mn021: So it 's kind of , uh , dependent on the funding we have in some projects .
+[0729] [29:02] mn021: So
+[0730] [29:02] mn021: w
+[0731] [29:02] mn021: it 's not sure ,
+[0732] [29:03] mn082: Hmm ? No ,
+[0733] [29:04] mn021: not really sure .
+[0734] [29:04] mn082: there .
+[0735] [29:05] mn082: We 're not talking about to send the students here to I C
+[0736] [29:09] mn082: S
+[0737] [29:20] mn021: Yeah ,
+[0738] [29:21] mn021: we
+[0739] [29:22] mn021: I think we could We could find , uh , some , eh work force .
+[0740] [29:27] mn021: OK ?
+[0741] [29:27] mn082: Mm - hmm .
+[0742] [29:28] mn021: Because well , you you can , eh , fo redirect you know , the the work as uh let 's say as a subject work of something that you can you can try to , eh , s
+[0743] [29:39] mn021: In some subjects , in fact , eh , the the the , uh , topics are more open
+[0744] [29:44] mn021: so you can introduce some research topics too .
+[0745] [29:47] mn021: So
+[0746] [29:48] mn021: but the main thing is that there is a , uh , this big difference
+[0747] [29:53] mn021: because , eh , students are not supposed to do research , eh , work until they have finished their gra their grade .
+[0748] [29:58] mn082: Mm - hmm .
+[0749] [30:00] mn081: You can change that .
+[0750] [30:01] mn021: Yeah ,
+[0751] [30:02] mn021: sure .
+[0752] [30:02] mn081: M uh , maybe you sh
+[0753] [30:02] mn021: Sure .
+[0754] [30:03] mn081: I think it 's pretty healthy for a student to to have a project , eh , where you have to write actually some part of research
+[0755] [30:11] mn081: or .
+[0756] [30:11] mn021: Yeah , I think so too ,
+[0757] [30:12] mn021: but , eh , you know , it also depends on the subjects
+[0758] [30:15] mn021: because sometimes subjects are fixed
+[0759] [30:16] mn081: Sure .
+[0760] [30:18] mn021: so you cannot you cannot , uh uh , give any any stuff you want .
+[0761] [30:18] mn081: OK .
+[0762] [30:22] mn021: You have to to provide a certain a certain prime for the subject too ,
+[0763] [30:26] mn081: O
+[0764] [30:27] mn081: Of course .
+[0765] [30:28] mn021: but , you know , sometimes , especially in the in the latest , eh uh , courses uh , things are probably more open
+[0766] [30:36] mn021: and , well , it it is something that can be changed .
+[0767] [30:39] mn082: Mm - hmm .
+[0768] [30:40] mn082: OK .
+[0769] [30:40] mn082: Thank you .
+[0770] [30:41] mn082: Claudia , I still mentioned , Have you other things ?
+[0771] [30:44] mn082: For me , as I said before I will be funded by a d uh by the ministry of , uh , the German government for research in the project so - called Invinet
+[0772] [30:55] mn082: That seems to be sure .
+[0773] [30:57] mn082: And I got absolutely freedom to do what I would like to do ,
+[0774] [31:01] mn082: and I would like to go on with the QS in advance mechanism
+[0775] [31:04] mn082: and , uh ,
+[0776] [31:06] mn082: in the relation of USAIA I also have the activities with Georgia Tech .
+[0777] [31:11] mn082: They have now a PHD .
+[0778] [31:13] mn082: It is settled ,
+[0779] [31:14] mn082: and my other next , uh , generation of contract is also going in that sense so the topic is still going go going on .
+[0780] [31:22] mn082: and when I will come back here , I would like to use these things too to maybe come to a closer , a bigger project um , outside of this goal , with contributions here from , uh first of all from the NSA group and then from from other partners .
+[0781] [31:39] mn082: But this I have definitely ou uh discussed with my management
+[0782] [31:43] mn082: and this will happened , I believe , in December ,
+[0783] [31:47] mn082: maybe , and in the beginning of January .
+[0784] [31:50] mn082: and I will keep informed to the management of ICSI anyway ,
+[0785] [31:53] mn082: but also , I assume that my suggestions that we have a weekly phone conference and email exchange during that time
+[0786] [32:02] mn082: so that we can inform each other concerning what are the questions , what are the problems , what is the status and so on .
+[0787] [32:11] mn082: Uh ?
+[0788] [32:11] mn082: But I think we will uh detail these things then in one of the last meetings .
+[0789] [32:20] mn082: So
+[0790] [32:20] mn082: how
+[0791] [32:21] mn030: Yeah .
+[0792] [32:23] mn030: Well
+[0793] [32:26] mn030: I
+[0794] [32:27] mn082: You 're addicted to the testbeds you run on the hour ,
+[0795] [32:29] mn030: No , no , no , no , no .
+[0796] [32:29] mn082: so
+[0797] [32:33] mn030: So I will stay here till the end of February
+[0798] [32:36] mn030: and
+[0799] [32:37] mn030: afterwards , um , at Berlin I 'm yeah , funded by an institution of the German government ,
+[0800] [32:44] mn030: so ,
+[0801] [32:44] mn030: they are paying me ,
+[0802] [32:46] mn030: and I have to do research for them , of course .
+[0803] [32:48] mn030: I have to um well , uh , reach some goals and so on .
+[0804] [32:56] mn030: But on the other hand there will be some time left I think to do some work on this area I started here .
+[0805] [33:05] mn030: And for me , myself , I 'm also very interested in in continue this work
+[0806] [33:10] mn030: and so that will be manageable
+[0807] [33:14] mn030: and , um ,
+[0808] [33:15] mn030: on
+[0809] [33:20] mn030: well ,
+[0810] [33:20] mn030: at the moment it 's quite difficult to find students , eh , who are doing their master 's thesis and so on
+[0811] [33:27] mn030: because there are not a lot of students , uh , which are in this state in Germany now ,
+[0812] [33:32] mn030: but um ,
+[0813] [33:33] mn030: about two years ago the numbers of students were , um , studying computer science , uh , started to increase again
+[0814] [33:44] mn030: and so in one or two years we will have , uh , many students , uh , which are performing their master 's thesis
+[0815] [33:52] mn030: and so I think there will also be , uh , many students which are joining in this work .
+[0816] [33:58] mn030: So , hopefully , uh , I will found will find some students which are joining in
+[0817] [34:05] mn030: and , um
+[0818] [34:07] mn030: So , hopefully this work will be go on .
+[0819] [34:09] mn082: Mm - hmm .
+[0820] [34:10] mn082: OK ,
+[0821] [34:10] mn082: sounded good to me .
+[0822] [34:12] mn082: And Michael ?
+[0823] [34:13] mn035: So , I won't change the topic then .
+[0824] [34:15] mn035: I 'm here until end of May
+[0825] [34:19] mn035: and after that I presumably going to a Siemens project with some department of gee - mens ,
+[0826] [34:24] mn035: but related to that topic what I have done here .
+[0827] [34:28] mn035: So ,
+[0828] [34:29] mn035: it 's some of pre - stage to that ,
+[0829] [34:32] mn035: so it might be more related or loosely related .
+[0830] [34:36] mn035: So it 's at least it 's in the same topic .
+[0831] [34:39] mn035: And progress , it 's going on ,
+[0832] [34:44] mn035: but it 's not that fast going on as I would have like it .
+[0833] [34:47] mn082: Mm - hmm .
+[0834] [34:47] mn035: Oh ,
+[0835] [34:49] mn035: I would like to have it .
+[0836] [34:50] mn035: Sorry .
+[0837] [34:50] mn035: Well
+[0838] [34:51] mn035: but oder ?
+[0839] [34:53] mn082: Yeah , then , what is the current status anyway ?
+[0840] [34:55] mn035: Um , I 'm currently I 'm looking into Quality of Service Routing ,
+[0841] [34:55] mn082: this is .
+[0842] [35:00] mn035: and I had discussions with a post - doc from the U - UCB .
+[0843] [35:04] mn035: Well ,
+[0844] [35:05] mn035: we want to we started to collect information to write the paper about Quality of Serving routing . for MPLS in an MPLS domain .
+[0845] [35:15] mn082: Mm - hmm .
+[0846] [35:15] mn035: So you have um distributed routing at the edges ,
+[0847] [35:20] mn035: and one aspect is that the information is outdated , so that you know to always have the exact information of your links , dates , and so on .
+[0848] [35:31] mn035: It what we have plans of that .
+[0849] [35:33] mn035: And trying to look at some routing policies , or routing algorithms .
+[0850] [35:39] mn082: Mm - hmm .
+[0851] [35:41] mn082: Now as I see , in principle , uh fff that 's a really raw view .
+[0852] [35:46] mn082: MPLS offers certain kind of success of active routing ,
+[0853] [35:50] mn082: because in principle , the forwarding pass is a little bit decoupled from this from the routing pass ,
+[0854] [35:54] mn035: Yeah .
+[0855] [35:56] mn082: and
+[0856] [35:57] mn082: OK ,
+[0857] [35:58] mn082: it 's it 's not really the subject
+[0858] [35:58] mn035: It
+[0859] [36:00] mn082: but in a broader sense it could be seen in that sense .
+[0860] [36:01] mn035: It d yeah .
+[0861] [36:03] mn082: I think uh , there are in a certain degree some alignment with with both of you guys ,
+[0862] [36:09] mn035: Yeah .
+[0863] [36:09] mn082: right ?
+[0864] [36:10] mn035: So at least from the desh definition of Christian Tschudin , MPLS is a subset of of active route active routing .
+[0865] [36:20] mn035: So it 's very It 's static ?
+[0866] [36:22] mn035: It 's No , active ?
+[0867] [36:23] mn035: But it 's sort of active because they have these program statements .
+[0868] [36:25] mn082: Yeah .
+[0869] [36:28] mn082: Yeah ,
+[0870] [36:28] mn082: maybe it 's a separation , in principle , that I do not use the normal traditional , uh , data forwarding pass and update , in principle , only the routing information uh , to to to use it .
+[0871] [36:29] mn035: But y
+[0872] [36:30] mn035: Yeah .
+[0873] [36:33] mn035: Yeah .
+[0874] [36:38] mn021: Well , they are they are using the the the same idea of labelling packets with a with a content descriptor or something .
+[0875] [36:40] mn082: Yeah .
+[0876] [36:42] mn082: Yeah .
+[0877] [36:43] mn035: Yeah .
+[0878] [36:47] mn035: That 's right .
+[0879] [36:47] mn082: Yeah ,
+[0880] [36:47] mn082: so what I mean is at a certain degree , yeah , that has to be figured out .
+[0881] [36:49] mn021: Yeah .
+[0882] [36:50] mn021: There 's a connection point .
+[0883] [36:52] mn082: There is , uh , there are some linkage between them . @ @ in both of your your work .
+[0884] [36:54] mn021: Mm - hmm .
+[0885] [36:56] mn035: Yeah .
+[0886] [36:57] mn082: So ,
+[0887] [36:58] mn082: my last point , uh , in principle , is the proposal itself .
+[0888] [37:02] mn082: Um
+[0889] [37:04] mn082: I know , in the past it was always if I 'm not writing something nothing gonna happen .
+[0890] [37:10] mn082: So , I believe , Wilbert , you are going out of these activity .
+[0891] [37:14] mn082: You have to use your time to finish your work as you uh , have in mind until your end of February ,
+[0892] [37:24] mn082: or is that right ?
+[0893] [37:25] mn081: January ,
+[0894] [37:26] mn081: yes .
+[0895] [37:26] mn082: End of January ,
+[0896] [37:27] mn082: sorry ,
+[0897] [37:27] mn082: so you will not y you will not find any time to contribute anymore to this activity .
+[0898] [37:31] mn081: No .
+[0899] [37:34] mn082: OK .
+[0900] [37:35] mn082: Then from Miguel 's side I expect more detailed vision .
+[0901] [37:41] mn082: We can do it , as I mentioned before , bilateral afterwards , uh , concerning your work and how you think it could be beneficial contribution to the activity maybe based on the generic uh , uh , USAIA architecture .
+[0902] [37:42] mn021: Later .
+[0903] [37:56] mn082: I will write as long as I have time here , uh , on the proposal itself
+[0904] [38:03] mn082: and in the near - term future , I will distribute a list of the small cluster of people .
+[0905] [38:14] mn082: I tried to access Juan Peire several times ,
+[0906] [38:19] mn082: he didn't answer , because he still had mentioned that there 's some minor funding , that I think would help ,
+[0907] [38:27] mn082: for instance , to have initial meeting either here or in Europe or or wherever .
+[0908] [38:32] mn082: I 've , uh , contact one more time the professor ,
+[0909] [38:37] mn082: what is his name ?
+[0910] [38:38] mn082: Rao ?
+[0911] [38:38] mn082: or ?
+[0912] [38:40] mn082: uh , L Landay mentioned , uh ,
+[0913] [38:42] mn035: L Lan
+[0914] [38:42] mn035: Landay ?
+[0915] [38:42] mn082: Rao , right ?
+[0916] [38:44] mn082: Yeah .
+[0917] [38:44] mn082: because he 's a professor in uh , responsible for the infrastructure at UCB and he has some projects which are related to um , these these , uh , activities
+[0918] [38:45] mn035: Landay .
+[0919] [38:49] mn035: Ah .
+[0920] [38:56] mn082: I would c c name it cor intelligent classroom .
+[0921] [38:59] mn082: I don't know whether I can succeed to get an appointment then
+[0922] [39:03] mn082: but I will distribute a list contact list and @ @ the interests of each partner
+[0923] [39:09] mn082: so that everybody can see and everybody knows , yeah , I have in mind
+[0924] [39:13] mn082: maybe it 's a small NSA group activity itself , with no linkage to the outer world
+[0925] [39:18] mn082: maybe it 's a NSA group activity with a linkage to the outer world based on the uh universities at home or the companies at home
+[0926] [39:27] mn082: there 's some linkage
+[0927] [39:29] mn082: and the third stage is , let 's say there 's a NSA group activity in this area , uh , with the supported , um , home entities and with certain kind of linkage here to the companies or u or universities here in this area .
+[0928] [39:44] mn082: The last one , I think it 's , uh , the best one .
+[0929] [39:48] mn082: But , you see the question is always " Where 's the money ? "
+[0930] [39:51] mn082: and I say " Oh poo ,
+[0931] [39:52] mn082: currently I don't know . "
+[0932] [39:53] mn082: The second question is how long I stay here
+[0933] [39:54] mn082: and say ooo , I don't know " ,
+[0934] [39:56] mn082: so
+[0935] [39:57] mn082: everybody 's waiting .
+[0936] [39:59] mn082: Yeah ,
+[0937] [39:59] mn082: and the only rea um , activity could come from the NSA group itself ,
+[0938] [40:04] mn082: but I think it 's a a work in process and that it will take some time and , uh , everything must be just settled a little bit more .
+[0939] [40:10] mn082: So , but anyway , I would like to get contributions from the people here of the NSA group concerning proposals ,
+[0940] [40:17] mn082: this is a living thing
+[0941] [40:19] mn082: and
+[0942] [40:20] mn082: it 's a pity that Multicast is , in principle , removed
+[0943] [40:24] mn082: and we do not have any expert from Multicast anymore .
+[0944] [40:27] mn082: And , uh , that 's makes very hard , I believe .
+[0945] [40:31] mn082: Because that is a major @ @ , at least twenty - five percent of the whole network uh , stuff
+[0946] [40:39] mn082: and , um ,
+[0947] [40:41] mn082: but neverless we have to live with this situation .
+[0948] [40:46] mn082: Right .
+[0949] [40:47] mn082: You are laughing , again ?
+[0950] [40:47] mn081: Right .
+[0951] [40:48] mn081: Right .
+[0952] [40:50] mn082: So maybe we have to rewrite something ,
+[0953] [40:52] mn082: have new ideas going forward more in certain kind of really telecommunication network and the routing and QS stuff ,
+[0954] [41:00] mn082: and remove , in principle , the Multicast stuff
+[0955] [41:03] mn082: which , in principle , a pity because I think that 's a really really good eh uh mmm source of research work for the future telecommunication core networks
+[0956] [41:12] mn082: because they are still not able to deal with Multicast ,
+[0957] [41:16] mn082: they still have there that tunnel generations and all those kind of things
+[0958] [41:21] mn082: and I I believe that would be very beneficial to use it for the really uh , mobile scenarios in in that network ,
+[0959] [41:28] mn082: so but anyway we have to live with a real situation
+[0960] [41:30] mn082: and that means we have to drop Multicast from the proposal .
+[0961] [41:38] mn082: Any comments ?
+[0962] [41:41] mn021: Oh , not really , you know ,
+[0963] [41:42] mn021: uh , I I I I think that Well , in the future , somebody will come to the NSA group
+[0964] [41:49] mn021: eh
+[0965] [41:51] mn082: Then we can extend the proposal one more time with Multicast .
+[0966] [41:52] mn021: Ah ,
+[0967] [41:52] mn021: so
+[0968] [41:53] mn021: No
+[0969] [41:55] mn021: OK ,
+[0970] [41:55] mn021: I I I think that it cannot , eh , be , eh considered the first type task to do
+[0971] [42:00] mn021: because nobody is is knowledgeable about multicasting
+[0972] [42:04] mn021: but I think that , eh , any of us could address these things in the future ,
+[0973] [42:09] mn021: or maybe a new person could address this . in the future .
+[0974] [42:13] mn021: So
+[0975] [42:14] mn021: if
+[0976] [42:14] mn021: I mean , wh what I think is that , uh , it it makes no sense to me to reduce , uh , uh , uh , uh , something which is more or less complete ,
+[0977] [42:25] mn021: because we don't have the person .
+[0978] [42:27] mn021: I think that the the way to to go is probably the opposite , to try to find something which has a meaning by itself
+[0979] [42:35] mn021: and
+[0980] [42:40] mn082: Oh , maybe you understand me in the wrong way .
+[0981] [42:42] mn082: Uh ,
+[0982] [42:43] mn082: I do not mean to drop it , to remove the text from the proposal .
+[0983] [42:46] mn021: OK ,
+[0984] [42:47] mn021: OK .
+[0985] [42:47] mn082: I mean , activities , planning activities .
+[0986] [42:48] mn021: Sorry .
+[0987] [42:49] mn021: Yeah ,
+[0988] [42:49] mn021: that 's OK .
+[0989] [42:50] mn082: Work packages .
+[0990] [42:50] mn021: Sorry , sorry ,
+[0991] [42:51] mn021: heh ?
+[0992] [42:51] mn082: Yeah ,
+[0993] [42:51] mn021: Now I
+[0994] [42:51] mn082: so
+[0995] [42:52] mn082: no , no ,
+[0996] [42:53] mn082: because that 's , uh , that 's why I mentioned that it is important thing .
+[0997] [42:56] mn082: But , currently there 's only one new group member , Sven Buchholz , who will figure out the thing , hmm how to say , um , the taking into account the end system , or the limited end system capabilities with respect to mobility and the network itself .
+[0998] [43:19] mn082: Where it should be ada @ @ where should be , uh , the adaptation process performed to deal with the different devices , for ubiquitous access to the network ?
+[0999] [43:28] mn082: Should it be in the end system itself ?
+[1000] [43:31] mn082: Should be in the edge device ?
+[1001] [43:32] mn082: It should it be in the core ?
+[1002] [43:33] mn082: should it be on the server ?
+[1003] [43:34] mn082: These are the questions he would like to figure out .
+[1004] [43:37] mn082: And to p uh , to have , in principle , the pro and cons of , uh , different of all these different approaches .
+[1005] [43:44] mn082: So that 's the only new member .
+[1006] [43:47] mn081: Who is that ?
+[1007] [43:49] mn082: Sven Buchholz .
+[1008] [43:50] mn082: He was here .
+[1009] [43:50] mn082: I invited him and discussed with him his potential work , I @ @ .
+[1010] [43:56] mn081: Oh , he was here one day .
+[1011] [43:56] mn082: quite sure
+[1012] [43:57] mn082: Yeah .
+[1013] [43:58] fn083: Yeah .
+[1014] [43:58] mn035: Hmm .
+[1015] [43:59] mn082: But he showed up the next day
+[1016] [43:59] mn035: Several days .
+[1017] [44:00] mn082: but only for administration stuff ,
+[1018] [44:01] mn035: Yeah .
+[1019] [44:01] mn082: but for the technical discussion he was here one day .
+[1020] [44:01] mn035: Yeah .
+[1021] [44:04] mn035: Yeah .
+[1022] [44:05] mn082: I
+[1023] [44:06] fn083: That must be three weeks ago ,
+[1024] [44:08] fn083: cuz I r I just met him when I arrived .
+[1025] [44:08] mn081: Yeah , I do remember him ,
+[1026] [44:09] mn035: Yeah .
+[1027] [44:10] mn081: but I didn't talk with him about , uh about the research topic .
+[1028] [44:12] mn082: Mm - hmm .
+[1029] [44:16] mn081: So I didn't know what he was going to do .
+[1030] [44:20] mn082: Yeah , he will come mid of January , I believe ,
+[1031] [44:23] mn082: yeah ,
+[1032] [44:24] mn035: Mm - hmm .
+[1033] [44:24] mn082: as far as I know .
+[1034] [44:26] mn082: So , but this is the only guy , you know ,
+[1035] [44:28] mn082: but that is not reflected in that sense that we remove the text .
+[1036] [44:32] mn082: what I mean is is , uh , the that we what 's kind of activity we are going more in detail in describing , the network packages and and detailed , uh , uh , descriptions more detailed descriptions .
+[1037] [44:32] mn021: OK .
+[1038] [44:45] mn082: So
+[1039] [44:46] mn082: Any other question ?
+[1040] [44:47] mn082: Any other comment ?
+[1041] [44:52] mn082: Oh .
+[1042] [44:56] mn082: Then we pu should start with reading the numbers
+[1043] [45:00] mn082: one more time .
+[1044] [45:01] fn083: Oh , again ?
+[1045] [45:02] mn081: We have to do that ?
+[1046] [45:03] mn081: Oh !
+[1047] [45:03] mn082: Yes ,
+[1048] [45:03] mn082: we have to do it ,
+[1049] [45:03] fn083: I don't know .
+[1050] [45:04] mn082: so that means we have to read the transcript script number and then the numbers ,
+[1051] [45:09] mn082: and if there 's a new line , a short break .
+[1052] [45:13] mn082: And , afterwards we have to ,
+[1053] [45:15] mn082: uh , that device is switched on ,
+[1054] [45:18] mn082: so please do not switch off the devices .
+[1055] [45:21] mn082: And I will call Herr Janin and that Adam @ @ .
+[1056] [45:25] mn082: So I will start .
+[1057] [46:04] mn082: one OK ,
+[1058] [46:07] fn083: Should I ?
+[1059] [46:07] mn082: Oh . Yeah , yeah . Fine .
+[1060] [46:08] fn083: OK ,
+[1061] [47:37] mn082: He 's laughing all the time .
+[1062] [48:07] fn083: Oh , oh Wilbert
+[1063] [48:14] fn083: Oh , I 'm sorry .
+[1064] [48:14] mn081: Did you get that ?
+[1065] [48:17] fn083: Oh , I 'm so sorry .
+[1066] [48:18] fn083: That was mean ,
+[1067] [48:19] fn083: OK .
+[1068] [48:20] mn081: No , it wasn't .
+[1069] [48:21] mn081: I I I saw it already standing there when I was here so then I started laughing ,
+[1070] [48:27] mn081: oh , oh ,
+[1071] [48:31] mn082: OK , Michael please .
+[1072] [49:53] mn030: That 's it .
+[1073] [49:53] mn082: OK .
+[1074] [49:55] mn082: Thank you .
+[1075] [49:55] mn082: OK ,
+[1076] [49:56] mn082: then I will call Adam .
+[1077] [49:58] mn082: Adam ?

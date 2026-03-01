@@ -1,0 +1,1240 @@
+================================================================================
+SOFTWARE DEVELOPMENT TASKS - ICSI MEETING CORPUS
+================================================================================
+
+Total Tasks: 108
+Total Meetings: 43
+Generated: 2026-02-16 01:55:43
+
+================================================================================
+
+
+================================================================================
+Meeting: Bdb001
+Tasks: 3
+================================================================================
+
+[TASK #1]
+Title: Develop XML format for transcripts
+Description: Create an XML schema to represent word transcripts and annotations with time-stamps for words and phone boundaries.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: XML
+--------------------------------------------------------------------------------
+
+[TASK #2]
+Title: Implement time-line tag in XML
+Description: Define a time-line tag in the XML format that includes multiple sections with IDs for referencing.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: XML
+--------------------------------------------------------------------------------
+
+[TASK #3]
+Title: Optimize phone-level data representation
+Description: Develop a binary representation for phone-level data to reduce file size and improve parsing efficiency.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Refactor
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed005
+Tasks: 2
+================================================================================
+
+[TASK #4]
+Title: Complete English parser implementation
+Description: Ensure the English parser performs all functions of the German parser and handles various sentence structures correctly.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #5]
+Title: Modify parser templates for English
+Description: Update the parser templates to replace German terms with their English equivalents and ensure proper capitalization.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed009
+Tasks: 2
+================================================================================
+
+[TASK #6]
+Title: Get parser interface working
+Description: Continue development on the parser interface to ensure it functions correctly with the existing system.
+Assignee: Ralf and David
+Priority: High
+Task Type: Integration
+Tech Stack: Not specified
+--------------------------------------------------------------------------------
+
+[TASK #7]
+Title: Construct suitable interfaces and belief-net module
+Description: Develop interfaces and a belief-net module to infer user intentions from utterances and augment M-three-L structures.
+Assignee: Not specified
+Priority: Medium
+Task Type: Feature
+Tech Stack: Not specified
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed010
+Tasks: 3
+================================================================================
+
+[TASK #8]
+Title: Write XML tags for dialogue manager
+Description: Implement XML tags for the dialogue manager to facilitate communication with the synthesis module.
+Assignee: Johno
+Priority: Medium
+Task Type: Feature
+Tech Stack: XML
+--------------------------------------------------------------------------------
+
+[TASK #9]
+Title: Generate XML tree from LISP notation
+Description: Create a tool to convert LISP notation into an XML tree structure for syntactic generation.
+Assignee: Tilman
+Priority: Medium
+Task Type: Library/tool
+Tech Stack: LISP, XML
+--------------------------------------------------------------------------------
+
+[TASK #10]
+Title: Develop general construction parser
+Description: Implement a parser for general constructions to enhance the system's flexibility in handling various syntactic structures.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Prolog
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed011
+Tasks: 3
+================================================================================
+
+[TASK #11]
+Title: Work on belief-net semantics
+Description: Define the parameters and choices for the belief-net inference engine, ensuring it can handle various decision nodes effectively.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #12]
+Title: Implement decision nodes for user intentions
+Description: Create decision nodes that represent user intentions for entering, viewing, or approaching objects, ensuring they are linked to the belief-net.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #13]
+Title: Define conditional probabilities for user decisions
+Description: Establish conditional probabilities related to user financial states and their willingness to visit locations based on costs.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed012
+Tasks: 3
+================================================================================
+
+[TASK #14]
+Title: Define XML schema for Bayes-net input
+Description: Create an XML schema that specifies permissible structures for input into the Bayes-net, including situation nodes and their attributes.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: XML
+--------------------------------------------------------------------------------
+
+[TASK #15]
+Title: Implement XSL transformation for Java Bayes format
+Description: Develop an XSL transformation to convert the defined XML schema into the format required by Java Bayes.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Integration
+Tech Stack: XML, Java
+--------------------------------------------------------------------------------
+
+[TASK #16]
+Title: Extract relevant decision node data from output
+Description: Implement functionality to extract specific decision node data from the output of the Bayes-net based on user queries.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: XML
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed013
+Tasks: 2
+================================================================================
+
+[TASK #17]
+Title: Enable system to generate questions based on understanding
+Description: Develop functionality that allows the system to produce questions based on its understanding of user intentions and contextual conditions.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: AI, NLP
+--------------------------------------------------------------------------------
+
+[TASK #18]
+Title: Create script to test system's question generation
+Description: Write a script that changes all the settings and goes through all permutations to test the system's ability to generate appropriate questions.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Test
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed014
+Tasks: 2
+================================================================================
+
+[TASK #19]
+Title: Write new set of tree combining rules
+Description: Develop a new set of tree combining rules for the synthesizer's XML trees, ensuring they are similar to the previous rules.
+Assignee: me003
+Priority: Medium
+Task Type: Feature
+Tech Stack: XML
+--------------------------------------------------------------------------------
+
+[TASK #20]
+Title: Run SmartKom system on ICSI Linux machines
+Description: Ensure the SmartKom system runs on the ICSI Linux machines, increasing the number of operational systems.
+Assignee: mn015
+Priority: Medium
+Task Type: Integration
+Tech Stack: Linux
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed016
+Tasks: 2
+================================================================================
+
+[TASK #21]
+Title: Parser'ı tamamla
+Description: Tablet tabanlı parser'ın tamamlanması ve stratejilerin değiştirilmesi.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #22]
+Title: Sentezleme işlemlerini geliştir
+Description: Fey'in sentezleme işlemleri üzerinde çalışması.
+Assignee: Fey
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bed017
+Tasks: 2
+================================================================================
+
+[TASK #23]
+Title: Refactor PRM classes
+Description: Simplify the PRM structure by reducing decision nodes and optimizing class relationships for user, site, and query.
+Assignee: fn050
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #24]
+Title: Investigate PRM interpreter availability
+Description: Research and track down existing PRM interpreters to determine if we can utilize one for our implementation.
+Assignee: Eva
+Priority: High
+Task Type: Research
+Tech Stack: N/A
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr001
+Tasks: 1
+================================================================================
+
+[TASK #25]
+Title: Build a pre-amp for microphones
+Description: Design and construct a pre-amplifier that reduces noise and supports multiple microphone inputs.
+Assignee: Jim
+Priority: High
+Task Type: Feature
+Tech Stack: Electronics
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr002
+Tasks: 2
+================================================================================
+
+[TASK #26]
+Title: Implement scanner program for forms
+Description: Develop a scanner program that scans forms and processes the data for transcription.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #27]
+Title: Develop transcription tool
+Description: Create a tool for transcribing meetings, including speaker change identification and word transcripts.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr010
+Tasks: 3
+================================================================================
+
+[TASK #28]
+Title: Add multi-mixture support for speech and nonspeech detection
+Description: Enhance the existing HMM-based system to support multiple Gaussian mixtures for both speech and nonspeech detection.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: HMM, Gaussian Mixtures
+--------------------------------------------------------------------------------
+
+[TASK #29]
+Title: Improve speaker change point detection
+Description: Modify the existing algorithm to include non-silence boundaries for detecting speaker change points.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Speech Processing
+--------------------------------------------------------------------------------
+
+[TASK #30]
+Title: Optimize silence portion detection parameters
+Description: Adjust the minimum length parameters for silence detection to improve the accuracy of pause and utterance boundary detection.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Speech Processing
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr012
+Tasks: 2
+================================================================================
+
+[TASK #31]
+Title: Fix synchronization bug in audio channels
+Description: Identify and resolve the glitch causing channels to become asynchronous during recording, ensuring accurate audio transcription.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Bug
+Tech Stack: Audio Processing
+--------------------------------------------------------------------------------
+
+[TASK #32]
+Title: Improve transcription accuracy
+Description: Analyze and enhance the transcription algorithm to reduce the overall error rate, particularly addressing issues observed during the first twenty minutes of audio.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Speech Recognition
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr013
+Tasks: 2
+================================================================================
+
+[TASK #33]
+Title: Extract digits from transcripts
+Description: Use existing scripts to extract actual digits from the transcripts, ensuring to handle false starts and misreads.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #34]
+Title: Enter metadata for digit recordings
+Description: Input name, time, and date information into the system to accompany the digit recordings.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr016
+Tasks: 2
+================================================================================
+
+[TASK #35]
+Title: Fix parsable key files
+Description: Identify and correct key files that were manually created and are not automatically parsable.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Bug
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #36]
+Title: Update speaker form instructions
+Description: Add instructions to read digits as single digits instead of connected numbers, providing examples for clarity.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr018
+Tasks: 2
+================================================================================
+
+[TASK #37]
+Title: Parse channelized transcripts for beep insertion
+Description: Develop a parser to analyze the output of channelized transcripts and determine the appropriate locations for beep insertions.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #38]
+Title: Run boundary adjustment on transcripts
+Description: Execute Thilo's tool on the transcripts to adjust the boundaries and ensure accuracy before sending to IBM.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Test
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr019
+Tasks: 1
+================================================================================
+
+[TASK #39]
+Title: Test SRI system on TI-digits dataset
+Description: Run the current SRI system recognizer on the TI-digits test set to compare performance metrics.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Test
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr021
+Tasks: 3
+================================================================================
+
+[TASK #40]
+Title: Replace Andrea microphone with Shure
+Description: Test the Shure microphone to ensure it works properly before replacing the Andrea microphone.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Audio
+--------------------------------------------------------------------------------
+
+[TASK #41]
+Title: Purchase additional wireless microphones
+Description: Acquire two more Crown microphones to ensure adequate audio quality for meetings.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Audio
+--------------------------------------------------------------------------------
+
+[TASK #42]
+Title: Transition to all wireless microphone system
+Description: Replace existing wired microphones with wireless ones to streamline the audio setup.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Integration
+Tech Stack: Audio
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr022
+Tasks: 3
+================================================================================
+
+[TASK #43]
+Title: Create tool for beep insertion and deletion
+Description: Develop a tool that simplifies the process of inserting and deleting beeps in the Channeltrans format to improve synchronization.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #44]
+Title: Implement forced alignment for individual channels
+Description: Run a forced alignment process that includes beeps as words to identify errors in the transcription for individual channels.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #45]
+Title: Train beep model for transcription
+Description: Create a model that recognizes beeps as unique words to improve transcription accuracy.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr023
+Tasks: 3
+================================================================================
+
+[TASK #46]
+Title: Generate beep and digit audio for transcription
+Description: Create a script to generate audio beeps followed by digits for use in transcription, ensuring clarity and ease of use for transcribers.
+Assignee: Adam
+Priority: Medium
+Task Type: Feature
+Tech Stack: Audio Processing
+--------------------------------------------------------------------------------
+
+[TASK #47]
+Title: Implement automatic segmentation for meeting recognition
+Description: Develop a system to perform recognition on automatically segmented audio instead of hand-segmented audio to improve accuracy.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Audio Processing, Machine Learning
+--------------------------------------------------------------------------------
+
+[TASK #48]
+Title: Create chunked audio files for transcription
+Description: Generate chunked audio files that include beeps and digits for easier transcription by the team.
+Assignee: Adam
+Priority: Medium
+Task Type: Feature
+Tech Stack: Audio Processing
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr025
+Tasks: 3
+================================================================================
+
+[TASK #49]
+Title: Implement information retrieval using THISL tools
+Description: Develop a command line tool for indexing and querying meeting data, allowing users to input keywords and retrieve start-end times of relevant segments.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Tcl-TK, UNIX
+--------------------------------------------------------------------------------
+
+[TASK #50]
+Title: Create user interface for THISL tools
+Description: Design a user-friendly GUI for the THISL information retrieval tool that allows users to query and play audio segments based on search results.
+Assignee: Dave Gelbart
+Priority: Medium
+Task Type: Feature
+Tech Stack: Tcl-TK
+--------------------------------------------------------------------------------
+
+[TASK #51]
+Title: Port THISL tools to Windows
+Description: Modify the THISL information retrieval tools to ensure compatibility with Windows operating systems, addressing compilation issues.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: UNIX, Windows
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr026
+Tasks: 2
+================================================================================
+
+[TASK #52]
+Title: Add filtering by meeting type and user ID
+Description: Implement filtering functionality in the front-end based on meeting type (MR, EDU, etc.) and user ID.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Tcl-TK
+--------------------------------------------------------------------------------
+
+[TASK #53]
+Title: Optimize Transcriber interface
+Description: Enhance the Transcriber interface to include an additional window for displaying an arbitrary valued function synchronized with the waveform.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Tcl-TK
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bmr028
+Tasks: 4
+================================================================================
+
+[TASK #54]
+Title: Optimize Transcriber tool loading speed
+Description: Investigate and fix the slow loading issue of the Transcriber tool when handling larger transcript files.
+Assignee: Dave Gelbart
+Priority: High
+Task Type: Bug
+Tech Stack: XML
+--------------------------------------------------------------------------------
+
+[TASK #55]
+Title: Display multiple waveforms in Transcriber
+Description: Implement functionality to display more than one waveform simultaneously in the Transcriber tool.
+Assignee: Dave Gelbart
+Priority: Medium
+Task Type: Feature
+Tech Stack: JavaScript
+--------------------------------------------------------------------------------
+
+[TASK #56]
+Title: Fix Transcriber shape file computation bug
+Description: Resolve the bug in Transcriber that causes crashes when computing the shape file with low sample rates.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Bug
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #57]
+Title: Implement audio playback feature in Transcriber
+Description: Add functionality to play audio files in the Transcriber tool without displaying the waveform.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro003
+Tasks: 2
+================================================================================
+
+[TASK #58]
+Title: Prepare French test data
+Description: Create a digit French database of microphone speech downsampled to eight kilohertz, add noise using Aurora-two noises for training and testing.
+Assignee: mn007
+Priority: Medium
+Task Type: Feature
+Tech Stack: Audio Processing
+--------------------------------------------------------------------------------
+
+[TASK #59]
+Title: Develop HTK baseline for French test data
+Description: Implement HTK baseline using mel cepstra for the prepared French test data.
+Assignee: mn007
+Priority: Medium
+Task Type: Feature
+Tech Stack: HTK
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro005
+Tasks: 3
+================================================================================
+
+[TASK #60]
+Title: Redo experiments with PLP and delta
+Description: Train the net with PLP and delta to evaluate performance improvements.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #61]
+Title: Combine PLP and MSG features
+Description: Investigate the combination of PLP and MSG features to improve recognition accuracy.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #62]
+Title: Feature combination experiments
+Description: Conduct experiments using different feature combinations and net outputs.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro010
+Tasks: 3
+================================================================================
+
+[TASK #63]
+Title: Implement recursive filtering routine
+Description: Develop a routine that performs recursive filtering using the newly designed IIR filters.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #64]
+Title: Add low-pass filter for downsampling
+Description: Implement a low-pass filter at twenty-five hertz to improve downsampling process.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #65]
+Title: Optimize online normalization filter
+Description: Refactor the online normalization process to reduce the delay caused by the current filter implementation.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro011
+Tasks: 3
+================================================================================
+
+[TASK #66]
+Title: Implement noise removal feature
+Description: Integrate noise removal functionality based on Ericsson's approach into the existing system.
+Assignee: Carmen
+Priority: High
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #67]
+Title: Modify spectral subtraction code
+Description: Adapt Barry's spectral subtraction code for initial testing with the Italian database features.
+Assignee: fn002
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #68]
+Title: Write unit tests for recognition scripts
+Description: Develop unit tests for the recognition scripts that will be used on Meeting Recorder digits.
+Assignee: me026
+Priority: Medium
+Task Type: Test
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro012
+Tasks: 3
+================================================================================
+
+[TASK #69]
+Title: Implement digital filter for data processing
+Description: Apply the suggested digital filter to the collected data before processing to mitigate noise effects.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Digital Signal Processing
+--------------------------------------------------------------------------------
+
+[TASK #70]
+Title: Check high-pass filter usage in Feacalc
+Description: Verify if the high-pass filter option is being utilized in the Feacalc software when processing data.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Research
+Tech Stack: Feacalc
+--------------------------------------------------------------------------------
+
+[TASK #71]
+Title: Optimize transition probabilities in HMM
+Description: Adjust the self-loop transition probabilities in the HMM to improve recognition rates based on recent findings.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Refactor
+Tech Stack: HMM
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro014
+Tasks: 3
+================================================================================
+
+[TASK #72]
+Title: Optimize HTK training iterations
+Description: Reduce the number of iterations in HTK training from four rounds to three, two, two, five to improve training speed without significant loss in accuracy.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Performance
+Tech Stack: HTK
+--------------------------------------------------------------------------------
+
+[TASK #73]
+Title: Compile HTK for Linux
+Description: Compile the HTK software for Linux machines to enable running experiments on a five-processor Linux machine.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: DevOps
+Tech Stack: Linux, HTK
+--------------------------------------------------------------------------------
+
+[TASK #74]
+Title: Update .CSHRC for environment detection
+Description: Modify the .CSHRC file to detect whether the environment is Linux or Sparc and point to the correct executables.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Shell
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro015
+Tasks: 3
+================================================================================
+
+[TASK #75]
+Title: Explore phase normalization techniques
+Description: Investigate methods to normalize phase in speech processing to improve performance.
+Assignee: me026
+Priority: Medium
+Task Type: Research
+Tech Stack: N/A
+--------------------------------------------------------------------------------
+
+[TASK #76]
+Title: Decrease number of iterations in HTK system
+Description: Adjust the number of iterations in the HTK system to allow for more experiments while working on variations.
+Assignee: me018
+Priority: Medium
+Task Type: Feature
+Tech Stack: HTK
+--------------------------------------------------------------------------------
+
+[TASK #77]
+Title: Increase number of Gaussians in silence model
+Description: Experiment with increasing the number of Gaussians in the silence model to improve recognition accuracy.
+Assignee: me018
+Priority: Medium
+Task Type: Feature
+Tech Stack: N/A
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro016
+Tasks: 2
+================================================================================
+
+[TASK #78]
+Title: Adjust insertion penalties for noise handling
+Description: Run experiments with different insertion penalties on the front-end to evaluate performance improvements in noisy conditions.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #79]
+Title: Optimize mel cepstrum parameters
+Description: Experiment with the number of states and Gaussians in mel cepstrum to improve performance metrics.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro017
+Tasks: 4
+================================================================================
+
+[TASK #80]
+Title: Modify recognizer for long silences
+Description: Adjust the recognizer algorithm to account for long silences in voice activity detection.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #81]
+Title: Improve mel spectrum estimation
+Description: Develop methods to provide a better initial estimate of the mel spectrum that is more robust to noise.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #82]
+Title: Explore LPC model for noise robustness
+Description: Investigate the use of LPC model spectrum instead of Fourier spectrum to improve robustness against noise.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Research
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #83]
+Title: Implement noise addition technique
+Description: Add a moderate amount of noise to training data to reduce the effect of additive noise during recognition.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro018
+Tasks: 3
+================================================================================
+
+[TASK #84]
+Title: Develop voice-unvoice detection feature
+Description: Implement a new feature to detect voice, unvoice, and silence using MLP with three outputs and integrate with the Aurora system.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #85]
+Title: Optimize feature extraction for MLP
+Description: Refactor the feature extraction process to improve the input features for the MLP, focusing on the variance of the auto-correlation function.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #86]
+Title: Experiment with log magnitude spectrum input
+Description: Test the performance of the neural net by feeding it the log magnitude spectrum directly to evaluate improvements in voice-unvoice detection.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro019
+Tasks: 2
+================================================================================
+
+[TASK #87]
+Title: Implement parallel job execution script
+Description: Write a script that utilizes 'run command' to execute multiple sub-jobs while limiting the number of concurrent jobs to avoid saturating the network.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Shell scripting
+--------------------------------------------------------------------------------
+
+[TASK #88]
+Title: Optimize P-make usage for job scheduling
+Description: Create a Makefile that defines dependencies for a large number of jobs and utilizes P-make with a specified number of concurrent jobs to optimize resource usage.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: P-make
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro021
+Tasks: 2
+================================================================================
+
+[TASK #89]
+Title: Investigate online normalization approaches
+Description: Explore different methods for online normalization, including varying time constants and means for silence and speech.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Research
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #90]
+Title: Add noise for smoothing MFCC
+Description: Implement a method to add white noise energy to the MFCC processing to achieve smoother results.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro022
+Tasks: 3
+================================================================================
+
+[TASK #91]
+Title: Build phoneme recognition system
+Description: Develop a system that classifies intermediate categories using multi-band techniques and performs phoneme recognition.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #92]
+Title: Train on larger dataset for robustness
+Description: Train the system on the Macrophone set of read speech to improve robustness against artifacts in re-synthesized audio.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #93]
+Title: Implement VAD-like processing for low-energy sections
+Description: Develop a method to identify and set very low-energy sections to near zero value to improve audio quality.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro023
+Tasks: 2
+================================================================================
+
+[TASK #94]
+Title: Integrate mean log magnitude spectral subtraction into SmartKom system
+Description: Implement the mean log magnitude spectral subtraction algorithm in the SmartKom system, ensuring it can handle varying lengths of input frames for optimal performance.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #95]
+Title: Design a filter for mean cepstral subtraction
+Description: Create a filter design that can effectively remove low-frequency components while maintaining the integrity of the speech signal in the SmartKom system.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro024
+Tasks: 3
+================================================================================
+
+[TASK #96]
+Title: Integrate mean subtraction approach into SmartKom system
+Description: Integrate the mean subtraction method into the SmartKom system and determine the optimal data length for training models.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Integration
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #97]
+Title: Conduct experiments on analysis window length
+Description: Perform experiments varying the analysis window length between one and three seconds under different reverberation conditions and plot the results.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Research
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #98]
+Title: Test varying data lengths for training
+Description: Test the impact of varying training data lengths (e.g., 6 seconds vs 12 seconds) on model performance and document findings.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Test
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro025
+Tasks: 3
+================================================================================
+
+[TASK #99]
+Title: Combine spectral subtraction and Wiener filtering software
+Description: Integrate the functionalities of spectral subtraction and Wiener filtering into a single software package that allows for command-line argument parsing to choose between the two methods.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #100]
+Title: Implement neural network for noise reduction
+Description: Develop a neural network that operates on the output from either the Wiener filtering or the spectral subtraction to enhance noise reduction capabilities.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+[TASK #101]
+Title: Optimize software for latency
+Description: Refactor the software to ensure it meets latency requirements while processing audio signals, considering the constraints discussed in the meeting.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Python
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro026
+Tasks: 2
+================================================================================
+
+[TASK #102]
+Title: Implement Wiener filtering on FFT bins
+Description: Apply Wiener filtering on FFT bins with two-step smoothing of the transfer function, using recursion for time smoothing and a sliding window for frequency smoothing.
+Assignee: mn007
+Priority: High
+Task Type: Feature
+Tech Stack: Signal Processing
+--------------------------------------------------------------------------------
+
+[TASK #103]
+Title: Fix noise suppression module
+Description: Finalize the noise suppression module that integrates with the existing system, ensuring it effectively handles both noise and reverberation.
+Assignee: mn007
+Priority: High
+Task Type: Feature
+Tech Stack: Signal Processing
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro027
+Tasks: 1
+================================================================================
+
+[TASK #104]
+Title: Compile Mississippi State recognizer software
+Description: Download and compile the Mississippi State recognizer software without issues.
+Assignee: me018
+Priority: Medium
+Task Type: Feature
+Tech Stack: C/C++
+--------------------------------------------------------------------------------
+
+
+================================================================================
+Meeting: Bro028
+Tasks: 4
+================================================================================
+
+[TASK #105]
+Title: Optimize VAD for latency reduction
+Description: Reduce VAD processing time to achieve a latency of 220 milliseconds.
+Assignee: Belirtilmedi
+Priority: High
+Task Type: Performance
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #106]
+Title: Train tandem network on more data
+Description: Increase the training dataset for the tandem network to improve performance.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Feature
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #107]
+Title: Implement hierarchical structure for silence probability
+Description: Use silence probability from VAD network instead of tandem network to improve accuracy.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Refactor
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+
+[TASK #108]
+Title: Investigate noise estimation methods
+Description: Explore alternative noise estimation techniques to enhance tandem network training.
+Assignee: Belirtilmedi
+Priority: Medium
+Task Type: Research
+Tech Stack: Belirtilmedi
+--------------------------------------------------------------------------------
+

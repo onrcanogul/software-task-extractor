@@ -1,0 +1,1120 @@
+================================================================================
+AMI Meeting Transcript: ES2003d
+================================================================================
+
+Total Utterances: 1108
+Unique Speakers: 4
+Duration: 39.03 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:00] B: If we do the trick
+[0002] [00:02] B: Um Okay
+[0003] [00:17] B: sorry about the small too late
+[0004] [00:20] B: One all the lines schedule
+[0005] [00:24] B: And that's uh you
+[0006] [00:27] B: can uh yeah
+[0007] [00:34] B: Okay so
+[0008] [00:35] B: just to try and off you go over
+[0009] [00:36] B: what we Agreed in the last one
+[0010] [00:40] B: Um We're gonna go for something uh it Uh huh was it to
+[0011] [00:47] B: have a new black a belief
+[0012] [00:49] B: Um something that looks good
+[0013] [00:51] B: "'cause" that seems to be preference to actual functionality in in
+[0014] [00:54] B: for should never Avoid functionality of course
+[0015] [00:58] B: And many of our components are gonna be standard off the shelf
+[0016] [01:01] B: but it seemed like we were gonna require at least advanced chip
+[0017] [01:04] B: And we we still very much for the idea of using an
+[0018] [01:07] B: l.
+[0019] [01:07] B: c.
+[0020] [01:07] B: d. display
+[0021] [01:09] B: Um Or things where we were hoping to use rubber
+[0022] [01:13] B: most likely to be double curved except right
+[0023] [01:17] B: Okay So
+[0024] [01:19] B: um to to your hard work we might as well what be a two designers go first
+[0025] [01:24] B: and uh Shows the prototype
+[0026] [01:26] A: Okay
+[0027] [01:27] A: so
+[0028] [01:29] B: What are the best way to do this as i'm not sure
+[0029] [01:31] A: Uhuh And he was Step up
+[0030] [01:31] B: about
+[0031] [01:34] A: and uh Oh yeah ideas
+[0032] [01:38] A: Okay Yeah
+[0033] [01:41] A: Do you doing the prototype "'kay" was a bit more insight into the ergonomics of the design
+[0034] [01:47] A: Um for one thing It turned out to the only point at which it needs to be
+[0035] [01:54] A: Articulated
+[0036] [01:55] A: handedness Is um Is he is down here for the uh Any
+[0037] [02:02] A: t.
+[0038] [02:02] A: as it turned out to The whole thing transfers From right to left hand
+[0039] [02:08] A: Fairly well from the point of view of Operating the uh function buttons and joystick
+[0040] [02:13] A: So it might be an idea to be able to it
+[0041] [02:16] A: Adjust the position as for the base of the joystick just a little bit
+[0042] [02:20] A: For
+[0043] [02:20] B: "'kay"
+[0044] [02:22] A: much on and just just a thought
+[0045] [02:24] A: You could simply have a slightly Oh
+[0046] [02:26] A: void
+[0047] [02:26] A: shaped joystick
+[0048] [02:28] A: it in to speak Try and twist it around
+[0049] [02:31] A: So the uh Sticky it so that that that sticks out a bit more is on one side or the other
+[0050] [02:38] A: But As you as you
+[0051] [02:39] A: see let's see a lot of holding it and left hand Be
+[0052] [02:44] A: L. and the
+[0053] [02:44] A: l.
+[0054] [02:45] A: c.
+[0055] [02:45] A: d. is no for a useful
+[0056] [02:47] A: So that would need to be a calculated Uh if we're entertaining very ergonomic design
+[0057] [02:54] A: Um Now
+[0058] [02:56] A: like uh you know to but uh Keeping the cost down
+[0059] [03:00] B: for yeah
+[0060] [03:01] A: Yeah
+[0061] [03:01] B: for going to a bit more
+[0062] [03:02] B: but this one
+[0063] [03:04] A: This design could be done Wait Um With a
+[0064] [03:13] A: plastic casing
+[0065] [03:14] A: Do i would recommend around the great part here in the middle Having the beach to rubber purple over that
+[0066] [03:20] A: For a while for a slightly more should buy more for for my a bit more ergonomic as well
+[0067] [03:25] A: As for
+[0068] [03:26] A: v. um As for the single curve Um Mm they said sh
+[0069] [03:35] A: And they said like this it would be nice to have some courage to
+[0070] [03:38] A: do is not so it is
+[0071] [03:39] A: uh really the curve it's mostly did Is the on the sides
+[0072] [03:42] A: of the Because of the joystick or
+[0073] [03:45] A: s. over tea Yeah to the hand like this
+[0074] [03:49] A: Um I have Yeah Transmitter here No me Because for the uh For the for the yeah fine you have a
+[0075] [03:59] A: v. remote control finder
+[0076] [04:01] A: So
+[0077] [04:04] A: And for the product
+[0078] [04:06] D: of this can be popular than ever looks
+[0079] [04:08] D: because It's can be flat on one side
+[0080] [04:11] D: So the
+[0081] [04:12] D: l.
+[0082] [04:12] D: c.
+[0083] [04:12] D: d. we just stick and then like this
+[0084] [04:13] D: one
+[0085] [04:14] A: Uh-huh Yeah
+[0086] [04:15] D: Because it can get a curved
+[0087] [04:18] D: Yeah "'cause" it costs
+[0088] [04:18] A: Yeah i mean
+[0089] [04:19] A: the
+[0090] [04:20] D: And as plastic as well
+[0091] [04:20] A: Yeah
+[0092] [04:21] D: so Or
+[0093] [04:22] D: p. is course one hand
+[0094] [04:24] A: Yeah
+[0095] [04:25] A: that that was the rubber design it could It You could pretty much mould That should be to be uses hand
+[0096] [04:32] A: on my
+[0097] [04:32] A: c. features
+[0098] [04:33] A: we could if we could still do the rubber Uh uh for was to have The
+[0099] [04:38] A: You get the uh rubber extend beyond the end of the uh Of of digits of structure
+[0100] [04:45] A: so it has a research tail
+[0101] [04:46] A: we do trip over your wrist
+[0102] [04:47] A: so it stays and station that's right
+[0103] [04:51] A: Of
+[0104] [04:55] D: Yeah so yeah
+[0105] [04:58] B: Okay
+[0106] [04:58] B: yeah great
+[0107] [05:01] C: Yeah
+[0108] [05:01] C: the
+[0109] [05:02] C: key lot of my evaluation docking
+[0110] [05:04] B: Yeah okay and what go for the
+[0111] [05:06] B: Excellent work
+[0112] [05:11] B: Um yeah
+[0113] [05:22] C: Evaluation
+[0114] [05:29] C: Basic point uh have a list of criteria do we need to rate their prototype by
+[0115] [05:36] C: And then we will
+[0116] [05:38] C: It's a seven stands up and Seven step kinda evaluation process
+[0117] [05:43] C: so on
+[0118] [05:46] C: Also sets
+[0119] [05:46] C: of the scale
+[0120] [05:48] C: So
+[0121] [05:48] C: i have to we finished all the ratings
+[0122] [05:50] C: for each criteria
+[0123] [05:51] C: we average that
+[0124] [05:52] C: was Some type of a
+[0125] [05:55] C: confidence in our prototype
+[0126] [05:58] C: And uh the criteria all based on Real reaction is uh You go listen
+[0127] [06:05] C: policies marketing strategies and also those uh put together of uh from the user Requirements Yeah it's
+[0128] [06:13] C: And
+[0129] [06:14] C: if you flip the
+[0130] [06:19] C: So
+[0131] [06:19] C: those are the Criteria
+[0132] [06:22] C: Yeah Have to to put in a bit better
+[0133] [06:25] C: but you know it's a few things that we've
+[0134] [06:27] C: Taliban
+[0135] [06:28] C: in
+[0136] [06:28] C: which means Is that uh But what it was called very
+[0137] [06:33] C: badly
+[0138] [06:34] C: in some of those points
+[0139] [06:36] C: But not be
+[0140] [06:37] C: So
+[0141] [06:38] C: we have um True
+[0142] [06:42] C: One Seven eight No Forth
+[0143] [06:55] C: okay so
+[0144] [06:55] C: we have to go for each point
+[0145] [06:57] C: If we imagine such be straight
+[0146] [06:59] C: And this gives the the school
+[0147] [07:01] C: So
+[0148] [07:02] C: um How what would you say the prototype is
+[0149] [07:05] C: uh How well we realise a
+[0150] [07:08] C: dream
+[0151] [07:09] C: of being able to install a mouse from from being lost
+[0152] [07:12] C: a tape to find them once they lost
+[0153] [07:13] C: i mean Is the homing thing still The locator is that still
+[0154] [07:17] A: Yeah that's still part of the design
+[0155] [07:19] C: Sure
+[0156] [07:19] C: and and and we can keep that in
+[0157] [07:21] B: Yeah i believe so
+[0158] [07:22] B: so
+[0159] [07:23] B: i mean I don't think anybody can actually stop or warping
+[0160] [07:26] B: lost
+[0161] [07:26] B: "'cause" that would be doing something a bit human Element
+[0162] [07:29] C: Sure
+[0163] [07:30] B: but I'd like to think that we've done something about Finding down thing was we have
+[0164] [07:33] A: Hmm
+[0165] [07:35] C: So
+[0166] [07:35] A: Yeah i'm making it a bright colour hell
+[0167] [07:37] A: some
+[0168] [07:37] A: personal income for powerpoint
+[0169] [07:40] C: Like others
+[0170] [07:41] C: so
+[0171] [07:41] C: we still have to noise thing
+[0172] [07:42] C: and
+[0173] [07:43] A: Uh-huh
+[0174] [07:43] C: Oh so
+[0175] [07:44] C: on a scale of one to seven how would you guys rated
+[0176] [07:46] C: four finding them that's fine and it once it's lost
+[0177] [07:51] A: I think number one
+[0178] [07:53] C: The more
+[0179] [07:54] C: Okay
+[0180] [07:54] C: number Number one for the first criteria
+[0181] [07:58] A: I think we if it was trust The sound
+[0182] [08:01] A: there Then the the uh something i found was uh Well we
+[0183] [08:06] A: we since we're trying to find a cordless phone right Mobile you can hear it
+[0184] [08:12] A: you can't quite And in
+[0185] [08:13] A: temp end up where it is
+[0186] [08:14] C: Yeah
+[0187] [08:15] C: it can tell what what um the mobile
+[0188] [08:17] C: is
+[0189] [08:17] D: What about what uh The volume and
+[0190] [08:18] A: But
+[0191] [08:20] D: t.
+[0192] [08:20] D: v.s Turn up last week And uh Yes wondering and volume you can't find the remote
+[0193] [08:28] D: Suppose you have to go to
+[0194] [08:29] D: t.
+[0195] [08:29] D: v. in Do my knowledge
+[0196] [08:30] C: Yeah
+[0197] [08:31] A: Yeah
+[0198] [08:32] C: Yeah
+[0199] [08:33] D: Like it you wouldn't hear the speakers yes
+[0200] [08:36] B: Just before we go through all of the steps Here i am old do is
+[0201] [08:38] C: You wanna say so
+[0202] [08:44] B: if we can look at the criteria you know evaluate
+[0203] [08:46] B: animal come back to the product evaluation
+[0204] [08:48] B: that's alright
+[0205] [08:50] C: That's fine
+[0206] [08:50] B: Yeah so
+[0207] [08:51] C: That's that's on
+[0208] [08:53] B: so
+[0209] [08:54] B: is there anything here That you Do you want to to covers and the criteria that you've covered
+[0210] [09:04] B: animal combat pretty much probably to this
+[0211] [09:06] C: With the link where there's anything on
+[0212] [09:08] B: is there any of these criteria need any explaining
+[0213] [09:10] B: or is there anything be used for but that would stand out compared to the office
+[0214] [09:15] C: i see
+[0215] [09:18] C: So we don't need that it's a minus your research
+[0216] [09:20] C: is that we're reactions has uh and colour strategy
+[0217] [09:25] C: that all of the products Be inspired by interior Fashion think on fashion
+[0218] [09:31] C: That is why From the age being popular in a home and call them was important
+[0219] [09:37] C: And they want or their products to be it somehow inspired By current trends and fashion
+[0220] [09:43] C: so they say we put the fashion in electronics
+[0221] [09:45] C: what
+[0222] [09:45] C: they've really mean it they are very big on fashion
+[0223] [09:48] C: So
+[0224] [09:48] B: Okay
+[0225] [09:50] C: That's display right here
+[0226] [09:52] C: And And this bit Is this one easy to use
+[0227] [09:58] C: visitors
+[0228] [09:58] C: all for anybody
+[0229] [09:59] C: I guess it's just the same as an easy to use interface
+[0230] [10:02] C: so Kind of
+[0231] [10:03] C: contestant
+[0232] [10:04] C: a one
+[0233] [10:05] C: And we can come back to use it
+[0234] [10:06] C: so
+[0235] [10:06] B: Okay
+[0236] [10:07] B: Well
+[0237] [10:07] B: and which we will do very very shortly
+[0238] [10:12] B: Um Okay
+[0239] [10:19] B: Slight problem we had
+[0240] [10:20] B: was that we both An amazing
+[0241] [10:23] B: four euros over Project For what we're hoping to do
+[0242] [10:28] B: Um Most of it stands from the use of the
+[0243] [10:31] B: l.
+[0244] [10:31] B: c.
+[0245] [10:31] B: d.
+[0246] [10:32] B: which i think any and
+[0247] [10:33] B: accounted
+[0248] [10:33] B: for About half of our expenditure
+[0249] [10:36] B: because of course would require the chip as well
+[0250] [10:39] B: Um The only way to get this down was see that too That's
+[0251] [10:43] B: d.
+[0252] [10:43] B: a.
+[0253] [10:44] B: l.
+[0254] [10:44] B: c.
+[0255] [10:44] B: d.
+[0256] [10:45] B: uh which one was removed
+[0257] [10:46] B: a large Part how we're gonna interface
+[0258] [10:48] B: would require a more buttons etcetera
+[0259] [10:52] B: Or oh What we did we say we um We as an eye as as quickly going over it was All trendy actual structure
+[0260] [11:00] B: Um changing the plastic and a
+[0261] [11:02] B: solid unit of a single curve design would allow us to come back into
+[0262] [11:06] B: u.
+[0263] [11:06] B: v. um proposed Costs
+[0264] [11:09] B: And we're just
+[0265] [11:10] B: scraping
+[0266] [11:10] B: and
+[0267] [11:10] B: we've got point to the euro left over there
+[0268] [11:13] B: So we're just
+[0269] [11:14] B: managing
+[0270] [11:15] B: it really
+[0271] [11:16] B: Even then as well um there was no criteria technically define for a joystick
+[0272] [11:21] B: sort of use what things appropriate
+[0273] [11:23] B: We've done a lot but what i mean it was
+[0274] [11:25] B: incurred
+[0275] [11:25] B: more costly can actually afford to
+[0276] [11:28] B: Oh It
+[0277] [11:29] B: pulls all of our really good ideas kind of Slightly to one side
+[0278] [11:33] B: for example be possible as having the
+[0279] [11:35] B: u.
+[0280] [11:35] B: s.
+[0281] [11:36] B: b. connections definite no viable i
+[0282] [11:40] C: Different languages
+[0283] [11:42] B: That should still be file
+[0284] [11:43] B: we've got an advanced chip
+[0285] [11:44] B: cookies of the
+[0286] [11:45] B: l.
+[0287] [11:45] B: c.
+[0288] [11:45] B: d.
+[0289] [11:45] B: so been able to indicate multiple languages is still Very much possibility
+[0290] [11:51] B: Um But also to we need to decide on us how we're gonna go from here
+[0291] [11:57] B: We do need to try come up with an idea
+[0292] [11:59] B: which could be continued
+[0293] [12:00] B: move over people need be
+[0294] [12:02] B: Um We can
+[0295] [12:05] B: i can bring
+[0296] [12:05] B: x.
+[0297] [12:06] B: l.
+[0298] [12:06] B: c.
+[0299] [12:06] B: r.
+[0300] [12:07] B: and they're actually if you wish
+[0301] [12:08] B: um I really think as in watches it
+[0302] [12:11] B: pains me
+[0303] [12:12] B: is that we might have to go with plastic And some kind of solid design
+[0304] [12:15] B: possibly Meeting at the
+[0305] [12:17] B: l.
+[0306] [12:17] B: c.
+[0307] [12:17] B: d. wouldn't be in this perfect Place
+[0308] [12:21] B: it might be stuck like slightly between what would be good for left-handed
+[0309] [12:24] B: what would be good for right-handed person
+[0310] [12:27] A: Uh-huh suppose what wanting to be done is that is hard time circular
+[0311] [12:31] A: in-house
+[0312] [12:32] A: so the so the uh It the pink if it's outside is a bit over the pinkie finger
+[0313] [12:37] B: Okay
+[0314] [12:38] A: So
+[0315] [12:40] B: It very much is about making
+[0316] [12:42] B: concessions
+[0317] [12:43] B: unfortunately
+[0318] [12:44] A: Hmm
+[0319] [12:45] C: Do you have any data or one how much and different plants cost
+[0320] [12:49] C: i mean can you get the entire thing planned to do with the design and
+[0321] [12:54] B: but we'll put uh if you mean on the plastic or
+[0322] [12:57] B: To work
+[0323] [12:59] B: Yeah i have as much information as idea
+[0324] [13:01] C: Yeah
+[0325] [13:05] B: So
+[0326] [13:05] B: is it it's easier for example the battery Really not very little choice in that one
+[0327] [13:10] B: called wanna cheaper options as well
+[0328] [13:13] B: And for some require the advanced chip if we're going to do what we need into
+[0329] [13:17] B: I said single curved
+[0330] [13:18] B: we really do need it to be that we have for the ergonomics of it
+[0331] [13:22] B: Um plastic for some reason
+[0332] [13:24] B: incredible
+[0333] [13:24] B: cost
+[0334] [13:25] B: of stuff at the very much making about it off
+[0335] [13:26] B: despite the fact that rubber's only got a value for two euros per unit
+[0336] [13:31] B: Problem comes here is you can see in the interface
+[0337] [13:31] B: Problem
+[0338] [13:34] B: Um If i've read this
+[0339] [13:37] B: incorrectly
+[0340] [13:38] B: thing we can save point five year old here in it It's not per push button
+[0341] [13:43] B: That might make sense
+[0342] [13:44] B: because then a
+[0343] [13:44] B: numeric keypad would come in that um Or four point five euros
+[0344] [13:48] B: which is an awful lot
+[0345] [13:49] B: so it could well be wrong
+[0346] [13:51] B: Even if we save point five
+[0347] [13:52] B: yeah it would just mean it would Most likely placing and actually just getting a colour For the unit
+[0348] [13:58] B: which that could put this one side
+[0349] [14:00] B: As you can see The use of an
+[0350] [14:02] B: l.
+[0351] [14:02] B: c. display Um advanced chip And what would turn on a scroll-wheel here as well
+[0352] [14:09] B: because it's integrate scroll Scroll-wheel pushbutton that wasn't quite what Think that might be a joystick
+[0353] [14:15] C: Well it won't that be more expensive than an individual pushbutton a scroll-wheel together
+[0354] [14:21] C: That's quite significant expensive
+[0355] [14:24] B: Hi
+[0356] [14:25] B: That's something to have to take up with
+[0357] [14:26] B: encounters
+[0358] [14:30] A: i like a
+[0359] [14:31] B: As you can see women that's taken up well over half price
+[0360] [14:34] C: Yeah
+[0361] [14:35] B: So all
+[0362] [14:36] B: Um i'm very much open to suggestions of where we goal
+[0363] [14:39] B: but because we need to share the ball was Four euros awful
+[0364] [14:43] B: v. Um The price of for what we're Really decided
+[0365] [14:50] B: This one comes in And the prices you can see
+[0366] [14:52] B: that this is the one to sacrifice be Material for the case And for the actual case design
+[0367] [14:59] C: We don't even have a speech is he
+[0368] [15:01] C: doing
+[0369] [15:02] C: like
+[0370] [15:02] C: a wee
+[0371] [15:02] C: in What about speech isn't as many of the stuff like that and we affected and and
+[0372] [15:09] B: really know we haven't
+[0373] [15:10] C: transmitter a receiver the speaker is Plus the extra device itself that's gonna be on the
+[0374] [15:17] C: t.
+[0375] [15:17] C: v.
+[0376] [15:17] C: is a menu button or
+[0377] [15:19] B: That'll do it looks we would just be a button
+[0378] [15:21] C: Yeah
+[0379] [15:22] B: We might have to
+[0380] [15:22] D: that's too expensive than than
+[0381] [15:24] D: is there
+[0382] [15:26] B: Looks like almost nothing
+[0383] [15:29] B: Mm No
+[0384] [15:30] B: could call
+[0385] [15:31] B: and this that
+[0386] [15:32] C: I mean it's not on here
+[0387] [15:33] C: but
+[0388] [15:35] B: No that's a very valid point
+[0389] [15:38] C: The basic
+[0390] [15:38] C: do we have to use an advanced chip for the
+[0391] [15:41] C: l.
+[0392] [15:41] C: c.
+[0393] [15:41] C: d.
+[0394] [15:43] C: Okay
+[0395] [15:43] C: much
+[0396] [15:44] C: less Yeah
+[0397] [15:45] B: So for gonna go
+[0398] [15:46] B: t.
+[0399] [15:46] B: l.
+[0400] [15:46] B: c. display then that's
+[0401] [15:49] C: Was a
+[0402] [15:49] C: handout
+[0403] [15:50] C: dynamo
+[0404] [15:51] C: You have to wonder
+[0405] [15:52] B: I think so yeah
+[0406] [15:56] B: That would probably not be in
+[0407] [15:58] B: keeping with the um the fashion statement such
+[0408] [15:59] C: Technology Yeah
+[0409] [16:00] D: Fashion
+[0410] [16:01] B: yeah
+[0411] [16:03] C: Okay
+[0412] [16:03] D: It's busy
+[0413] [16:04] D: the only new thing is the
+[0414] [16:06] D: l.
+[0415] [16:06] D: c.
+[0416] [16:06] D: d. On the remote there
+[0417] [16:07] B: Being manipulated by a joystick
+[0418] [16:09] D: Well angeles
+[0419] [16:11] B: Which i'm If i think a scroll wheel
+[0420] [16:18] C: And we can replace the joystick
+[0421] [16:20] C: right
+[0422] [16:20] C: because we would need for two buttons replace it up down left and right
+[0423] [16:23] C: and that would be more expensive
+[0424] [16:24] C: than the
+[0425] [16:25] C: There is a scroll-wheel no the spectrum for
+[0426] [16:26] A: Uh-huh
+[0427] [16:29] B: Yeah
+[0428] [16:29] B: it's just because there was no actual definition for like joystick might be
+[0429] [16:32] B: that That's what i've labelled it for purposes of this
+[0430] [16:36] B: uh valuation
+[0431] [16:38] D: The
+[0432] [16:38] D: l.
+[0433] [16:38] D: c.
+[0434] [16:38] D: d. this is the big selling point of
+[0435] [16:41] B: If we remove the
+[0436] [16:42] B: l.
+[0437] [16:42] B: c. display we can save ourselves
+[0438] [16:42] D: The remote
+[0439] [16:47] B: Fair amount
+[0440] [16:49] B: Which you
+[0441] [16:49] D: that's a nice as the original about
+[0442] [16:51] D: that
+[0443] [16:51] A: Yeah I think if if we remove the the
+[0444] [16:51] C: Yeah
+[0445] [16:54] A: l.
+[0446] [16:54] A: c. display that know roughly know point point is is meetings
+[0447] [16:57] A: and we just do it but it just power branding on a on a remote control
+[0448] [17:02] C: Yeah Yeah
+[0449] [17:03] C: um Okay
+[0450] [17:07] B: It's a shame
+[0451] [17:08] B: we should possibly have
+[0452] [17:11] B: If we could increase the price we could nine factors that and then we could have got something Park over to what we were All okay
+[0453] [17:16] C: "'cause" it's This is the um mind that
+[0454] [17:19] C: I mean it's a bit ridiculous
+[0455] [17:21] C: that they can charge us Was it like this much money for free maybe in it for that uh By three main components
+[0456] [17:30] C: you know
+[0457] [17:30] B: And then you have to argue the accountants that one
+[0458] [17:33] B: um But for the purposes of this meeting um we're gonna have to stick with these figures
+[0459] [17:41] B: So
+[0460] [17:42] B: I will save it would seem like a general opinion is we're gonna keep the
+[0461] [17:45] B: l.
+[0462] [17:46] B: c. display
+[0463] [17:46] B: which is about what really separates
+[0464] [17:48] B: l.
+[0465] [17:48] B: c.
+[0466] [17:48] C: I think so
+[0467] [17:48] B: display
+[0468] [17:48] B: display the cost is gonna in care
+[0469] [17:51] B: Um Are people maybe not happy with our want to go ahead we've And this and going for plastic solid case To keep the
+[0470] [18:02] B: l.
+[0471] [18:02] B: c.
+[0472] [18:02] B: d.
+[0473] [18:04] A: Uh-huh um Yeah
+[0474] [18:07] A: um one thing
+[0475] [18:08] A: i had a how much extra would it be to to keep And you keep the um the
+[0476] [18:13] A: ejaculation
+[0477] [18:15] B: It's hard to tell
+[0478] [18:16] B: um I would say that You're least gonna take Double curved
+[0479] [18:17] A: This is what i'm wondering
+[0480] [18:22] B: and even
+[0481] [18:22] B: then um not quite sure flats incorporating the idea to take
+[0482] [18:25] B: elation
+[0483] [18:25] C: Yeah
+[0484] [18:25] A: Well
+[0485] [18:26] A: i think uh it do it that evening required to be Double curve
+[0486] [18:30] D: You can use
+[0487] [18:31] D: yeah
+[0488] [18:31] D: you can still be single curve
+[0489] [18:33] A: Is it is just the this is the
+[0490] [18:33] D: You just yeah
+[0491] [18:33] B: Single curve of a calculation
+[0492] [18:34] A: u.
+[0493] [18:34] A: i.
+[0494] [18:35] A: s. so the case would come and tuning in would be making two parts and then come together with an education
+[0495] [18:41] C: Could
+[0496] [18:41] C: Could we Could we not get rid of the curvy because of this because patients this
+[0497] [18:46] C: and focus on the menu think The best interface
+[0498] [18:50] C: "'cause" i would
+[0499] [18:51] C: do we have these restrictions on software
+[0500] [18:53] D: That's we need for the joystick and
+[0501] [18:55] C: Oh
+[0502] [18:55] C: but that has to be
+[0503] [18:56] A: yeah i mean
+[0504] [18:56] A: it i mean that
+[0505] [18:58] A: Uh i mean if you if you look was really uh-huh Uh the prototype here
+[0506] [19:03] A: the lines here along the grip Alright likewise straight
+[0507] [19:08] A: Um i
+[0508] [19:09] A: had that one You know on the all on the
+[0509] [19:09] B: But the curves all over the hand
+[0510] [19:11] B: is it
+[0511] [19:13] A: l.
+[0512] [19:13] A: c.
+[0513] [19:13] A: d. or no vote on it was a cover
+[0514] [19:15] A: could just as easily be done Um without curves
+[0515] [19:19] A: Curved is really need to use up here
+[0516] [19:22] C: joystick
+[0517] [19:22] A: To put it to them to keep the joystick in a good ergonomic position had
+[0518] [19:26] A: to have it Rest on top of the hand
+[0519] [19:29] C: Okay
+[0520] [19:31] C: Okay
+[0521] [19:31] C: okay
+[0522] [19:34] B: We wouldn't actually say a lot by reducing
+[0523] [19:36] B: anyway
+[0524] [19:36] B: so i mean For purposes
+[0525] [19:38] B: of this meeting maybe we can state that single curve still lies
+[0526] [19:41] B: articulation
+[0527] [19:43] A: Uh-huh
+[0528] [19:46] B: Unless we hear otherwise we could call it but uh proposal
+[0529] [19:46] B: Unless
+[0530] [19:52] C: But but it is not gonna perform so well For my criteria
+[0531] [19:56] B: Which is what we can get on the net
+[0532] [19:58] B: as long as so we're gonna say Could we
+[0533] [20:01] B: will have to keep in mind that time as well
+[0534] [20:03] B: but we're gonna say Um Single curve design
+[0535] [20:06] C: Well
+[0536] [20:06] C: wait a minute
+[0537] [20:08] C: Sample speaker What is the sample speaker
+[0538] [20:11] C: is that is somewhat similar to what we want
+[0539] [20:14] B: It could well be a
+[0540] [20:14] B: bit a cost of
+[0541] [20:14] A: know
+[0542] [20:15] A: as the voice response thing that we got the email about it
+[0543] [20:16] D: Costs four
+[0544] [20:18] C: Yeah
+[0545] [20:19] A: I thought it was completely pointless
+[0546] [20:21] C: You're in about voice as well
+[0547] [20:23] A: Yeah
+[0548] [20:24] C: I did not
+[0549] [20:25] A: right
+[0550] [20:26] A: but it basically is uh is saying that are words that come up with a chip
+[0551] [20:29] A: that you could do it in Say hello to
+[0552] [20:32] A: an would say hello back and if and if you know wasn't it
+[0553] [20:36] B: Okay
+[0554] [20:37] B: all that they will all of that
+[0555] [20:39] C: We won't go with that one is
+[0556] [20:40] C: uh I mean like we
+[0557] [20:41] B: That's voice recognition so
+[0558] [20:43] C: Oh okay okay
+[0559] [20:46] B: And So okay
+[0560] [20:49] B: uh battery definitely
+[0561] [20:50] C: So
+[0562] [20:51] C: that so we're gonna Get rid of the whole okay to locator fine
+[0563] [20:54] B: It looks like a unless we can manage to put it in under point two euros
+[0564] [21:00] C: Okay Yeah Okay
+[0565] [21:04] B: Maybe even slip
+[0566] [21:04] A: Uh-huh
+[0567] [21:05] B: no
+[0568] [21:05] B: no you that much point two euros
+[0569] [21:07] B: that's a uh-huh
+[0570] [21:08] B: So we've got one for now All
+[0571] [21:10] B: sorts of
+[0572] [21:10] D: we going for a special colour at all
+[0573] [21:13] B: It's a a case all of
+[0574] [21:15] B: um I'm a slightly i'm sure
+[0575] [21:19] B: One point five euro for one pushbutton doesn't sound quite right
+[0576] [21:22] B: so maybe it's a case of A push button is maybe one or more
+[0577] [21:28] A: Uh-huh
+[0578] [21:29] D: Well
+[0579] [21:29] D: i was a black fur case
+[0580] [21:30] B: It which point it
+[0581] [21:33] D: But you're already incorporated
+[0582] [21:35] C: Oh so should go for the case
+[0583] [21:37] B: When
+[0584] [21:38] B: you go point five yeah
+[0585] [21:39] B: it's likely case of whether or not this is correct
+[0586] [21:42] B: i'm not quite sure don't
+[0587] [21:43] B: i don't think they mean point five euros per hour But then
+[0588] [21:47] A: Okay well
+[0589] [21:47] A: well let's say that and then we can have a special colour case
+[0590] [21:48] B: So
+[0591] [21:50] A: and then we least have And make it a little hard to lose
+[0592] [21:54] B: There we go
+[0593] [21:55] A: Because most most remotes are fairly dingy
+[0594] [21:57] A: colour
+[0595] [21:57] A: that it's
+[0596] [21:58] A: camouflaged and
+[0597] [21:59] A: ernie
+[0598] [21:59] A: pyle
+[0599] [21:59] A: of Crap and whatever
+[0600] [22:01] C: What was it the full colour
+[0601] [22:02] C: white or black
+[0602] [22:04] B: Black from in normal colour it's a
+[0603] [22:06] A: And grey
+[0604] [22:06] B: yeah
+[0605] [22:07] B: I quite like that colours that you're fading
+[0606] [22:08] A: Yeah
+[0607] [22:09] B: it's a display For
+[0608] [22:12] B: make it glow in the dark even better
+[0609] [22:16] B: So all
+[0610] [22:18] B: Well we go with that and
+[0611] [22:21] A: Okay
+[0612] [22:22] C: Yeah
+[0613] [22:22] B: It's not and we can see you
+[0614] [22:24] B: all come back to the Your evaluation
+[0615] [22:25] C: true
+[0616] [22:27] B: which you probably know going to panels
+[0617] [22:28] B: but there we go
+[0618] [22:29] C: Okay Oh okay
+[0619] [22:31] C: So uh I
+[0620] [22:33] B: Just to give you an idea um you want to go maybe a bit quickly as well
+[0621] [22:37] B: not sure how much time
+[0622] [22:38] B: we've got the five minute more Warning yeah
+[0623] [22:40] C: Well okay okay
+[0624] [22:41] B: but
+[0625] [22:41] D: Things time so
+[0626] [22:43] C: "'kay"
+[0627] [22:44] C: ability to store remotes um and also to find them once they lost
+[0628] [22:49] C: Um okay
+[0629] [22:50] D: Special colour
+[0630] [22:51] C: Special colour
+[0631] [22:52] B: Hmm Mm hmm for
+[0632] [22:55] C: A four
+[0633] [22:56] B: Three of them
+[0634] [22:57] C: For you for being
+[0635] [22:58] A: Three I think we can do three
+[0636] [22:58] C: generous
+[0637] [22:59] C: offer
+[0638] [23:00] D: Three
+[0639] [23:00] C: That would
+[0640] [23:01] C: engender
+[0641] [23:01] A: you know the special colour doesn't know what i think we could definitely
+[0642] [23:01] C: say we're for it
+[0643] [23:04] A: to stand out
+[0644] [23:05] A: from
+[0645] [23:06] A: You know
+[0646] [23:06] A: is lost in a big pile of crap it
+[0647] [23:07] A: stands out from the rest of the crap
+[0648] [23:10] A: Uh-huh
+[0649] [23:10] C: I "'kay"
+[0650] [23:10] B: Okay
+[0651] [23:11] C: Could use the number of unused buttons
+[0652] [23:13] C: without that if two buttons
+[0653] [23:14] C: is it
+[0654] [23:15] A: Two buttons are stick
+[0655] [23:15] B: Two buttons
+[0656] [23:16] C: Okay
+[0657] [23:17] C: so that's the one
+[0658] [23:17] C: you know
+[0659] [23:18] C: where that's
+[0660] [23:18] A: Talk to
+[0661] [23:18] B: Yeah
+[0662] [23:19] B: That's a wooden well there
+[0663] [23:20] C: There
+[0664] [23:21] C: is good
+[0665] [23:22] C: Easy to use interface the buttons menu menu school
+[0666] [23:26] C: that's
+[0667] [23:26] C: yeah
+[0668] [23:26] C: that's good Okay
+[0669] [23:28] C: Okay
+[0670] [23:29] C: that's
+[0671] [23:29] C: what it does so
+[0672] [23:30] C: badly
+[0673] [23:30] C: um Easy to use
+[0674] [23:33] C: oh okay
+[0675] [23:34] C: let's forget that one
+[0676] [23:35] C: Fancy look and
+[0677] [23:38] B: guess you've all girls
+[0678] [23:38] A: It doesn't get much fancier
+[0679] [23:39] B: and
+[0680] [23:40] C: So
+[0681] [23:40] C: are we could do whatever we like with the
+[0682] [23:42] C: l.
+[0683] [23:43] C: c.
+[0684] [23:43] C: d.
+[0685] [23:44] C: Yeah
+[0686] [23:44] C: as as as soon as you get the
+[0687] [23:45] C: l.
+[0688] [23:45] C: c.
+[0689] [23:46] C: d. display or
+[0690] [23:47] C: maybe i was
+[0691] [23:47] C: panicking
+[0692] [23:48] C: for no reason
+[0693] [23:48] D: Oh we don't want us to have
+[0694] [23:50] D: I'd say you go to
+[0695] [23:51] D: "'cause" Like for the fanciest would be that all the curve
+[0696] [23:56] C: Yeah it
+[0697] [23:56] D: With us
+[0698] [23:56] A: Hmm
+[0699] [23:56] C: really be a bit too
+[0700] [23:57] B: Yeah we Yeah
+[0701] [23:57] C: yeah There we go off yeah
+[0702] [23:57] D: With dear take you lose Bells on this
+[0703] [24:00] C: some
+[0704] [24:01] C: Yeah that's that's better Two more
+[0705] [24:05] C: acrid
+[0706] [24:05] C: numbers
+[0707] [24:06] C: Technologically innovative
+[0708] [24:09] C: Well
+[0709] [24:10] C: we get rid of the the locator
+[0710] [24:12] C: language Which
+[0711] [24:12] B: This is a shame
+[0712] [24:14] C: yeah
+[0713] [24:14] A: Uh-huh I'd give it a three for this for that
+[0714] [24:15] D: No need for teletext
+[0715] [24:18] A: Yeah
+[0716] [24:20] A: I mean the main use thing Is something you don't normally see on Um On the remote
+[0717] [24:27] A: but
+[0718] [24:29] A: And you see a lot of places
+[0719] [24:32] C: Yeah it
+[0720] [24:32] C: mobile phones
+[0721] [24:34] C: and you but you don't have it in the menu from the television to the Remote control
+[0722] [24:38] C: so it's
+[0723] [24:39] A: Uh-huh
+[0724] [24:40] C: It's a free
+[0725] [24:41] C: Ah my "'cause" was two and a
+[0726] [24:43] C: three
+[0727] [24:44] A: I'll give it a three
+[0728] [24:44] B: Like ten to thirty yeah
+[0729] [24:46] C: Three
+[0730] [24:47] C: okay
+[0731] [24:49] C: Oh okay
+[0732] [24:49] B: We'll get um then the next one anyway
+[0733] [24:52] C: There's there's several if i'm pleasing
+[0734] [24:54] C: Spongy this is what they've really we wanna about uh yeah
+[0735] [24:54] B: Yeah
+[0736] [24:55] B: well
+[0737] [24:57] B: It is yeah
+[0738] [24:58] B: complain
+[0739] [24:58] B: um um Because of the
+[0740] [25:01] B: v. with a with
+[0741] [25:02] B: minimalised
+[0742] [25:03] B: the number of buttons as such
+[0743] [25:05] C: Yeah
+[0744] [25:07] B: plastic it's
+[0745] [25:08] B: socks and
+[0746] [25:09] B: but it's no worse than any fewer people remote controls a half
+[0747] [25:12] C: That's true
+[0748] [25:12] C: that's not a step backwards
+[0749] [25:15] A: Uh-huh Right so i i'd give it a six
+[0750] [25:16] D: Five
+[0751] [25:16] D: six
+[0752] [25:18] D: Six yeah
+[0753] [25:20] C: Yeah okay there's this is
+[0754] [25:21] C: x. Yeah
+[0755] [25:24] C: Okay
+[0756] [25:24] C: that's a telephone everything goes that's
+[0757] [25:27] C: Yes but well
+[0758] [25:28] C: l.
+[0759] [25:28] C: a.'s since they're in common fashion
+[0760] [25:30] C: we we can
+[0761] [25:31] C: what colour well we gonna make it
+[0762] [25:32] D: Leopard print on
+[0763] [25:33] A: Well
+[0764] [25:34] A: uh i would say uh i would say give a city give a selection of colours
+[0765] [25:38] A: Um Well with yellow won't yellow for the prototype
+[0766] [25:39] C: A
+[0767] [25:39] C: rabbit
+[0768] [25:41] A: "'cause" we had yellow
+[0769] [25:43] A: Which are buying one at golf are all
+[0770] [25:45] A: Like a practical
+[0771] [25:46] C: But um But it's i think it's more okay so For
+[0772] [25:50] D: Yeah
+[0773] [25:50] D: we gotta
+[0774] [25:50] C: engage
+[0775] [25:50] D: find a it's I'd say the colour of the border there You'd find out But that's that's done it
+[0776] [25:52] C: Yeah
+[0777] [25:58] B: That yellow
+[0778] [25:58] B: yeah
+[0779] [25:59] B: it would also help keep the the product
+[0780] [26:02] B: Placement
+[0781] [26:02] D: Logo Brand
+[0782] [26:02] D: Logo
+[0783] [26:03] B: Yeah
+[0784] [26:04] C: Uh-huh
+[0785] [26:05] C: But But they're they're referring to the fruit and veg
+[0786] [26:05] B: Is inspired going to the encoding fashion
+[0787] [26:10] C: thing
+[0788] [26:13] C: is this like a banana type colour
+[0789] [26:16] C: could be scratched
+[0790] [26:17] C: No it's there's
+[0791] [26:17] B: Yeah
+[0792] [26:17] C: not shaped like a banana is
+[0793] [26:19] B: It's i thought it
+[0794] [26:20] A: That's a Well
+[0795] [26:21] B: probably Okay
+[0796] [26:21] A: we we won't be fun has been
+[0797] [26:24] C: Oh
+[0798] [26:24] C: that "'cause" it's flat
+[0799] [26:25] A: But that's it
+[0800] [26:26] C: What is where fruit i guess it's flat
+[0801] [26:29] A: I thought i think Is uh i think is is in Not particularly fruit and veggie
+[0802] [26:34] C: Yeah
+[0803] [26:36] C: Well we might have to suffer
+[0804] [26:37] C: badly
+[0805] [26:37] D: Yeah of course yeah
+[0806] [26:37] C: for this one as well Yeah
+[0807] [26:42] B: Well
+[0808] [26:43] B: it it's probably more fruit and veg than most other things that they are part fruit and veg
+[0809] [26:47] B: so you could not for
+[0810] [26:50] C: Four
+[0811] [26:51] C: Oh yes It was very ambitious
+[0812] [26:52] B: That than two
+[0813] [26:52] B: genders
+[0814] [26:53] C: yeah
+[0815] [26:54] A: I'd uh i'd i don't think fruit and veg is the sole
+[0816] [26:57] A: at it This is all criteria for being Um Five four and five ones by uh and fashions
+[0817] [26:58] B: Could i
+[0818] [27:02] C: It's
+[0819] [27:02] C: libellous
+[0820] [27:08] A: Like it it's very highly from the point
+[0821] [27:12] D: Has this
+[0822] [27:12] D: orleans this is their motto
+[0823] [27:14] C: Yeah
+[0824] [27:15] D: I'm not doing well
+[0825] [27:16] C: This is the strategy
+[0826] [27:18] C: And i imagine we actually had so many vested interests
+[0827] [27:21] C: and They're not they're we've rest is gonna be a
+[0828] [27:23] C: proportional
+[0829] [27:24] C: to the marks
+[0830] [27:25] C: Might We're i wanna be a bit more
+[0831] [27:27] C: scripted
+[0832] [27:27] C: more sceptical about This one
+[0833] [27:33] B: What would you think yourself
+[0834] [27:34] C: Oh it's a
+[0835] [27:36] C: I mean is it's not at all i see i see In any way or shape or form
+[0836] [27:42] C: We can do
+[0837] [27:42] B: Well
+[0838] [27:43] B: it's kind of curved
+[0839] [27:44] B: and we can make it yellow
+[0840] [27:45] B: and that's Pretty much banana like
+[0841] [27:47] C: Okay they they're it yellow banana
+[0842] [27:49] C: like thing "'cause" i think is okay
+[0843] [27:51] B: that
+[0844] [27:51] B: it's got a curved or
+[0845] [27:53] C: But
+[0846] [27:54] C: five
+[0847] [27:54] C: is that all of its own reasonable
+[0848] [27:57] B: My
+[0849] [27:57] B: speaking on stretching yeah the use of a banana
+[0850] [27:57] D: Yeah i go five
+[0851] [27:59] C: Four
+[0852] [28:01] C: Yeah
+[0853] [28:06] C: Okay so
+[0854] [28:07] C: we have one two three four five six seven
+[0855] [28:13] C: So far is seven and and sixteen and twenty one
+[0856] [28:19] C: That is an average of three
+[0857] [28:23] C: That's cool
+[0858] [28:24] C: well
+[0859] [28:26] C: This would be in the middle
+[0860] [28:27] C: so when
+[0861] [28:29] C: It's it's not bad
+[0862] [28:30] C: it's in a good section
+[0863] [28:32] B: It's not
+[0864] [28:33] B: binding
+[0865] [28:33] B: considering be
+[0866] [28:36] B: Compared to ten
+[0867] [28:37] C: Oh oops
+[0868] [28:38] C: sorry On on sorry
+[0869] [28:43] B: I
+[0870] [28:43] B: would hope batteries
+[0871] [28:46] B: Um right okay
+[0872] [28:47] D: But
+[0873] [28:47] B: it's
+[0874] [28:47] D: design okay
+[0875] [28:50] B: Considering the price we have to get the same time opposed to have
+[0876] [28:54] B: Yeah even based on the four of us being heavily biased
+[0877] [28:59] C: Yeah
+[0878] [29:01] B: It was gonna be quite hard to get anything
+[0879] [29:04] B: standing i i'd say possibly Based on And that the cost features
+[0880] [29:14] C: Even if we were to increase this entire thing by By seven Good to go down a great to to
+[0881] [29:21] C: fall we have to do I mean we didn't
+[0882] [29:25] C: we went that Kinda
+[0883] [29:27] C: optimistic
+[0884] [29:27] C: to opt
+[0885] [29:28] C: overly
+[0886] [29:28] C: optimistic
+[0887] [29:29] C: you know like
+[0888] [29:30] C: we didn't We can add
+[0889] [29:31] C: because of the idaho seven points and these things
+[0890] [29:33] C: so I think we're definitely wanna get that
+[0891] [29:36] C: Even if we gave
+[0892] [29:37] C: this one seven and this one seven Yes go on you three extra points over seven
+[0893] [29:43] C: You know
+[0894] [29:43] C: it's
+[0895] [29:44] C: Yeah
+[0896] [29:45] C: we did do
+[0897] [29:45] C: is okay that's good
+[0898] [29:47] A: Personally I think Given that The product
+[0899] [29:47] A: Personally
+[0900] [29:55] A: Um Only replace is a single remote control
+[0901] [30:01] A: You've already got
+[0902] [30:05] A: I've we've only got a shell out twenty five euros for something that's only
+[0903] [30:08] A: marginally good
+[0904] [30:12] D: Well
+[0905] [30:13] D: It's fancy or is With the targets People are
+[0906] [30:17] D: like it's a Maybe Fashion conscious
+[0907] [30:24] B: Maybe it's been targeted
+[0908] [30:24] D: Women would be don't know look at that
+[0909] [30:26] D: school
+[0910] [30:26] D: it looks like
+[0911] [30:27] D: uh It's
+[0912] [30:29] D: Yellow
+[0913] [30:30] D: was like a banana
+[0914] [30:30] D: screw
+[0915] [30:31] D: it's gotta look gotten the same room
+[0916] [30:34] B: I didn't
+[0917] [30:34] D: rather than the
+[0918] [30:35] B: fruit basket mm hmm hmm
+[0919] [30:35] D: l.
+[0920] [30:35] D: c.
+[0921] [30:35] D: d.
+[0922] [30:36] D: or as Yeah more technical it Like more And people in the device technology like "'cause" it's got
+[0923] [30:44] D: it's gonna
+[0924] [30:45] D: c.
+[0925] [30:45] D: d. screens
+[0926] [30:46] D: Only got two buttons are joysticks
+[0927] [30:50] D: So
+[0928] [30:52] D: Which which kind of people would be more Likely to buy
+[0929] [30:57] B: Probably people technologically
+[0930] [30:59] B: the user wants a point point was tough
+[0931] [31:01] C: I think so
+[0932] [31:02] C: I mean my mom still has a learn how to use text
+[0933] [31:06] C: messaging
+[0934] [31:06] C: on the phone
+[0935] [31:07] C: and she's out of a long time
+[0936] [31:08] C: you know
+[0937] [31:08] C: she's it to make phone calls and that's it
+[0938] [31:12] C: Yeah So i
+[0939] [31:14] C: think it should have my mom's a remote control like yes We're only two buttons and a joystick
+[0940] [31:19] C: i mean they are probably be the first one she decides not to buy
+[0941] [31:22] C: you know
+[0942] [31:23] B: Uh-huh
+[0943] [31:23] C: Should like is this a remote control
+[0944] [31:25] C: i don't
+[0945] [31:25] C: i had to use and stuff like that
+[0946] [31:27] C: So even if it is really user friendly to us but we use to use and menus all the time
+[0947] [31:33] A: Uh-huh that's uh As one thing is a bit because it's technically innovative
+[0948] [31:39] A: Um For someone who's so techno for pick fact it's simply looks unfamiliar Will be
+[0949] [31:46] C: Yeah Yeah
+[0950] [31:47] A: daunting
+[0951] [31:49] A: Uh-huh
+[0952] [31:49] C: i think it's totally uh radical to have a remote control know No number buttons
+[0953] [31:52] D: Yeah
+[0954] [31:56] C: Well i try to call good maybe
+[0955] [31:58] B: Okay
+[0956] [31:59] B: um Well a much longer we've got
+[0957] [32:01] B: at least five minutes i think
+[0958] [32:03] B: And quickly will pop on the project evaluation
+[0959] [32:07] B: Um So
+[0960] [32:12] B: Uh-huh We've got these uh for criteria here for uh satisfaction
+[0961] [32:20] B: Does anybody want to um Uh you have any opinions on any of them
+[0962] [32:26] B: For example um Or backwards a suppose
+[0963] [32:30] B: The ability to Work in this project using the technology we've been presented with
+[0964] [32:36] B: Um If people made could use of
+[0965] [32:39] B: d. Uh a pen and paper
+[0966] [32:44] B: I would say i am well
+[0967] [32:44] A: Uh-huh
+[0968] [32:44] A: the notes and
+[0969] [32:45] D: Yeah
+[0970] [32:45] A: oodles
+[0971] [32:47] C: Remote ninety a page
+[0972] [32:48] C: and that
+[0973] [32:51] B: Not quite sure what be advantage for a season
+[0974] [32:54] B: the digital pen might be
+[0975] [32:55] C: I think tracking
+[0976] [32:56] A: think
+[0977] [32:56] A: is uh i think the digital pens most of the back of the
+[0978] [32:58] A: uh With the
+[0979] [33:00] A: distractions
+[0980] [33:01] A: to be yes
+[0981] [33:02] A: the top what goes into the corpus
+[0982] [33:04] A: But would it be nice to be able to transfer that
+[0983] [33:05] B: Most
+[0984] [33:09] A: Transfer another paper notes on to the uh Computer or so
+[0985] [33:14] C: Yeah no didn't read it
+[0986] [33:16] B: It does seem like a paper still heavy consideration for taking all so
+[0987] [33:21] B: So maybe this is which we just the way around it
+[0988] [33:23] B: um Oh
+[0989] [33:27] B: Her
+[0990] [33:27] B: Her people satisfy the teamwork was minus
+[0991] [33:29] B: d. display today
+[0992] [33:33] C: the i like that
+[0993] [33:33] C: yeah
+[0994] [33:38] B: Leadership As much as can be later in this uh Then
+[0995] [33:43] D: euros
+[0996] [33:44] C: L.
+[0997] [33:44] C: a.
+[0998] [33:44] C: yeah
+[0999] [33:45] C: But once
+[1000] [33:47] B: Last one was room for creativity
+[1001] [33:50] C: Where are all Yeah
+[1002] [33:50] B: And
+[1003] [33:51] A: and to a until uh until can scare moment
+[1004] [33:52] B: I think we got
+[1005] [33:56] A: It's kitsch
+[1006] [33:56] D: The person per se of creativity
+[1007] [33:57] C: Yeah You're right
+[1008] [33:59] C: We were not liking can ideas
+[1009] [34:02] C: yeah
+[1010] [34:02] C: that's
+[1011] [34:03] C: That was not a problem
+[1012] [34:05] B: Yeah
+[1013] [34:05] B: i think of In the end ideas it can be used and so at least meaning
+[1014] [34:11] B: Not so much that we were full of ideas ball of ones are gonna lie was to actually
+[1015] [34:15] B: Builder
+[1016] [34:16] B: thing
+[1017] [34:16] C: Uh-huh
+[1018] [34:17] B: It's a bit of a pity
+[1019] [34:18] B: Um I would have to do that
+[1020] [34:21] B: I think we need a larger budget
+[1021] [34:24] B: If you're going to be in your right arm product maybe at a technological kind of
+[1022] [34:28] B: sectors and You can afford to
+[1023] [34:30] B: maybe chat a price up slightly from what it is
+[1024] [34:32] B: because they will pay are they just cash to be for
+[1025] [34:32] A: Hmm
+[1026] [34:35] A: Yeah i have uh and i think for
+[1027] [34:36] B: First in the market
+[1028] [34:38] A: Pertaining There's a more to buy more for for many a calculation Wood You gain
+[1029] [34:46] A: warrants the The key more profit and sales and would lose and
+[1030] [34:52] A: Yeah added expense
+[1031] [34:56] D: And the prices that Was twice the Or assembly cost
+[1032] [35:02] D: And Wouldn't have to be twice
+[1033] [35:05] D: uh it could be like You could have this and because of that maybe Fifteen euro
+[1034] [35:12] B: You could you
+[1035] [35:12] D: Still sell it for twenty five
+[1036] [35:15] B: That's true yeah
+[1037] [35:15] D: Maybe
+[1038] [35:17] B: I suppose these are all all have to be taken with uh Uh a different group i guess I stay yeah We are the costs involved
+[1039] [35:28] B: But i mean We've got a a a prototype
+[1040] [35:33] A: Such that is
+[1041] [35:36] B: So no
+[1042] [35:37] B: but
+[1043] [35:37] B: i think it's gone locate a consider any information that we've I i this was all and um so
+[1044] [35:43] C: Maybe cats but but in there if we had a list A more Yeah uh to begin with
+[1045] [35:49] D: In the beginning yeah
+[1046] [35:50] C: Yeah
+[1047] [35:52] B: But we would've
+[1048] [35:52] B: mean we could come up a lot more solid Designing and
+[1049] [35:56] B: that would have to agree
+[1050] [35:57] B: It is very much
+[1051] [35:58] B: picky to um "'kay" so far and the station and uh Find it but maybe some your ideas
+[1052] [36:04] B: or just a bit too expensive
+[1053] [36:07] B: All it's hard to tell do you know the costs
+[1054] [36:10] B: Um Okay
+[1055] [36:18] B: Are the costs within budget
+[1056] [36:19] B: well
+[1057] [36:20] B: They are now
+[1058] [36:21] B: we have are Slightly less than capable product
+[1059] [36:25] B: We've evaluated that
+[1060] [36:26] B: and we can see we came out with the value of free
+[1061] [36:31] A: At on that
+[1062] [36:33] A: One thing i'd say
+[1063] [36:35] A: I mean something like a perhaps be part of the product that the um I'm part testing market research process of data
+[1064] [36:43] A: Um produce mock-up suppose for our finance
+[1065] [36:46] A: And see just how much of a difference Yeah over the going over budget
+[1066] [36:52] A: Um would make the sales
+[1067] [36:55] B: That's
+[1068] [36:55] B: yeah
+[1069] [36:56] C: I like response um consumers
+[1070] [36:58] A: And we could even yeah Market to their actions
+[1071] [37:05] A: We keep your from the nineties
+[1072] [37:11] B: And then the final one where you get to call it how
+[1073] [37:14] B: All going to that later
+[1074] [37:15] A: Yes
+[1075] [37:16] C: sure
+[1076] [37:17] B: Right
+[1077] [37:18] B: um Is anything else anybody would like to And
+[1078] [37:23] B: um no And if anything it's not been covered
+[1079] [37:27] B: before i Quickly pick up the final from i
+[1080] [37:33] B: see Um i don't know
+[1081] [37:36] B: i mean we've got a product
+[1082] [37:37] B: we maybe at the top of it is would like to be
+[1083] [37:40] B: but We've got something
+[1084] [37:43] B: within we can maybe stick on to the market and sell
+[1085] [37:48] B: And of course something we have been avoiding talking about "'cause" we've we've no information is Selling them directly to the manufacturers
+[1086] [37:55] B: There's a huge market
+[1087] [37:56] B: and we briefly touched and
+[1088] [37:57] B: above no more knowledge
+[1089] [37:58] B: and that's what we can see in that
+[1090] [38:06] B: Yeah So
+[1091] [38:10] B: um Question where is the anything we'd
+[1092] [38:12] B: like to And We can maybe even this up slightly earlier and we need to
+[1093] [38:18] B: and then we can Finish up the writing and such
+[1094] [38:20] A: yeah my boss
+[1095] [38:23] B: Yeah
+[1096] [38:24] A: Okay
+[1097] [38:26] C: Okay that's
+[1098] [38:29] B: Yeah thank you for your
+[1099] [38:29] B: participation
+[1100] [38:30] C: Thank you
+[1101] [38:31] A: Thank you
+[1102] [38:38] C: Oh that's a kind of upset Yeah the the budget and uh we have to cut
+[1103] [38:43] C: almost uh-huh
+[1104] [38:44] C: And then we can have it the the locator the thing
+[1105] [38:49] C: That's
+[1106] [38:49] C: yeah that's a spare
+[1107] [38:53] C: Today maybe we're the prices of a For me
+[1108] [39:01] B: That's it

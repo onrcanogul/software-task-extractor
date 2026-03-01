@@ -1,0 +1,147 @@
+{
+  "description": "Reference tasks selected from ICSI and AMI meeting corpora. Used as calibration examples in the multi-agent prompt to guide task extraction quality.",
+  "total_tasks": 10,
+  "sources": ["ICSI", "AMI"],
+  "tasks": [
+    {
+      "source": "ICSI",
+      "meeting_id": "Bmr012",
+      "title": "Fix synchronization bug in audio channels",
+      "description": "Identify and resolve the glitch causing channels to become asynchronous during recording, ensuring accurate audio transcription.",
+      "priority": "HIGH",
+      "task_type": "Bug",
+      "tech_stack": "Audio Processing",
+      "acceptanceCriteria": [
+        "All audio channels remain synchronized throughout the recording session",
+        "No timing drift detected between channels after extended recording periods",
+        "Transcription accuracy is not degraded by channel misalignment"
+      ]
+    },
+    {
+      "source": "ICSI",
+      "meeting_id": "Bed012",
+      "title": "Define XML schema for Bayes-net input",
+      "description": "Create an XML schema that specifies permissible structures for input into the Bayes-net, including situation nodes and their attributes.",
+      "priority": "HIGH",
+      "task_type": "Feature",
+      "tech_stack": "XML",
+      "acceptanceCriteria": [
+        "XML schema validates all required situation node types and attributes",
+        "Schema enforces correct structure for Bayes-net input format",
+        "Existing Bayes-net modules can parse documents conforming to the schema"
+      ]
+    },
+    {
+      "source": "ICSI",
+      "meeting_id": "Bro011",
+      "title": "Write unit tests for recognition scripts",
+      "description": "Develop unit tests for the recognition scripts that will be used on Meeting Recorder digits.",
+      "priority": "MEDIUM",
+      "task_type": "Test",
+      "tech_stack": "Python",
+      "acceptanceCriteria": [
+        "Unit tests cover all critical recognition script functions",
+        "Tests validate correct digit recognition output for known input samples",
+        "Test suite can be executed as part of the CI pipeline"
+      ]
+    },
+    {
+      "source": "ICSI",
+      "meeting_id": "Bmr025",
+      "title": "Implement information retrieval using THISL tools",
+      "description": "Develop a command line tool for indexing and querying meeting data, allowing users to input keywords and retrieve start-end times of relevant segments.",
+      "priority": "HIGH",
+      "task_type": "Feature",
+      "tech_stack": "Tcl-TK, UNIX",
+      "acceptanceCriteria": [
+        "Users can index meeting transcripts via command line",
+        "Keyword search returns accurate start-end timestamps of matching segments",
+        "Tool handles large transcript datasets without performance degradation"
+      ]
+    },
+    {
+      "source": "ICSI",
+      "meeting_id": "Bro012",
+      "title": "Optimize transition probabilities in HMM",
+      "description": "Adjust the self-loop transition probabilities in the HMM to improve recognition rates based on recent findings.",
+      "priority": "HIGH",
+      "task_type": "Refactor",
+      "tech_stack": "HMM",
+      "acceptanceCriteria": [
+        "Transition probabilities are updated based on empirical findings",
+        "Recognition rate improves compared to the previous configuration",
+        "No regression in recognition accuracy for existing test cases"
+      ]
+    },
+    {
+      "source": "AMI",
+      "meeting_id": "IS1008b",
+      "title": "Design REST API for remote control functions",
+      "description": "Create a REST API to manage remote control functionalities, including on/off, channel change, and volume control.",
+      "priority": "MEDIUM",
+      "task_type": "API",
+      "tech_stack": "JavaScript",
+      "acceptanceCriteria": [
+        "API endpoints exist for on/off, channel change, and volume control",
+        "API follows RESTful conventions with proper HTTP methods and status codes",
+        "API documentation is complete and includes request/response examples"
+      ]
+    },
+    {
+      "source": "AMI",
+      "meeting_id": "ES2004d",
+      "title": "Integrate voice recognition software",
+      "description": "Incorporate voice recognition functionality into the remote control system.",
+      "priority": "HIGH",
+      "task_type": "Feature",
+      "tech_stack": "Embedded",
+      "acceptanceCriteria": [
+        "Voice commands are recognized with acceptable accuracy rate",
+        "System responds to voice commands within 2 seconds",
+        "Voice recognition module integrates with existing control flow without conflicts"
+      ]
+    },
+    {
+      "source": "AMI",
+      "meeting_id": "IS1009b",
+      "title": "Implement intuitive user interface for remote control",
+      "description": "Develop a user interface that is simple and intuitive, minimizing the number of buttons to reduce confusion.",
+      "priority": "HIGH",
+      "task_type": "UI/UX",
+      "tech_stack": "JavaScript, HTML/CSS",
+      "acceptanceCriteria": [
+        "Interface uses minimal button count while maintaining all essential functions",
+        "User testing shows reduced confusion compared to the previous layout",
+        "Navigation between functions requires no more than 2 steps"
+      ]
+    },
+    {
+      "source": "AMI",
+      "meeting_id": "TS3006b",
+      "title": "Integrate screen and speech recognition",
+      "description": "Combine the screen functionality with speech recognition capabilities for the remote control.",
+      "priority": "HIGH",
+      "task_type": "Integration",
+      "tech_stack": "Embedded",
+      "acceptanceCriteria": [
+        "Screen displays feedback when speech recognition is active",
+        "Voice commands trigger corresponding screen updates in real-time",
+        "Both modules function correctly when used simultaneously"
+      ]
+    },
+    {
+      "source": "ICSI",
+      "meeting_id": "Bro028",
+      "title": "Optimize VAD for latency reduction",
+      "description": "Reduce VAD processing time to achieve a latency of 220 milliseconds.",
+      "priority": "HIGH",
+      "task_type": "Performance",
+      "tech_stack": "Signal Processing",
+      "acceptanceCriteria": [
+        "VAD processing latency is reduced to 220ms or below",
+        "No degradation in voice activity detection accuracy",
+        "Performance improvement is validated under real-time processing conditions"
+      ]
+    }
+  ]
+}

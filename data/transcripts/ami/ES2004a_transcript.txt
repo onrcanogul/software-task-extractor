@@ -1,0 +1,509 @@
+================================================================================
+AMI Meeting Transcript: ES2004a
+================================================================================
+
+Total Utterances: 497
+Unique Speakers: 4
+Duration: 17.45 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:01] A: hmm
+[0002] [00:11] B: we
+[0003] [00:12] B: When i liked in light so to consider that okay
+[0004] [00:17] A: Yeah
+[0005] [00:18] B: Okay That's fine
+[0006] [00:22] B: Unless this is standing up there
+[0007] [00:25] D: So you got basically script
+[0008] [00:26] D: um Chicken done some you know
+[0009] [00:29] B: We have to I
+[0010] [00:31] D: Right but it's it's okay
+[0011] [00:34] B: Yeah
+[0012] [00:42] D: Oh
+[0013] [00:48] D: I i well i would
+[0014] [01:05] A: Yeah
+[0015] [01:20] B: Okay
+[0016] [01:21] B: Hello everybody
+[0017] [01:23] A: oh
+[0018] [01:23] B: And are in the centre our
+[0019] [01:25] B: project manager
+[0020] [01:27] B: And this is our first meeting Pressing you know
+[0021] [01:31] B: Okay this is our agenda
+[0022] [01:33] B: Um We
+[0023] [01:36] B: will Do some stuff
+[0024] [01:38] B: gets know each other but that a remote control each other
+[0025] [01:41] B: Um then we'll go
+[0026] [01:44] B: T. tool training
+[0027] [01:46] B: Talk for a project plan
+[0028] [01:48] B: Discuss our own ideas everything
+[0029] [01:50] B: Um And we've got twenty five minutes to do that
+[0030] [01:54] B: Far as i can understand
+[0031] [01:57] B: No it we are talking a remote control which prepared you know
+[0032] [02:01] B: Um we want it to be original
+[0033] [02:04] B: Something that's it People haven't thought of
+[0034] [02:07] B: it's not in the shops
+[0035] [02:08] B: Um trendy
+[0036] [02:10] B: Doing to wise market
+[0037] [02:12] B: but You know
+[0038] [02:14] B: Honk
+[0039] [02:14] B: of math or
+[0040] [02:15] B: And user-friendly
+[0041] [02:17] B: t.
+[0042] [02:17] B: k. it's Maybe that which is should be able to use it
+[0043] [02:22] B: Okay Um first is the functional design
+[0044] [02:26] B: um this is where we'll go off and your individual work
+[0045] [02:29] B: Um What needs need to be fulfilled by the product
+[0046] [02:33] B: Um what fact the product have to have
+[0047] [02:36] B: And how it's actually going to do that
+[0048] [02:39] B: And conceptual design
+[0049] [02:42] B: What we're thinking
+[0050] [02:43] B: how it's gonna go
+[0051] [02:44] B: And then the detailed design
+[0052] [02:45] B: how we're actually gonna put into practice make it work
+[0053] [02:50] B: Okay Right so
+[0054] [02:52] B: we're gonna practice it depends
+[0055] [02:54] B: And draw our favourite animal On the whiteboard
+[0056] [02:58] B: out there for us
+[0057] [02:59] B: And um so what's the characteristics of that animal
+[0058] [03:04] B: Solar
+[0059] [03:08] B: Okay And the space for everyone else
+[0060] [03:12] B: Um Or running actually
+[0061] [04:06] B: Okay
+[0062] [04:07] B: And i can ask you to guess
+[0063] [04:08] B: i'm going to tell you that's that's a bit tighter
+[0064] [04:14] B: And oh i see them us
+[0065] [04:16] B: majestic And Independent And Correct
+[0066] [04:32] B: No I would like to go next
+[0067] [04:35] A: Me
+[0068] [04:35] B: "'kay"
+[0069] [04:39] A: Can't
+[0070] [04:45] A: But this come from
+[0071] [04:47] B: You know one
+[0072] [04:49] A: Oh yeah
+[0073] [04:49] B: There we go
+[0074] [04:50] A: thank you
+[0075] [04:53] A: Um maybe you can guess what i'm trying to make
+[0076] [05:06] D: A kind of dog
+[0077] [05:09] A: Yep
+[0078] [05:13] A: It's actually sitting so from Yeah
+[0079] [05:15] D: Sorry
+[0080] [05:16] C: This is you don't
+[0081] [05:16] A: it's setting it's outstanding
+[0082] [05:17] D: Yeah
+[0083] [05:19] A: Okay i i see it as one thing
+[0084] [05:20] A: it's very supportive
+[0085] [05:24] A: It's your best friend
+[0086] [05:24] A: in your You can talk to do
+[0087] [05:26] A: that can be best friend
+[0088] [05:27] A: it doesn't
+[0089] [05:28] A: discriminate
+[0090] [05:28] A: between you Based on what you are
+[0091] [05:31] A: Second it's La
+[0092] [05:33] A: yeah
+[0093] [05:35] A: And putting it's got in you shouldn't Main
+[0094] [05:40] A: starts in some sometimes make or the
+[0095] [05:42] A: dream up even know "'cause" and
+[0096] [05:45] A: so basically these are the two unique features i think We don't at all
+[0097] [05:50] B: Okay thank you
+[0098] [05:51] A: Thank you
+[0099] [05:54] A: Okay
+[0100] [05:54] C: Okay
+[0101] [05:56] A: Sorry
+[0102] [05:56] D: Please please leave me a space
+[0103] [05:57] D: at the post some
+[0104] [05:58] D: unless all
+[0105] [05:59] C: Oh right okay
+[0106] [05:59] D: you can get at all We've done a on a chair
+[0107] [06:01] C: Well since you guys tracing
+[0108] [06:03] C: the ones on as they have to Can
+[0109] [06:04] B: I
+[0110] [06:05] C: skive sign of a random
+[0111] [06:05] A: Because it would like to build into it
+[0112] [06:11] C: And also my drawing scale isn't my grave site Yeah
+[0113] [06:13] B: Well as you can see your quality of the work today is
+[0114] [06:15] A: And
+[0115] [06:16] D: I think it's
+[0116] [06:17] D: astoundingly good
+[0117] [06:19] C: "'kay" now i'm gonna have to change or alter
+[0118] [06:21] C: it so we can have a
+[0119] [06:22] C: because that looks like a big no sorry
+[0120] [06:31] D: Crocodile
+[0121] [06:34] B: Good point
+[0122] [06:34] C: Yeah i can occur could are they can be
+[0123] [06:36] B: We could do i
+[0124] [06:36] C: corrected
+[0125] [06:36] C: other
+[0126] [06:37] C: Well it was it was the best the
+[0127] [06:38] B: Gonna be a pear it
+[0128] [06:39] C: best is an attempt
+[0129] [06:40] C: to the
+[0130] [06:41] C: t.
+[0131] [06:41] C: rex
+[0132] [06:42] C: and then it sold change into a
+[0133] [06:43] C: pelican
+[0134] [06:44] C: but i can occur could unless it
+[0135] [07:00] B: That's true of thing
+[0136] [07:01] C: Yeah and uh well i think on the spot of uh things that is
+[0137] [07:01] D: Piece of
+[0138] [07:09] C: Scary
+[0139] [07:12] C: Uh strong
+[0140] [07:18] C: Yeah that's about it i think yeah yeah
+[0141] [07:19] B: Okay i at the
+[0142] [07:21] D: Okay
+[0143] [07:23] D: I'm i'm very impressed with your artistic skills
+[0144] [07:25] D: mind that
+[0145] [07:25] D: dreadful
+[0146] [07:27] D: But if if they're coming apart
+[0147] [07:29] D: because it's a pen
+[0148] [07:30] C: Well
+[0149] [07:33] D: Oh right click then
+[0150] [07:35] D: i'll hold on
+[0151] [07:37] D: Oops oh dear
+[0152] [07:39] D: What happened there
+[0153] [07:41] B: Technical help
+[0154] [07:45] D: Hopefully i'll stay on
+[0155] [07:45] C: No
+[0156] [07:46] D: to handed fashion
+[0157] [07:47] C: Okay
+[0158] [07:48] D: Okay
+[0159] [07:49] D: Uh Again this is off the top of my head
+[0160] [07:55] D: i was gonna do a big cat too
+[0161] [08:01] B: Hmm
+[0162] [08:01] D: It it
+[0163] [08:01] D: doesn't look like what i wanted to do it i
+[0164] [08:07] D: Uh It's not a
+[0165] [08:09] D: vampire but honestly i
+[0166] [08:09] B: Yeah yeah
+[0167] [08:13] D: somewhere that's the point you behind
+[0168] [08:17] C: "'kay" some so that's
+[0169] [08:17] D: That's my
+[0170] [08:18] D: dreadful
+[0171] [08:18] D: that's the worst yeah
+[0172] [08:19] D: but
+[0173] [08:20] D: It's meant to be any call
+[0174] [08:21] B: See that
+[0175] [08:21] A: Yeah okay
+[0176] [08:21] C: I i go right okay
+[0177] [08:21] B: right
+[0178] [08:22] B: No i see i
+[0179] [08:22] D: You can tell it's uh flying i don't know
+[0180] [08:24] D: i don't have to go
+[0181] [08:26] D: i never thought of if we go
+[0182] [08:28] D: Any goal and i can i'm thinking i might be good enough I
+[0183] [08:31] D: suppose they're also independent
+[0184] [08:32] D: i put that one done again
+[0185] [08:36] D: I don't
+[0186] [08:39] C: We get a golf
+[0187] [08:40] D: End up and independent right
+[0188] [08:43] D: you set of golf
+[0189] [08:44] C: Yeah
+[0190] [08:44] D: Okay
+[0191] [08:45] C: Yeah yeah
+[0192] [08:45] B: You do
+[0193] [08:46] D: Oh oh right okay
+[0194] [08:46] C: An
+[0195] [08:46] C: ego
+[0196] [08:47] D: i'm not "'cause" it called
+[0197] [08:49] D: I think the quite three spare set Flying around everywhere Doing there and think
+[0198] [09:01] D: And uh Birds of prey on a
+[0199] [09:04] D: boat here
+[0200] [09:05] B: Uh-huh
+[0201] [09:06] D: In trap it
+[0202] [09:07] D: out and try it
+[0203] [09:13] D: There we go
+[0204] [09:14] B: That's something
+[0205] [09:14] D: And that pens gonna be okay
+[0206] [09:21] B: Okay
+[0207] [09:23] B: That was fun
+[0208] [09:24] B: Right
+[0209] [09:25] B: I'm fine that's why it's
+[0210] [09:27] B: we've got a selling price of twenty-five euros
+[0211] [09:30] B: Which you don't actually know what That is sometimes at all
+[0212] [09:34] B: Any ideas
+[0213] [09:35] C: It's about
+[0214] [09:36] D: Seventeen
+[0215] [09:36] A: One point four and
+[0216] [09:37] C: yeah
+[0217] [09:38] A: One point four euro would make of all something like that
+[0218] [09:40] C: Yeah yeah so you are
+[0219] [09:42] C: so that
+[0220] [09:42] A: Yeah
+[0221] [09:43] C: Yeah that's seventeen seventeen pounds or
+[0222] [09:44] B: Fifteen
+[0223] [09:44] D: Seventeen times
+[0224] [09:45] B: seventeen
+[0225] [09:46] B: Okay And so
+[0226] [09:48] D: Should we
+[0227] [09:48] D: be making this is the
+[0228] [09:49] D: speech into should first place a comma
+[0229] [09:50] B: I think so i think
+[0230] [09:51] D: Yeah okay
+[0231] [09:52] B: that we have to um put up
+[0232] [09:53] B: or to put in the shared folder or something
+[0233] [09:53] D: Okay
+[0234] [09:54] C: Have it Having said that they did you wanna get one though is The the ones on the market mind missed that about twenty pounds anyway
+[0235] [10:03] C: So i had to be
+[0236] [10:03] D: Right
+[0237] [10:03] B: Yeah
+[0238] [10:04] C: yeah
+[0239] [10:05] C: We have to buy one
+[0240] [10:08] D: So i suppose later it depends if we want to
+[0241] [10:09] D: undercut the price
+[0242] [10:10] D: or
+[0243] [10:11] D: or is it going to make our product look at
+[0244] [10:12] D: e.
+[0245] [10:12] D: p.
+[0246] [10:13] D: c.
+[0247] [10:13] D: d. option
+[0248] [10:13] B: Yeah
+[0249] [10:14] C: Uh-huh
+[0250] [10:14] B: production cost of twelve fifty So
+[0251] [10:17] A: Okay
+[0252] [10:18] A: but if you might yeah
+[0253] [10:19] B: Half Of the selling price is taken up by building yeah
+[0254] [10:21] C: Yeah
+[0255] [10:23] D: Uh-huh
+[0256] [10:25] B: And profit aim is fifty million euros
+[0257] [10:28] B: Which is
+[0258] [10:30] D: Interface here
+[0259] [10:31] B: You yes
+[0260] [10:32] B: um yeah Machines are
+[0261] [10:35] D: Uh-huh
+[0262] [10:36] A: So and
+[0263] [10:38] D: You got market range international
+[0264] [10:39] D: and you did say earlier it's got to be at um accessible and usable bicycle all age groups just
+[0265] [10:45] B: Uh-huh
+[0266] [10:45] D: did They're not focusing on this this market any particular think it's everyone
+[0267] [10:49] B: No
+[0268] [10:49] D: user friendly to one
+[0269] [10:49] B: yeah
+[0270] [10:51] D: okay
+[0271] [10:53] D: Big target group i
+[0272] [10:54] B: Yes yes
+[0273] [10:55] B: i don't think we have to i
+[0274] [10:56] B: i don't think it's a case of worrying about different languages and things like that
+[0275] [11:01] D: Yeah
+[0276] [11:02] B: making a key point
+[0277] [11:04] B: Just it's going to be an international market like
+[0278] [11:07] B: Stray
+[0279] [11:07] B: the american things like that
+[0280] [11:09] B: Okay
+[0281] [11:15] B: What are your experiences with remote controls
+[0282] [11:18] B: I mean i've got we've got um We have three feet here's a t.
+[0283] [11:23] B: v. and that sort of um saying all set up
+[0284] [11:28] C: Yeah
+[0285] [11:28] B: So we don't want a universal remote controls Um do you program each of you things and
+[0286] [11:31] D: Right
+[0287] [11:31] C: Yeah
+[0288] [11:31] A: Yeah
+[0289] [11:33] B: t.
+[0290] [11:34] B: But that kept losing
+[0291] [11:36] B: the signals
+[0292] [11:37] B: so we'd have to
+[0293] [11:38] B: reprogram never then again
+[0294] [11:39] B: i think it's quite cheaply as well
+[0295] [11:41] D: Uh-huh
+[0296] [11:41] C: Yeah
+[0297] [11:41] B: So that might have some stupid
+[0298] [11:42] B: but that was quite good the fact that you could I didn't have six remote control sit in front of you
+[0299] [11:45] C: You still the ones the same time
+[0300] [11:48] D: Right
+[0301] [11:48] A: "'kay"
+[0302] [11:49] A: you wanna integrate everything into one like
+[0303] [11:51] C: Yeah
+[0304] [11:51] D: Uh-huh
+[0305] [11:52] A: Okay
+[0306] [11:52] C: "'cause" see
+[0307] [11:52] D: My experience is only being being given the remote control with the object type by
+[0308] [11:57] D: not doing any
+[0309] [11:57] D: tampering
+[0310] [11:58] D: with an programming
+[0311] [11:59] D: using it to programme
+[0312] [12:00] D: t.
+[0313] [12:00] D: v. you're out of ideas and things
+[0314] [12:02] D: But basically on off volume up and down and channel one to use that basic function and
+[0315] [12:07] B: Hmm
+[0316] [12:07] D: i think i could go any further with it And that
+[0317] [12:11] D: so So that it should be something useful but someone like me as well
+[0318] [12:14] B: Yeah
+[0319] [12:15] B: the main that's the main stuff anyway i mean
+[0320] [12:17] D: Uh-huh
+[0321] [12:18] B: Can you do want to
+[0322] [12:19] B: i hate I hate looking at it
+[0323] [12:22] B: control and seeing a million tiny little buttons with tiny little words thing what the
+[0324] [12:26] B: l.
+[0325] [12:27] B: d.
+[0326] [12:27] B: a.
+[0327] [12:27] B: and just Sitting there searching for the teletext button or something like that
+[0328] [12:27] C: Yeah
+[0329] [12:30] D: And symbols that you don't necessarily understand
+[0330] [12:32] B: Yeah
+[0331] [12:33] D: symbols and then to understand it yeah
+[0332] [12:35] A: Simplification so we'll see
+[0333] [12:37] B: When there
+[0334] [12:39] B: When you got the main things on the front of it
+[0335] [12:41] B: and a section it opens up or something To that Other functions when you can't use and or options kind of Recording things like that inside it
+[0336] [12:48] D: yeah
+[0337] [12:52] D: Uh-huh
+[0338] [12:52] B: "'cause" it doesn't make when you pick up
+[0339] [12:54] B: it does make it big complicated to look at
+[0340] [12:55] D: Uh-huh
+[0341] [12:57] B: All be guess what you're doing
+[0342] [12:57] D: Uh-huh
+[0343] [12:57] C: Uh-huh
+[0344] [12:59] D: Actually i just reasons the point
+[0345] [13:01] D: i want to work design people think
+[0346] [13:03] D: But you know on a mobile phone You can press a key in a gives
+[0347] [13:06] D: you a menu it's got a menu display
+[0348] [13:07] A: Menu right
+[0349] [13:07] A: Menu
+[0350] [13:08] D: a wonderful incorporating that into the design of a remote control might be useful
+[0351] [13:12] C: Yeah
+[0352] [13:12] D: so you've got a little
+[0353] [13:13] D: l.
+[0354] [13:13] D: c.
+[0355] [13:13] D: d. display
+[0356] [13:14] A: Right
+[0357] [13:14] A: i was thinking on the same lines you
+[0358] [13:16] A: Is it are having too many buttons and make it complicated for the user Yeah maybe have an
+[0359] [13:21] A: l.
+[0360] [13:21] A: c.
+[0361] [13:21] A: d. display or something like that
+[0362] [13:22] A: like the whole point And that menus
+[0363] [13:23] D: Within a nice Yeah
+[0364] [13:26] A: And if it's somewhat similar to what you have a mobile phone people might find it easier to browse and maybe get also
+[0365] [13:31] D: Yeah
+[0366] [13:32] B: Well that the older generation
+[0367] [13:33] B: of like
+[0368] [13:34] B: raining
+[0369] [13:34] B: go and that's
+[0370] [13:36] A: You mean to say that Mm that's a number
+[0371] [13:37] B: Like that i can answer his mobile phone
+[0372] [13:39] B: but he couldn't Even
+[0373] [13:39] C: Yeah
+[0374] [13:41] B: dream
+[0375] [13:41] D: Uh-huh Uh-huh
+[0376] [13:41] B: of text thing or something like that
+[0377] [13:43] D: Can he programme this remote control is the basic with that too
+[0378] [13:46] A: Right
+[0379] [13:48] B: I don't think the tapes things
+[0380] [13:49] C: Yeah My kind a touch of them may using teletext a
+[0381] [13:50] B: Okay thank you use
+[0382] [13:50] D: Right
+[0383] [13:53] D: Right
+[0384] [13:54] D: So that's a problem regardless of of any design modifications you you come up with
+[0385] [13:58] C: Yeah
+[0386] [13:59] D: That's gonna be a problem any means the older generation or not
+[0387] [14:01] B: Yeah Right yeah
+[0388] [14:03] C: Yeah Why just needs to be as a as a source self intuitive and you can Can work out One of these things turning
+[0389] [14:12] C: "'cause" i mean menus On So for me Science it now that "'til"
+[0390] [14:17] C: call these pages and stuff which makes it fairly obvious what you turn it a
+[0391] [14:24] C: But then i how
+[0392] [14:26] B: I don't like say you know the new phones that kind of a windows based Running system
+[0393] [14:30] C: Oh yeah
+[0394] [14:32] D: Uh-huh
+[0395] [14:32] B: I find it be easy to if you saying
+[0396] [14:34] B: i kept getting lost in the
+[0397] [14:36] B: friday i have not can you want
+[0398] [14:38] B: to um our friend going you
+[0399] [14:38] D: Uh-huh
+[0400] [14:39] B: want less fancy things for the And it just kept getting lost
+[0401] [14:42] B: but That's just me
+[0402] [14:45] C: Yeah i don't i don't know you how of uh Twenty bottle at twelve euros fifty how much uh Excellent screen if you get
+[0403] [14:53] B: Yeah
+[0404] [14:53] C: you'd you'd have to so do you go down to um But from what
+[0405] [14:55] D: Uh-huh
+[0406] [14:57] C: l.
+[0407] [14:57] C: c.
+[0408] [14:57] C: d. thing you wanna see
+[0409] [14:58] D: Is it possible that but for the older generation
+[0410] [15:00] D: you could have like an extra button that you press the large pretty light you could watch a box
+[0411] [15:05] D: But is it displays last on the screen
+[0412] [15:05] B: Teletext other options well
+[0413] [15:08] D: It displays less on the screen
+[0414] [15:09] D: but as long as they can be good that's the main thing
+[0415] [15:11] B: Yeah
+[0416] [15:13] B: Or ball playing Kind of a
+[0417] [15:15] B: chill
+[0418] [15:16] B: Function
+[0419] [15:17] B: and that's You've got the basic buttons just for you to a volume programme Things
+[0420] [15:23] D: Uh-huh
+[0421] [15:24] B: And also and then a menu to go into With all these pictures of these samples and That's where you control recording and things like that
+[0422] [15:30] D: Yeah
+[0423] [15:32] D: Uh-huh
+[0424] [15:34] D: Mm the other thing is just to talking into mobile phone design features again "'cause" of laptop remote control
+[0425] [15:41] D: for the when you flip over the top your screen is you can have a bigger screen in the The flip over
+[0426] [15:45] B: Uh-huh
+[0427] [15:46] A: "'kay"
+[0428] [15:48] B: I think that's a cost thing
+[0429] [15:49] B: again I don't know how much we're gonna know about it
+[0430] [15:49] C: You
+[0431] [15:50] A: It might
+[0432] [15:51] D: Yeah
+[0433] [15:52] A: It might save a bit of space
+[0434] [15:54] A: at it and sort of in bulk it might look small
+[0435] [15:54] D: Uh-huh
+[0436] [15:55] B: Yes yeah that's important
+[0437] [15:56] D: Yeah The smaller
+[0438] [15:57] C: Yeah
+[0439] [15:57] A: But it might have it's cost implications
+[0440] [15:59] B: Okay
+[0441] [15:59] D: And there's no reason
+[0442] [16:00] D: we need to make it look a as fashionable and stylish is a mobile phone
+[0443] [16:03] D: i can still be like we plastic You know
+[0444] [16:06] D: Something that's easily mould it and Geez
+[0445] [16:08] B: Yeah
+[0446] [16:09] D: Sorry okay so then you
+[0447] [16:10] D: terrace you guys i
+[0448] [16:10] C: No
+[0449] [16:12] B: I am right okay
+[0450] [16:14] B: we've got half an hour the for the next meeting
+[0451] [16:16] B: so we're gonna go off and your individual things
+[0452] [16:19] B: Um I think that's probably about it
+[0453] [16:23] B: And then we'll come back an eight again
+[0454] [16:25] C: Yeah
+[0455] [16:25] B: And i can't stand out there Fantastic powerpoint presentation
+[0456] [16:28] C: Just Just uh uh quite thing about the
+[0457] [16:31] B: Sure
+[0458] [16:32] C: But what you're saying probably it doesn't doesn't need to be fashionable
+[0459] [16:36] C: be so
+[0460] [16:37] C: why i have a quick look at the company website
+[0461] [16:40] C: and it's like the The
+[0462] [16:42] C: uh we put the fashion into electronics
+[0463] [16:45] D: Oh right
+[0464] [16:45] C: so i think I think the top design thing what they caught
+[0465] [16:45] A: Okay
+[0466] [16:45] B: Okay
+[0467] [16:46] D: Okay
+[0468] [16:49] D: Sure
+[0469] [16:49] C: I mean you don't you You can still have plastic
+[0470] [16:50] D: Yeah
+[0471] [16:52] C: and it look Quite good but
+[0472] [16:54] D: Yeah i mean it doesn't have to be that in it
+[0473] [16:57] D: but that was my main point
+[0474] [16:58] C: Yeah
+[0475] [16:58] D: we do have to use them as
+[0476] [16:59] D: a lot of use plastic does make it cheaper
+[0477] [16:59] B: Hmm
+[0478] [17:01] D: to see that would
+[0479] [17:02] C: Yeah yeah
+[0480] [17:02] D: yeah
+[0481] [17:02] B: I put
+[0482] [17:02] B: "'em" Okay
+[0483] [17:05] B: I mean this guy remote control something
+[0484] [17:06] B: that kind of mold it
+[0485] [17:07] B: and Look a bit different
+[0486] [17:09] B: and the telly with remote controls to settle for plastic
+[0487] [17:12] D: Right
+[0488] [17:13] B: That's that's hard to
+[0489] [17:15] B: So yeah yeah i can say stuff i think uh-huh
+[0490] [17:17] D: "'kay"
+[0491] [17:18] B: Okay So That's breaking up there
+[0492] [17:22] B: Okay
+[0493] [17:22] C: Okay
+[0494] [17:23] B: see in half an hour
+[0495] [17:26] D: Do we get back to that
+[0496] [17:27] B: I think so
+[0497] [17:28] A: Yeah

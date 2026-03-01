@@ -1,0 +1,871 @@
+{
+  "total_tasks": 92,
+  "total_meetings": 28,
+  "summary": {
+    "by_priority": {
+      "Medium": 54,
+      "High": 35,
+      "Low": 3
+    },
+    "by_task_type": {
+      "Feature": 62,
+      "UI/UX": 12,
+      "Refactor": 5,
+      "Integration": 4,
+      "Hardware/Firmware": 3,
+      "Research": 3,
+      "Test": 2,
+      "API": 1
+    },
+    "by_tech_stack": {
+      "Embedded": 46,
+      "UI/UX": 10,
+      "Electronics": 8,
+      "Embedded/Electronics": 5,
+      "JavaScript, HTML/CSS": 4,
+      "JavaScript": 4,
+      "Embedded, UI/UX": 2,
+      "JavaScript, HTML, CSS": 2,
+      "Embedded, Electronics": 2,
+      "Embedded, C++": 1,
+      "Embedded, Voice Recognition": 1,
+      "Voice Recognition": 1,
+      "Python": 1,
+      "Web Development": 1,
+      "Research": 1,
+      "Design": 1,
+      "Hardware": 1,
+      "JavaScript, Embedded": 1
+    }
+  },
+  "tasks": [
+    {
+      "meeting_id": "ES2003a",
+      "title": "Design touch screen remote control interface",
+      "description": "Create a user-friendly interface for a touch screen remote control that allows for programming and customization of functions.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded, UI/UX"
+    },
+    {
+      "meeting_id": "ES2003a",
+      "title": "Implement macro functionality for remote control",
+      "description": "Develop a feature that allows users to program macros for controlling multiple devices with a single button press.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded, C++"
+    },
+    {
+      "meeting_id": "ES2003a",
+      "title": "Create interactive television control features",
+      "description": "Design and implement features that allow users to control interactive television functions, such as camera angles and playback options.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded, UI/UX"
+    },
+    {
+      "meeting_id": "ES2003b",
+      "title": "Implement voice recognition feature for remote control",
+      "description": "Integrate voice recognition software to allow users to control the remote using voice commands.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2003b",
+      "title": "Design user interface for voice-controlled remote",
+      "description": "Create a user-friendly interface that accommodates voice commands and simplifies remote control usage.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "UI/UX",
+      "tech_stack": "JavaScript, HTML, CSS"
+    },
+    {
+      "meeting_id": "ES2003b",
+      "title": "Optimize remote control button layout",
+      "description": "Refactor the button layout to enhance usability based on user feedback regarding button accessibility.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2004a",
+      "title": "Design remote control user interface",
+      "description": "Create a user-friendly interface for the remote control that simplifies navigation and access to features.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "UI/UX",
+      "tech_stack": "JavaScript, HTML, CSS"
+    },
+    {
+      "meeting_id": "ES2004a",
+      "title": "Implement menu display for remote control",
+      "description": "Incorporate a menu display feature into the remote control to allow users to access additional functions easily.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded, Electronics"
+    },
+    {
+      "meeting_id": "ES2004d",
+      "title": "Integrate voice recognition software",
+      "description": "Incorporate voice recognition functionality into the remote control system.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2004d",
+      "title": "Design infrared transmission system",
+      "description": "Develop the infrared transmission system for remote control communication.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Integration",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "ES2004d",
+      "title": "Create touch screen interface",
+      "description": "Design and implement the touch screen interface for the remote control.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "UI/UX",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2008b",
+      "title": "Design user interface for remote control",
+      "description": "Create several prototypes of user interfaces for the remote control and gather feedback on usability.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "ES2008b",
+      "title": "Implement voice recognition feature",
+      "description": "Develop a voice recognition module that allows users to control the remote with voice commands.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded, Voice Recognition"
+    },
+    {
+      "meeting_id": "ES2008b",
+      "title": "Optimize remote control button layout",
+      "description": "Refactor the button layout to prioritize frequently used functions like volume and channel change.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "ES2011a",
+      "title": "Design water-resistant remote control",
+      "description": "Create a design for a remote control that is water-resistant, strong, and user-friendly.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2011a",
+      "title": "Implement remote control button mapping",
+      "description": "Map the buttons on the remote control to their respective functions, ensuring ease of use.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2011a",
+      "title": "Create remote control with call button",
+      "description": "Develop a feature that allows the remote control to emit a sound or light signal to help locate it.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2011a",
+      "title": "Integrate screen functionality in remote control",
+      "description": "Design and integrate a screen into the remote control for displaying channel information and programming options.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2011b",
+      "title": "Design remote control button layout",
+      "description": "Create a user-friendly layout focusing on frequently used buttons for channel selection, volume, and power.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "ES2011b",
+      "title": "Implement location function for remote",
+      "description": "Develop a feature that allows the remote to signal its location through beeping or vibrating.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded/Electronics"
+    },
+    {
+      "meeting_id": "ES2011b",
+      "title": "Integrate speech recognition functionality",
+      "description": "Implement speech recognition to allow users to control the remote using voice commands.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Voice Recognition"
+    },
+    {
+      "meeting_id": "ES2011b",
+      "title": "Optimize remote control power management",
+      "description": "Design an efficient power management system for the remote to extend battery life.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Embedded/Electronics"
+    },
+    {
+      "meeting_id": "ES2011c",
+      "title": "Design circuit board for remote control",
+      "description": "Create a circuit board that takes button input and sends it to the output.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Hardware/Firmware",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "ES2011c",
+      "title": "Create UI for remote control",
+      "description": "Develop a graphical interface system for the remote control that displays options and allows user interaction.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "UI/UX",
+      "tech_stack": "JavaScript, HTML/CSS"
+    },
+    {
+      "meeting_id": "ES2011c",
+      "title": "Implement menu navigation for remote control",
+      "description": "Develop functionality to navigate through different settings and options on the remote control's interface.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "JavaScript"
+    },
+    {
+      "meeting_id": "ES2014a",
+      "title": "Design new remote control interface",
+      "description": "Create a user-friendly interface for the new remote control device that is easy to use and visually appealing.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "ES2014a",
+      "title": "Develop button layout for remote control",
+      "description": "Design a button layout that is easy to press and access for users, ensuring functionality is prioritized.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2014a",
+      "title": "Integrate remote control with multiple devices",
+      "description": "Develop a system that allows the remote control to operate multiple devices seamlessly, reducing the number of remotes needed.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Integration",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2014b",
+      "title": "Design remote control interface",
+      "description": "Create a user-friendly interface for the remote control with clearly labeled buttons for volume and channel control.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded/Electronics"
+    },
+    {
+      "meeting_id": "ES2014b",
+      "title": "Implement infrared signal transmission",
+      "description": "Develop the functionality to send infrared signals from the remote to the television for various commands.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded/Electronics"
+    },
+    {
+      "meeting_id": "ES2014b",
+      "title": "Optimize button layout for user experience",
+      "description": "Refactor the button layout on the remote control to enhance usability and accessibility.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Refactor",
+      "tech_stack": "Embedded/Electronics"
+    },
+    {
+      "meeting_id": "ES2014c",
+      "title": "Implement speech recognition module",
+      "description": "Integrate speech recognition functionality into the remote control system, ensuring it can process voice commands effectively.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "ES2014c",
+      "title": "Design printed circuit board for remote control",
+      "description": "Create a schematic for the printed circuit board that supports the required features including push buttons and scroll wheel.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "ES2014c",
+      "title": "Develop user interface for remote control",
+      "description": "Design and implement the user interface for the remote control, including button layout and functionality.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "IS1008b",
+      "title": "Implement remote control button mapping",
+      "description": "Map remote control buttons to corresponding device functions, ensuring user-friendly operation.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1008b",
+      "title": "Design REST API for remote control functions",
+      "description": "Create a REST API to manage remote control functionalities, including on/off, channel change, and volume control.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "API",
+      "tech_stack": "JavaScript"
+    },
+    {
+      "meeting_id": "IS1008b",
+      "title": "Write unit tests for remote control features",
+      "description": "Develop unit tests to validate the functionality of remote control features, ensuring reliability and performance.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Test",
+      "tech_stack": "Python"
+    },
+    {
+      "meeting_id": "IS1008b",
+      "title": "Optimize UI for remote control settings",
+      "description": "Refactor the user interface for remote control settings to enhance usability and accessibility.",
+      "assignee": "Belirtilmedi",
+      "priority": "Low",
+      "task_type": "Refactor",
+      "tech_stack": "JavaScript"
+    },
+    {
+      "meeting_id": "IS1008c",
+      "title": "Implement speech recognition integration",
+      "description": "Integrate speech recognition functionality into the remote control system, allowing users to control devices via voice commands.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1008c",
+      "title": "Design ergonomic remote control layout",
+      "description": "Create a user-friendly layout for the remote control that includes an on/off switch, volume control, and channel buttons, ensuring comfort and accessibility.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "IS1008c",
+      "title": "Add battery life indicator feature",
+      "description": "Implement a battery life indicator that alerts users when the battery is low, enhancing user experience.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1008c",
+      "title": "Develop custom remote control case design",
+      "description": "Allow users to customize the design of their remote control cases through a web interface, enabling personalized aesthetics.",
+      "assignee": "Belirtilmedi",
+      "priority": "Low",
+      "task_type": "Feature",
+      "tech_stack": "Web Development"
+    },
+    {
+      "meeting_id": "IS1009a",
+      "title": "Design multifunctional remote control",
+      "description": "Create a design for a remote control that can control various household devices, including heating systems.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009a",
+      "title": "Implement signal activation for remote control",
+      "description": "Develop a feature that allows the remote control to emit a signal (beep or light) when it is in a dark spot or lost.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009b",
+      "title": "Design remote control circuit",
+      "description": "Create a circuit design for the remote control that integrates a chip, power supply, and user interface controls.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Hardware/Firmware",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "IS1009b",
+      "title": "Implement intuitive user interface for remote control",
+      "description": "Develop a user interface that is simple and intuitive, minimizing the number of buttons to reduce confusion.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "UI/UX",
+      "tech_stack": "JavaScript, HTML/CSS"
+    },
+    {
+      "meeting_id": "IS1009b",
+      "title": "Add light and sound features to remote control",
+      "description": "Incorporate a light-emitting feature and sound alerts to help users locate the remote control easily.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded, Electronics"
+    },
+    {
+      "meeting_id": "IS1009c",
+      "title": "Implement speech recognition feature for remote control",
+      "description": "Integrate a speech recognition module that allows users to control the television by voice commands.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009c",
+      "title": "Design user-friendly interface for remote control",
+      "description": "Create a simple and intuitive UI for the remote control that is easy for children to use.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "UI/UX",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009c",
+      "title": "Develop channel switching functionality",
+      "description": "Implement functionality to switch channels using buttons on the remote control.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009c",
+      "title": "Create volume control feature",
+      "description": "Add functionality to increase or decrease the volume using dedicated buttons on the remote control.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009c",
+      "title": "Integrate subtitle control for TV programs",
+      "description": "Develop a feature that allows users to toggle subtitles on and off for programs being watched.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009d",
+      "title": "Integrate speech recognition in remote control",
+      "description": "Implement a speech recognition module that can interpret voice commands and control the remote functionalities.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009d",
+      "title": "Design circuit board for remote control",
+      "description": "Create a circuit board design that includes necessary components like capacitors, diodes, and a rechargeable battery.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Hardware/Firmware",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "IS1009d",
+      "title": "Develop user interface for remote control",
+      "description": "Create a user-friendly interface for the remote control that includes buttons for channel control and volume adjustment.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "UI/UX",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1009d",
+      "title": "Implement button mapping for remote control",
+      "description": "Map physical buttons to their respective functions in the remote control software.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3003b",
+      "title": "Design remote control docking station",
+      "description": "Create a docking station that sends a signal to the remote to beep, helping users locate it in the room.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "TS3003b",
+      "title": "Implement rechargeable battery system for remote",
+      "description": "Design a system that allows the remote to be charged when placed in the docking station.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "TS3003b",
+      "title": "Create LCD display interface for remote control",
+      "description": "Develop an interface for a touch screen display that shows the functions of different devices.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "UI/UX",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3003c",
+      "title": "Implement speech recognition for remote control",
+      "description": "Integrate speech recognition functionality to allow users to control the remote with voice commands.",
+      "assignee": "B",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3003c",
+      "title": "Design UI for remote control interface",
+      "description": "Create a user-friendly interface for the remote control that includes large buttons and a small display for showing functions.",
+      "assignee": "B",
+      "priority": "Medium",
+      "task_type": "UI/UX",
+      "tech_stack": "JavaScript"
+    },
+    {
+      "meeting_id": "TS3003c",
+      "title": "Develop subtitle button functionality",
+      "description": "Implement a button that toggles subtitles on and off, with options for small and large text display.",
+      "assignee": "B",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3003c",
+      "title": "Create display function for channel information",
+      "description": "Build a function that shows the current channel on the remote's display when the television is on.",
+      "assignee": "B",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3004b",
+      "title": "Design universal remote control interface",
+      "description": "Create a user-friendly interface for a universal remote control, focusing on usability for older adults.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "TS3004b",
+      "title": "Implement button functionality for remote control",
+      "description": "Develop the basic button functionalities including volume control and channel selection for the remote control.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3004b",
+      "title": "Create a clap detection system for remote control",
+      "description": "Develop a system that allows the remote control to beep when the user claps, aiding in locating the remote.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3004b",
+      "title": "Conduct user testing for remote control features",
+      "description": "Gather feedback from elderly users on the usability of the remote control features and interface.",
+      "assignee": "Belirtilmedi",
+      "priority": "Low",
+      "task_type": "Test",
+      "tech_stack": "Research"
+    },
+    {
+      "meeting_id": "TS3004c",
+      "title": "Design innovative remote control interface",
+      "description": "Create a new look-and-feel for the remote control that is different from ordinary designs, focusing on usability and aesthetic appeal.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "TS3004c",
+      "title": "Implement technological innovations in remote control",
+      "description": "Integrate new technical features into the remote control, avoiding traditional methods like speech recognition.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3004c",
+      "title": "Create changeable front designs for remote control",
+      "description": "Develop multiple interchangeable front designs for the remote control to enhance user customization.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Design"
+    },
+    {
+      "meeting_id": "TS3004c",
+      "title": "Research advanced chip requirements for display",
+      "description": "Investigate the specifications and costs associated with using an advanced chip for the remote control display.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "Hardware"
+    },
+    {
+      "meeting_id": "TS3004d",
+      "title": "Design speech recognition button layout",
+      "description": "Create a layout for the speech recognition buttons including on/off and configuration options.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3004d",
+      "title": "Implement menu navigation buttons",
+      "description": "Develop buttons for menu navigation including up, down, and select functionalities.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3004d",
+      "title": "Add color changing functionality for buttons",
+      "description": "Implement functionality to change button colors based on user input.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3004d",
+      "title": "Create volume control button",
+      "description": "Design and implement a button for volume control with visual feedback.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3006a",
+      "title": "Develop new remote control prototype",
+      "description": "Create a prototype for a user-friendly remote control that incorporates both original and trendy features.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3006a",
+      "title": "Design user interface for remote control",
+      "description": "Create a functional design for the user interface of the remote control, ensuring it meets user requirements.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "TS3006a",
+      "title": "Implement infrared communication for remote control",
+      "description": "Use infrared light to enable communication between the remote control and the devices it controls.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3006b",
+      "title": "Integrate screen and speech recognition",
+      "description": "Combine the screen functionality with speech recognition capabilities for the remote control.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Integration",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3006b",
+      "title": "Create screen menu for configuration options",
+      "description": "Develop a screen menu to manage configuration options while keeping basic functions accessible on the device.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3006c",
+      "title": "Implement speech command integration",
+      "description": "Integrate speech commands with existing remote control functions, ensuring compatibility with both basic and advanced options.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Integration",
+      "tech_stack": "JavaScript, Embedded"
+    },
+    {
+      "meeting_id": "TS3006c",
+      "title": "Design UI for remote control",
+      "description": "Create a user-friendly interface for the remote control that incorporates a fancy look-and-feel with spongy materials and fruit-like colors.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "UI/UX",
+      "tech_stack": "JavaScript, HTML/CSS"
+    },
+    {
+      "meeting_id": "TS3006c",
+      "title": "Select energy source for remote control",
+      "description": "Evaluate and decide on the energy source for the remote control, considering options like traditional batteries, kinetic energy, and solar cells.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "Electronics"
+    },
+    {
+      "meeting_id": "TS3006d",
+      "title": "Integrate scroll-wheel pushbutton",
+      "description": "Develop an integrated scroll-wheel pushbutton that can control all menu functions including channel and volume adjustments.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3006d",
+      "title": "Design UI for channel selection",
+      "description": "Create a user interface that allows users to select channels using the integrated scroll-wheel and display options on the LCD screen.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "UI/UX",
+      "tech_stack": "JavaScript, HTML/CSS"
+    },
+    {
+      "meeting_id": "TS3006d",
+      "title": "Implement sound adjustment feature",
+      "description": "Develop a feature that allows users to adjust sound levels with a preview of the sound output.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3007b",
+      "title": "Design remote control button layout",
+      "description": "Create a user-friendly layout focusing on the most used buttons for switching channels, teletext, and volume controls.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "UI/UX"
+    },
+    {
+      "meeting_id": "TS3007b",
+      "title": "Implement speech function for remote location",
+      "description": "Develop a feature that allows the remote to respond with a sound when a user asks 'Where is the remote?'",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "TS3007b",
+      "title": "Explore Bluetooth integration for remote control",
+      "description": "Investigate the feasibility of adding Bluetooth functionality to the remote control for enhanced connectivity.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Research",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1008d",
+      "title": "Implement voice recognition control for remote",
+      "description": "Enable voice recognition functionality to control TV functions such as volume and channel.",
+      "assignee": "Belirtilmedi",
+      "priority": "High",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1008d",
+      "title": "Design LCD display interface for remote control",
+      "description": "Create an interface for the LCD display that shows volume, channel, and menu options.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "UI/UX",
+      "tech_stack": "Embedded"
+    },
+    {
+      "meeting_id": "IS1008d",
+      "title": "Develop customizable remote control firmware",
+      "description": "Implement firmware that allows customization of remote control features and settings.",
+      "assignee": "Belirtilmedi",
+      "priority": "Medium",
+      "task_type": "Feature",
+      "tech_stack": "Embedded"
+    }
+  ]
+}

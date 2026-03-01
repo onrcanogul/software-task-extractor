@@ -1,0 +1,566 @@
+================================================================================
+AMI Meeting Transcript: IS1008c
+================================================================================
+
+Total Utterances: 554
+Unique Speakers: 4
+Duration: 24.82 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:26] A: I haven't come back of the lunch
+[0002] [00:28] A: I hope a very good lunch
+[0003] [00:32] A: To do that
+[0004] [00:35] A: For uh this meeting domain
+[0005] [00:37] A: i didn't okay uh to discuss about the Conceptual design meeting
+[0006] [00:46] A: Okay and the
+[0007] [00:48] A: agenda will be Double opening
+[0008] [00:53] A: and uh that's uh the project manager or secretary that's me
+[0009] [00:57] A: and the the the presentations from the christian And the
+[0010] [01:04] A: Agnes
+[0011] [01:05] A: And then you see it
+[0012] [01:08] A: And finally in this meeting we have to decide
+[0013] [01:13] A: And we have to take a decision on the remote control Concepts
+[0014] [01:20] A: And uh oh the functional design
+[0015] [01:23] A: So we all forty minutes
+[0016] [01:25] A: I think it's uh It a bit uh no
+[0017] [01:30] A: but i i hope we can finish it up
+[0018] [01:33] A: So i'll hand go to the The functionality into
+[0019] [01:38] A: the christian okay
+[0020] [01:39] A: to discuss about the the components Concept
+[0021] [01:44] C: Okay
+[0022] [01:45] C: So uh if you could open the powerpoint presentation
+[0023] [01:50] C: And number two
+[0024] [01:52] A: but to
+[0025] [01:57] A: "'kay"
+[0026] [02:01] C: Components design
+[0027] [02:03] C: Okay
+[0028] [02:06] C: So uh to put the slideshow
+[0029] [02:09] C: moment
+[0030] [02:11] A: The next alright
+[0031] [02:11] C: Right here
+[0032] [02:12] C: Is that
+[0033] [02:13] C: that one
+[0034] [02:13] C: yes please
+[0035] [02:15] C: Thank you
+[0036] [02:16] C: Oh yes
+[0037] [02:20] C: So well
+[0038] [02:20] C: um We
+[0039] [02:24] C: were looking you specifically uh the components so that the following components
+[0040] [02:30] C: Not the case the power supply Uh means of
+[0041] [02:34] C: communications with the television set
+[0042] [02:38] C: And then since we talked about using some sort of speech recognition
+[0043] [02:41] C: have to have mike from
+[0044] [02:43] C: all made an extra hum have to have mike found in the device
+[0045] [02:47] C: But
+[0046] [02:47] C: um Maybe to have it uh A way
+[0047] [02:51] C: it has to pass to here at the speaker
+[0048] [02:54] C: And
+[0049] [02:54] C: um so it could be in the television set could be in the device
+[0050] [02:58] C: but Summary have to put the microphone
+[0051] [03:00] C: Um and a way of making beeps or sounds you can find it when it gets lost
+[0052] [03:07] C: Um so the other one thing that we sort
+[0053] [03:10] C: Are
+[0054] [03:10] C: Are method For One about this as we've looked at uh of the store it it's
+[0055] [03:15] C: torque
+[0056] [03:16] C: or record what's work hasn't
+[0057] [03:18] C: And then we also um One to evaluate some new materials
+[0058] [03:22] C: and we contacted manufacturing for their input
+[0059] [03:25] C: because Course stream Might come up and choose the material that then manufacturing didn't have the technologies capabilities to offer us
+[0060] [03:33] C: so well
+[0061] [03:34] C: this is the approach that which uh during our um our research
+[0062] [03:39] C: So um for the case Um we at all we were making a specification specific assumption
+[0063] [03:47] C: that it would be curved and design
+[0064] [03:49] C: course now i wanted it to be expendable and shrink a ball
+[0065] [03:53] C: but Um that that doesn't seem to be one of the year choice not option we can We can really serious the explorer
+[0066] [04:02] C: So then we were thinking about um rubber
+[0067] [04:05] C: but um Unfortunately that's gonna because of the sheets uh factor
+[0068] [04:11] C: and um that might be some Problems with them uh how it's It goes with the board
+[0069] [04:20] C: Uh and uh then plastic also has its problems melt
+[0070] [04:24] C: saying and it's
+[0071] [04:24] C: brittle
+[0072] [04:25] C: it is
+[0073] [04:25] C: brittle
+[0074] [04:25] C: laughter
+[0075] [04:26] C: while
+[0076] [04:26] C: so i'm still had
+[0077] [04:28] C: thai
+[0078] [04:28] C: titanium and and what available
+[0079] [04:31] C: But um unfortunately uh uh titanium's also gonna
+[0080] [04:35] C: laminated
+[0081] [04:36] C: the
+[0082] [04:36] C: them people and manufacturing said that you could make curved case a set of titanium
+[0083] [04:41] C: although Apple do it with Power but i'm not quite sure
+[0084] [04:46] C: but At
+[0085] [04:47] C: nevertheless so um the eliminated all of our options except what
+[0086] [04:52] C: So This is our flying
+[0087] [04:53] B: Financially
+[0088] [04:53] B: friendly
+[0089] [04:55] C: And it is she said it's environmentally friendly a mature or
+[0090] [04:59] C: so Were were correctly uh proposing
+[0091] [05:03] C: Uh we'll get oh my personal preferences in just a sec
+[0092] [05:05] C: so there's this other matter of the chips and um well we could use a simple design on the board
+[0093] [05:11] C: but uh this simple chips but that's only works for the buttons you don't get very much um intelligence with the simple one
+[0094] [05:18] C: And um then there was a regular which
+[0095] [05:22] C: I regret
+[0096] [05:23] C: that i've forgotten exactly what Why um well
+[0097] [05:26] C: emanating
+[0098] [05:27] C: that one
+[0099] [05:28] C: Uh the other option was is advanced chip on print
+[0100] [05:32] C: And uh we like we
+[0101] [05:34] C: we found that it it includes is infrared sender
+[0102] [05:38] C: which we member the beam was that was an important component of finding the right chip
+[0103] [05:43] C: And and manufacturing as tall
+[0104] [05:45] C: as they they if i um uh recently developed a uh a sensor and a
+[0105] [05:50] C: speaker at that would that be integrated into this advanced chip on print
+[0106] [05:54] C: so Uh we we
+[0107] [05:56] C: uh Yeah jen thing right you are personal preferences
+[0108] [06:00] C: Well um i i do think we should you know you some of us some real exotic words Like
+[0109] [06:06] C: um you know uh well you guys come from tropical
+[0110] [06:10] C: country so you can can think of some trees than some nice words
+[0111] [06:14] C: i think that People might really want to design their own cases
+[0112] [06:19] C: to see they could do through the the sound three dimensional design on the internet
+[0113] [06:24] C: and then they could submit
+[0114] [06:25] C: their orders can like you submit
+[0115] [06:26] C: a custom car or do or you know
+[0116] [06:28] C: when you can choose the colour and size of the wheels and the colours of the weather and things like that
+[0117] [06:34] C: and then i uh i think we should go with the solar cells as well as the um the microphone and speaker
+[0118] [06:40] C: on the advanced chip
+[0119] [06:42] C: So the so the findings of our research
+[0120] [06:45] C: and my recommendations
+[0121] [06:47] C: Um for the new remote control well mm would be to have um Have be made out of wood
+[0122] [06:54] C: Any problems with a
+[0123] [06:56] A: Can you go back uh one slide
+[0124] [06:59] C: I'm not sure
+[0125] [07:00] C: uh well i don't see
+[0126] [07:01] C: it go back here
+[0127] [07:02] A: Yeah it's uh our
+[0128] [07:03] A: costs and uh uh What's mean exactly a a once a chip on print
+[0129] [07:09] A: what's meaning of that
+[0130] [07:10] C: I think it um no um a multiple uh chip design
+[0131] [07:16] C: um and it's that may be printed on to the circuit board
+[0132] [07:22] C: Uh it i could find out more about that uh the for the next a next meeting
+[0133] [07:24] A: Is it means it's on this Yeah
+[0134] [07:27] A: is it on uh michael was my control set based or or
+[0135] [07:32] C: I don't know
+[0136] [07:33] C: but i'll find out more our next meeting
+[0137] [07:34] A: Okay that that would be great
+[0138] [07:36] A: so if you find out know technology background okay
+[0139] [07:38] A: so that would be cord
+[0140] [07:39] C: Sounds good
+[0141] [07:41] B: Why the plastic eliminated as a possible to
+[0142] [07:43] C: Because um it gets a little
+[0143] [07:47] C: Cracks
+[0144] [07:48] B: Uh-huh
+[0145] [07:53] C: We want
+[0146] [07:53] C: we expect these um And these remote controls to be around for several hundred years
+[0147] [08:00] C: So
+[0148] [08:02] B: What
+[0149] [08:02] D: Well i Right
+[0150] [08:05] C: They're expressing
+[0151] [08:06] D: but it's fresh as
+[0152] [08:08] D: well after
+[0153] [08:08] D: s.
+[0154] [08:09] D: i.
+[0155] [08:12] C: to speak for itself up there
+[0156] [08:13] B: Well i think
+[0157] [08:16] B: I think what the way that you ran in the same types of problems
+[0158] [08:19] B: with me
+[0159] [08:20] B: i mean it's yeah so it if you drop bit
+[0160] [08:23] B: It's i'm not so it's
+[0161] [08:27] A: See on a comment about the
+[0162] [08:28] D: I find where to sell it
+[0163] [08:30] C: Yeah oh well
+[0164] [08:31] D: Ready to sell it
+[0165] [08:32] B: If you
+[0166] [08:32] B: we if he is really good quality what it that might work
+[0167] [08:35] D: No it's not no no
+[0168] [08:35] C: And you can It's a little sweater to take care of
+[0169] [08:35] B: but you can just use
+[0170] [08:37] D: no the only one delay would you can use of the ones that are hard it's hard work
+[0171] [08:41] B: Yeah exactly yeah
+[0172] [08:42] D: but there's some very pretty close that there
+[0173] [08:45] C: Oh i'm glad
+[0174] [08:46] D: That's actually very innovative idea
+[0175] [08:48] C: O.
+[0176] [08:48] C: k.
+[0177] [08:48] C: i.
+[0178] [08:50] C: r. and
+[0179] [08:50] C: r. time people remote control of my uh it's
+[0180] [08:55] D: Let's have a very rare and different idea that uh you can choose you colour would you type of what
+[0181] [09:02] B: The
+[0182] [09:03] B: stain
+[0183] [09:03] D: I mean each person they have their personalised
+[0184] [09:05] D: individualised
+[0185] [09:07] D: Speech recognition remote control and what it's Not on the market
+[0186] [09:12] A: Yeah so it's it's looks got the the design the function design
+[0187] [09:16] A: uh what about a year you know
+[0188] [09:21] B: In terms of comments on that so in terms of my own
+[0189] [09:22] A: Yes yes yes In terms of comments cost
+[0190] [09:23] D: Because of well i
+[0191] [09:27] C: She works and keep the context a nice to she's that she was a real little bit prepared for this
+[0192] [09:31] B: Yeah
+[0193] [09:32] C: But the way yeah it was not
+[0194] [09:34] D: Well i
+[0195] [09:38] B: I think that the quality materials that then It shouldn't influence the design principles to match which
+[0196] [09:45] B: you'll see with my presentation
+[0197] [09:46] B: When
+[0198] [09:46] B: When think we'd have to check those what the user's whether How quickly the novelty
+[0199] [09:51] B: wears
+[0200] [09:51] B: off of having
+[0201] [09:52] C: Uh-huh That
+[0202] [09:53] C: you would wanna
+[0203] [09:53] C: have to have splinters and and what you're using yeah
+[0204] [09:55] B: Yeah for example
+[0205] [09:57] B: So
+[0206] [09:58] B: Have to see how Kid friendly and it's and it's And all that
+[0207] [10:03] B: but
+[0208] [10:04] C: So you if you do i get
+[0209] [10:05] C: ahold
+[0210] [10:05] C: of it they can use it For
+[0211] [10:08] C: teething
+[0212] [10:10] D: I do any with the rubber plastic
+[0213] [10:12] D: so Sure
+[0214] [10:12] C: Yeah they do it with other materials as well yeah
+[0215] [10:15] D: Joe more
+[0216] [10:16] A: Okay then uh let's more to
+[0217] [10:18] A: uh acne
+[0218] [10:30] A: So
+[0219] [10:30] A: mm You know in parts bin to it
+[0220] [10:39] B: Three
+[0221] [10:42] B: Uh yeah
+[0222] [10:43] A: So
+[0223] [10:44] B: I think so yeah
+[0224] [10:48] B: So it's a very short presentation
+[0225] [10:49] B: "'cause" i'm actually gonna draw you the layout on the board
+[0226] [10:52] B: so If you wanna discuss stick to the second slide
+[0227] [10:56] B: Um which basically shows is sort of
+[0228] [10:58] B: like to the ideas that we're talking about last time Um and try to put that into the remote control so things it you can actually see on
+[0229] [11:06] B: i i have a on off switch Volume and channel control them any access button Ergonomic shape
+[0230] [11:12] B: which are completely agree for scenes
+[0231] [11:13] B: idea to have it sort of moulded
+[0232] [11:15] B: so it's slightly more ergonomic and comfortable to hold on the standard Very straight remote controls
+[0233] [11:21] B: Actually the thing with the word if we take your customising idea is that people can actually do sort of
+[0234] [11:26] B: quasi
+[0235] [11:26] B: measurements
+[0236] [11:26] B: on their hand size
+[0237] [11:27] B: of someone as large your hands You have a wider remote control
+[0238] [11:29] C: Right
+[0239] [11:29] C: my hand it's different size then you worse for example
+[0240] [11:33] B: So that takes a really good idea to estimate customise ability
+[0241] [11:33] B: So
+[0242] [11:37] B: Um one thing i thought might be kind of interesting is to put a
+[0243] [11:40] B: flipscreen
+[0244] [11:40] B: i just like you have one flip phones
+[0245] [11:43] B: So that you don't have this case where someone sits on the remote controller accidentally press their hand on
+[0246] [11:49] B: especially get little kids around They're not pressing the buttons well you're trying to watch a
+[0247] [11:53] B: t.
+[0248] [11:53] B: v. show and accidentally change the channel or turn it off
+[0249] [11:55] C: hmm
+[0250] [11:56] B: And also Um you have issues of batteries are aiming at
+[0251] [12:00] B: said that maybe we could put a little battery life like On it kinda goes demand demand them as your battery it starts to die
+[0252] [12:07] B: And in terms of
+[0253] [12:08] B: invisible
+[0254] [12:08] B: features audio and um tax uh feedback on button presses And Like you said speech recognition
+[0255] [12:12] C: Hmm hmm
+[0256] [12:17] B: So in terms of what this thing that actually look like
+[0257] [12:23] B: Despite
+[0258] [12:23] B: Despite working in interface designer not the greatest artists in the world so you have to
+[0259] [12:27] B: forgive
+[0260] [12:27] B: me
+[0261] [12:30] B: You have something like this with an on off switch really big
+[0262] [12:34] B: Sort of in a corner and by itself so you don't accidentally turn the
+[0263] [12:38] B: t.
+[0264] [12:38] B: v. off are are trying to manoeuvre
+[0265] [12:39] B: other buttons
+[0266] [12:41] B: And
+[0267] [12:41] B: And then you have sort of one of those topple
+[0268] [12:43] B: display is For oops Channels And volume sort of for surfing channels and then volume
+[0269] [12:51] B: so the volume would be the up and down volume goes up and down and then channels left or right
+[0270] [12:57] B: And then here you have your sort of standard
+[0271] [13:00] B: Telephone ish Number pad
+[0272] [13:06] B: And then on one side you would have an access to the manual On your
+[0273] [13:11] B: t.
+[0274] [13:11] B: v.
+[0275] [13:12] B: And on the other side A way to turn off the voice control
+[0276] [13:17] B: So that if the user doesn't want to use the voice they can just turn it off and you don't have a remote control Accidentally
+[0277] [13:21] C: Uh-huh
+[0278] [13:23] B: Changing things on yeah
+[0279] [13:26] B: so again you can have a little
+[0280] [13:27] B: l.
+[0281] [13:27] B: c.
+[0282] [13:27] B: d. light somewhere The flat Thing and
+[0283] [13:32] B: the forgotten anything
+[0284] [13:35] B: I don't think so
+[0285] [13:37] B: So as you can see it's a very very simple design
+[0286] [13:40] B: which is one of the things i really
+[0287] [13:41] B: wanted to keep Keep it simple not have too many buttons that have to me functionalities trying to it I
+[0288] [13:47] B: think the design can pretty much carry over to everything
+[0289] [13:50] B: although With the world the
+[0290] [13:52] B: flipscreen
+[0291] [13:54] B: Might have to do something slightly Difference
+[0292] [13:56] C: A hinge
+[0293] [13:58] C: We have to copper hand sure you know
+[0294] [13:59] B: Yeah
+[0295] [14:00] B: It does have will start watching uh for the weight
+[0296] [14:02] B: is depending on how much the the
+[0297] [14:03] B: flipscreen
+[0298] [14:04] B: will add to the way Of the remote control you don't want it to start getting too happy
+[0299] [14:05] C: hmm
+[0300] [14:09] B: But that's the general layout with the general functionalities if we come up with something else
+[0301] [14:14] B: As you can see there's still lots of space on the actual remote control
+[0302] [14:17] B: And if you do a customisable
+[0303] [14:19] B: e. You could make this thing fairly small fairly
+[0304] [14:22] B: all large Depending on personal preferences
+[0305] [14:23] C: hmm Mm hmm
+[0306] [14:27] B: So that's pretty much Oh i had to say
+[0307] [14:30] B: i mean
+[0308] [14:30] B: mean everything else in terms of design issues
+[0309] [14:34] B: And this century know the keypad and The channel is just depending on where you're from it is
+[0310] [14:41] B: And you tend to use the the volume control and uh The browsing more than the actual number pad
+[0311] [14:46] B: so that would be sort of interact line for your time goes when you're holding the remote control
+[0312] [14:51] B: That number have little bit lower to use less frequently
+[0313] [14:54] C: hmm
+[0314] [14:55] B: So once we decide exactly what we want then we can figure out the exact
+[0315] [14:58] B: positioning
+[0316] [14:59] B: But more or less i think it should go along those lines
+[0317] [15:04] A: So what's your yeah The comments or
+[0318] [15:09] D: Simple design
+[0319] [15:11] D: So consumers want
+[0320] [15:13] A: Okay
+[0321] [15:14] D: Some of like fifteen we have a product i i
+[0322] [15:19] D: Problems obviously gonna be cost
+[0323] [15:21] B: Uh-huh
+[0324] [15:23] D: Okay
+[0325] [15:23] D: i also have of Very simple Presentation
+[0326] [15:28] A: Yeah
+[0327] [15:29] D: But from a marketing point you have to see what the consumers want
+[0328] [15:33] D: Also have well Copied uh Different type of remote
+[0329] [15:40] D: If you can find me where i'm at
+[0330] [15:44] D: Should we be one in here
+[0331] [15:46] D: Sure sure
+[0332] [15:53] C: Sure
+[0333] [15:54] D: Being modified
+[0334] [15:57] D: For
+[0335] [15:57] D: stealing
+[0336] [15:57] D: our product
+[0337] [16:00] D: With the
+[0338] [16:00] D: municipal questionnaires and every year is
+[0339] [16:03] D: because it was a
+[0340] [16:04] D: cinetis
+[0341] [16:04] D: you would come most consumers are looking for today
+[0342] [16:07] D: This is the trends changing very very quickly
+[0343] [16:10] D: In six months maybe this ideas already got out the window So it's gonna be a question how fast we can act Yeah
+[0344] [16:17] D: uh they are your wrist wrist am i know
+[0345] [16:20] C: No
+[0346] [16:21] C: Go to findings
+[0347] [16:22] D: No no No
+[0348] [16:25] D: So i don't know the commentator
+[0349] [16:27] D: Oh the market trend This is what we know from the last uh or from the questionnaires
+[0350] [16:32] D: and although although Surveys we've done
+[0351] [16:35] D: fancy and feel good that's what we're looking for
+[0352] [16:37] D: something that feels good in the hand that's easy to use
+[0353] [16:40] D: But different next generation of innovation
+[0354] [16:42] D: because all the remote out there now they're all very similar they'll do the same thing
+[0355] [16:47] D: We have to something completely different
+[0356] [16:49] D: "'kay"
+[0357] [16:49] D: easy to use as well as become has become another major interest that the
+[0358] [16:54] D: With the whiteboard we can see that uh remote that's easy to use
+[0359] [16:59] D: And i think this is
+[0360] [17:00] D: another thing is interesting is the consumers actually willing to pay the price for exciting to have technology
+[0361] [17:05] D: So we have we have a product that may be more expensive If it comes out right If they didn't look
+[0362] [17:12] D: it looks and feels good to have technology
+[0363] [17:15] D: The second two you can see the last one is a very easy simple design
+[0364] [17:20] D: The second one is about uh forty five thousand different buttons on it which makes it very hard to read for an
+[0365] [17:26] D: i.
+[0366] [17:26] D: d. is
+[0367] [17:27] D: the first one i see But they put in a display
+[0368] [17:31] D: That is something also with a little flip up now we're adding all kinds of things and
+[0369] [17:35] D: a little flip up if you have a little display on the flip up the wanna close it everything's locked
+[0370] [17:40] D: Maybe the display also makes it easier to use
+[0371] [17:42] D: because sometimes in your looking for buttons maybe if you see a display
+[0372] [17:46] C: Context instead of instructions I mean with the top what mode the
+[0373] [17:46] C: Context
+[0374] [17:49] B: Right
+[0375] [17:49] D: Okay
+[0376] [17:51] C: t.
+[0377] [17:51] C: v. you're the
+[0378] [17:51] C: d.
+[0379] [17:52] C: v.
+[0380] [17:52] C: d. or something else to say and
+[0381] [17:52] D: "'cause" i've seen mostly the standard ones
+[0382] [17:53] B: Especially many something like that for training the speech recognition
+[0383] [17:55] D: yeah
+[0384] [17:56] D: Now you have as many have one with a very simple also
+[0385] [17:59] D: the idea simple but with the display So you can see which are going
+[0386] [18:01] B: Uh-huh
+[0387] [18:03] D: So maybe three in incorporate the easiness of use Train be fancy Feels good Uh With the display Would designer would design colours
+[0388] [18:20] C: Yeah maybe which you could do is from some video orders the device You could send them like um He uh At some sort of foam rubber Um Ball
+[0389] [18:20] D: Mine
+[0390] [18:35] B: Arrow yeah
+[0391] [18:35] B: Arrow
+[0392] [18:36] C: And then they would squeeze it you would take the shape of their hands
+[0393] [18:39] B: Yeah so it's really moulded to do it to your specific
+[0394] [18:41] C: To to it it it in
+[0395] [18:43] C: and then you would know like Um what the
+[0396] [18:45] C: geometry
+[0397] [18:46] C: of their hands would be
+[0398] [18:47] C: e. and
+[0399] [18:49] D: Hard disk reason i
+[0400] [18:51] D: Resisted
+[0401] [18:51] D: Resisted
+[0402] [18:52] C: You know what i know what
+[0403] [18:53] D: resisted
+[0404] [18:53] D: i
+[0405] [18:56] B: But the for that you'd also have to do sort of an average across families and things like that if Unless everyone has their own personal remote
+[0406] [18:59] C: That's right that's right you wouldn't wanna go too far down that
+[0407] [19:03] C: Oh that that actually would uh increase the um the revenue it so we could expect yeah
+[0408] [19:06] B: To say i
+[0409] [19:10] A: I hope so
+[0410] [19:11] D: No but incorporating the three uh Obviously be something totally new on the market Totally different
+[0411] [19:15] B: Yeah
+[0412] [19:17] D: Yeah for
+[0413] [19:18] B: Already the
+[0414] [19:19] B: customisable really is A really good sort of New gimmick
+[0415] [19:23] D: Well what it was the the
+[0416] [19:24] D: uh was a nokia taking all of those Changeable colours
+[0417] [19:29] C: Hmm hmm
+[0418] [19:29] D: Right you take a part for another face take it off button interface
+[0419] [19:29] B: Yeah
+[0420] [19:32] C: Right
+[0421] [19:33] D: And then they sold millions Millions
+[0422] [19:33] B: That's a a
+[0423] [19:37] D: So
+[0424] [19:39] D: And so with that do the findings were the
+[0425] [19:40] D: researched easy to use something whole you know
+[0426] [19:43] D: We have to come up with something totally new there's not on the market
+[0427] [19:46] C: But also have to work um consider that to who we were gonna get to make this custom cases in terms of manufacturing process system
+[0428] [19:54] C: right Right um Learn about um labour
+[0429] [19:58] C: wires
+[0430] [19:59] C: You know and Different countries and so forth so we can do it cheap
+[0431] [20:03] C: but you don't wanna explore it to uh labour
+[0432] [20:06] C: and um third world countries
+[0433] [20:09] C: Actually that right you turn around and say they your um for the reason the cost is high for the devices because Um you're paying uh a working
+[0434] [20:18] C: wage to the person who made The device
+[0435] [20:22] B: Uh-huh
+[0436] [20:23] A: Yeah but we can get the production and uh Confuse
+[0437] [20:27] A: like uh in the
+[0438] [20:28] C: Cost of living is low
+[0439] [20:28] A: yes yes
+[0440] [20:29] A: and disliking
+[0441] [20:30] A: d. or a chain
+[0442] [20:31] A: or a mono ratio
+[0443] [20:32] A: so You can go a bit of features then but the price any kind some more
+[0444] [20:37] A: So
+[0445] [20:41] C: That
+[0446] [20:42] C: would that be something that manufacturing would have to um Explore more
+[0447] [20:44] A: Yeah Yeah so
+[0448] [20:46] C: into where
+[0449] [20:46] D: Where are we are we in any fashion is is Than other stuff
+[0450] [20:51] A: Yeah so
+[0451] [20:51] D: We're here to design Come up with a nice product
+[0452] [20:53] A: Yes
+[0453] [20:53] A: uh but uh but that that they can't that we can talk about the production later okay depends on the the quantity okay
+[0454] [20:59] C: Hmm hmm
+[0455] [21:00] A: So we don't need to have uh well one
+[0456] [21:02] A: uh fabric
+[0457] [21:02] A: factor or something
+[0458] [21:03] A: so we can have a have it will There are do the
+[0459] [21:06] A: fabric
+[0460] [21:07] A: okay but the different uh electronics items
+[0461] [21:09] A: then we can have a
+[0462] [21:11] A: business step and the the good the cost okay to sell more
+[0463] [21:16] A: So
+[0464] [21:17] A: that the led lights to decide foster
+[0465] [21:18] A: board uh oh components concept and uh interface concept Okay
+[0466] [21:23] A: if it is Picks up the phone for both of you what uh it was talking
+[0467] [21:30] A: And you are design With uh oh you wanna the display or bit of a display or just a simple so
+[0468] [21:38] B: I think it depends
+[0469] [21:39] B: i mean i think it's a good idea
+[0470] [21:40] B: that we need to really think about how useful it's gonna be
+[0471] [21:43] B: because theoretically with the
+[0472] [21:44] B: t.
+[0473] [21:45] B: v. you already have A big display right in front of you know
+[0474] [21:49] C: Hmm
+[0475] [21:50] B: So If we're trying to keep costs down Then maybe sacrifice in the display Is a way to go out
+[0476] [21:56] C: Uh-huh
+[0477] [21:59] B: and it depends on how much putting a display costs And what it would be used for
+[0478] [22:03] B: very specifically would it would be used for
+[0479] [22:04] C: Hmm hmm
+[0480] [22:05] B: "'cause" if it's only use for one little thing then putting in a big display
+[0481] [22:08] B: case Or a big display that's Probably expensive just to do the training on the chip For the speech recognition or whatever May not be the most cost efficient way to go
+[0482] [22:20] B: but That's a sort of
+[0483] [22:22] B: speculation i mean
+[0484] [22:25] C: We think
+[0485] [22:25] C: uh jean
+[0486] [22:26] C: You like the display in one of the concepts that you share
+[0487] [22:31] C: Um you know how much it costs uh uh mm to to add a little display like that's
+[0488] [22:38] D: No one
+[0489] [22:39] C: You want a connection i am to go find out
+[0490] [22:39] D: knows
+[0491] [22:41] D: "'cause" we have to find that cost
+[0492] [22:43] C: Okay
+[0493] [22:46] C: Sorry about that
+[0494] [22:46] D: And last a problem
+[0495] [22:48] D: i mean for them pushing it after it's made
+[0496] [22:50] D: i.
+[0497] [22:51] D: either market it i
+[0498] [22:54] D: Once we get a price on that we can market
+[0499] [22:59] C: So but The advanced chip-on-print
+[0500] [23:01] C: is what um what we've We've decided we determined
+[0501] [23:06] C: in the uh Engineering industrial design is the recommendation
+[0502] [23:11] C: And um i think we've kinda come to some Agreement regarding um This concept of a wooden case
+[0503] [23:19] B: Uh-huh
+[0504] [23:21] C: customisable
+[0505] [23:22] D: Nice beautiful mahogany
+[0506] [23:24] B: What about that Buttons would With the buttons be would say over
+[0507] [23:24] D: redwoods
+[0508] [23:25] D: cases
+[0509] [23:29] C: i don't think so No
+[0510] [23:30] A: I don't think so
+[0511] [23:31] C: i think they could be rubber like they are now so
+[0512] [23:32] A: Yes
+[0513] [23:33] A: Yes
+[0514] [23:33] C: you have a tactile experience of
+[0515] [23:34] A: Don't that's nice
+[0516] [23:37] A: Yeah so Or
+[0517] [23:38] A: what we'll do
+[0518] [23:39] A: is uh we'll we'll stick with the the simple design for coming
+[0519] [23:43] A: into the
+[0520] [23:44] A: egg
+[0521] [23:44] A: find out about know how much it's cost of extra think if we go for the display
+[0522] [23:49] A: Okay so
+[0523] [23:51] A: maybe what you can do is uh about a few you can come up with the The product right Okay the more than
+[0524] [23:57] B: Okay
+[0525] [23:58] A: Okay
+[0526] [24:02] B: Sure
+[0527] [24:10] C: So
+[0528] [24:11] C: um Are we done that's me
+[0529] [24:15] A: i hope
+[0530] [24:15] A: uh for
+[0531] [24:16] A: is it okay if uh they will come up with a prototype
+[0532] [24:19] A: design Okay
+[0533] [24:20] A: then they can show you how it looks like
+[0534] [24:22] A: and then we can
+[0535] [24:22] A: uh submitted a
+[0536] [24:24] A: I do some into the management
+[0537] [24:26] A: Okay
+[0538] [24:28] A: Then mean that and you can come up with the price so how much it's cost of extra for the the display
+[0539] [24:33] C: I'm marketing strategy
+[0540] [24:33] A: And and a might be sturdy that's very important okay
+[0541] [24:34] D: Okay i think yeah
+[0542] [24:40] A: much
+[0543] [24:40] D: Finer
+[0544] [24:41] A: Oh my how much how much you can select so
+[0545] [24:43] A: uh Of course you make minute or
+[0546] [24:45] A: so It's modified you make money to uh your commission
+[0547] [24:52] A: Okay so any questions
+[0548] [24:57] A: So by next meeting so place come up with the the prototype Okay
+[0549] [25:02] A: then uh then we can proceed from there
+[0550] [25:06] A: Okay
+[0551] [25:07] A: So thanks for all your uh efforts And coming for the meeting again And the
+[0552] [25:13] A: c.s on that
+[0553] [25:14] A: Okay
+[0554] [25:15] A: thank you

@@ -1,0 +1,635 @@
+================================================================================
+AMI Meeting Transcript: IS1008d
+================================================================================
+
+Total Utterances: 623
+Unique Speakers: 4
+Duration: 23.47 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:30] A: Welcome back "'s"
+[0002] [00:32] A: right come back you're ready
+[0003] [00:41] A: So this meeting again that would be the detailed Design meeting
+[0004] [00:48] A: And uh Opening and the
+[0005] [00:51] A: p. of the second of the me minutes
+[0006] [00:54] A: uh prototype presentation and from uh this
+[0007] [00:57] A: d. And the egg me
+[0008] [01:00] B: yes yes
+[0009] [01:01] A: This
+[0010] [01:01] A: and uh evaluation criteria
+[0011] [01:05] A: The finance so it's uh from my said from the management
+[0012] [01:08] A: and the production evaluation Then uh closing
+[0013] [01:12] A: so we have uh forty minutes To discuss and uh finalise and close though product and project And double for that okay
+[0014] [01:23] A: So
+[0015] [01:28] A: Okay let's talk about uh maybe a forced to uh For the prototype
+[0016] [01:36] C: okay
+[0017] [01:36] A: Fine and a two
+[0018] [01:39] C: I'm gonna presentation
+[0019] [01:40] C: but they match covers work that we pass and
+[0020] [01:42] C: so If i missing anything thing can just Correct me
+[0021] [01:44] A: So shall i go to
+[0022] [01:45] B: Thank you
+[0023] [01:46] A: war
+[0024] [01:46] B: so you do Powerpoint presentation
+[0025] [01:49] A: "'kay" to go to Yeah mine
+[0026] [01:53] C: It's not the biggest powerpoint presentation know
+[0027] [01:58] A: In two or three or
+[0028] [01:59] C: Three
+[0029] [02:08] D: Oh Technical Yeah yeah that's a
+[0030] [02:09] C: I
+[0031] [02:09] C: think i saw last one
+[0032] [02:12] C: No
+[0033] [02:13] C: but this is a
+[0034] [02:13] C: look at that we can Final design
+[0035] [02:16] A: Yep
+[0036] [02:17] C: It is named
+[0037] [02:17] C: appropriately this can see the name
+[0038] [02:21] C: Um okay okay that's
+[0039] [02:22] A: It's
+[0040] [02:27] C: Alright so
+[0041] [02:31] C: From when we were discussing specifying the case in the last meeting we decided that we wanted me ergonomic shapes
+[0042] [02:38] C: material that we chose was words
+[0043] [02:40] C: And that the colour would be customisable
+[0044] [02:42] C: "'cause" you can stay in the world Whatever colour
+[0045] [02:45] C: Um So in terms of function you have to be able to turn the
+[0046] [02:49] C: t.
+[0047] [02:50] C: v. on and off volume and channel control menu control voice recognition control
+[0048] [02:54] C: And we've incorporated the
+[0049] [02:56] C: l.
+[0050] [02:56] C: c.
+[0051] [02:56] C: d. screen on the flat panels part of the design
+[0052] [02:59] C: If we could read it's too expensive on and off
+[0053] [03:02] C: Um so
+[0054] [03:04] C: Two and they all are a lot of products
+[0055] [03:10] C: This is Our remote control With a flat panel is you can see
+[0056] [03:15] C: So if you looked at the panel You can see the lovely yellow
+[0057] [03:19] C: l.
+[0058] [03:19] C: c.
+[0059] [03:19] C: d. display
+[0060] [03:21] C: Um Is that a hard to do
+[0061] [03:23] C: the yellow button you have is the on off button
+[0062] [03:26] C: so it's really big hard to mess
+[0063] [03:28] C: You have the the red um triangles that that troubles for Changing the volume
+[0064] [03:35] C: set up Volume up down volume down
+[0065] [03:38] C: The green are the channel changing
+[0066] [03:41] C: So and that's one of those very like very touchable
+[0067] [03:41] C: So
+[0068] [03:43] C: displays
+[0069] [03:44] C: And then you have the
+[0070] [03:45] C: numeric pads In the dark blue at the bottom
+[0071] [03:48] C: And on the right hand side you have The
+[0072] [03:52] C: e. access to the menu on the
+[0073] [03:54] C: t.
+[0074] [03:54] C: v.
+[0075] [03:54] C: and on the left hand side You have
+[0076] [03:58] C: v. The the ability to turn off the voice recognition
+[0077] [04:02] C: So this is pretty much what we had on the whiteboard the last time
+[0078] [04:11] B: and uh uh "'cause"
+[0079] [04:11] C: Oh yes
+[0080] [04:12] B: Yeah
+[0081] [04:13] C: Additional feature on the back
+[0082] [04:15] C: As you can have your own customised Backing
+[0083] [04:18] C: i suppose you could do the same thing on the flat case on the facts
+[0084] [04:21] C: So that you can really make this a highly highly
+[0085] [04:23] C: customisable remote control
+[0086] [04:26] B: We haven't um uh specified where the speaker or the microphone be placed
+[0087] [04:33] B: That depends um as design the circuit board inside and uh what room is left
+[0088] [04:41] A: I think the microphone is on on the top so on but in the
+[0089] [04:43] B: Yes okay
+[0090] [04:45] A: and the the flip
+[0091] [04:46] B: Aha
+[0092] [04:48] A: that would be the same
+[0093] [04:50] A: So and the the chip
+[0094] [04:51] A: it's not on the chip because uh you need to have my remote system
+[0095] [04:54] B: Nom it depends on the design of the circuit board
+[0096] [04:54] B: Nom
+[0097] [04:57] A: Yes
+[0098] [04:58] C: We shouldn't be under the flat are there
+[0099] [04:59] C: because You can have a remote control close but you still might want to Activated via voice
+[0100] [05:04] A: But it's it's
+[0101] [05:05] A: Yeah but uh Oh
+[0102] [05:07] A: my oh
+[0103] [05:08] A: peeing
+[0104] [05:08] A: in it in its but under the flip
+[0105] [05:09] A: because when are you want to
+[0106] [05:11] A: And the talk okay so then you can speak
+[0107] [05:13] A: then you can close it
+[0108] [05:15] A: But if you put it on the on the fly if okay then
+[0109] [05:18] A: uh technical uh i don't think it's a feasible
+[0110] [05:22] A: "'cause" most of the time you speak then it will be recognised
+[0111] [05:24] C: But if you're already got the remote control your hand need to open the flip to use the voice
+[0112] [05:28] C: why use the voice why not just use your hand
+[0113] [05:31] C: And the whole point of the voices
+[0114] [05:32] C: they're of remote control is sitting there and i'm too lazy
+[0115] [05:34] C: to reach over and pick it up I can just use my voice
+[0116] [05:38] B: But we have got my hand in the
+[0117] [05:39] B: popcorn ball on
+[0118] [05:41] B: um holman
+[0119] [05:41] B: acapulco
+[0120] [05:42] B: call um the other hand
+[0121] [05:44] C: Yeah We don't wanna like of i i
+[0122] [05:45] D: Nice Louder
+[0123] [05:50] C: I'm a doesn't have to be on a flip
+[0124] [05:51] C: it can be on the side somewhere
+[0125] [05:52] D: Can also be the size
+[0126] [05:52] A: Yeah the sites
+[0127] [05:53] A: maybe some board
+[0128] [05:53] C: Yeah
+[0129] [05:54] B: Uh-huh
+[0130] [05:55] C: So i mean i can pass this around of Anyone wants to
+[0131] [05:57] A: Yes so it's not a good idea
+[0132] [05:59] B: Is there a pass around with the
+[0133] [06:00] B: napkins
+[0134] [06:04] D: Nobody use to put a microphone
+[0135] [06:06] D: inside it would have no problem would have been of the day mission anything it'd be access of all the time to voice
+[0136] [06:12] C: Yeah exactly
+[0137] [06:16] A: So it would be good idea
+[0138] [06:18] B: So um It's so
+[0139] [06:19] D: Couple most of the artist
+[0140] [06:23] B: You did work on the wait a little bit
+[0141] [06:25] C: Yes
+[0142] [06:28] A: I'm fine i'm side it's a
+[0143] [06:28] C: And maybe the shape of the buttons
+[0144] [06:29] C: the little
+[0145] [06:30] A: I'm satisfied
+[0146] [06:30] C: x. ray
+[0147] [06:31] C: cyrus The most economical that
+[0148] [06:32] B: We're glad you're satisfied
+[0149] [06:33] A: Of course it's it's it's looks more hero heavy but at the minute come to the reality
+[0150] [06:37] A: that that's uh that's great
+[0151] [06:39] C: I mean this is plasticine
+[0152] [06:40] C: there's only so much you can do it
+[0153] [06:41] A: Yes
+[0154] [06:42] C: we could have possibly made of a lot of thing as well
+[0155] [06:45] C: But
+[0156] [06:46] C: it's Mm part of the thing is that a lot of people say that they don't like something that's too light
+[0157] [06:51] C: because they don't feel like they have enough control over it
+[0158] [06:53] C: I mean maybe this is
+[0159] [06:54] C: excessively have a
+[0160] [06:56] C: I think it needs to have some way
+[0161] [06:57] C: it needs to feel like you're still holding something
+[0162] [07:02] C: So that's pretty much It for a presentation actually
+[0163] [07:06] A: That's your prototype more this
+[0164] [07:08] A: Okay that's good thing to our much
+[0165] [07:11] A: So any comments or
+[0166] [07:13] D: On the prototype as israel within the
+[0167] [07:16] D: design ideas that we've we've talked about the previous meetings
+[0168] [07:21] D: Now goes into is is next phase is the financial well Marketing
+[0169] [07:24] A: Yes that the
+[0170] [07:25] A: uh So i'll come back to the
+[0171] [07:43] A: So evaluation criteria i think uh that would be good
+[0172] [07:46] A: so And it's compare the finance i
+[0173] [07:49] A: have some uh annotations which i made uh as for the The budget
+[0174] [07:56] A: So here you can look
+[0175] [07:57] A: alike
+[0176] [07:58] A: uh the energy false and uh a hand it hand "'em" all and uh and it taken solar cells
+[0177] [08:04] A: Uh it's optional some other option
+[0178] [08:07] A: uh and uh it was a chip on print that's what uh we were talking about that
+[0179] [08:12] A: So Then we have sample sensor and sample speaker Then uh we have the word my
+[0180] [08:17] A: t.
+[0181] [08:17] A: v. Then special colour And push button
+[0182] [08:22] A: So it's
+[0183] [08:23] A: uh x.
+[0184] [08:23] A: x. a lot but it was uh four point five euro
+[0185] [08:26] A: but uh it's coming to nine point nine four euros
+[0186] [08:28] A: so we are and the the the lower the budget
+[0187] [08:31] A: Okay so still sending some money
+[0188] [08:36] A: I think it's a good figure
+[0189] [08:37] B: Yes great but
+[0190] [08:38] B: i i'm surprised
+[0191] [08:41] B: Congratulations
+[0192] [08:42] A: Okay thank you
+[0193] [08:42] D: Oh yeah we got them idea it's a
+[0194] [08:45] D: real and i have a pen yes yeah
+[0195] [08:45] B: It's gonna cost a long way to it can cost lot of money the market it as that
+[0196] [08:50] A: So maybe it's uh some money we can utilise
+[0197] [08:52] A: for order uh marketing But the say it's okay in the
+[0198] [08:59] D: Well just depends a over and over Oh
+[0199] [09:02] D: on this Problem Provision you're a cost analysis we do not have an
+[0200] [09:10] D: l.
+[0201] [09:10] D: c. display
+[0202] [09:12] D: L.
+[0203] [09:12] D: L.
+[0204] [09:12] D: c. display is gonna be very expensive
+[0205] [09:14] C: No we do but it's not filled
+[0206] [09:14] D: can
+[0207] [09:15] C: in
+[0208] [09:15] C: this number thirty
+[0209] [09:15] D: Is that doesn't say
+[0210] [09:16] B: Thirty
+[0211] [09:16] D: we don't have the price up there
+[0212] [09:17] C: Oh yeah yeah
+[0213] [09:18] C: you're right sorry yes
+[0214] [09:18] D: Okay So if we had the apartment to do three euro corps Remote Now or up around about twelve twelve and a half As to what uh the company And initially uh request it
+[0215] [09:34] B: That means we can put yeah The
+[0216] [09:36] D: Display in
+[0217] [09:36] D: Display
+[0218] [09:36] B: l.
+[0219] [09:37] B: c.
+[0220] [09:37] B: d. and yeah
+[0221] [09:38] D: The source of production um i'm putting of a question
+[0222] [09:41] D: because we're talking about profit also
+[0223] [09:44] D: And mine you'll see uh The problem with uh our survey that the possibility of how many units can be sold
+[0224] [09:51] D: what percentage of the market it's a
+[0225] [09:52] D: trendsetter
+[0226] [09:53] D: because the cost has to be taken in Into consideration
+[0227] [09:57] D: Oh this is just production class it is not uh advertising classes not transportation car stuff
+[0228] [10:05] A: Yes so still uh uh we have two point five
+[0229] [10:07] D: And that will inflate Quite a bit the cost of the uh uh cost of the unit for the company
+[0230] [10:09] A: Yes
+[0231] [10:11] A: Yeah but
+[0232] [10:13] A: Yes
+[0233] [10:14] D: So to come up with what the company wants as a fifty million pound profit We have to go one way
+[0234] [10:20] A: Yes
+[0235] [10:21] A: this we are talking about one you want it okay
+[0236] [10:23] D: Yes
+[0237] [10:23] A: so when it's going to the quantity okay and the cost will come down
+[0238] [10:29] D: Slightly
+[0239] [10:30] B: Although
+[0240] [10:30] B: customisation
+[0241] [10:31] B: because this is being and you know and go on on order basis Might be uh uh the the quantity well not by
+[0242] [10:36] D: Never harder to do this
+[0243] [10:40] B: the circuit board will you write would be produced in
+[0244] [10:42] B: coney
+[0245] [10:43] B: but the cost of the case would uh and be fixed at the
+[0246] [10:48] B: Uh you get some pretty cheap labour they can do this case for one euro
+[0247] [10:52] D: That's that's that
+[0248] [10:53] B: Plus really
+[0249] [10:53] B: that's the cost the material and i have like uh standing
+[0250] [11:00] A: But you know still we are under control okay
+[0251] [11:02] A: so what uh i will do that
+[0252] [11:03] A: so i will try to negotiate with them and that's okay to get the
+[0253] [11:07] A: The production cost less okay
+[0254] [11:09] A: so that we can save some money Okay to put in that our marketing or uh a little the
+[0255] [11:15] A: promotions
+[0256] [11:15] A: whatever okay
+[0257] [11:17] A: So that uh i will look off to i
+[0258] [11:19] A: will speak to the management and how to get to you know some more uh Cost on
+[0259] [11:30] D: If we can go to to my display
+[0260] [11:33] D: I will come back to your ears
+[0261] [11:35] A: Yes
+[0262] [11:35] D: Just to give everybody an idea of the market
+[0263] [11:41] D: No i mean it's clear but yeah this project
+[0264] [11:48] D: Different so you're pressing the person yeah
+[0265] [11:50] A: You and fall
+[0266] [11:51] D: Yep
+[0267] [11:53] D: For
+[0268] [11:54] D: disney's
+[0269] [11:54] D: gonna be
+[0270] [11:55] D: uh trendwatch
+[0271] [11:55] A: Trend watch
+[0272] [11:57] B: So it's the same when you did before
+[0273] [12:01] B: Uh-huh
+[0274] [12:02] D: Should be
+[0275] [12:03] C: That's Now think that's the same one
+[0276] [12:03] D: nice at the right one
+[0277] [12:04] D: No no we are not the same when
+[0278] [12:06] D: you have to go back and find another one
+[0279] [12:13] D: Whatever name a
+[0280] [12:14] D: pop-up button or
+[0281] [12:17] C: Should know
+[0282] [12:18] D: functional try function
+[0283] [12:19] D: um might not be a
+[0284] [12:20] D: t. that but we'll see
+[0285] [12:22] C: That looks like it
+[0286] [12:24] D: Yep that's it
+[0287] [12:25] D: so ago screen my screen
+[0288] [12:27] D: Well
+[0289] [12:28] D: since so uh we need have some time but the uh market uh we had
+[0290] [12:32] D: independence
+[0291] [12:32] D: day this as it does this market has an availability of the world you'd need a million units per year
+[0292] [12:38] D: Okay
+[0293] [12:39] D: Our internal company evaluation put a between eighty nine million
+[0294] [12:42] D: which is part of the same as the
+[0295] [12:44] D: independence
+[0296] [12:44] D: day
+[0297] [12:46] D: So if we continue
+[0298] [12:47] D: Look at the findings
+[0299] [12:49] D: Make screen
+[0300] [12:53] D: Which means that uh if we have a target of two
+[0301] [12:55] D: million with the company has to take twenty five percent of the market in the first year
+[0302] [13:00] D: Which is actually a
+[0303] [13:00] D: tremendous
+[0304] [13:01] D: amount
+[0305] [13:01] B: Yeah okay okay
+[0306] [13:02] D: No kidding
+[0307] [13:04] B: But maybe they are really expected something
+[0308] [13:05] D: So
+[0309] [13:06] D: if we put an
+[0310] [13:06] D: inflated price of fifty euro later production plastic and exceed twenty five euro
+[0311] [13:12] D: okay we're already in that that price Okay
+[0312] [13:14] A: Yes
+[0313] [13:16] D: with transport
+[0314] [13:16] D: promotion
+[0315] [13:17] D: labour
+[0316] [13:18] D: because we i mean included a promotion
+[0317] [13:20] D: the cost Transport
+[0318] [13:22] D: for the material to the store the whatever how how we're gonna break this down between or Our
+[0319] [13:27] D: retailers
+[0320] [13:28] D: Twenty five percent of the market To get to two million units
+[0321] [13:32] D: are too many
+[0322] [13:32] D: units we have to have a profit of twenty five euro per unit to get to the fifty million euro euro profit
+[0323] [13:39] D: Okay
+[0324] [13:41] D: So i was too i
+[0325] [13:42] D: just did a
+[0326] [13:43] D: rundown
+[0327] [13:43] D: the evaluation of the form
+[0328] [13:45] D: of thing a fancy stylish most of the of the unit
+[0329] [13:48] D: the ease of use speech recognition Past we've gone through this
+[0330] [13:52] D: now the company most of that anyway The feasibility
+[0331] [13:55] D: of being able to take in uh for the market To justify in production
+[0332] [14:00] D: Or we project that's over two years
+[0333] [14:03] D: I've been at the market changes very very quickly maybe there's no more just in buying this thing in eighteen months from
+[0334] [14:08] D: So Now we have to come up with a decision
+[0335] [14:11] D: can the company sell two main units
+[0336] [14:13] D: Can sell it For fifty euros
+[0337] [14:16] B: Could have the findings
+[0338] [14:18] B: Yeah Um I would uh like to explore the possibility of using an alternative
+[0339] [14:26] B: Um delivery in sales channel
+[0340] [14:29] B: which could be
+[0341] [14:30] B: um see you use the internet For promotion and ordering
+[0342] [14:32] A: Yes
+[0343] [14:32] C: I was thinking the same thing yeah
+[0344] [14:35] B: and then to drop ship the product to the customers
+[0345] [14:38] C: Right right
+[0346] [14:39] B: residents
+[0347] [14:40] B: that we have no
+[0348] [14:40] B: storage
+[0349] [14:42] B: You know
+[0350] [14:42] B: um you do have transportation Star the label cost
+[0351] [14:44] C: Uh-huh
+[0352] [14:46] B: but you don't have the transport to the Uh point of sale
+[0353] [14:50] A: Yes
+[0354] [14:51] C: Yeah
+[0355] [14:51] B: The point of sale was on mine
+[0356] [14:52] A: So it it it's
+[0357] [14:54] C: Yeah
+[0358] [14:54] C: you do shopping
+[0359] [14:55] C: centre somewhere
+[0360] [14:56] C: or stress you could place shopping
+[0361] [14:57] C: centres To minimise Dozens costs
+[0362] [14:58] B: Right like
+[0363] [14:59] B: amazon
+[0364] [15:00] B: that we should sell through
+[0365] [15:01] B: amazon
+[0366] [15:01] B: do you think
+[0367] [15:02] A: Or a bit or
+[0368] [15:03] B: Or a yeah yeah
+[0369] [15:03] A: Yes
+[0370] [15:04] C: Yeah
+[0371] [15:06] B: It's an idea i'm
+[0372] [15:07] B: going with the
+[0373] [15:07] A: That's right yeah
+[0374] [15:09] A: Two or more for for it and
+[0375] [15:10] D: Upscale technology
+[0376] [15:10] D: Upscale
+[0377] [15:12] B: Oh our work you know selling uh Unique product
+[0378] [15:14] D: Yeah
+[0379] [15:18] C: That actually makes more sense if we're gonna make it so highly
+[0380] [15:20] C: customisable
+[0381] [15:21] C: don't know where people can look at the different options they have See Maybe what other people have done know what the range of possibilities as
+[0382] [15:28] D: First of
+[0383] [15:28] D: october
+[0384] [15:29] C: where is if you're in a store You can't Unless you're highly
+[0385] [15:29] D: is it going that way
+[0386] [15:33] C: imagine of per cent you may not really know what it is you want
+[0387] [15:37] C: Where's on the web if you have a bunch of pictures a construct your ideas and
+[0388] [15:40] B: And you can even have uh in a movie that you can rotate the object and look at that that
+[0389] [15:45] C: Yeah
+[0390] [15:46] B: don't think you're missing really is the you wait
+[0391] [15:48] C: The weight and you know
+[0392] [15:48] D: Wait the feel of the product but
+[0393] [15:50] B: Hmm
+[0394] [15:51] B: We're getting used to that's
+[0395] [15:52] B: not quite like trying an issue you
+[0396] [15:54] B: but People are getting used to buying things online that they can't touch Before time
+[0397] [15:56] C: Yeah
+[0398] [16:00] D: There are several that come through of the watches to
+[0399] [16:02] D: you can customise a watch
+[0400] [16:04] D: you can see how it is that's at the end of the production
+[0401] [16:06] D: you can change it to
+[0402] [16:07] D: uh There's a lot of online it's it is doing this now
+[0403] [16:11] D: We are
+[0404] [16:11] D: rotating
+[0405] [16:12] D: you look behind like that's why yeah
+[0406] [16:15] D: As possible do this
+[0407] [16:16] D: maybe there's a possible uh selling more than two million units
+[0408] [16:18] D: and when you're which Feasible you feasibility
+[0409] [16:23] D: uh or the price unit
+[0410] [16:27] A: You can
+[0411] [16:28] B: Great
+[0412] [16:29] A: I don't think that's uh huh well the one
+[0413] [16:32] A: that's
+[0414] [16:32] A: uh Okay then uh let's wait for the production a kid and uh you can evaluate the product
+[0415] [16:37] A: so i would looks like technique really and uh would look like the the the
+[0416] [16:42] C: What
+[0417] [16:42] C: turnaround
+[0418] [16:43] C: time doing that
+[0419] [16:46] C: Can you production evaluation can you very very quick or a very very long
+[0420] [16:47] A: A part
+[0421] [16:49] A: It's it's it's very quick of course
+[0422] [16:51] A: it will not come back in two weeks Okay
+[0423] [16:54] A: but not in two weeks
+[0424] [16:56] B: Works for me
+[0425] [16:56] A: Whatever it is an okay
+[0426] [16:59] B: Prototypes
+[0427] [16:59] B: Prototypes you mean
+[0428] [17:01] A: Yes the prototype our prototype product evaluation
+[0429] [17:01] B: And
+[0430] [17:02] B: um Aw should do some market tests uh once we have prototypes into some orders and things like that and Test market it
+[0431] [17:07] D: All these things
+[0432] [17:08] C: Yeah
+[0433] [17:11] D: it'd be thrown out on the market for people to get an idea
+[0434] [17:14] A: So you can take a minimum to explore make some four weeks
+[0435] [17:14] D: to see Get there
+[0436] [17:17] C: The minimum two weeks if we're gonna develop prototypes and then try to take them to different places and see how people use
+[0437] [17:24] C: It's not true
+[0438] [17:26] A: Yeah because we we are not going to do it in our
+[0439] [17:28] A: olfactory okay so we can go to a product so this
+[0440] [17:29] C: No no
+[0441] [17:30] C: We definitely shouldn't do it in a factory
+[0442] [17:32] A: Yes yes
+[0443] [17:34] A: So all do it in the other place
+[0444] [17:36] A: And i don't think it's take more than four weeks time
+[0445] [17:41] A: Uh Okay so then the
+[0446] [17:45] A: the approach and we will start once
+[0447] [17:47] A: v. product evaluation Okay
+[0448] [17:49] A: then uh It's
+[0449] [17:50] A: uproar from uh The technical team and uh Your
+[0450] [17:54] A: t. okay From the management then we can on to the market
+[0451] [18:02] B: Any outstanding
+[0452] [18:03] A: So any any uh the the questions or uh comments to be Discuss
+[0453] [18:11] B: No i'm
+[0454] [18:11] C: Whatever
+[0455] [18:12] D: I think we've pretty much covered everything
+[0456] [18:12] B: Uh-huh
+[0457] [18:14] A: Okay so then
+[0458] [18:14] B: Did you have something
+[0459] [18:15] C: I was wondering about if we're gonna do product evaluation
+[0460] [18:18] C: and one of the time for redesign Yeah of The users come back and tell us know this is that this is bad we want this done differently
+[0461] [18:28] A: Okay um let's take it like this
+[0462] [18:31] A: that was it with this more to locate for the for the Marketing
+[0463] [18:35] A: deduction okay
+[0464] [18:36] A: so no more changes would be made okay In this The basic design
+[0465] [18:42] A: Okay
+[0466] [18:43] A: We will introduce me this more than and uh let's introduce in the market
+[0467] [18:47] A: and let's take the feedback from the customers then We can uh i'll go for the
+[0468] [18:52] B: Second generation
+[0469] [18:52] A: Second generation
+[0470] [18:54] A: Okay There's not and there's no limit
+[0471] [18:57] C: The problem is there may not be a second generation of the first generation
+[0472] [18:58] A: Yeah that yeah that that's
+[0473] [19:00] D: Why not be
+[0474] [19:00] C: flops first some silly reason That we have a lot
+[0475] [19:03] A: But every customer okay they're how they're all idea They have their own taste Okay so there's no and There's no limits
+[0476] [19:04] D: Are people like what
+[0477] [19:12] C: No but there's a difference is he really saying a product that has then minimally tested and find him to see it A general range
+[0478] [19:19] C: of requirements first is releasing a product that We think will work but we don't really have anything to back it out
+[0479] [19:24] D: very specific
+[0480] [19:25] A: Yeah so that's it is in your here for the the design okay
+[0481] [19:28] A: i hope you made a good design
+[0482] [19:29] C: Yes but i'm not Everybody
+[0483] [19:32] C: i mean the whole point uh the user evaluation is to see What real people need
+[0484] [19:36] C: we have our own
+[0485] [19:37] C: motivations in mind we have around ideas in mind
+[0486] [19:39] C: but that doesn't mean that that's what's gonna sell
+[0487] [19:41] A: Yeah but the
+[0488] [19:42] A: c.
+[0489] [19:42] A: v. how to take a few considerations okay
+[0490] [19:45] A: one of the price consideration one of the future consideration okay like uh you can you tell you can or do it more tree like a need more
+[0491] [19:51] A: chili okay
+[0492] [19:52] A: So it's a depends on the individual test And
+[0493] [19:55] A: also we have we have to balance
+[0494] [19:57] A: somewhere
+[0495] [19:58] C: Yeah of course
+[0496] [19:59] C: i'm just trying to point out that i think that your evaluation and redesign to
+[0497] [20:04] C: run-time is to Short
+[0498] [20:06] C: well you had no
+[0499] [20:07] C: redesign not you personally but And the project we have no Redesign time and
+[0500] [20:09] A: Yes
+[0501] [20:10] B: Our project doesn't
+[0502] [20:12] B: Um Yes Do you know what season
+[0503] [20:16] B: of the year time of the years the most important for
+[0504] [20:19] B: t.
+[0505] [20:19] B: v. remote control sales
+[0506] [20:22] B: Would be the christmas season
+[0507] [20:23] B: by any chance
+[0508] [20:24] A: The sports time
+[0509] [20:25] B: Sports is
+[0510] [20:27] D: Room for your role cup The world soccer I can start
+[0511] [20:28] B: Which sports season
+[0512] [20:30] A: Football
+[0513] [20:30] B: So So
+[0514] [20:31] C: I
+[0515] [20:32] D: really need also use it or do we have a hands
+[0516] [20:33] A: Football it
+[0517] [20:34] B: Maybe what
+[0518] [20:35] D: kayak you buy it maybe give it to the can we go control
+[0519] [20:38] B: So i think what we need to do is perhaps to synchronise
+[0520] [20:42] B: v.
+[0521] [20:42] B: findable go on to the user tested device with some uh special events
+[0522] [20:44] A: Yes
+[0523] [20:47] C: Yeah that's a good idea
+[0524] [20:47] B: And and then
+[0525] [20:48] B: um so that gives us a little more time perhaps then we
+[0526] [20:52] B: anticipated
+[0527] [20:53] B: because I don't know when i
+[0528] [20:55] B: woke
+[0529] [20:55] B: up this
+[0530] [20:55] B: but i'm sure there's gonna be one
+[0531] [20:57] D: many major sports
+[0532] [20:59] B: Or not it might major sports of that
+[0533] [21:01] B: probably not the um the football games coming at the end of
+[0534] [21:04] B: january
+[0535] [21:05] B: i think that might be a little too aggressive
+[0536] [21:07] B: Um but So i'm just a yeah pointing at uh at uh a a strategy to
+[0537] [21:14] B: uh do some additional user testing
+[0538] [21:17] A: This so
+[0539] [21:17] B: prior and then to launch Um at uh a major sports event
+[0540] [21:22] B: or uh perhaps to a also
+[0541] [21:24] C: That's that's a good place to advertise it
+[0542] [21:26] B: And to work with motion
+[0543] [21:27] B: pictures
+[0544] [21:28] B: and that might be some motion picture that are coming out Um there are coming out on
+[0545] [21:33] B: d.
+[0546] [21:33] B: v.
+[0547] [21:33] B: d. they uh they need To have and special remote control the work with it
+[0548] [21:38] B: so we could if you work at a campaign with up with sony pictures for example
+[0549] [21:43] A: Yes
+[0550] [21:43] B: might be some management has got that
+[0551] [21:44] C: Uh-huh
+[0552] [21:46] B: relationships
+[0553] [21:47] B: there we can leverage
+[0554] [21:48] A: Yes the the top "'cause" uh i will convince the management to do that
+[0555] [21:54] B: That's great
+[0556] [21:56] C: Is it something to to keep in mind
+[0557] [21:58] C: is is really really important
+[0558] [21:59] A: Sure sure
+[0559] [21:59] C: a lot of products have gone out there without being properly user tested and completely
+[0560] [22:04] C: flopped
+[0561] [22:04] C: one in fact He gets re released a few years down the line that was proper testing and it takes off like crazy
+[0562] [22:10] B: Disposable
+[0563] [22:11] B: diapers as an example of that in fact
+[0564] [22:13] C: Really i
+[0565] [22:14] B: Yes
+[0566] [22:14] C: tried to
+[0567] [22:14] B: It's one of the first consumer products that was
+[0568] [22:18] B: launched
+[0569] [22:18] B: about thirty years that was the disposable
+[0570] [22:21] B: consumer product
+[0571] [22:22] B: And the people at
+[0572] [22:23] B: the market hadn't really Button on the the concept that you could use something and then throw it away "'cause" it wasn't
+[0573] [22:29] C: Uh-huh
+[0574] [22:31] B: But then maybe
+[0575] [22:32] B: lanston
+[0576] [22:33] B: three years later they're
+[0577] [22:34] B: virtually the same design
+[0578] [22:35] B: The people have gotten for a way you know paper
+[0579] [22:38] B: cups
+[0580] [22:38] B: in yeah you you all kinds of things that Hadn't
+[0581] [22:41] B: um so You write timing is very important
+[0582] [22:43] C: Yeah
+[0583] [22:45] B: but i think we've got a good product
+[0584] [22:47] A: That's it is an ad is yeah
+[0585] [22:49] A: i think you can or more the the brand like you And the power button
+[0586] [22:49] B: That's right
+[0587] [22:53] B: It's gonna be very important to the company
+[0588] [22:54] A: Yes
+[0589] [22:57] A: We are behind the scene and he's of friends screen so
+[0590] [23:01] D: Number one take the heat
+[0591] [23:02] A: He's on the big screen
+[0592] [23:03] C: I like it
+[0593] [23:05] B: Good luck at it
+[0594] [23:05] D: Yeah so not the market there
+[0595] [23:09] B: You look very relaxed considering the end of the uh Wait on your
+[0596] [23:10] D: Yes Yes
+[0597] [23:12] D: Stress
+[0598] [23:12] D: Stress
+[0599] [23:13] B: shoulders
+[0600] [23:14] B: yeah
+[0601] [23:16] A: Okay so then uh let's come to the
+[0602] [23:19] A: closing
+[0603] [23:19] A: think there are the costs within the budget
+[0604] [23:19] D: Celebration
+[0605] [23:22] A: And the
+[0606] [23:23] A: the project evaluated okay so that will uh a console
+[0607] [23:27] A: Okay for it um but that time being said thanks for audio referred send great work and uh a great design
+[0608] [23:34] A: And uh let's leave it to the uh at a later for once production is Or or
+[0609] [23:40] A: and i mean the time that's a great
+[0610] [23:42] A: So let's meet up the
+[0611] [23:44] A: this evening to hang up for some party
+[0612] [23:49] B: Sounds good
+[0613] [23:49] A: Good
+[0614] [23:50] B: Thank you
+[0615] [23:50] D: Really
+[0616] [23:50] B: nice working with it
+[0617] [23:51] D: Thank you very much Yeah
+[0618] [23:53] A: Thank you
+[0619] [23:54] A: I think a controls
+[0620] [23:56] A: I see any need for drinks
+[0621] [23:56] D: but
+[0622] [23:57] D: Yeah well okay see you
+[0623] [23:58] D: later on

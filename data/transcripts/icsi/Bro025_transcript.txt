@@ -1,0 +1,761 @@
+================================================================================
+ICSI Meeting Transcript: Bro025
+================================================================================
+
+Total Utterances: 751
+Unique Speakers: 5
+Duration: 35.32 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:03] me018: Alright . We 're on .
+[0002] [00:04] me013: Test , um . Test , test , test .
+[0003] [00:07] me013: Guess that 's me .
+[0004] [00:08] me013: Yeah . OK .
+[0005] [00:11] me006: Ooh , Thursday .
+[0006] [00:16] me013: So .
+[0007] [00:19] me013: There 's two sheets of paper in front of us .
+[0008] [00:23] mn007: Yeah . So .
+[0009] [00:23] me018: What are these ?
+[0010] [00:24] me013: This is the arm wrestling ?
+[0011] [00:27] mn052: Uh . Yeah , we formed a coalition actually .
+[0012] [00:27] mn007: Yeah . Almost .
+[0013] [00:29] mn052: We already made it into one .
+[0014] [00:31] me013: Oh , good .
+[0015] [00:31] mn052: Yeah .
+[0016] [00:32] mn007: Yeah .
+[0017] [00:32] me013: Excellent .
+[0018] [00:33] me013: That 's the best thing .
+[0019] [00:35] mn007: Mm - hmm .
+[0020] [00:36] me013: So , tell me about it .
+[0021] [00:38] mn007: So it 's well , it 's spectral subtraction or Wiener filtering ,
+[0022] [00:42] mn007: um ,
+[0023] [00:44] mn007: depending on if we put if we square the transfer function or not .
+[0024] [00:49] me013: Right .
+[0025] [00:50] mn007: And then with over - estimation of the noise , depending on the , uh the SNR , with smoothing along time ,
+[0026] [00:57] mn007: um ,
+[0027] [00:59] mn007: smoothing along frequency .
+[0028] [01:01] me013: Mm - hmm .
+[0029] [01:01] mn007: It 's very simple , smoothing things .
+[0030] [01:03] me013: Mm - hmm .
+[0031] [01:03] mn007: And , um , the best result is when we apply this procedure on FFT bins , uh , with a Wiener filter .
+[0032] [01:14] me013: Mm - hmm .
+[0033] [01:14] mn007: And there is no noise addition after after that .
+[0034] [01:17] me013: OK .
+[0035] [01:17] mn007: So it 's good
+[0036] [01:18] mn007: because it 's difficult when we have to add noise to to to find the right level .
+[0037] [01:23] me013: OK .
+[0038] [01:24] me018: Are you looking at one in in particular of these two ?
+[0039] [01:26] mn007: Yeah . So the sh it 's the sheet that gives fifty - f three point sixty - six .
+[0040] [01:30] me013: Mm - hmm .
+[0041] [01:31] mn007: Um , the second sheet is abo uh , about the same .
+[0042] [01:42] mn007: It 's the same , um , idea but it 's working on mel bands , and it 's a spectral subtraction instead of Wiener filter ,
+[0043] [01:46] mn007: and there is also a noise addition after , uh , cleaning up the mel bins .
+[0044] [01:54] mn007: Mmm .
+[0045] [01:56] mn007: Well , the results are similar .
+[0046] [01:59] me013: Yeah . I mean , it 's it 's actually , uh , very similar .
+[0047] [02:04] mn007: Mm - hmm .
+[0048] [02:06] me013: I mean , if you look at databases ,
+[0049] [02:09] me013: uh ,
+[0050] [02:12] me013: the , uh , one that has the smallest smaller overall number is actually better on the Finnish and Spanish ,
+[0051] [02:22] me013: uh
+[0052] [02:25] mn007: It
+[0053] [02:28] me013: I mean on the , uh , TI - TI - digits ,
+[0054] [02:28] mn007: on the multi - condition in TI - digits . Yeah .
+[0055] [02:31] me013: uh , uh .
+[0056] [02:34] me013: Um .
+[0057] [02:34] mn007: Mmm .
+[0058] [02:38] me013: So , it probably doesn't matter that much either way .
+[0059] [02:41] me013: But , um , when you say u uh , unified do you mean , uh , it 's one piece of software now ,
+[0060] [02:46] me013: or ?
+[0061] [02:46] mn007: So now we are , yeah , setting up the software .
+[0062] [02:49] me013: Mm - hmm .
+[0063] [02:49] mn007: Um , it should be ready , uh , very soon .
+[0064] [02:54] mn007: Um , and we
+[0065] [02:55] me018: So what 's what 's happened ?
+[0066] [02:56] me018: I think I 've missed something .
+[0067] [02:58] me013: OK
+[0068] [02:59] me013: maybe you weren't around when when when Hynek and Guenther and I ?
+[0069] [03:01] mn052: Hynek was here .
+[0070] [03:03] me018: Yeah . I didn't .
+[0071] [03:03] me013: Oh , OK . So Yeah , let 's summarize .
+[0072] [03:05] me013: Um And then if I summarize somebody can tell me if I 'm wrong ,
+[0073] [03:08] me013: which will also be possibly helpful .
+[0074] [03:10] me013: What did I just press here ?
+[0075] [03:11] me013: I hope this is still working .
+[0076] [03:14] mn007: p - p - p
+[0077] [03:15] me013: We
+[0078] [03:18] me013: anyway we after coming back from QualComm we had , you know , very strong feedback
+[0079] [03:24] me013: and , uh , I think it was Hynek and Guenter 's and my opinion also that , um , you know , we sort of spread out to look at a number of different ways of doing noise suppression .
+[0080] [03:34] me013: But given the limited time , uh , it was sort of time to choose one .
+[0081] [03:36] me018: Mm - hmm .
+[0082] [03:39] me018: Mmm .
+[0083] [03:40] me013: Uh , and so , uh , th the vector Taylor series hadn't really worked out that much .
+[0084] [03:46] me013: Uh , the subspace stuff , uh , had not been worked with so much .
+[0085] [03:51] me013: Um , so it sort of came down to spectral subtraction versus Wiener filtering .
+[0086] [03:55] me018: Hmm .
+[0087] [03:56] me013: Uh , we had a long discussion about how they were the same and how they were d uh , completely different .
+[0088] [04:00] me018: Mm - hmm .
+[0089] [04:01] me013: And , uh , I mean , fundamentally they 're the same sort of thing
+[0090] [04:04] me013: but the math is a little different
+[0091] [04:05] me013: so
+[0092] [04:09] me013: you know , what 's the ideal filtering ,
+[0093] [04:11] me013: and depending on how you construct the problem .
+[0094] [04:15] me018: Uh - huh .
+[0095] [04:15] me013: And , uh , I guess it 's sort you know , after after that meeting it sort of made more sense to me
+[0096] [04:19] me013: because um , if you 're dealing with power spectra then how are you gonna choose your error ?
+[0097] [04:27] me013: And typically you 'll do choose something like a variance .
+[0098] [04:29] me013: And so that means it 'll be something like the square of the power spectra .
+[0099] [04:32] mn052: Mm - hmm .
+[0100] [04:32] me013: Whereas when you 're when you 're doing the the , uh , um , looking at it the other way , you 're gonna be dealing with signals
+[0101] [04:40] me013: and you 're gonna end up looking at power uh , noise power that you 're trying to reduce .
+[0102] [04:43] me013: And so , eh so there should be a difference of you know , conceptually of of , uh , a factor of two in the exponent .
+[0103] [04:50] me018: Mm - hmm .
+[0104] [04:51] me013: But there 're so many different little factors that you adjust in terms of of , uh , uh , over - subtraction and and and and and so forth ,
+[0105] [05:01] me013: um , that arguably , you 're c
+[0106] [05:06] me013: and and and the choice of do you do you operate on the mel bands or do you operate on the FFT beforehand .
+[0107] [05:12] me013: There 're so many other choices to make that are are almost well , if not independent , certainly in addition to the choice of whether you , uh , do spectral subtraction or Wiener filtering ,
+[0108] [05:24] me013: that , um , @ @ again we sort of felt the gang should just sort of figure out which it is they wanna do
+[0109] [05:30] me013: and then let 's pick it ,
+[0110] [05:31] me013: go forward with it .
+[0111] [05:32] me013: So that 's that was that was last week .
+[0112] [05:34] me013: And and , uh , we said , uh , take a week , go arm wrestle ,
+[0113] [05:38] me013: you know ,
+[0114] [05:39] me006: Oh .
+[0115] [05:40] me013: figure it out .
+[0116] [05:40] me013: I mean , and th the joke there was that each of them had specialized in one of them .
+[0117] [05:43] me013: And
+[0118] [05:44] me018: Oh , OK .
+[0119] [05:45] me013: so instead they went to Yosemite and bonded , and and they came out with a single single piece of software .
+[0120] [05:50] me013: So it 's another another victory for international collaboration .
+[0121] [05:54] me013: So .
+[0122] [05:57] me013: Uh .
+[0123] [05:57] me018: So so you guys have combined or you 're going to be combining the software ?
+[0124] [06:01] mn007: Oh boy .
+[0125] [06:01] mn052: Well , the piece of software has , like , plenty of options ,
+[0126] [06:04] mn052: like you can parse command - line arguments .
+[0127] [06:06] mn052: So depending on that , it it becomes either spectral subtraction or Wiener filtering .
+[0128] [06:09] me018: Oh , OK .
+[0129] [06:10] mn052: So , ye
+[0130] [06:11] me013: Well , that 's fine ,
+[0131] [06:11] me018: They 're close enough .
+[0132] [06:12] me013: but the thing is the important thing is that there is a piece of software that you that we all will be using now .
+[0133] [06:16] mn052: Yeah . Yeah .
+[0134] [06:16] me013: Yes .
+[0135] [06:16] mn007: Yeah .
+[0136] [06:17] mn052: There 's just one piece of software .
+[0137] [06:18] me013: Yeah .
+[0138] [06:18] mn007: I need to allow it to do everything and even more more than this .
+[0139] [06:21] mn007: Well
+[0140] [06:22] mn052: Right .
+[0141] [06:26] mn052: Parameters . Yeah .
+[0142] [06:27] me013: Sure .
+[0143] [06:28] mn007: Yeah , we can do it later .
+[0144] [06:30] mn007: But , still so , there will be a piece of software with , uh , will give this system , the fifty - three point sixty - six , by default
+[0145] [06:37] mn007: and
+[0146] [06:38] me013: Mm - hmm .
+[0147] [06:39] me018: How how is how good is that ?
+[0148] [06:39] mn007: Mm - hmm .
+[0149] [06:41] me018: I
+[0150] [06:43] mn007: It 's just one percent off of the best proposal .
+[0151] [06:46] mn052: Best system .
+[0152] [06:47] mn007: It 's between i we are second actually if we take this system .
+[0153] [06:50] mn007: Right ?
+[0154] [06:50] mn052: Yeah .
+[0155] [06:50] me013: Yeah .
+[0156] [06:50] me018: OK .
+[0157] [06:51] me018: Compared to the last evaluation numbers ? Yeah .
+[0158] [06:51] me013: But
+[0159] [06:52] mn007: Mm - hmm . Yeah .
+[0160] [06:52] mn052: Yeah .
+[0161] [06:53] me013: w which we sort of were before
+[0162] [06:54] me013: but we were considerably far behind .
+[0163] [06:56] me013: And the thing is , this doesn't have neural net in yet for instance .
+[0164] [06:59] mn007: Mm - hmm .
+[0165] [06:59] me013: You know ?
+[0166] [06:59] me018: Hmm .
+[0167] [07:00] me013: So it so , um , it 's it it 's not using our full bal bag of tricks , if you will .
+[0168] [07:06] me018: Mm - hmm .
+[0169] [07:06] me013: And , uh , and it it is , uh , very close in performance to the best thing that was there before .
+[0170] [07:11] me013: Uh
+[0171] [07:19] me013: stationary dealing with e e
+[0172] [07:21] me013: we didn't explicitly have anything to deal with stationary noise .
+[0173] [07:24] me018: Mm - hmm .
+[0174] [07:25] me013: And now we do .
+[0175] [07:26] me018: So will the neural net operate on the output from either the Wiener filtering or the spectral subtraction ?
+[0176] [07:35] me013: Well
+[0177] [07:35] me018: Or will it operate on the original ?
+[0178] [07:38] me013: I mean , I gather you have it sounds like you have a few more days of of nailing things down with the software and so on .
+[0179] [07:43] me013: But and then but , um , arguably what we should do is , even though the software can do many things , we should for now pick a set of things ,
+[0180] [07:52] me013: th these things I would guess ,
+[0181] [07:54] mn007: Mm - hmm .
+[0182] [07:54] me013: and not change that .
+[0183] [07:55] me013: And then focus on everything that 's left .
+[0184] [07:59] me013: And I think , you know , that our goal should be by next week , when Hynek comes back , uh , to uh , really just to have a firm path , uh , for the you know , for the time he 's gone ,
+[0185] [08:12] me013: of of , uh , what things will be attacked .
+[0186] [08:14] me013: But I would I would I would thought think that what we would wanna do is not futz with this stuff for a while
+[0187] [08:20] me013: because what 'll happen is we 'll change many other things in the system ,
+[0188] [08:23] me018: Mm - hmm .
+[0189] [08:24] me013: and then we 'll probably wanna come back to this and possibly make some other choices .
+[0190] [08:27] me013: But , um .
+[0191] [08:28] me018: But just conceptually , where does the neural net go ?
+[0192] [08:31] me018: Do do you wanna h run it on the output of the spectrally subtracted ?
+[0193] [08:32] mn007: Mmm .
+[0194] [08:34] me013: Well
+[0195] [08:35] me013: Well , one question is , is it on the , um , server side or is it on the terminal side ?
+[0196] [08:41] me013: Uh , if it 's on the server side , it you probably don't have to worry too much about size .
+[0197] [08:45] me018: Mm - hmm .
+[0198] [08:45] me013: So that 's kind of an argument for that .
+[0199] [08:48] me013: We do still , however , have to consider its latency .
+[0200] [08:50] me013: So the issue is is , um , for instance , could we have a neural net that only looked at the past ?
+[0201] [08:55] me018: Right .
+[0202] [08:56] me013: Um , what we 've done in uh in the past is to use the neural net , uh , to transform , um , all of the features that we use .
+[0203] [09:05] me013: So this is done early on .
+[0204] [09:07] me013: This
+[0205] [09:13] me013: right
+[0206] [09:14] me018: Mm - hmm .
+[0207] [09:14] me013: where we 're just kind of creating new if not new speech at least new new FFT 's
+[0208] [09:19] me013: that
+[0209] [09:22] mn007: Mm - hmm .
+[0210] [09:22] me013: uh , that that have some of the noise removed .
+[0211] [09:24] me018: Mm - hmm .
+[0212] [09:25] me013: Um , after that we still do a mess of other things to to produce a bunch of features .
+[0213] [09:28] me018: Right .
+[0214] [09:30] me013: And then those features are not now currently transformed by the neural net .
+[0215] [09:34] me013: And then the the way that we had it in our proposal - two before , we had the neural net transformed features and we had the untransformed features ,
+[0216] [09:42] me013: which I guess you you actually did linearly transform with the KLT ,
+[0217] [09:46] mn007: Yeah . Yeah . Right .
+[0218] [09:46] me013: but
+[0219] [09:49] me013: but but they were not , uh , processed through a neural net .
+[0220] [09:52] me013: And Stephane 's idea with that , as I recall , was that you 'd have one part of the feature vector that was very discriminant and another part that wasn't ,
+[0221] [10:00] me018: Mm - hmm .
+[0222] [10:01] me013: uh , which would smooth things a bit for those occasions when , uh , the testing set was quite different than what you 'd trained your discriminant features for .
+[0223] [10:09] me013: So , um , all of that is is , uh still seems like a good idea .
+[0224] [10:14] me013: The thing is now we know some other constraints .
+[0225] [10:17] me013: We can't have unlimited amounts of latency .
+[0226] [10:20] me013: Uh , y you know , that 's still being debated by the by people in Europe
+[0227] [10:24] me013: but , uh , no matter how they end up there , it 's not going to be unlimited amounts ,
+[0228] [10:29] me013: so we have to be a little conscious of that .
+[0229] [10:29] me018: Yeah .
+[0230] [10:31] me013: Um .
+[0231] [10:33] me013: So there 's the neural net issue .
+[0232] [10:35] me013: There 's the VAD issue .
+[0233] [10:37] me013: And , uh , there 's the second stream thing .
+[0234] [10:42] me013: And I think those that we last time we agreed that those are the three things that have to get , uh , focused on .
+[0235] [10:47] me018: What was the issue with the VAD ?
+[0236] [10:49] me013: Well , better ones are good .
+[0237] [10:53] me018: And so the w the default , uh , boundaries that they provide are they 're OK , but they 're not all that great ?
+[0238] [11:00] me013: I guess they still allow two hundred milliseconds on either side or some ?
+[0239] [11:03] mn007: Mm - hmm .
+[0240] [11:03] me013: Is that what the deal is ?
+[0241] [11:04] mn007: Uh
+[0242] [11:10] me018: Outside the beginnings and end .
+[0243] [11:11] mn007: Yeah .
+[0244] [11:11] mn007: And all the speech pauses ,
+[0245] [11:12] me018: Uh - huh .
+[0246] [11:13] mn007: which is Sometimes on the SpeechDat - Car you have pauses that are more than one or two seconds .
+[0247] [11:20] me018: Wow .
+[0248] [11:20] mn007: More than one second for sure .
+[0249] [11:22] mn007: Um .
+[0250] [11:23] me018: Hmm .
+[0251] [11:24] mn007: Yeah .
+[0252] [11:24] mn007: And
+[0253] [11:30] mn007: We cou we can do better , I think ,
+[0254] [11:32] me018: Mm - hmm .
+[0255] [11:33] mn007: because , um , with this way of dropping the frames they improve over the baseline by fourteen percent
+[0256] [11:40] mn007: and Sunil already showed that with our current VAD we can improve by more than twenty percent .
+[0257] [11:47] me018: On top of the VAD that they provide ?
+[0258] [11:50] mn052: No .
+[0259] [11:52] mn007: Just using either their VAD or our current VAD .
+[0260] [11:54] mn052: Our way .
+[0261] [11:56] me018: Oh , OK .
+[0262] [11:57] mn007: So , our current VAD is is more than twenty percent ,
+[0263] [11:59] mn007: while their is fourteen .
+[0264] [12:00] me018: Theirs is fourteen ?
+[0265] [12:02] mn007: Yeah .
+[0266] [12:02] me018: I see .
+[0267] [12:03] me018: Huh .
+[0268] [12:05] mn007: So .
+[0269] [12:06] mn007: Yeah .
+[0270] [12:07] mn007: And another thing that we did also is that we have all this training data for let 's say , for SpeechDat - Car .
+[0271] [12:15] mn007: We have channel zero which is clean ,
+[0272] [12:16] mn007: channel one which is far - field microphone .
+[0273] [12:20] mn007: And
+[0274] [12:21] mn007: if we just take only the , um , VAD probabilities computed on the clean signal and apply them on the far - field , uh , test utterances , then results are much better .
+[0275] [12:33] me018: Mm - hmm .
+[0276] [12:36] mn007: In some cases it divides the error rate by two .
+[0277] [12:40] me018: Wow .
+[0278] [12:41] mn007: So
+[0279] [12:44] mn007: If if we can have a good VAD , well , it would be great .
+[0280] [12:44] me018: How how much latency does the , uh does our VAD add ?
+[0281] [12:50] me018: Is it significant ,
+[0282] [12:51] mn007: Uh , right now it 's , um , a neural net with nine frames .
+[0283] [12:51] me018: or ?
+[0284] [12:55] mn007: So it 's forty milliseconds plus , um , the rank ordering ,
+[0285] [13:00] mn007: which , uh , should be
+[0286] [13:02] mn052: Like another ten frames .
+[0287] [13:04] mn007: ten
+[0288] [13:05] mn007: Yeah .
+[0289] [13:06] mn007: So , right now it 's one hundred and forty milliseconds .
+[0290] [13:06] me006: Rank .
+[0291] [13:06] me006: Oh .
+[0292] [13:08] me013: With the rank ordering ?
+[0293] [13:09] me013: I 'm sorry .
+[0294] [13:10] mn052: The the the smoothing the m the the filtering of the probabilities .
+[0295] [13:10] mn007: The
+[0296] [13:15] mn052: on the R .
+[0297] [13:15] mn007: Yeah . It 's not a median filtering .
+[0298] [13:17] mn007: It
+[0299] [13:22] mn007: Um , so we have eleven , um , frames .
+[0300] [13:26] me013: Oh , this is for the VAD .
+[0301] [13:27] mn007: And
+[0302] [13:27] mn052: Yeah .
+[0303] [13:27] mn007: for
+[0304] [13:28] mn007: and we take th the third .
+[0305] [13:28] mn052: Yeah .
+[0306] [13:28] me013: Oh , OK .
+[0307] [13:30] mn052: Yeah .
+[0308] [13:30] me006: Dar
+[0309] [13:30] mn007: Um .
+[0310] [13:31] me013: Yeah .
+[0311] [13:33] me013: Um .
+[0312] [13:36] mn007: Mmm .
+[0313] [13:36] me013: So Yeah , I was just noticing on this that it makes reference to delay .
+[0314] [13:41] me013: So
+[0315] [13:44] me013: Um , the VAD is sort of in in parallel ,
+[0316] [13:47] me013: isn't i isn't it ,
+[0317] [13:48] me013: with with the ? I mean , it isn't additive with the the , uh , LDA and the Wiener filtering , and so forth .
+[0318] [13:50] mn052: The LDA ?
+[0319] [13:54] mn052: Yeah . So so what happened right now , we removed the delay of the LDA .
+[0320] [13:54] me013: Right ?
+[0321] [13:57] mn007: Mm - hmm .
+[0322] [13:58] me013: Yeah .
+[0323] [13:59] mn052: So we I mean , if so if we if so which is like if we reduce the delay of VA
+[0324] [14:03] mn052: So , the f the final delay 's now ba is f determined by the delay of the VAD ,
+[0325] [14:08] mn052: because the LDA doesn't have any delay .
+[0326] [14:10] mn052: So if we re if we reduce the delay of the VAD , I mean , it 's like effectively reducing the delay .
+[0327] [14:15] me018: How how much , uh , delay was there on the LDA ?
+[0328] [14:18] mn052: So the LDA and the VAD both had a hundred millisecond delay .
+[0329] [14:22] mn052: So and they were in parallel ,
+[0330] [14:23] mn052: so
+[0331] [14:25] me018: Mmm .
+[0332] [14:25] mn052: the the biggest , whatever .
+[0333] [14:27] me013: Mm - hmm .
+[0334] [14:27] me018: I see .
+[0335] [14:27] mn052: So , right now the LDA delays are more .
+[0336] [14:28] me013: And
+[0337] [14:30] me018: Oh , OK .
+[0338] [14:30] me013: And there didn't seem to be any , uh , penalty for that ?
+[0339] [14:33] mn052: Pardon ?
+[0340] [14:33] me013: There didn't seem to be any penalty for making it causal ?
+[0341] [14:37] mn052: Oh , no . It actually made it , like , point one percent better or something , actually .
+[0342] [14:40] me013: OK .
+[0343] [14:42] mn052: Or something like that
+[0344] [14:42] me013: Well , may as well , then .
+[0345] [14:43] mn052: and
+[0346] [14:43] me013: And he says Wiener filter is is forty milliseconds delay .
+[0347] [14:46] mn052: Yeah
+[0348] [14:47] mn007: Mmm .
+[0349] [14:47] me013: So is it ?
+[0350] [14:49] me013: The smoothing ?
+[0351] [14:50] mn052: Yeah
+[0352] [14:54] mn052: So .
+[0353] [14:55] me013: Right .
+[0354] [14:55] me013: OK .
+[0355] [14:57] me013: So that 's that 's really not not bad .
+[0356] [14:58] me013: So we may in fact we 'll see what they decide . We may in fact have , um , the the , uh , latency time available for to have a neural net .
+[0357] [15:07] me013: I mean , sounds like we probably will .
+[0358] [15:09] mn052: Mm - hmm .
+[0359] [15:09] me013: So .
+[0360] [15:10] me013: That 'd be good .
+[0361] [15:11] me013: Cuz I cuz it certainly always helped us before .
+[0362] [15:14] me013: So .
+[0363] [15:16] me013: Uh .
+[0364] [15:17] me018: What amount of latency are you thinking about when you say that ?
+[0365] [15:20] me013: Well , they 're you know , they 're disputing it .
+[0366] [15:21] me013: You know , they 're saying , uh one group is saying a hundred and thirty milliseconds and another group is saying two hundred and fifty milliseconds .
+[0367] [15:22] me018: Mmm .
+[0368] [15:28] me013: Two hundred and fifty is what it was before actually .
+[0369] [15:30] me013: So ,
+[0370] [15:31] me018: Oh .
+[0371] [15:31] me013: uh , some people are lobbying lobbying to make it shorter .
+[0372] [15:34] me018: Hmm .
+[0373] [15:34] me013: Um .
+[0374] [15:37] me013: And , um .
+[0375] [15:38] me018: Were you thinking of the two - fifty or the one - thirty when you said we should have enough for the neural net ?
+[0376] [15:43] me013: Well , it just it when we find that out it might change exactly how we do it , is all .
+[0377] [15:46] me013: I mean , how much effort do we put into making it causal ?
+[0378] [15:47] me018: Oh , OK .
+[0379] [15:50] me013: I mean , I think the neural net will probably do better if it looks at a little bit of the future .
+[0380] [15:54] me018: Mm - hmm .
+[0381] [15:55] me013: But , um , it will probably work to some extent to look only at the past .
+[0382] [15:59] me013: And we ha you know , limited machine and human time , and effort .
+[0383] [16:04] me013: And , you know , how how much time should we put into into that ?
+[0384] [16:08] me013: So it 'd be helpful if we find out from the the standards folks whether , you know , they 're gonna restrict that or not .
+[0385] [16:13] me018: Mm - hmm .
+[0386] [16:15] me013: Um .
+[0387] [16:16] me013: But I think , you know , at this point our major concern is making the performance better
+[0388] [16:20] me013: and and , um , if , uh , something has to take a little longer in latency in order to do it that 's you know , a secondary issue .
+[0389] [16:29] me018: Mm - hmm .
+[0390] [16:29] me013: But if we get told otherwise then , you know , we may have to c clamp down a bit more .
+[0391] [16:35] me006: Mmm .
+[0392] [16:43] mn052: So , the one one one difference is that was there is like we tried computing the delta and then doing the frame - dropping .
+[0393] [16:43] me006: S
+[0394] [16:51] mn007: Mm - hmm .
+[0395] [16:51] mn052: The
+[0396] [16:53] me013: Uh - huh .
+[0397] [16:56] mn052: So
+[0398] [16:57] me018: Which could be a kind of a funny delta .
+[0399] [16:59] me018: Right ?
+[0400] [16:59] mn052: Yeah .
+[0401] [17:00] me013: Oh ,
+[0402] [17:00] me013: oh .
+[0403] [17:00] me013: So that 's fixed in this .
+[0404] [17:01] me013: Yeah , we talked about that .
+[0405] [17:01] mn052: Yeah .
+[0406] [17:02] mn007: Yeah . Uh - huh .
+[0407] [17:02] mn052: So
+[0408] [17:03] me013: Good .
+[0409] [17:03] mn052: So the frame - dropping is the last thing that we do .
+[0410] [17:07] mn052: So , yeah , what we do is we compute the silence probability ,
+[0411] [17:10] mn052: convert it to that binary flag ,
+[0412] [17:11] me013: Uh - huh .
+[0413] [17:12] mn052: and
+[0414] [17:12] mn007: Mm - hmm .
+[0415] [17:18] me018: Did that help then ?
+[0416] [17:19] mn052: It seems to be helping on the well - matched condition .
+[0417] [17:21] mn052: So that 's why this improvement I got from the last result .
+[0418] [17:25] mn052: So . And it actually r reduced a little bit on the high mismatch ,
+[0419] [17:28] mn052: so in the final weightage it 's b b better
+[0420] [17:30] mn052: because
+[0421] [17:33] me013: So , @ @ I mean , you were doing a lot of changes .
+[0422] [17:36] me013: Did you happen to notice how much , uh , the change was due to just this frame - dropping problem ?
+[0423] [17:42] me013: What about this ?
+[0424] [17:42] mn052: Uh , y you had something on it .
+[0425] [17:44] mn052: Right ?
+[0426] [17:44] mn007: Just the frame - dropping problem .
+[0427] [17:46] mn007: Yeah . But it 's it 's difficult .
+[0428] [17:49] mn007: Sometime we we change two two things together
+[0429] [17:52] mn007: and But it 's around maybe it 's less than one percent .
+[0430] [17:56] me013: Uh - huh .
+[0431] [17:57] mn052: Yeah .
+[0432] [17:59] mn007: It
+[0433] [18:00] me013: Well . But like we 're saying , if there 's four or five things like that then pretty sho soon you 're talking real improvement .
+[0434] [18:01] mn007: Yeah .
+[0435] [18:03] mn007: Yeah
+[0436] [18:05] mn007: Yeah .
+[0437] [18:05] mn007: And then we have to be careful with that also with the neural net
+[0438] [18:05] me013: Yeah .
+[0439] [18:08] mn007: because in the proposal the neural net was also , uh , working on after frame - dropping .
+[0440] [18:15] me013: Mm - hmm .
+[0441] [18:16] mn007: Um .
+[0442] [18:18] me013: Oh , that 's a real good point .
+[0443] [18:18] mn007: So
+[0444] [18:22] mn007: to do the same kind of correction .
+[0445] [18:26] me013: It might be hard if it 's at the server side .
+[0446] [18:28] me013: Right ?
+[0447] [18:29] mn007: Mmm . Well , we can do the frame - dropping on the server side
+[0448] [18:33] mn007: or we can just be careful at the terminal side to send a couple of more frames before and after ,
+[0449] [18:40] mn007: and So .
+[0450] [18:42] mn007: I think it 's OK .
+[0451] [18:43] me013: OK .
+[0452] [18:46] me018: You
+[0453] [18:48] me018: So
+[0454] [18:49] me018: Uh , maybe I don't quite understand how this works ,
+[0455] [18:51] me018: but , um , couldn't you just send all of the frames , but mark the ones that are supposed to be dropped ?
+[0456] [18:56] me018: Cuz you have a bunch more bandwidth .
+[0457] [18:58] me018: Right ?
+[0458] [18:59] me013: Well , you could .
+[0459] [19:00] me013: Yeah . I mean , it it always seemed to us that it would be kind of nice to in addition to , uh , reducing insertions , actually use up less bandwidth .
+[0460] [19:09] me018: Yeah . Yeah .
+[0461] [19:09] me013: But nobody seems to have cared about that in this evaluation .
+[0462] [19:14] me018: And
+[0463] [19:14] me013: So .
+[0464] [19:17] me018: If the net 's on the server side then it could use all of the frames .
+[0465] [19:22] mn052: Yes , it could be .
+[0466] [19:24] mn052: It 's , like , you mean you just transferred everything
+[0467] [19:26] mn052: and then finally drop the frames after the neural net .
+[0468] [19:28] mn052: Right ?
+[0469] [19:28] me018: Mm - hmm .
+[0470] [19:29] mn007: Mm - hmm .
+[0471] [19:29] mn052: Yeah
+[0472] [19:31] me018: But you could even mark them , before they get to the server .
+[0473] [19:32] mn052: Yeah
+[0474] [19:34] mn052: Uh , ri
+[0475] [19:34] mn052: Right now what wha what we did is , like , we just mark we just have this additional bit which goes around the features , saying it 's currently a it 's a speech or a nonspeech .
+[0476] [19:43] me018: Oh ,
+[0477] [19:43] me018: OK .
+[0478] [19:43] mn052: So there is no frame - dropping till the final features , like , including the deltas are computed .
+[0479] [19:48] me018: I see .
+[0480] [19:48] mn052: And after the deltas are computed , you just pick up the ones that are marked silence and then drop them .
+[0481] [19:51] me018: Mm - hmm .
+[0482] [19:53] me018: I see .
+[0483] [19:54] me013: So it would be more or less the same thing with the neural net , I guess , actually .
+[0484] [19:54] mn007: Mm - hmm .
+[0485] [19:54] me018: I see .
+[0486] [19:56] mn052: So . Yeah , that 's what that 's what that 's what , uh , this is doing right now .
+[0487] [19:58] me018: I see .
+[0488] [20:00] me018: OK .
+[0489] [20:00] me013: Yeah .
+[0490] [20:01] mn007: Mm - hmm .
+[0491] [20:05] me013: Um .
+[0492] [20:08] me013: OK .
+[0493] [20:10] me013: So , uh ,
+[0494] [20:12] me013: what 's , uh ?
+[0495] [20:14] me013: That
+[0496] [20:17] mn052: Just one more thing .
+[0497] [20:18] mn052: Like , should we do something f more for the noise estimation ,
+[0498] [20:21] mn052: because we still ?
+[0499] [20:22] me013: Yeah . I was wondering about that .
+[0500] [20:23] mn052: Yeah .
+[0501] [20:23] mn007: Mm - hmm .
+[0502] [20:23] me013: That was I I had written that down there .
+[0503] [20:25] me013: Um
+[0504] [20:26] mn007: So , we , uh actually I did the first experiment .
+[0505] [20:29] mn007: This is with just fifteen frames .
+[0506] [20:32] mn007: Um .
+[0507] [20:33] mn007: We take the first fifteen frame of each utterance to it ,
+[0508] [20:35] me013: Yeah .
+[0509] [20:36] mn007: and average their power spectra .
+[0510] [20:39] mn007: Um .
+[0511] [20:42] mn007: I tried just plugging the , um , uh , Guenter noise estimation on this system ,
+[0512] [20:49] mn007: and it uh , it got worse .
+[0513] [20:53] mn007: Um ,
+[0514] [20:54] mn007: but of course I didn't play with it .
+[0515] [20:55] me013: Uh - huh .
+[0516] [20:56] mn007: But Mm - hmm .
+[0517] [20:59] mn007: Uh , I didn't do much more for noise estimation . I just tried this ,
+[0518] [21:06] mn007: and
+[0519] [21:06] me013: Hmm . Yeah . Well , it 's not surprising it 'd be worse the first time .
+[0520] [21:09] mn007: Mm - hmm .
+[0521] [21:10] me013: But , um ,
+[0522] [21:12] me013: it does seem like , you know , i i i i some compromise between always depending on the first fifteen frames and a a always depending on a a pause is is is a good idea .
+[0523] [21:26] me013: Uh , maybe you have to weight the estimate from the first - teen fifteen frames more heavily than than was done in your first attempt .
+[0524] [21:34] me013: But
+[0525] [21:35] mn007: Mm - hmm .
+[0526] [21:37] me013: but
+[0527] [21:38] mn007: Yeah , I guess .
+[0528] [21:39] me013: Yeah .
+[0529] [21:40] me013: Um .
+[0530] [21:42] me013: No
+[0531] [21:45] me013: Um ,
+[0532] [21:47] me013: do you have any way of assessing how well or how poorly the noise estimation is currently doing ?
+[0533] [21:54] mn007: Mmm . No , we don't .
+[0534] [21:57] me013: Yeah .
+[0535] [21:58] mn007: We
+[0536] [21:59] mn052: Is there was there any experiment with ?
+[0537] [22:01] mn052: Well , I I did The only experiment where I tried was I used the channel zero VAD for the noise estimation
+[0538] [22:08] mn052: and frame - dropping .
+[0539] [22:09] mn052: So I don't have a I don't have a split , like which one helped more .
+[0540] [22:10] mn007: Yeah .
+[0541] [22:13] mn052: So . It it was the best result I could get .
+[0542] [22:17] mn007: Mm - hmm .
+[0543] [22:19] mn052: So
+[0544] [22:20] me013: So that 's something you could do with , um , this final system .
+[0545] [22:26] me013: Right ?
+[0546] [22:26] me013: Just do this everything that is in this final system except , uh , use the channel zero .
+[0547] [22:34] mn052: Mm - hmm .
+[0548] [22:34] mn052: For the noise estimation .
+[0549] [22:35] me013: Yeah .
+[0550] [22:36] mn052: Yeah . We can try something .
+[0551] [22:37] me013: And then see how much better it gets .
+[0552] [22:39] mn052: Mm - hmm . Sure .
+[0553] [22:40] me013: If it 's , you know , essentially not better , then it 's probably not worth
+[0554] [22:44] mn007: Yeah .
+[0555] [22:45] me013: any more .
+[0556] [22:46] mn052: Yeah . But the Guenter 's argument is slightly different .
+[0557] [22:49] mn052: It 's , like , ev even even if I use a channel zero VAD , I 'm just averaging the the s power spectrum .
+[0558] [22:55] mn052: But the Guenter 's argument is , like , if it is a non - stationary segment , then he doesn't update the noise spectrum .
+[0559] [23:01] mn052: So he 's , like he tries to capture only the stationary part in it .
+[0560] [23:04] mn052: So the averaging is , like , different from updating the noise spectrum only during stationary segments .
+[0561] [23:13] mn052: So , th the Guenter was arguing that , I mean , even if you have a very good VAD , averaging it , like , over the whole thing is not a good idea .
+[0562] [23:20] mn052: Because you 're averaging the stationary and the non - stationary , and finally you end up getting something
+[0563] [23:20] me013: I see .
+[0564] [23:24] mn052: which is not really the s because , you anyway , you can't remove the stationary part fr I mean , non - stationary part from the signal .
+[0565] [23:30] mn052: So
+[0566] [23:31] me013: Not using these methods anyway . Yeah .
+[0567] [23:32] mn052: Yeah . So you just update only doing or update only the stationary components .
+[0568] [23:38] mn052: Yeah . So , that 's so that 's still a slight difference from what Guenter is trying
+[0570] [23:43] me013: Well , yeah . And and also there 's just the fact that , um ,
+[0571] [23:48] me013: eh , uh , although we 're trying to do very well on this evaluation , um , we actually would like to have something that worked well in general .
+[0572] [23:56] mn052: Yeah , yeah .
+[0573] [23:57] me013: And
+[0574] [24:02] me013: I mean , you might , you might not .
+[0575] [24:04] mn052: Mmm .
+[0576] [24:04] mn007: Mm - hmm .
+[0577] [24:05] me013: So , um .
+[0578] [24:08] me013: Um , it 'd certainly be more robust to different kinds of input if you had at least some updates .
+[0579] [24:14] me013: Um .
+[0580] [24:15] mn007: Mm - hmm .
+[0581] [24:16] me013: But , um .
+[0582] [24:18] me013: Well , I don't know .
+[0583] [24:19] me013: What what do you , uh what do you guys see as as being what you would be doing in the next week , given wha what 's happened ?
+[0584] [24:34] mn052: Cure the VAD ?
+[0585] [24:38] mn007: Yeah .
+[0586] [24:39] me018: What was that ?
+[0587] [24:40] mn052: VAD .
+[0588] [24:41] me018: Oh .
+[0589] [24:45] mn052: And
+[0591] [24:51] me013: OK .
+[0592] [24:55] mn007: So , should we keep the same ? I think we might try to keep the same idea
+[0593] [24:59] mn007: of having a neural network ,
+[0594] [25:00] mn007: but training it on more data
+[0595] [25:07] mn007: and adding better features , I think ,
+[0596] [25:11] mn007: but because the current network is just PLP features .
+[0597] [25:14] mn007: Well
+[0598] [25:16] mn052: Just the cepstra .
+[0599] [25:18] mn052: Yeah .
+[0600] [25:19] mn007: PLP features computed on noisy speech .
+[0601] [25:21] mn007: But there is no nothing particularly robust in these features .
+[0602] [25:27] me018: So
+[0603] [25:27] mn052: No .
+[0604] [25:27] mn007: There
+[0605] [25:29] me018: So , uh , I I don't remember what you said the answer to my , uh , question earlier .
+[0606] [25:34] me018: Will you will you train the net on after you 've done the spectral subtraction or the Wiener filtering ?
+[0607] [25:39] me013: This is a different net .
+[0608] [25:40] me018: Oh .
+[0609] [25:41] mn052: So we have a VAD which is like neur that 's a neural net .
+[0610] [25:42] mn007: Oh , yeah . Hmm .
+[0611] [25:45] me018: Oh , you 're talking about the VAD net .
+[0612] [25:46] mn052: Yeah .
+[0613] [25:46] me018: OK .
+[0614] [25:46] mn007: Mm - hmm .
+[0615] [25:47] me018: I see .
+[0616] [25:48] mn052: So that that VAD was trained on the noisy features .
+[0617] [25:50] me018: Mm - hmm .
+[0618] [25:52] mn052: So , right now we have , like , uh we have the cleaned - up features ,
+[0619] [25:56] mn052: so we can have a better VAD by training the net on the cleaned - up speech .
+[0620] [25:58] me018: Mm - hmm .
+[0621] [26:00] me018: I see . I see .
+[0622] [26:03] mn052: Yeah , but we need a VAD for uh noise estimation also .
+[0623] [26:06] mn052: So it 's , like , where do we want to put the VAD ?
+[0624] [26:10] mn052: Uh
+[0625] [26:14] me018: Can you use the same net to do both ,
+[0626] [26:15] me018: or ?
+[0627] [26:16] mn052: For
+[0628] [26:18] me018: Can you use the same net that you that I was talking about to do the VAD ?
+[0629] [26:21] mn052: Mm - hmm .
+[0630] [26:23] mn052: Uh , it actually comes at v at the very end .
+[0631] [26:27] mn052: So
+[0632] [26:27] me018: Mm - hmm .
+[0633] [26:30] mn052: so that actually comes after a chain of , like , LDA plus everything .
+[0634] [26:33] mn052: So it 's , like , it takes a long time to get a decision out of it .
+[0635] [26:36] mn052: And and you can actually do it for final frame - dropping ,
+[0636] [26:38] mn052: but not for the VA - f noise estimation .
+[0637] [26:39] me018: Mm - hmm .
+[0638] [26:42] me013: You see , the idea is that the , um , initial decision to that that you 're in silence or speech happens pretty quickly .
+[0639] [26:52] me018: Oh , OK .
+[0640] [26:52] mn052: Hmm .
+[0641] [26:53] me013: And
+[0642] [26:53] me018: Cuz that 's used by some of these other ?
+[0643] [26:55] me013: Yeah . And that 's sort of fed forward , and and you say " well , flush everything , it 's not speech anymore " .
+[0644] [26:55] me018: Oh , OK .
+[0645] [26:57] me018: I see .
+[0646] [26:57] mn052: Yeah .
+[0647] [26:58] me018: I thought that was only used for doing frame - dropping later on .
+[0648] [27:02] me013: Um
+[0649] [27:07] me013: Yeah , it 's only used f Well , it 's used for frame - dropping .
+[0650] [27:10] me013: Um , it 's used for end of utterance
+[0651] [27:11] mn007: Mmm .
+[0652] [27:13] me013: because , you know , there 's if you have more than five hundred milliseconds of of of nonspeech then you figure it 's end of utterance or something like that .
+[0653] [27:20] me018: Mm - hmm .
+[0654] [27:22] me013: So ,
+[0655] [27:24] me013: um .
+[0656] [27:25] mn007: And it seems important for , like , the on - line normalization .
+[0657] [27:29] mn007: Um . We don't want to update the mean and variance during silen long silence portions .
+[0658] [27:37] mn007: Um . So it it has to be done before
+[0659] [27:39] me018: Oh .
+[0660] [27:41] me018: I see .
+[0661] [27:42] mn007: this mean and variance normalization .
+[0662] [27:45] mn007: Um .
+[0663] [27:52] me013: Um .
+[0664] [27:58] me013: Yeah . So probably the VAD and and maybe testing out the noise estimation a little bit .
+[0665] [28:04] me013: I mean , keeping the same method
+[0666] [28:05] me013: but but , uh , seeing if you cou but , um noise estimation could be improved .
+[0667] [28:10] mn007: Mm - hmm .
+[0668] [28:10] me013: Those are sort of related issues .
+[0669] [28:13] me013: It probably makes sense to move from there .
+[0670] [28:16] me013: And then , uh , later on in the month I think we wanna start including the neural net at the end .
+[0671] [28:26] me013: Um .
+[0672] [28:31] me013: OK . Anything else ?
+[0673] [28:36] mn007: The Half Dome was great .
+[0674] [28:39] me013: Good .
+[0675] [28:44] me013: Yeah . You didn't didn't fall .
+[0676] [28:47] mn052: Well , yeah .
+[0677] [28:47] me013: That 's good .
+[0678] [28:49] me013: Our e our effort would have been devastated
+[0679] [28:52] me013: if you guys had run into problems .
+[0680] [28:55] me018: So , Hynek is coming back next week , you said ?
+[0681] [28:57] me013: Yeah , that 's the plan .
+[0682] [28:58] me018: Hmm .
+[0683] [28:59] me013: I guess the week after he 'll be , uh , going back to Europe ,
+[0684] [29:01] me013: and
+[0685] [29:03] me018: Is he in Europe right now or is he up at ?
+[0686] [29:04] me013: No , no . He 's he 's he 's dropped into the US . Yeah . Yeah .
+[0687] [29:05] me018: Oh .
+[0688] [29:07] me018: Hmm .
+[0689] [29:08] me013: So .
+[0690] [29:10] me013: Uh . So , uh .
+[0691] [29:14] me013: Uh , the idea was that , uh , we 'd we 'd sort out where we were going next with this with this work before he , uh , left on this next trip .
+[0692] [29:28] me013: Good . Uh , Barry , you just got through your quals , so I don't know if you have much to say .
+[0693] [29:35] me013: But , uh .
+[0694] [29:37] me006: Mmm .
+[0695] [29:39] me006: No , just , uh , looking into some some of the things that , um , uh , John Ohala and Hynek , um , gave as feedback ,
+[0696] [29:47] me006: um , as as a starting point for the project .
+[0697] [29:51] me006: Um .
+[0698] [29:52] me006: In in my proposal , I I was thinking about starting from a set of , uh , phonological features , or a subset of them .
+[0699] [29:59] me006: Um , but that might not be necessarily a good idea according to , um , John .
+[0700] [30:03] me018: Mm - hmm .
+[0701] [30:06] me006: He said , uh , um , these these phonological features are are sort of figments of imagination also .
+[0702] [30:13] me018: Mm - hmm .
+[0703] [30:13] me006: Um . S
+[0704] [30:14] me013: In conversational speech in particular .
+[0705] [30:15] me006: Ye
+[0706] [30:16] me013: I think you can you can put them in pretty reliably in synthetic speech .
+[0707] [30:19] me013: But we don't have too much trouble recognizing synthetic speech since we create it in the first place .
+[0708] [30:23] me013: So
+[0709] [30:23] me006: Right .
+[0710] [30:25] me006: Yeah . So , um , a better way would be something more more data - driven ,
+[0711] [30:30] me018: Mm - hmm .
+[0712] [30:30] me006: just looking at the data and seeing what 's similar and what 's not similar .
+[0713] [30:34] me018: Mm - hmm .
+[0714] [30:34] me006: So , I 'm I 'm , um , taking a look at some of , um , Sangita 's work on on TRAPS .
+[0715] [30:42] me006: She did something where , um w where the TRAPS learn
+[0716] [30:48] me006: She clustered the the temporal patterns of , um , certain certain phonemes in in m averaged over many , many contexts .
+[0717] [30:59] me006: And , uh , some things tended to cluster .
+[0718] [31:02] me018: Mm - hmm .
+[0719] [31:03] me006: Right ? You know , like stop stop consonants clustered really well .
+[0720] [31:06] me018: Hmm .
+[0721] [31:07] me006: Um , silence was by its own self .
+[0722] [31:09] me018: Mm - hmm .
+[0723] [31:09] me006: And , uh , um , v vocalic was clustered .
+[0724] [31:12] me018: Mm - hmm .
+[0725] [31:13] me006: And
+[0726] [31:18] me018: So you 're now you 're sort of looking to try to gather a set of these types of features ?
+[0727] [31:24] me006: Right .
+[0728] [31:24] me018: Mm - hmm .
+[0729] [31:24] me006: Yeah .
+[0730] [31:25] me006: Just to see where where I could start off from ,
+[0731] [31:28] me018: Mm - hmm .
+[0732] [31:29] me006: uh , you know ?
+[0733] [31:30] me006: A a a set of small features and continue to iterate and find , uh , a better set .
+[0734] [31:36] me018: Mm - hmm .
+[0735] [31:37] me006: Yeah .
+[0736] [31:44] me013: OK . Well , short meeting .
+[0737] [31:46] me013: That 's OK .
+[0738] [31:47] me018: Yeah .
+[0739] [31:49] me013: OK . So next week hopefully we 'll can get Hynek here to to join us
+[0740] [31:52] me013: and , uh ,
+[0741] [31:54] me013: uh .
+[0742] [31:57] me018: Should we do digits ?
+[0743] [31:57] me013: Digits , digits .
+[0744] [32:01] me013: OK , now .
+[0745] [32:02] me018: Go ahead , Morgan .
+[0746] [32:02] me013: Alright . Let me get my glasses on so I can see them .
+[0747] [32:03] me018: You can start .
+[0748] [32:09] me013: OK .
+[0749] [35:20] me018: OK .
+[0750] [35:21] me018: And we 're off .
+[0751] [35:22] me013: Mm

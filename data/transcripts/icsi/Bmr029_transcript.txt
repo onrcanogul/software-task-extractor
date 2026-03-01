@@ -1,0 +1,973 @@
+================================================================================
+ICSI Meeting Transcript: Bmr029
+================================================================================
+
+Total Utterances: 984
+Unique Speakers: 5
+Duration: 43.24 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:01] me018: OK .
+[0002] [00:02] me013: OK . So the one one thing I knew I wanted to talk about was about , uh , sort of last minute stuff to to , uh , try to get some recognition results .
+[0003] [00:13] mn017: Recognition results
+[0004] [00:14] me013: Yeah .
+[0005] [00:14] mn017: for
+[0006] [00:15] me013: So , uh , on on on meeting data .
+[0007] [00:18] me013: And so , I 'm I 'm not sure exactly what you 're doing already ,
+[0008] [00:22] me013: and
+[0009] [00:23] mn017: Well , we I just started recognition on the on Thilo 's segments ,
+[0010] [00:29] mn017: which
+[0011] [00:30] mn017: but using the far far
+[0012] [00:32] mn017: the close - talking microphone .
+[0013] [00:33] me013: OK
+[0014] [00:35] mn017: And you wanted I know you wanted the far - field data .
+[0015] [00:37] me013: Right . So so , we have some stuff with no overlap , uh , for which there would be near near - field results .
+[0016] [00:45] mn017: Uh - huh .
+[0017] [00:45] me013: We wanted to get the far - field results for that .
+[0018] [00:48] me013: And then this this real , uh , long shot thing would be , that we 'd apply Dave 's processing to , uh , potentially training and test data
+[0019] [00:59] mn017: Mm - hmm .
+[0020] [00:59] me013: and do the look at the same thing .
+[0021] [01:02] me013: And
+[0022] [01:07] me013: We couldn't remember how different the numbers were ,
+[0023] [01:09] me013: but
+[0024] [01:15] me013: uh , I think Chuck 's recollection was that when he was doing the feature stuff , it took maybe a day and a half
+[0025] [01:19] me013: to do the training .
+[0026] [01:20] mn017: To retrain ?
+[0027] [01:20] me013: Yeah .
+[0028] [01:23] mn017: Uh
+[0029] [01:27] mn017: Yeah .
+[0030] [01:28] mn017: Um .
+[0031] [01:30] mn017: That 's about right .
+[0032] [01:32] mn017: Actually
+[0033] [01:34] mn017: It depends on who else is using machines ,
+[0034] [01:36] mn017: but we have more machines now .
+[0035] [01:37] mn017: So .
+[0036] [01:38] me018: That 's true .
+[0037] [01:39] mn017: It 's more like a day , probably .
+[0038] [01:41] me013: Um , how much worse is the short training set than the large one , in terms of the ultimate performance ?
+[0039] [01:47] mn017: Mmm
+[0040] [01:53] mn017: three or four percent absolute .
+[0041] [01:53] me013: Yep .
+[0042] [01:55] me013: So , it 's that should be fine for this , I would think .
+[0043] [01:59] me013: So we an and you have the short you have short training results for the close case ?
+[0044] [02:05] mn017: Um , not for meetings .
+[0045] [02:08] mn017: Because we didn't train we didn't re ever recognize with the with the small models on meeting data .
+[0046] [02:19] mn017: But I I have the models ,
+[0047] [02:21] mn017: so I could run reco
+[0048] [02:22] me013: So , how do you know it 's ?
+[0049] [02:23] me013: Oh , it 's three percent on on , uh , on Hub - five .
+[0050] [02:24] mn017: On
+[0051] [02:25] me018: Hub - five .
+[0052] [02:27] me013: I see .
+[0053] [02:28] me013: Yeah . But we have the models so we could get that number ,
+[0054] [02:31] me013: and
+[0055] [02:32] me013: So the question is , what ? w
+[0056] [02:33] mn017: I mean , the the mmm
+[0057] [02:36] mn017: The recognition also takes non - negligible amount of time .
+[0058] [02:40] mn017: So we might wanna restrict it to , maybe , a few meetings ,
+[0059] [02:46] mn017: if you want to do a full comparison .
+[0060] [02:48] me013: It
+[0061] [02:49] mn017: Uh .
+[0062] [02:51] me013: I mean , it 's the non - overlap only .
+[0063] [02:54] me013: Um
+[0064] [02:57] me013: it has to be enough to be sort of comparable to what you folks were seeing and what you reported already .
+[0065] [03:05] mn017: Hmm .
+[0066] [03:06] me013: I
+[0067] [03:09] mn017: Well , do we have the do we have the processed data ?
+[0068] [03:11] mn017: That
+[0069] [03:13] me013: No . He has to create that .
+[0070] [03:14] me013: But
+[0071] [03:14] mn017: Right .
+[0072] [03:17] me013: Um
+[0073] [03:18] me013: We have a whole parallel set of things over here which are all with digits .
+[0074] [03:20] mn017: Mmm .
+[0075] [03:23] mn017: I see .
+[0076] [03:23] me013: And and and Dave has been working with that and there 's all of those issues .
+[0077] [03:27] me013: But I know that if I go in with something that 's not just digits it would be good .
+[0078] [03:33] me013: And
+[0079] [03:36] me013: We
+[0080] [03:39] me013: I mean , on uh , a l a lot tha tha a particular test set , that you that we reported at HLT .
+[0082] [03:46] mn017: Right .
+[0083] [03:46] me013: Um , it 'd be nice to have something more than that .
+[0084] [03:48] me013: And
+[0085] [03:52] me013: Um , and then ,
+[0086] [03:54] me013: uh
+[0087] [03:56] me013: I mean , so this is gonna be a lot worse .
+[0088] [03:58] me013: Right ?
+[0089] [03:58] me013: Whatever comparison we w w one would presume .
+[0090] [03:59] mn017: Mm - hmm .
+[0091] [04:01] me013: But we don't know how much worse ,
+[0092] [04:02] mn017: Right .
+[0093] [04:02] me013: w w uh , which is certainly one interesting thing .
+[0094] [04:05] me013: And then , um ,
+[0095] [04:10] me013: Dave
+[0096] [04:11] me013: I think we figured that it 'd probably take a day or two to compute the the ,
+[0097] [04:15] me013: uh
+[0098] [04:18] me013: Well How many hours of training ?
+[0099] [04:19] mn017: Actually
+[0100] [04:21] mn017: I recently retrained , um , for another reason , on the full training set .
+[0101] [04:28] mn017: And that took only I think it took only two days .
+[0102] [04:33] me013: Yeah .
+[0103] [04:34] mn017: So , it 's actually conceivable to do use the full training set .
+[0104] [04:39] me013: Yeah , but we also have to do this other processing , so having a smaller training set ,
+[0105] [04:42] me013: if it 's only a few percent difference , it might be be worth doing it .
+[0106] [04:45] mn017: Oh , I see .
+[0107] [04:46] me013: But - m How big is the small training set ?
+[0108] [04:51] me013: Do you remember ?
+[0109] [04:51] mn017: Hmm . Uh .
+[0110] [05:04] mn017: I don't know ,
+[0111] [05:04] mn017: something something like something between thirty and fifty hours , maybe .
+[0112] [05:12] mn017: I f I forget the exac
+[0113] [05:14] me013: It 's around there .
+[0114] [05:15] me013: And ha and and male is roughly half of that ,
+[0115] [05:15] mn017: Right .
+[0116] [05:17] me013: or ?
+[0117] [05:18] me018: Well , that 's only male .
+[0118] [05:19] me013: Or or or was that only male ?
+[0119] [05:20] mn017: Uh . Actually , I don't know .
+[0120] [05:22] mn017: I 'd I I can look it up .
+[0121] [05:23] mn017: It 's it 's it 's just ,
+[0122] [05:25] mn017: uh , I don't know the remember the the number .
+[0123] [05:28] me018: We could only jus just do the male only
+[0124] [05:28] me013: OK .
+[0125] [05:30] me018: right ?
+[0126] [05:31] me018: Or will we run into trouble when we g ?
+[0127] [05:31] mn017: Well , the males account for most of this meeting data anyhow .
+[0128] [05:34] me018: Yeah .
+[0129] [05:35] mn017: So
+[0130] [05:37] mn017: Yeah . I would say we you do only males .
+[0131] [05:39] me013: Yeah .
+[0132] [05:42] me013: So
+[0133] [05:43] me013: Yeah . So that 's certainly part of the issue , is that right now he 's he hasn't written his stuff for efficiency .
+[0134] [05:48] me013: Yeah . It 's it 's in Matlab
+[0135] [05:50] me013: and so on ,
+[0136] [05:50] me013: and And , uh , it 's not an impossible amount of time .
+[0137] [05:50] mn017: Mm - hmm .
+[0138] [05:54] me013: We we were guestimating it was like one and a half times faster than real time , or something ?
+[0139] [05:59] me013: So , if there 's thirty hours of data , you can calculate that he can do , uh , the enhancement in a day
+[0140] [06:00] mn017: u
+[0141] [06:07] me013: and something .
+[0143] [06:08] me013: So
+[0144] [06:09] me013: But if we were dealing with two hundred hours or something , I think it 'd be prohibitive .
+[0145] [06:14] mn017: No . It 's definitely It 's less than a hundred hours , for sure .
+[0146] [06:17] mn017: It
+[0147] [06:17] me013: Yeah .
+[0148] [06:18] mn017: It 's probably actually , uh It 's uh , I think it 's around thirty hours
+[0149] [06:24] mn017: just for for one gender .
+[0150] [06:25] me018: That 's what I was thinking .
+[0151] [06:25] me013: Yeah .
+[0152] [06:27] mn017: Yeah .
+[0153] [06:27] me018: Yeah .
+[0154] [06:28] me013: Yeah . So , I mean , it 's a bit of a push ,
+[0155] [06:29] me013: but it seems like ,
+[0156] [06:30] me013: OK , we 've got some models ,
+[0157] [06:31] me013: we 've got some training data , we have software that works , he 's got a method that helps with , you know , other ta another task .
+[0158] [06:38] me013: Um
+[0159] [06:39] me013: It , you know , appears to be , you know , debugged .
+[0160] [06:39] me018: S
+[0161] [06:42] mn017: Mm - hmm .
+[0162] [06:42] me013: Um
+[0163] [06:43] me018: So We - Yo - So , one thing I was wondering is , did you already do that middle one or should we re - do that one , too ?
+[0164] [06:50] mn017: No . I didn't do that ,
+[0165] [06:52] mn017: because we haven't even cut the waveforms for that .
+[0166] [06:52] me018: You didn't do that . OK .
+[0167] [06:55] me018: Yeah . That 's what I was gonna say next .
+[0168] [06:55] mn017: So
+[0169] [06:57] me018: We
+[0170] [06:57] mn017: Right .
+[0171] [06:57] mn017: So .
+[0172] [06:59] me018: W s so is Morgan , is the plan to just pick one of the far - field mikes ?
+[0173] [07:01] mn014: Yeah . Yeah . We did .
+[0174] [07:03] me018: Uh
+[0175] [07:03] mn017: And there 's a bit of a question whether you want to use um , what segmentations you want to use .
+[0176] [07:04] me013: Yes .
+[0177] [07:10] mn017: Uh
+[0178] [07:11] mn017: Uh
+[0179] [07:13] mn017: Um , I 'm sorry .
+[0180] [07:15] mn017: Don just , uh , created a new version of the first meetings that we had previously recognized ,
+[0181] [07:22] mn017: but with different segmentation .
+[0182] [07:23] mn017: And
+[0183] [07:27] mn017: It
+[0184] [07:29] mn017: I
+[0185] [07:33] mn017: to use those segmentations ,
+[0186] [07:34] mn017: because th then we could claim that everything 's automatic .
+[0187] [07:41] me018: Do you know when he 'll have the the comparison ?
+[0188] [07:41] mn017: Right .
+[0189] [07:44] mn017: Well
+[0190] [07:50] mn017: It will uh , it will probably be a couple hours before before I have some results .
+[0191] [07:57] me013: Oh . Well , that 's not bad .
+[0192] [07:58] me018: Oh , OK .
+[0193] [07:58] mn017: So
+[0194] [07:59] me018: So cuz I don't think the new data will be ready , uh , for a couple days may probably .
+[0195] [08:06] me013: You mean the training .
+[0196] [08:06] me018: So ,
+[0197] [08:07] me018: the training .
+[0198] [08:09] mn017: But the segmentations matter for the filtering .
+[0199] [08:09] me013: Yeah .
+[0200] [08:12] mn017: Right ?
+[0201] [08:12] mn017: Because
+[0202] [08:13] me013: For the test .
+[0203] [08:14] mn017: For the test set . Yeah .
+[0204] [08:15] mn017: So ,
+[0205] [08:15] me013: Yeah , fo
+[0206] [08:15] me018: Yeah .
+[0207] [08:16] mn017: need
+[0208] [08:16] mn017: But , first first , of course , you would wanna process the training data ,
+[0209] [08:20] mn017: because we wanna get that started .
+[0210] [08:21] me013: Right .
+[0211] [08:22] mn017: Yeah .
+[0212] [08:23] me013: Yeah .
+[0213] [08:25] me013: I mean , it it 'd be really great if it was all automatic , but I think that , you know , given the pressure of time , if i i
+[0214] [08:30] me013: I mean , since you 're gonna find out in a short amount of time , that 's great .
+[0215] [08:32] mn017: Mm - hmm .
+[0216] [08:33] me013: But i if if it doesn't work out , I think we would rather charge ahead with the older segmentations
+[0217] [08:35] mn017: Mm - hmm .
+[0218] [08:38] mn017: Right .
+[0219] [08:38] me013: and Um ,
+[0220] [08:40] me013: and we were gonna use one of the P Z
+[0221] [08:42] me013: I
+[0222] [08:43] me013: Probably whatever one you 've been using for for for the digits .
+[0223] [08:45] me018: I think it 's that one .
+[0224] [08:45] me018: Right ? F .
+[0225] [08:46] me013: Is it this one ?
+[0226] [08:46] me026: It 's e F .
+[0227] [08:47] me018: F .
+[0228] [08:48] me018: Yeah , that 's it .
+[0229] [08:48] me013: I I 'd which ?
+[0230] [08:49] me013: That 's F ?
+[0231] [08:50] me013: How do you know ?
+[0232] [08:50] me018: That 's F .
+[0233] [08:51] me018: It 's the second nearest the machine room .
+[0234] [08:54] me013: Oh .
+[0235] [08:57] me013: Bien sur
+[0236] [09:00] me013: OK
+[0237] [09:01] me013: Bet they 'll have fun with that one .
+[0238] [09:02] me013: OK , so .
+[0239] [09:05] me013: Uh
+[0240] [09:07] me018: OK . So , uh , I just want to make sure I understand what we need to run .
+[0241] [09:11] me018: Um
+[0242] [09:15] me018: Let 's see .
+[0243] [09:15] me018: So
+[0244] [09:17] me018: OK
+[0245] [09:18] me018: Let 's let 's assume that we 're gonna use the new segmentations .
+[0246] [09:21] me018: We need to , um , run recognition o just looking at the no overlap column .
+[0247] [09:28] me018: Basically , we have to d r do recognitions for all three of those cases .
+[0248] [09:31] me018: Right ?
+[0249] [09:32] me013: Mm - hmm .
+[0250] [09:33] me013: Right .
+[0251] [09:33] me018: Um
+[0252] [09:37] me018: short training set for the male .
+[0253] [09:39] mn017: Mm - hmm .
+[0254] [09:39] me018: So we need to have results for all three of those ,
+[0255] [09:41] me018: even
+[0256] [09:41] mn017: Ma - maybe you should limit ourselves to the Meeting Recorder meetings ?
+[0257] [09:47] me018: OK .
+[0258] [09:47] mn017: Um ,
+[0259] [09:48] mn017: if you were gonna cut down on the test set , I would suggest that .
+[0260] [09:51] me013: Well Maybe .
+[0261] [09:52] me013: But , I I mean , how long does it take for the test ?
+[0262] [09:54] mn017: Actually , the longer the Robustness meetings take longer ,
+[0263] [09:56] mn017: because there 's this one speaker who talks a lot .
+[0264] [09:59] mn017: And so
+[0265] [10:00] mn017: the Um .
+[0266] [10:01] mn017: No
+[0267] [10:06] mn017: you have to d you have to , uh , um ,
+[0268] [10:09] mn017: you cannot chop it up into small pieces .
+[0269] [10:11] mn017: So , you 're sort of limited by how long the longest speaker , uh , is s speaking .
+[0270] [10:19] mn017: So how much data there is from the the speaker who talks the most .
+[0271] [10:23] mn017: So , um , you parallelize across different speakers ,
+[0272] [10:27] me018: Mm - hmm .
+[0273] [10:27] mn017: but you know , if you have a bunch of speakers who speak very little and then one wh who who speaks a lot , then effectively , everybody waits for the longest one to process .
+[0274] [10:28] me013: Right .
+[0275] [10:34] me018: Right .
+[0276] [10:36] me018: Yeah .
+[0277] [10:36] me013: Bu - But what what was your result for uh , that we had at the HLT ?
+[0278] [10:37] mn017: So .
+[0279] [10:40] me013: Was that a combination of me ?
+[0280] [10:42] mn017: That was both types of meetings ,
+[0281] [10:43] mn017: but most but there were only two Robustness meetings , and four or five , uh , Meeting Recorders .
+[0282] [10:47] me018: And if we 're re - doing the baseline anyways , it it it would be OK .
+[0283] [10:51] mn017: Right .
+[0284] [10:52] me018: Right
+[0285] [10:54] me018: How long would it take to run recognition , if we did that ?
+[0286] [11:01] mn017: Oh .
+[0287] [11:04] mn017: Uh
+[0288] [11:06] mn017: I don't have I don't have a good gue
+[0289] [11:07] me018: I
+[0290] [11:10] me018: roughly ?
+[0291] [11:10] mn017: For everything ?
+[0292] [11:11] mn017: For all the meetings ?
+[0293] [11:12] me018: For
+[0294] [11:12] me018: yeah , let 's say we just did the Meeting Recorder meetings for our test set .
+[0295] [11:13] mn017: Uh .
+[0296] [11:18] mn017: Um .
+[0297] [11:22] mn017: It 's probably more than a day ,
+[0298] [11:23] mn017: but probably less than two .
+[0299] [11:25] me018: Oh , really .
+[0300] [11:25] me018: I didn't realize each test took that long .
+[0301] [11:27] mn017: Well , i No . I mean for all the meetings .
+[0302] [11:30] mn017: Because it 's Again , it 's ,
+[0303] [11:32] mn017: um
+[0304] [11:35] me013: So
+[0305] [11:35] mn017: So
+[0306] [11:42] mn017: Again , we we I ran when we ran these , we were sort of short on machines ,
+[0307] [11:46] mn017: and , um ,
+[0309] [11:49] mn017: I don't know ,
+[0310] [11:49] mn017: I I would estimate maybe four hours per meeting .
+[0311] [11:53] mn017: Something like that .
+[0312] [11:54] me018: Four hours per meeting .
+[0313] [11:56] mn017: Right .
+[0314] [11:57] me018: Wow .
+[0315] [11:58] me013: Yeah . But if you So , if you do half a dozen meetings , that 's that 's about a day .
+[0316] [12:02] me013: We also have more machines now .
+[0317] [12:03] mn017: Right . Right . So that 's why I 'm saying I 'm not sure how they would scale with more machines .
+[0318] [12:04] me013: well
+[0319] [12:07] me013: Yeah .
+[0320] [12:09] me013: Yeah .
+[0321] [12:09] me013: I mean , if we had about six A six hour test set 's not bad .
+[0322] [12:12] me013: Right ?
+[0323] [12:15] mn017: Right .
+[0324] [12:16] me018: S six hour test set .
+[0325] [12:19] me018: Six meetings . OK .
+[0326] [12:19] me013: You know ?
+[0327] [12:20] me013: Right ?
+[0328] [12:21] me013: I
+[0329] [12:23] mn017: We
+[0330] [12:25] mn017: two , th We have two , three , four , fi
+[0331] [12:27] mn017: I think there are four Meeting Recorder meetings that we worked with .
+[0332] [12:31] me013: Four that you worked with ?
+[0333] [12:31] mn014: I
+[0334] [12:32] mn014: Is it the same set as the alignments ?
+[0335] [12:33] mn017: Yeah .
+[0336] [12:34] mn014: I think it 's five Meeting Recorder meetings .
+[0337] [12:35] mn017: Five ?
+[0338] [12:36] mn017: OK .
+[0339] [12:36] me013: That would be OK , too .
+[0340] [12:37] me013: I mean , I 'm i
+[0341] [12:38] me013: So , if they have a set that they worked with ,
+[0342] [12:40] me013: and
+[0343] [12:41] me013: Did you do similarly in performance between them and the other meetings ,
+[0344] [12:45] me013: or was it ?
+[0345] [12:47] mn017: Uh , with the Robust - compared to Robustness ?
+[0346] [12:50] mn017: Yeah .
+[0347] [12:51] mn017: The big variation is by whether it 's a native speaker or not .
+[0348] [12:55] me013: Yeah .
+[0349] [12:56] mn017: And
+[0350] [13:00] mn017: Uh
+[0351] [13:01] mn017: and and of course what , um , you know , whether it 's lapel or , uh , headset microphone .
+[0352] [13:08] me013: And overlap or not .
+[0353] [13:09] mn017: Yeah .
+[0354] [13:09] me013: Yeah .
+[0355] [13:10] me013: So maybe just with the the the Meeting Recorder set of the De - th that you did before .
+[0356] [13:14] mn017: And we can exclude we don't need to recognize the non - natives ,
+[0357] [13:17] mn017: because
+[0358] [13:19] mn017: I
+[0359] [13:20] me013: Yeah . So we want to do the same same thing .
+[0360] [13:21] mn017: Right .
+[0361] [13:23] me018: OK . So Alright . So if we got a list of the , uh , segmentations for these five Meeting Recorder meetings , we could start , uh , the first two experiments going right away , using the short male models .
+[0362] [13:40] mn017: Mm - hmm .
+[0363] [13:41] me018: So , you could get those going while Dave is , um , creating waveforms for the r retraining the short male models .
+[0364] [13:47] me013: Yeah . Once we know which segmentations we 're using .
+[0365] [13:51] me013: Yeah .
+[0366] [13:52] me018: Right . OK . OK .
+[0367] [13:53] me018: And
+[0368] [13:55] me018: OK . So , do we w also want to run that bottom experiment without retraining the short male models on his thing ?
+[0369] [14:05] me018: Did you want that ?
+[0370] [14:07] me018: Or ?
+[0371] [14:08] me013: Um , I I agree that that would be an interesting thing to do ,
+[0372] [14:11] me013: but I sort of regard it as secondary .
+[0373] [14:13] me018: OK . So , we 'll save that .
+[0374] [14:13] me013: So if there 's sort of machines sitting around and people sitting around and they 're waiting for other things to finish , then sure .
+[0375] [14:20] me013: But
+[0376] [14:21] me013: Uh
+[0377] [14:26] me013: Cuz , I mean , you could imagine a fantasy in which you said that Dave 's processing made the , uh , far microphone like the near microphone .
+[0378] [14:35] me013: In which case you shouldn't have to actually retrain .
+[0379] [14:35] mn017: Mm - hmm .
+[0380] [14:38] me013: But it 's it 's not really true .
+[0381] [14:40] me013: It 's it 's sort of fantasy .
+[0382] [14:41] me013: It does it does muck up the data in in some funny ways .
+[0383] [14:42] mn017: Mm - hmm .
+[0384] [14:44] me013: And so ,
+[0385] [14:45] me013: I 'm I 'm kind of questioning that .
+[0386] [14:46] me018: Well
+[0387] [14:47] me013: But
+[0388] [14:48] me018: Well , on a more basic level , also , it means that that third experiment , there are actually two differences between the other experiments ,
+[0389] [14:53] me018: not one .
+[0390] [14:54] me013: Right .
+[0391] [14:55] me018: So
+[0392] [14:56] me013: It
+[0393] [14:58] me018: Right .
+[0394] [14:59] me013: Uh , that 's right .
+[0395] [15:02] me013: I mean the other thing which which it might come in to is if there was some problem in the retraining .
+[0396] [15:10] me013: I mean , maybe you 'd just have some mechanical thing we do wrong .
+[0397] [15:13] me018: Mm - hmm .
+[0398] [15:15] me013: Uh , that , uh since Dave 's experience was that it didn't help as much if you didn't retrain , but it does help some , that we would hopefully see that .
+[0399] [15:15] me018: Right .
+[0400] [15:26] me018: Mm - hmm .
+[0401] [15:27] me013: So , that that 's that 's true .
+[0402] [15:29] mn017: Wait , did ?
+[0403] [15:29] me013: I i
+[0404] [15:30] mn017: So when you used original the original models , and you just process the test set in this way , d do you get any do you get decent performance or not ?
+[0405] [15:42] me026: u I I I think , um , for the far - mike HTK system I was using , it did help somewhat .
+[0406] [15:47] mn017: Mm - hmm .
+[0407] [15:49] me026: I could re - check that .
+[0408] [15:50] me026: But it was such a bad baseline that I don't know what that means .
+[0410] [15:53] mn017: Mmm . Right .
+[0411] [15:54] mn017: Right .
+[0412] [15:56] mn017: OK .
+[0413] [15:57] me026: Cuz the baseline word error rate was around forty percent on digits .
+[0414] [16:00] mn017: Mm - hmm .
+[0415] [16:01] me018: On the far - field ?
+[0416] [16:02] me026: Right .
+[0417] [16:08] me013: Right
+[0418] [16:10] mn017: OK
+[0419] [16:12] mn017: well , the first the one that already has a
+[0420] [16:16] mn017: cross there .
+[0421] [16:17] mn017: We need to re - do that with small models .
+[0422] [16:19] mn017: Right .
+[0423] [16:19] me013: Yeah .
+[0424] [16:20] mn017: And then , have to ask , um , I guess , Don to , uh , cut the , um , cut the segments for the sh for the tis distant mike .
+[0425] [16:33] mn017: Uh , uh that 's So we would be using the same channel for each fo for everything ?
+[0426] [16:38] me013: Yeah .
+[0427] [16:38] me018: Mm - hmm .
+[0428] [16:39] mn017: OK .
+[0429] [16:40] mn017: So .
+[0430] [16:40] me013: I mean , do you ha do you have to rely on his segmentations at all to do the top one ?
+[0431] [16:43] mn017: No , no . We would use the same segmentations ,
+[0432] [16:45] mn017: but he needs to extract extract the wavef form segments from a different channel .
+[0433] [16:47] me013: Oh . OK .
+[0434] [16:50] me013: Got it .
+[0435] [16:51] mn017: Right .
+[0436] [16:52] me018: So when you said you were gonna start that top one , were you gonna use the new segmentations ?
+[0437] [16:54] mn017: Mm - hmm .
+[0438] [16:58] mn017: Um Yeah .
+[0439] [17:01] me018: OK .
+[0440] [17:01] mn017: If assuming that the performance turns out to be comparable with with the old experiments and the old segmentations .
+[0441] [17:10] me018: Right . OK .
+[0442] [17:12] mn017: Now
+[0443] [17:16] mn017: Oh , OK . So there 's the issue of speaker normalization .
+[0444] [17:18] mn017: So , with the distant microphone you wouldn't know which speaker is talking .
+[0445] [17:26] mn017: Right ?
+[0446] [17:28] me018: Can we ?
+[0447] [17:28] me013: We we talked about this before .
+[0448] [17:30] me013: I think what we were saying was that , um , the very fact that in both cases we 're ignoring the overlap section means that , um , uh , we 're to some extent finessing that .
+[0449] [17:45] me013: So , um ,
+[0450] [17:46] me013: I think , for the purposes of just determining whether a far - field microphone uh , what the effect of the far - field microphone is , we should do the same to both .
+[0451] [17:55] mn017: Mm - hmm .
+[0452] [17:57] mn017: I see . So you want to cheat ?
+[0453] [17:57] me013: I
+[0454] [18:03] me013: We want to i incorporate certain data that would not be available during final tests , uh , under a a full fair test of it , much as we are in the all the numbers that we have so far .
+[0455] [18:13] mn017: OK . So we assume we assume knowledge of the speakers as as , um in a way that 's compatible with the close - talking test set .
+[0456] [18:17] mn014: Oops .
+[0457] [18:24] me013: Yeah .
+[0458] [18:24] me013: We we simply wanna determine what 's the difference in performance due to being distant versus close .
+[0459] [18:24] mn017: OK .
+[0460] [18:28] mn017: Oh , OK .
+[0461] [18:29] me018: So , does that mean you turn off speaker normalization when you run it ? Or you just let it do what it would do , an ?
+[0462] [18:33] mn017: No . It means No . It just means
+[0463] [18:37] mn017: you you group together the segments that by magic you know belong to one speaker ,
+[0464] [18:45] mn017: and
+[0465] [18:45] me013: I mean to a lesser extent you had that same magic the other way , too ,
+[0466] [18:47] me013: because you have leakage into other microphones .
+[0467] [18:50] me013: Right ?
+[0468] [18:50] me013: But , it 's just you 're using the fact that this is where this person is .
+[0469] [18:52] mn017: Right .
+[0470] [18:54] mn017: Right .
+[0471] [18:55] me013: Right ?
+[0472] [18:55] me013: So .
+[0473] [18:55] mn017: But
+[0474] [18:58] me013: It 's just easier to do .
+[0475] [18:59] mn017: Well , in the new test , actually , that 's not true .
+[0476] [19:01] mn017: So Again , if this if these new segmentations work OK , then we then it 's a fair it 's a completely fair test .
+[0477] [19:07] me013: Yeah .
+[0478] [19:12] me013: So , how do you determine what you use to group together to be a a ?
+[0479] [19:16] mn017: You group together all the data coming in through one channel
+[0480] [19:21] mn017: and where Thilo 's speech detector has has determined that there is speech .
+[0481] [19:27] mn017: And that speech is is deemed to come from that speaker , whether that 's true or not .
+[0482] [19:32] mn017: So if you get some cross - talk from another microphone , then you just process this it as if it were from that speaker .
+[0483] [19:38] me013: The only other alternative would be to turn off speaker adaptation in both .
+[0484] [19:42] mn017: Well , that 's more of a problem .
+[0485] [19:44] mn017: I mean , because it 's You can just pretend it 's some kind of gene
+[0486] [19:49] mn017: I mean you can pretend it 's all from one speaker
+[0487] [19:51] mn017: and do all this processing the same ,
+[0488] [19:53] mn017: but then you 're gonna get results that are worse on account of not doing proper speaker normalization
+[0489] [19:54] me013: Mm - hmm .
+[0490] [19:59] mn017: and
+[0491] [20:00] mn017: So , you could certainly do better than that by doing , for instance uh , cluster the segments ,
+[0492] [20:06] mn017: which is what we do , say , in a Broadcast News system , where you don't have speaker labels .
+[0493] [20:11] mn017: But that would be another processing step that I 'm I would have to debug first , and so forth ,
+[0495] [20:17] mn017: and so we wanna avoid that .
+[0496] [20:18] mn017: So I agree with you . We should we should , uh , do the you know , this sort of cheating experiment .
+[0497] [20:26] me013: OK .
+[0498] [20:27] me013: Yeah . An - and e so that will tell us what the difference it between the mikes ,
+[0499] [20:31] me013: and
+[0500] [20:33] me013: The the other difference that we 'd have to take care of is that ,
+[0501] [20:37] me013: uh yeah , we we don't have a mike that , uh , is particular to a person .
+[0502] [20:43] me013: And so we 'll have to do some clustering ,
+[0503] [20:45] me013: and that 'll be another another , uh , issue , too .
+[0504] [20:50] mn017: Mm - hmm .
+[0505] [20:52] me013: But , it it I could be wrong ,
+[0506] [20:53] me013: but
+[0507] [20:56] me013: the the level of degradation that you get from having the distant mike in a normal acoustic is much greater than what you get from , say , not applying speaker adaptation or applying speaker adaptation .
+[0509] [21:12] me013: I
+[0510] [21:13] me013: I mean , we 'll see .
+[0511] [21:14] me013: But but , I think that the kind of gains that we 've seen from speaker adaptation on Hub - five sort of things are like a few percent .
+[0512] [21:22] me013: Right ?
+[0513] [21:22] me013: And
+[0514] [21:23] mn017: It 's not just speaker adaptation .
+[0515] [21:24] mn017: It 's the whole norm feature normalization process .
+[0516] [21:28] mn017: I it 's spea uh , all that is speaker - based .
+[0517] [21:31] mn017: You
+[0518] [21:33] mn017: So , in that I 'm ,
+[0519] [21:36] mn017: um
+[0520] [21:37] mn017: Y you know , d d b the most important , of course , is the cepstral mean subtraction .
+[0521] [21:42] me013: Yeah .
+[0522] [21:43] mn017: And
+[0523] [21:44] mn017: I
+[0524] [21:45] mn017: we
+[0525] [21:46] mn017: I don't remember ,
+[0526] [21:47] mn017: because it 's so far s so long ago that we didn't do that on a per speaker basis ,
+[0527] [21:52] mn017: but
+[0528] [21:52] me013: It doesn't make that much difference , I think .
+[0529] [21:54] me013: I would doubt that it would be a huge amount of difference for that .
+[0530] [21:57] me013: So , I mean , I I think that that difference would definitely be marginal .
+[0531] [22:01] me013: I
+[0532] [22:03] me013: to do some cepstral mean subtraction on some level .
+[0533] [22:06] me013: And , uh , so what 's different about this processing is just that we 're doing it at a much longer time scale .
+[0536] [22:11] me013: Right ?
+[0537] [22:11] me013: But
+[0538] [22:16] mn017: A and by the way ,
+[0539] [22:17] me026: What wo
+[0540] [22:18] mn017: it 's actually we 're we 're already If we use the same segmentations that we use for the close - talking microphone , then the segmentations assume that we have access to all channels
+[0541] [22:27] mn017: and cross correlate them ,
+[0542] [22:29] me013: That 's right .
+[0543] [22:30] mn017: so there 's no point in not using that knowledge for speaker identification .
+[0544] [22:34] me013: Yeah .
+[0545] [22:35] me018: Mm - hmm .
+[0546] [22:35] me026: Uh , I I think also for the log spectral mean subtraction , uh , we wanna know which speaker 's talking when ,
+[0547] [22:35] me013: Yeah .
+[0548] [22:42] me026: cuz we wanna chain together the audio from one particular speaker to calculate the mean
+[0549] [22:45] mn017: Yeah .
+[0550] [22:46] me026: and subtract it ,
+[0551] [22:47] me026: and
+[0552] [22:48] mn017: Right .
+[0553] [22:49] me013: Right .
+[0554] [22:50] mn017: OK .
+[0555] [22:52] me013: Um . Yeah , I guess .
+[0556] [22:55] me013: But , um ,
+[0557] [22:57] me013: I also think that a again once we got into it , that , um , using some kind of clustering would probably work reasonably well there , too .
+[0558] [23:07] me013: Certainly for the the two microphone case ,
+[0559] [23:10] me013: which we 're not gonna mess with because it 's another whole deal with the low - quality microphones ,
+[0560] [23:15] me013: um ,
+[0561] [23:16] me013: we ought to be able to at least tell that it appears that things are coming from a particular direction .
+[0563] [23:22] me013: So we ought to be able to use that information , um , as well .
+[0564] [23:26] me013: But , I think we might be able to do not too bad a job of separating out sp uh , segments that appear to come from a single speaker
+[0565] [23:38] me013: both in terms of s acoustic similarity and in terms of direction .
+[0566] [23:41] me013: So , I mean But that 's another research thing to do
+[0567] [23:43] me013: and probably won't get done the next week .
+[0568] [23:46] mn017: Right . So what what is the schedule here ?
+[0569] [23:49] me013: Well , I mean , I 'm I 'm leaving for for the , uh , the New Orleans meeting , uh , next Saturday ,
+[0570] [23:55] me013: and and , um ,
+[0571] [23:55] mn017: Mm - hmm .
+[0572] [23:57] me013: it 'd be kinda nice to have some results at least a day or two before that , so that I could figure out what I wanted to say about it .
+[0573] [24:01] mn017: Mm - hmm .
+[0574] [24:03] mn017: Oh , we 'll call you when you get there .
+[0575] [24:07] me018: You 'll have email .
+[0576] [24:07] me018: Right ?
+[0577] [24:08] me013: Yeah .
+[0578] [24:10] me013: Uh , not to mention that that , uh , Mari 's putting together this report next week , too , you know .
+[0580] [24:15] me013: So Uh ,
+[0581] [24:16] me013: what we were hoping was that over the weekend we could do , uh , the , um , calculation on the training set
+[0583] [24:23] me013: and
+[0584] [24:24] me013: uh , maybe , you know , we could by the end of the weekend , we could have the top one ,
+[0585] [24:29] me013: and and then early next week , do these .
+[0587] [24:32] me013: If we had enough machines , maybe do them in parallel .
+[0588] [24:34] mn017: Mm - hmm .
+[0589] [24:35] me013: So that by the middle of the week we had s had some kind of result .
+[0590] [24:38] me013: I mean , it 's it 's one of these Hail Mary kinds of things .
+[0591] [24:40] me013: I
+[0592] [24:42] me013: it , uh might might not work out .
+[0594] [24:45] me013: But , uh , f figured I may as well ask for it .
+[0595] [24:46] mn017: OK .
+[0596] [24:50] mn017: I
+[0597] [24:50] me018: So ?
+[0598] [24:51] mn017: The
+[0599] [24:54] mn017: and
+[0600] [24:59] mn017: the the test data for the far far microphone .
+[0601] [25:03] mn017: If if it turns out that for some reason it 's easier for him to use the old um , the the the old ,
+[0602] [25:12] mn017: uh ,
+[0603] [25:12] me018: Segmentation ?
+[0604] [25:13] mn017: segmentations , then we 'll just use that , I figure .
+[0605] [25:19] me013: Right .
+[0606] [25:20] mn017: Um
+[0607] [25:20] me018: S So , um .
+[0608] [25:23] me018: I don't want you to have to be burdened with doing a lot of stuff .
+[0609] [25:26] me018: What what can I do to ?
+[0610] [25:29] me018: Y y you said it would be easy for you to do that top one there ,
+[0611] [25:32] me018: and I guess Don can do the segmentations of the , uh , channel F ?
+[0612] [25:37] mn017: Mm - hmm .
+[0613] [25:41] mn017: Um
+[0614] [25:41] me018: I mean , I can certainly help with , uh , retraining the short male models ,
+[0615] [25:45] mn017: Right .
+[0616] [25:45] me018: uh , once we have the new data .
+[0617] [25:47] me013: You have models of short males ?
+[0618] [25:52] mn017: Yeah .
+[0619] [25:53] mn017: Um Right . Uh , let 's see . The the
+[0620] [26:00] mn017: You you can I mean you could you could run the ,
+[0621] [26:05] mn017: um ,
+[0622] [26:06] mn017: you c Basically , once the , um , whe the top the top one 's done , you could easily re - run the whole set of experiments .
+[0623] [26:11] me018: The top one is done . I c
+[0624] [26:13] me018: I can re - do the next one .
+[0625] [26:15] me018: Yeah .
+[0626] [26:17] me018: Mm - hmm .
+[0627] [26:17] mn017: Uh , I mean , manage the jobs and so forth ,
+[0628] [26:20] me018: Yeah . Sure .
+[0629] [26:20] mn017: uh Um ,
+[0630] [26:22] me018: Yeah , the the bottom one would b just be a matter of pointing it at a new set of files and kicking it off ,
+[0631] [26:22] mn017: that
+[0632] [26:26] me018: so that would be re
+[0633] [26:27] me018: I mean , th not the bottom one ,
+[0634] [26:28] me018: but the middle one
+[0635] [26:29] mn017: Mm - hmm .
+[0636] [26:29] me018: would be really easy once you 've got the top one going .
+[0637] [26:32] mn017: Yeah .
+[0638] [26:32] me018: I could do that .
+[0639] [26:33] mn017: Right .
+[0640] [26:34] me018: OK
+[0641] [26:37] mn017: Right
+[0642] [26:41] mn017: Assuming he uses the new naming scheme , then he should call the waveforms
+[0643] [26:48] mn017: the so , the waveform names have the , you know , meeting meeting ID ,
+[0644] [26:53] mn017: and the microphone ,
+[0645] [26:56] mn017: and
+[0646] [26:59] mn017: I
+[0647] [27:03] mn017: some something that identifies the speaker .
+[0648] [27:05] me018: Mm - hmm .
+[0649] [27:07] mn017: So
+[0650] [27:08] me018: To keep it the same but j just change them all to channel F ?
+[0651] [27:11] mn017: Exactly . So , uh well , you still need to be able to distinguish the different speakers .
+[0652] [27:14] mn017: That 's the key point .
+[0653] [27:15] me018: Right . Right .
+[0654] [27:15] mn017: Because
+[0655] [27:17] mn017: So Uh , uh , the the best the easiest way to do that would be to just take You know , you make the channel be channel F ,
+[0656] [27:17] me018: Yeah .
+[0657] [27:24] mn017: but then keep the speaker names the same as they would be in the old in the close - talking , uh , version .
+[0658] [27:24] me018: Yeah .
+[0659] [27:25] me018: OK .
+[0660] [27:28] me018: OK .
+[0661] [27:32] me018: OK .
+[0662] [27:33] me018: And
+[0663] [27:35] me018: right
+[0664] [27:35] me018: when he creates these .
+[0665] [27:35] mn017: Right . Exactly .
+[0666] [27:37] me018: OK . OK .
+[0667] [27:39] me018: So will you talk to him about that ,
+[0668] [27:41] me018: or do you want me to talk to him ?
+[0669] [27:41] mn017: I , uh , I I can talk to him .
+[0670] [27:43] me018: OK .
+[0671] [27:46] me018: And then the bottom one in terms of the test will be ?
+[0672] [27:52] me018: Uh
+[0673] [27:54] me018: That will just be a copy of the one above it , except for different models from training .
+[0674] [28:00] me026: Well , we also have to mean subtract the test data .
+[0675] [28:03] me018: Ah . OK .
+[0676] [28:05] me018: So , we need to run ?
+[0677] [28:07] me018: OK .
+[0678] [28:08] me018: Well
+[0679] [28:11] me018: Well , once I do that , uh , second experiment , we 'll have the , um , files ,
+[0680] [28:16] me018: and I can give you those to to process .
+[0681] [28:18] me026: OK .
+[0682] [28:19] me026: And there 's , um ,
+[0683] [28:20] me026: S so the way this means subtraction expects to work , is it expects to have , um , this continuous stream of audio data from a particular speaker to operate on .
+[0684] [28:29] me026: And it goes along it with this sliding window , calculating the mean using the data in the window ,
+[0685] [28:34] me026: and then subtracting that .
+[0686] [28:36] me018: So , do you create this continuous stream from the individual utterance files ?
+[0687] [28:36] me026: I
+[0688] [28:39] me026: That 's that 's how I 've been doing it ,
+[0689] [28:41] me026: just by concatenating files together .
+[0691] [28:43] me026: Um , and if these files and the
+[0692] [28:45] me026: since they 're individual utterance files , um , s long silence periods are removed ,
+[0693] [28:50] me026: which is a good thing .
+[0694] [28:51] me026: Because this method might estimate the mean badly , if it had to face long silence periods .
+[0695] [28:56] me026: But that does mean that I need as much I need twice as much disk space as the original set
+[0696] [29:02] me026: cuz I need while I 'm running it cuz I need to create this intermediate set , um , of these big files ,
+[0698] [29:07] me018: Yeah .
+[0699] [29:07] me026: and then create the finally , the mean subtracted , um , little files .
+[0700] [29:12] me026: And then I can get rid of the big files .
+[0701] [29:16] me026: But st while I 'm doing the processing , I 'll nee I need twice as much disk space .
+[0702] [29:20] me018: OK . I 'm gonna I 'll check with , um , Markham ,
+[0703] [29:23] me018: and see what happened with the the disks .
+[0704] [29:25] me018: He went to put those on a couple of weeks ago
+[0705] [29:27] me018: and
+[0706] [29:27] me013: I think Markham 's out on vacation .
+[0707] [29:29] me013: I think , che check with Dave .
+[0708] [29:30] me018: Oh , OK . I 'll ask David , then .
+[0709] [29:30] mn014: Yeah .
+[0710] [29:31] me013: Yeah .
+[0711] [29:32] me018: You haven't seen new disks pop up ,
+[0712] [29:34] me018: have you ?
+[0713] [29:34] mn014: Nope .
+[0714] [29:35] mn014: I was wondering if they were in .
+[0715] [29:35] me018: OK .
+[0716] [29:36] me018: Yeah .
+[0717] [29:36] mn017: Well , they grow them on trees now .
+[0718] [29:39] me013: I thought they were like mushrooms .
+[0719] [29:40] me018: Well
+[0720] [29:40] mn017: Just , you shake them and they fall down .
+[0721] [29:41] me013: They 're popping up .
+[0722] [29:42] me018: Yeah .
+[0723] [29:43] me018: He went to put them on and then something happened .
+[0724] [29:45] me018: And he sent around a note saying " Oh , uh , it didn't work , and we 'll have to schedule another time . "
+[0725] [29:45] mn014: Yeah .
+[0726] [29:47] mn014: Yeah .
+[0727] [29:47] mn014: Something w went wrong .
+[0728] [29:50] me018: And then ,
+[0729] [29:51] me018: didn't
+[0730] [29:51] mn014: Nothing happened .
+[0731] [29:52] me018: nothing happened .
+[0732] [29:52] mn014: No ? Yeah .
+[0733] [29:52] me018: So
+[0734] [29:53] me018: I 'll check with David about that .
+[0735] [29:55] me018: OK .
+[0736] [29:55] mn017: OK .
+[0737] [29:57] me013: Yeah .
+[0738] [29:57] me013: Cuz we still all have tha the that other one going ,
+[0739] [30:00] me013: which is the , uh the Macrophone training .
+[0740] [30:02] me026: Right ,
+[0741] [30:02] me026: an
+[0742] [30:04] me026: So so , Andreas , um ,
+[0743] [30:05] mn017: Mm - hmm ?
+[0744] [30:06] me026: in U doctor speech data SRI Hub - five , there 's this , uh , Hub - five training set .
+[0745] [30:08] mn017: Mmm . Mm - hmm .
+[0746] [30:10] me026: Now , is that the long training set there ?
+[0747] [30:10] mn017: Mm - hmm .
+[0749] [30:12] mn017: That 's everything . Yeah ,
+[0750] [30:14] me026: OK .
+[0751] [30:14] mn017: so
+[0752] [30:15] mn017: So , I can give you a list of the short version .
+[0753] [30:18] me026: OK . I th I think you already did , actually .
+[0754] [30:18] mn017: So
+[0755] [30:20] mn017: Oh , OK .
+[0756] [30:21] me026: OK . And so , say the Macrophone files that are included in this short training , are just a subset of the Macrophone files .
+[0757] [30:26] me026: Right ?
+[0758] [30:28] mn017: That 's right .
+[0759] [30:29] me026: OK .
+[0760] [30:30] me026: So so , um when you You did some TI - digits t t experiments training on Macrophone .
+[0761] [30:35] mn017: Yeah .
+[0762] [30:36] me026: Um .
+[0763] [30:37] me026: But that 's not necessarily any less data than the SRI Hub - five
+[0764] [30:41] me026: set . It 's not a it 's not a subset of the short SRI Hu - Hub - five set .
+[0765] [30:45] me026: Right ?
+[0766] [30:47] mn017: Um
+[0767] [30:49] mn017: Wel - No , it is .
+[0768] [30:50] mn017: Th
+[0769] [30:51] mn017: Sorry .
+[0770] [30:52] mn017: Um . Can you repeat the question ?
+[0771] [30:54] me026: Uh , whe when you trained on Macrophone , um , to do those digits experiments , did you use the entire Macrophone corpus ?
+[0772] [30:54] mn017: There wa it is a subse
+[0773] [30:55] mn017: Yeah .
+[0774] [30:59] mn017: No . Only the portion that was in the Hub - five training set .
+[0775] [31:01] me026: Oh . OK .
+[0776] [31:02] me013: That was in the Hub - five small training set ?
+[0777] [31:05] mn017: Well , the Hub - five small training set contains as much Macrophone as the large training set , for historical reasons .
+[0778] [31:10] me013: Yes .
+[0779] [31:12] mn017: Yeah .
+[0780] [31:13] me026: OK - OK .
+[0781] [31:14] me026: So
+[0782] [31:17] mn017: So
+[0783] [31:19] mn017: right ?
+[0784] [31:19] mn017: Because you already did did y didn't you already do that experiment ?
+[0785] [31:21] me026: I I I got confused ,
+[0786] [31:23] me026: cuz I thought I thought you were using the whole Macrophone set .
+[0787] [31:23] mn017: Mm - hmm .
+[0788] [31:26] mn017: No .
+[0789] [31:27] me026: Um . OK .
+[0790] [31:28] me026: Well , if if if I just need to use that subset , I I can get it processed .
+[0791] [31:32] me026: I actually got I think I got f into it before ,
+[0792] [31:36] me026: and then I thought I was doing the wrong thing
+[0794] [31:37] me026: and I stopped .
+[0795] [31:38] me026: And it shouldn it shouldn't take that long to do .
+[0796] [31:38] mn017: Mmm . OK .
+[0797] [31:41] mn017: Right .
+[0798] [31:42] me013: OK .
+[0799] [31:43] mn017: And you need only the males .
+[0800] [31:44] mn017: So .
+[0801] [31:44] me026: Oh , OK .
+[0802] [31:46] me018: So , basically , Dave , so y for you to get your processing going , you need the list of the , uh , wave
+[0803] [31:53] me018: Well , I guess it 'll dep
+[0804] [31:54] me018: you 'll you 'll we 'll need to get the segmentations .
+[0805] [31:56] me026: Yeah .
+[0806] [31:56] me018: Figure out whether we 're using the new or the old from Don .
+[0808] [31:59] me018: And then ,
+[0809] [32:00] me018: uh ,
+[0810] [32:02] me018: from that you need the from the segmentations you 'll have the list of wavefiles that the short , uh , set is trained on .
+[0811] [32:09] me018: And then you 'll need disk space .
+[0812] [32:11] me018: And once you 've got those things , then you can start your processing .
+[0813] [32:15] me018: Right ?
+[0814] [32:15] me026: Yeah .
+[0815] [32:15] me018: OK .
+[0816] [32:18] mn017: Does this th this ?
+[0817] [32:21] mn017: It - it 's sort of f f not very nice to use the small training set for another reason ,
+[0818] [32:25] mn017: which is that the you also are losing on Again , because you don't use all the data you have for one speaker .
+[0819] [32:33] mn017: So , the normalizations you compute for your training speakers will be , uh , crummier than they would in the large training set .
+[0820] [32:42] mn017: So
+[0821] [32:49] mn017: uh , I have to use short models that were trained on normalizations that were also only estimated on the short set .
+[0822] [33:01] mn017: Which
+[0823] [33:01] me018: Do you have this , uh ?
+[0824] [33:03] mn017: I think so .
+[0825] [33:03] mn017: I 've I I have to check .
+[0826] [33:05] mn017: In any case , I could retrain short models within a few hours actually at if I use machines at SRI .
+[0827] [33:12] me013: I wonder about that , though .
+[0829] [33:13] me013: I mean , because all we 're doing The only reason we 're using the short training set is is for speed .
+[0830] [33:21] me013: And there we 're not really making any claims about using a smaller training set .
+[0831] [33:21] mn017: Yeah .
+[0832] [33:25] me013: So
+[0833] [33:29] mn017: No . But the thing is , if if we used if we used the whole training set for normalizations , then David would have to process much more data ,
+[0834] [33:35] me013: Yeah .
+[0835] [33:39] mn017: which That 's a that 's one bottleneck , for us
+[0836] [33:41] mn017: right ,
+[0837] [33:42] mn017: in terms of get
+[0838] [33:42] me013: Oh , you mean for for his normalizations .
+[0839] [33:43] mn017: Yeah .
+[0840] [33:44] me013: Oh , oh , oh . I 'm sorry .
+[0841] [33:45] mn017: Right .
+[0842] [33:46] mn017: So , you wanna do the exact same thing ,
+[0843] [33:47] me013: Right .
+[0844] [33:48] mn017: or else you 'll have apples and oranges .
+[0845] [33:50] me013: Yeah .
+[0846] [33:53] mn017: So .
+[0847] [33:57] mn017: It doesn't make I don't think it makes that much of a difference .
+[0848] [34:00] mn017: It 's just this little detail that if you can take care of that , then you should .
+[0849] [34:02] me013: Mm - hmm .
+[0850] [34:06] mn017: I I think I have I have the models ,
+[0851] [34:07] mn017: I have I have ,
+[0852] [34:09] mn017: um
+[0853] [34:13] mn017: let
+[0854] [34:15] mn017: Yeah . And if not I can retrain those models very quickly .
+[0855] [34:17] me018: Oh , there 's there 's one other issue ,
+[0856] [34:20] me018: uh , and that is that Dave throws out speakers that have less than twelve seconds of training data .
+[0857] [34:29] me018: And he said there were a few in the Macrophone set like that .
+[0858] [34:34] me018: So , do we need to wait to find out who he 's gonna throw out ,
+[0859] [34:37] me018: so that we create a new set of short models that don't include those speakers ?
+[0860] [34:45] mn017: Uh
+[0861] [34:46] me013: Say this again ?
+[0862] [34:47] me013: Sorry I missed it .
+[0863] [34:47] me018: So i in Th - the problem is that if we proceed like we just described , um , when he goes to m um , create the new s training data with his processing , he throws out some speakers .
+[0864] [35:01] me018: So the t two training sets won't be identical .
+[0865] [35:04] mn017: Yeah .
+[0866] [35:04] me013: He throws out some speakers that are that are very small .
+[0867] [35:07] me018: Yeah . Have just a little bit .
+[0868] [35:08] mn017: Yeah . I don't think it 'll make a matter .
+[0869] [35:10] me013: Yeah . I think there was only a few
+[0870] [35:10] me018: OK .
+[0871] [35:12] me013: we thought to be the case .
+[0872] [35:13] mn017: In fact , I thought about throwing those out too ,
+[0873] [35:13] me013: Righ - ?
+[0874] [35:15] mn017: because when I heard how little speech there was for some of them , I thought they can only hurt your models ,
+[0875] [35:19] mn017: because they 're again their normalizations will be all all all over the map ,
+[0876] [35:21] me018: Yeah .
+[0877] [35:22] me013: Right .
+[0878] [35:23] mn017: and you won't get very very clean models from them , anyhow .
+[0879] [35:28] mn017: So .
+[0880] [35:30] me018: So you think it 's OK , then ?
+[0881] [35:31] mn017: Yeah .
+[0882] [35:32] mn017: In fact , if if you wanna do this , uh , to speed things up , um , you we can leave out the Macrophone data altogether .
+[0883] [35:43] mn017: That
+[0884] [35:45] mn017: Actually .
+[0885] [35:45] mn017: Oh , no . Sorry .
+[0886] [35:46] mn017: Not in the short .
+[0887] [35:47] mn017: Then you have too little data .
+[0888] [35:48] mn017: OK .
+[0889] [35:48] mn017: Sorry . Forget that .
+[0890] [35:50] mn017: Um ,
+[0891] [35:51] mn017: When you use when you go to the large training set , then leaving out Macrophone actually sometimes helps you ,
+[0892] [35:59] mn017: because it 's it it 's just not relevant to the to the meeting and or to conversational speech anyway .
+[0893] [36:00] me018: It 's read .
+[0894] [36:06] mn017: OK .
+[0895] [36:07] mn017: Yeah . Leave it out ,
+[0896] [36:08] mn017: and Um , in the event that I retrain the short models ,
+[0897] [36:12] mn017: um , why don't you give me a list of the files that you throw out ,
+[0898] [36:15] mn017: and I I 'll throw them out , too .
+[0899] [36:15] me026: Right .
+[0900] [36:17] mn017: And then we have complete completely identical training conditions .
+[0901] [36:21] me018: We sh M
+[0902] [36:22] me018: Right .
+[0903] [36:22] me018: A actually you should be able to figure out , Dave ,
+[0904] [36:25] me018: right ,
+[0905] [36:25] me018: once you know the segmentations , uh , who you 're going to which speakers will get left out , even before you run your processing .
+[0906] [36:27] me026: Mm - hmm .
+[0907] [36:33] me018: Right ?
+[0908] [36:33] me026: The segmentations ?
+[0909] [36:34] me018: Yeah . The segmentations from Don ?
+[0910] [36:36] mn017: But th the segmentations are only they only affect the test set .
+[0911] [36:36] me018: Once we ?
+[0912] [36:36] me026: Oh .
+[0913] [36:39] mn017: We 're talking about the training speakers .
+[0914] [36:40] me018: Ah . Right , right , right , right , right .
+[0915] [36:42] me013: No
+[0916] [36:43] mn017: Right .
+[0917] [36:46] me018: Right . But I 'm just wondering how long it will take to get that information .
+[0918] [36:51] me026: Um
+[0919] [36:51] mn017: He already has the in you already have the information .
+[0920] [36:53] me026: I I have i I have it for for Macrophone , um , already , I think ,
+[0921] [36:53] mn017: Right ?
+[0922] [36:59] me026: and , um , I think by tomorrow I 'll have it for th for the rest .
+[0923] [37:01] mn017: Mm - hmm .
+[0924] [37:02] mn017: OK . Alright .
+[0925] [37:10] me018: OK .
+[0926] [37:14] mn017: OK .
+[0927] [37:15] me013: At that one ? Maybe .
+[0928] [37:17] me013: Uh
+[0929] [37:19] me013: Been looking at synthesizers ?
+[0930] [37:21] mn014: Synthesizers ?
+[0931] [37:23] me013: You were looking at Festival .
+[0932] [37:23] mn014: Yeah , yeah . I was doing something for the SmartKom data collectioners .
+[0933] [37:24] me013: Yeah .
+[0934] [37:27] mn014: Robert has taken his laptop t back to Germany so we needed a new synthesis machine .
+[0935] [37:32] mn014: And we have now a SUN workstation in the library , which does the synthesis
+[0936] [37:36] mn014: and the Festival speech s s system is running on
+[0937] [37:37] me018: Sorry , Robert did what ?
+[0938] [37:38] me018: Robert took what ?
+[0939] [37:39] mn014: His laptop where , uh which we used for the SmartKom data collection , for the synthesis .
+[0940] [37:44] me018: Uh - huh .
+[0941] [37:44] mn014: And so he took it to Germany
+[0942] [37:46] mn014: and so we couldn't do any data collection .
+[0943] [37:47] me018: Oh .
+[0944] [37:49] me018: Is he gone now ?
+[0945] [37:49] mn014: Uh
+[0946] [37:50] mn014: No . He 's just gone to a SmartKom workshop .
+[0947] [37:50] me018: Oh . Oh , oh . Oh , OK .
+[0948] [37:54] mn014: And so , we have now the SUN in the library which can do that .
+[0950] [37:58] mn014: And I looked into the ts F - zero thing and talked to to Liz ,
+[0951] [38:03] mn014: and it seems that it 's quite s what she wants ,
+[0952] [38:07] mn014: but
+[0953] [38:10] mn014: uh , what we wanna do .
+[0954] [38:10] me013: Right .
+[0955] [38:11] me013: This was a business about , uh , um , coming up with something that that was purely prosodic .
+[0956] [38:18] mn017: Mm - hmm .
+[0957] [38:18] me013: And so , uh , we 're just gonna use a pitch detector ,
+[0958] [38:21] me013: drive a synthesizer ,
+[0959] [38:22] me013: and since it doesn't have a hook in it for , uh , modifying energy , we 'll have a little box at the output that 'll modify the energy .
+[0960] [38:29] me013: So
+[0963] [38:31] mn017: OK .
+[0964] [38:32] me013: So . Rrrrr - rrrrm
+[0965] [38:36] me013: Something like that .
+[0966] [38:36] me018: Are you are you interfacing to that thing with the C - plus - plus
+[0967] [38:40] me018: Or are you is there another interface that you use ?
+[0968] [38:42] mn014: For w for Festival ?
+[0969] [38:43] me018: Yeah .
+[0970] [38:44] mn014: Uh
+[0971] [38:46] mn014: Yeah . Basically from the command line ,
+[0972] [38:48] mn014: and the defining the phones , whatever you want to have synthesized ,
+[0973] [38:51] me018: Oh .
+[0974] [38:52] mn014: and give the F - zero targets ,
+[0975] [38:52] me018: And
+[0976] [38:54] mn014: and then ts get gives out a a waveform ,
+[0977] [38:57] mn014: and I I want to manipulate the the waveform , then .
+[0978] [38:58] me018: I see .
+[0979] [39:00] me018: Oh , that 's neat .
+[0981] [39:07] me013: OK ?
+[0982] [39:08] me013: Digits ?
+[0983] [39:17] me018: Ah . OK .
+[0984] [43:14] me013: That 's all folks .

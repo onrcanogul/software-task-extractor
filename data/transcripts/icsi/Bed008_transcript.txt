@@ -1,0 +1,1563 @@
+================================================================================
+ICSI Meeting Transcript: Bed008
+================================================================================
+
+Total Utterances: 1554
+Unique Speakers: 5
+Duration: 83.75 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:54] me045: Alright , so I 'm - I should read all of these numbers ?
+[0002] [01:48] me010: OK .
+[0003] [04:26] mn015: Piece of paper ? I could borrow ?
+[0004] [04:27] me045: Oh yeah .
+[0005] [04:29] me010: OK , so uh i um
+[0006] [04:33] me010: I don't know whether Ami 's coming or not
+[0007] [04:35] me010: um
+[0008] [04:36] me010: but I think we oughta just get started .
+[0009] [04:36] mn015: Nancy is uh currently in Berkeley but not here ?
+[0010] [04:39] me003: Nancy 's still stick ?
+[0011] [04:42] me010: Don't know .
+[0012] [04:43] mn015: OK .
+[0013] [04:43] me010: Anyway
+[0014] [04:45] me010: Oh ,
+[0015] [04:46] me010: so there you go .
+[0016] [04:53] me010: Anyway , so my idea f for today
+[0017] [04:55] me010: and we can uh decide that that isn't the right thing to do
+[0018] [05:00] me010: was to at spend at least part of the time trying to eh build the influence links ,
+[0019] [05:09] me010: you know which sets of things are uh relevant to which decisions
+[0020] [05:17] me010: and actually I had uh specific s suggestion to start first with the path ones .
+[0021] [05:27] me010: The database ones being in some sense less interesting to us
+[0022] [05:31] me010: although probably have to be done
+[0023] [05:33] me010: and so to do that
+[0024] [05:36] me010: so there 's and the idea was we were gonna do two things
+[0025] [05:37] me003: Is your mike on ?
+[0026] [05:43] me010: Ah .
+[0027] [05:44] me010: Oh right , well .
+[0028] [05:49] me010: Yeah .
+[0029] [05:49] me010: We were gonna do two things
+[0030] [05:50] me010: one of which is just lay out the influence structure of what we think influences what
+[0031] [05:51] me012: That 's funny .
+[0032] [05:58] me010: and then as a uh separate but related task
+[0033] [06:02] me010: uh particularly Bhaskara and I were going to try to decide what kinds of belief nodes are needed in order to um do what we what we need to do .
+[0034] [06:14] me010: Once
+[0035] [06:15] me010: so but du we should sort of have all of the uh basic design of what influences what done before we decide exactly how to compute it .
+[0036] [06:28] me010: So I didn't did you get a chance to look at all yet ?
+[0037] [06:30] me012: Yeah , I looked at some of that stuff .
+[0038] [06:31] me010: Great .
+[0039] [06:32] me010: OK so let 's start with the uh belief - nets , the general influence stuff
+[0040] [06:39] me010: and then we 'll then we 'll also at some point break and talk about the techy stuff .
+[0041] [06:45] mn015: Well I think one could go there 's
+[0042] [06:49] mn015: I think we can di discuss everything .
+[0043] [06:52] mn015: First of all this I added , I knew from sort of basically this has to be there
+[0044] [06:57] mn015: right ?
+[0045] [06:57] mn015: Um
+[0046] [06:59] me010: Oh are you gonna go there or not ?
+[0047] [07:00] me010: Yeah , so one i
+[0048] [07:00] mn015: Given given uh uh not transverse the castle , the decision is does the person want to go there or is it just
+[0049] [07:06] me010: Right ,
+[0050] [07:06] me010: true .
+[0051] [07:07] me010: Does have to be there .
+[0052] [07:09] mn015: And
+[0053] [07:09] me010: And I 'm sure we 'll find more as we go that
+[0054] [07:10] mn015: Hmm ?
+[0055] [07:13] mn015: So Go - there in the first place or not is definitely uh one of the basic ones .
+[0056] [07:16] mn015: We can start with that .
+[0057] [07:20] mn015: Interesting effect .
+[0058] [07:22] mn015: Um Is this basically true or false
+[0059] [07:27] mn015: or maybe we 'll get
+[0060] [07:31] me010: Well
+[0061] [07:31] me012: Which one ?
+[0062] [07:32] mn015: what ?
+[0063] [07:33] me045: " Go there " .
+[0064] [07:33] mn015: m right .
+[0065] [07:34] me010: so there is this question about
+[0066] [07:35] mn015: Here we
+[0067] [07:37] mn015: we actually get just probabilities ,
+[0068] [07:38] me010: Yeah .
+[0069] [07:39] mn015: right
+[0070] [07:39] mn015: for each down here .
+[0071] [07:41] me010: When we 're yeah when we 're done .
+[0072] [07:42] mn015: Hmm .
+[0073] [07:42] me010: So so
+[0074] [07:43] me010: the the reason it might not be true or false is that we did have this idea of when
+[0075] [07:51] me010: so it 's , you know uh current @ @ and so forth and so on or not at all ,
+[0076] [07:55] mn015: Mm - hmm .
+[0077] [07:55] me010: right ?
+[0078] [07:56] me010: And so that a decision would be do we want that
+[0079] [08:04] me010: so you could two different things you could do ,
+[0080] [08:05] me010: you could have all those values for Go - there
+[0081] [08:09] me010: or you could have Go - there be binary and given that you 're going there when .
+[0082] [08:13] mn015: When .
+[0083] [08:14] mn015: How .
+[0084] [08:15] me010: Yeah
+[0085] [08:15] mn015: Why ,
+[0086] [08:15] me010: and so forth .
+[0087] [08:16] mn015: yeah .
+[0088] [08:16] me010: So I 'll let
+[0089] [08:17] me010: we 'll see .
+[0090] [08:18] mn015: Hmm ?
+[0091] [08:19] me045: I mean it seems that you could um uh it seems that those things would be logically independent
+[0092] [08:25] me045: like you would wanna have them separate or binary ,
+[0093] [08:27] me045: Go - there and then the the possibilities of how to go there
+[0094] [08:30] me045: because
+[0095] [08:31] me010: OK , that 's let 's start that way .
+[0096] [08:34] me045: because , you know it might be easy to figure out that this person is going to need more film eventually from their utterance
+[0097] [08:39] me045: but it 's much more complex to query when would be the most appropriate time .
+[0098] [08:39] mn015: Hmm .
+[0099] [08:43] mn015: Hmm .
+[0100] [08:44] mn015: OK .
+[0101] [08:46] mn015: And so I 've tried to come up with some initial things one could observe
+[0102] [08:51] mn015: so who is the user ?
+[0103] [08:53] mn015: Everything that has user comes from the user model
+[0104] [08:55] mn015: everything that has situation comes from the situation model - A .
+[0105] [08:59] mn015: We should be be clear .
+[0106] [09:01] mn015: But when it comes to sort of writing down
+[0107] [09:04] mn015: when you when you do these things
+[0108] [09:06] mn015: is it here ?
+[0109] [09:08] mn015: You sort of have to a write the values this can take .
+[0110] [09:13] me010: Right .
+[0111] [09:14] mn015: And here I was really uh in some s sometimes I was really sort of standing in front of a wall feeling very stupid
+[0112] [09:21] mn015: because um this case it 's pretty simple ,
+[0113] [09:24] mn015: but as we will see the other ones um
+[0114] [09:28] mn015: for example if it 's a running budget so what are the discrete values of a running budget ?
+[0115] [09:36] mn015: So maybe my understanding there is too impoverished .
+[0116] [09:39] me045: Hmm .
+[0117] [09:40] mn015: How can I write here that this is something , a number that cr keeps on changing ?
+[0118] [09:40] me010: No uh
+[0119] [09:45] mn015: But OK .
+[0120] [09:49] mn015: Thus is understandable ?
+[0121] [09:51] me003: Yes .
+[0122] [09:51] me045: Think so .
+[0123] [09:52] mn015: So here for example .
+[0124] [09:53] me010: You 've s have you seen this before at all Keith , these belief - net things ?
+[0125] [09:56] me045: Uh , no ,
+[0126] [09:56] me045: but I think I 'm following it .
+[0127] [09:59] me045: So far .
+[0128] [09:59] mn015: So here is the the we had that the user 's budget may influence the outcome of decisions .
+[0129] [10:03] me010: Yeah .
+[0130] [10:04] me012: Hmm .
+[0131] [10:05] mn015: There we wanted to keep sort of a running total of things .
+[0132] [10:09] me012: Is this like a number that represents how much money they have left to spend ?
+[0133] [10:13] me012: OK , h well I mean how is it different from user finance ?
+[0134] [10:16] mn015: Um the finance is sort of here thought of as as the financial policy a person carries out in his life ,
+[0135] [10:24] mn015: he is he cheap , average , or spendy ?
+[0136] [10:26] me012: Alright .
+[0137] [10:27] mn015: And um I didn't come uh
+[0138] [10:29] mn015: maybe a user
+[0139] [10:31] mn015: I don't know ,
+[0140] [10:32] mn015: I didn't want to write greediness ,
+[0141] [10:33] mn015: but
+[0142] [10:34] me045: Yeah .
+[0143] [10:35] me045: Hmm .
+[0144] [10:36] mn015: Welcome .
+[0145] [10:36] me010: Or cheapness .
+[0146] [10:37] mn015: Welcome .
+[0147] [10:37] me045: User thrift .
+[0148] [10:39] me012: Yeah .
+[0149] [10:39] me010: Thrift , that 's good .
+[0150] [10:41] me010: Great .
+[0151] [10:42] mn015: There it is .
+[0152] [10:43] me010: Yeah . So Keith w what 's behind this is actually a program that will once you fill all this in actually s solve your belief - nets for you and stuff .
+[0153] [10:49] me045: Mm - hmm .
+[0154] [10:52] me010: So this is not just a display ,
+[0155] [10:53] me010: this is actually a GUI to a simulator that will if we tell it all the right things we 'll wind up with a functioning belief - net at the other end .
+[0156] [11:01] me045: OK .
+[0157] [11:04] me045: OK .
+[0158] [11:07] mn015: And it 's so simple even I can use it .
+[0159] [11:09] me045: Wow , that is simple .
+[0160] [11:12] mn015: OK , so here was
+[0161] [11:13] mn015: OK , I can think of uh people being cheap , average , or spendy or we can even have a a finer scale moderately cheap ,
+[0162] [11:19] me010: Doesn't matter .
+[0163] [11:20] mn015: doesn't matter .
+[0164] [11:21] mn015: Agree there
+[0165] [11:22] mn015: but here um I wasn't sure what to write in .
+[0166] [11:27] me010: Let
+[0167] [11:28] me010: go ahead .
+[0168] [11:28] me012: Well , I mean you 've written in you 've written in what uh seems to be required
+[0169] [11:32] me012: like what else is is do you want ?
+[0170] [11:35] mn015: If that 's permissible then I 'm happy .
+[0171] [11:37] me010: Well yeah . So here 's here 's what 's permissible
+[0172] [11:39] me010: is that you can arrange so that the um the value of that is gonna have to be updated
+[0173] [11:51] me010: and n it 's not a belief update ,
+[0174] [11:52] me010: right ?
+[0175] [11:52] me010: It 's you took some actions , you spent money and stuff ,
+[0176] [11:54] me010: so the update of that is gonna have to be essentially external to the belief - net .
+[0177] [11:59] mn015: Yeah .
+[0178] [11:59] me010: Right ?
+[0179] [12:00] me010: And then what you 're going to need is uh for the things that it influences .
+[0180] [12:07] me010: Well let 's first of all let 's see if it does influence anything .
+[0181] [12:10] me010: And if it does influence anything then you 're gonna need something that converts from the the number here to something that 's relevant to the decision there .
+[0182] [12:19] me010: So
+[0183] [12:24] me010: but for the moment this is just a node that is conditioned externally and might influence various things .
+[0184] [12:34] mn015: Hmm .
+[0185] [12:36] mn015: Yeah this is where um
+[0186] [12:38] mn015: OK anyways
+[0187] [12:40] mn015: let 's forget it .
+[0188] [12:42] me010: Well that 's fine .
+[0189] [12:43] me010: Well anyway , go ahead .
+[0190] [12:43] mn015: OK , and so this , oh that
+[0191] [12:46] me012: The other thing is that um every time that 's updated beliefs will have to be propagated
+[0192] [12:49] me012: but then the question is do you do we wanna propagate beliefs every single time it 's updated or only when we need to ?
+[0193] [12:55] me010: Yeah , that 's a good question .
+[0194] [12:57] me010: And uh does it have a lazy mode ?
+[0195] [13:03] me010: I don't remember .
+[0196] [13:03] me012: Uh
+[0197] [13:04] me012: Well , I mean , in Srini 's thing there was this thing there was this um option like proper inferences which suggests that uh doesn't happen , automatically .
+[0198] [13:07] me010: Oh right .
+[0199] [13:10] me010: Yeah .
+[0200] [13:10] me010: S probably does .
+[0201] [13:11] me010: Yeah
+[0202] [13:12] me010: someone has to track that down ,
+[0203] [13:13] me010: but I but uh
+[0204] [13:23] mn015: I just accidentally
+[0205] [13:24] me010: And and and I think actually uh
+[0206] [13:26] mn015: Oops .
+[0207] [13:27] me010: one of the we w items for the uh user home base uh should be uh essentially non - local .
+[0208] [13:40] me010: I they 're only there for the day and they don't have a place that they 're staying .
+[0209] [13:50] me012: Well
+[0210] [13:50] mn015: Oh just uh accidentally erased this ,
+[0211] [13:52] mn015: I I just had values here such as uh um is he s we had in our list we had " Is he staying in our hotel ? " ,
+[0212] [13:59] mn015: " Is he staying with friends ? " ,
+[0213] [14:00] mn015: and so forth
+[0214] [14:01] me010: Yeah .
+[0215] [14:01] mn015: uh
+[0216] [14:03] mn015: so we 're
+[0217] [14:08] mn015: OK .
+[0218] [14:11] me010: So
+[0219] [14:13] me010: it 's clear where w w w where we are right now .
+[0220] [14:17] me010: So my suggestion is we just pick uh
+[0221] [14:19] mn015: Something down here ?
+[0222] [14:20] me010: one , you know one uh particular one of the uh
+[0223] [14:24] me010: well let 's do the first first one let 's do the one that we sort of already think we did
+[0224] [14:30] me010: so w that was the of the endpoint ?
+[0225] [14:32] mn015: Mm - hmm .
+[0226] [14:37] mn015: And um
+[0227] [14:41] mn015: Oops .
+[0228] [14:42] me012: Is
+[0229] [14:42] me012: hmm
+[0230] [14:46] mn015: Ah ,
+[0231] [14:47] me012: So it 's true or false ?
+[0232] [14:48] mn015: OK . No no no ,
+[0233] [14:48] me010: No , that 's that 's a
+[0234] [14:48] mn015: EVA .
+[0235] [14:50] mn015: Missed that one .
+[0236] [14:50] me012: So
+[0237] [14:52] me003: What 's the difference between mode and endpoint ?
+[0238] [14:52] me012: I thought mode ,
+[0239] [14:53] me012: yeah .
+[0240] [14:55] mn015: Um mode was um
+[0241] [14:55] me010: although that
+[0242] [14:58] me010: Well , that 's
+[0243] [14:58] me012: Mode of transportation ?
+[0244] [14:59] mn015: Yeah .
+[0245] [15:00] me012: OK .
+[0246] [15:01] me012: Also true or false .
+[0247] [15:02] mn015: Mm - hmm .
+[0248] [15:02] me010: No , he has he hasn't filled them in yet , is what 's true .
+[0249] [15:04] me012: Yeah , OK .
+[0250] [15:09] mn015: Did I or didn't I ?
+[0252] [15:12] mn015: Ah . Probably nothing done yet ,
+[0253] [15:12] mn015: oh I just did it on the upper ones , OK .
+[0254] [15:15] mn015: Makes sense .
+[0255] [15:18] mn015: OK , so this was EVA .
+[0256] [15:28] mn015: Maybe we can think of more things ,
+[0257] [15:30] mn015: cross
+[0258] [15:34] me012: Yeah .
+[0259] [15:34] me010: OK .
+[0260] [15:34] me045: Climb , rob .
+[0261] [15:36] mn015: climb , emerge
+[0262] [15:37] me010: No no no ,
+[0263] [15:37] me003: Uh
+[0264] [15:38] me012: Well some of those are subsumed by approach .
+[0265] [15:38] me010: these are ju that 's just a point ,
+[0266] [15:39] me010: this is ju
+[0267] [15:39] me003: Would it be an endpoint if you were crossing over it ?
+[0268] [15:43] me045: The Charles Bridge , you know .
+[0269] [15:43] me010: Yeah , would be a f for a given segment .
+[0270] [15:46] me010: You know , you y you go first go the town square
+[0271] [15:49] me003: Well I eh
+[0272] [15:50] me045: No , I mean , if you go to re you know if you go to Prague or whatever one of your your key points that you have to do is cross the Charles Bridge
+[0273] [15:56] me045: and doesn't really matter which way you cross
+[0274] [15:59] me045: which where you end up at the end
+[0275] [16:01] me045: but the part the good part is walking over it ,
+[0276] [16:03] me045: so .
+[0277] [16:05] me010: That 's subtle , but true .
+[0278] [16:06] me010: Anyway
+[0279] [16:10] me010: so let 's just leave it three with three for now
+[0280] [16:10] mn015: Mm - hmm ,
+[0281] [16:11] mn015: mmm . Yeah .
+[0282] [16:13] me010: and let 's see if we can get it linked up just to get ourselves started .
+[0283] [16:22] mn015: OK , we
+[0284] [16:22] me010: You 'll see it you 'll see something comes up immediately , that the reason I wanna do this .
+[0285] [16:25] mn015: w well the uh user was uh definitely more likely to enter if he 's a local
+[0286] [16:27] me010: Right .
+[0287] [16:30] me010: Right .
+[0288] [16:32] mn015: more likely to view if he 's a tourist
+[0289] [16:35] mn015: um
+[0290] [16:38] mn015: and then of course we had the fact that given the fact that he 's thrifty and there will be admission then we get all these cross um
+[0291] [16:46] me010: We did , but the three things w that that it contributed to this
+[0292] [16:50] me010: in fact , the other two aren't up there .
+[0293] [16:53] me010: so one was the ontology
+[0294] [16:55] mn015: We 'll d what type of building is it ?
+[0295] [16:57] mn015: Yeah .
+[0296] [16:57] me010: Yeah .
+[0297] [16:58] me010: And the and the third thing we talked about was something from the discourse .
+[0298] [17:04] mn015: What he has mentioned before .
+[0299] [17:07] me010: OK , so this is w
+[0300] [17:09] me010: Right , so what w I what we seem to need here ,
+[0301] [17:12] me010: this is why it starts getting into the technical stuff
+[0302] [17:15] me045: mm - hmm
+[0303] [17:15] me010: the way we had been designing this , there were three intermediate nodes
+[0304] [17:20] me010: uh which were the endpoint decision as seen from the uh user model as seen from the ontology and as seen from the discourse .
+[0305] [17:31] me010: So each of those
+[0306] [17:33] me010: the way we had it designed ,
+[0307] [17:34] me010: now we can change the design ,
+[0308] [17:35] me010: but the design we had was
+[0309] [17:37] me010: there was a decision with the same three outcomes uh based on the th those three separate considerations
+[0310] [17:41] me045: mm - hmm
+[0311] [17:46] me010: so if we wanted to do that would have to put in uh three intermediate nodes
+[0312] [17:48] mn015: Uh we can load it up it you know very simple .
+[0313] [17:51] me045: So
+[0314] [18:02] me010: and then what you and I have to talk about is , OK if we 're doing that and they get combined somehow uh how do they get combined ?
+[0315] [18:09] me010: But the they 're they 're undoubtedly gonna be more things to worry about .
+[0316] [18:12] mn015: So this was adjusted for this one mode thing .
+[0317] [18:14] me012: Oh yes .
+[0318] [18:16] me010: Yeah .
+[0319] [18:23] mn015: So that 's w w in our uh in in Johno 's sort of pictogram everything that could contribute to whether a person wants to enter , view , or approach something .
+[0320] [18:33] me010: Oh , it was called mode ,
+[0321] [18:34] me010: so this this is m mode here means the same as endpoint .
+[0322] [18:39] mn015: Is now this endpoint .
+[0323] [18:42] me003: Right .
+[0324] [18:43] me010: OK , why don't we ch can we change that ?
+[0325] [18:43] mn015: We can just rename that , yeah .
+[0326] [19:02] me010: Alright .
+[0327] [19:07] me010: You know , but that was actually ,
+[0328] [19:08] me010: yeah unfortunately that was a um kind of an intermediate versio
+[0329] [19:18] me010: that 's I don't think what we would currently do .
+[0330] [19:22] me045: Can I ask about " slurred " and " angry " as inputs to this ?
+[0331] [19:27] me010: That 's a
+[0332] [19:28] me045: What why ?
+[0333] [19:28] me012: Like they 're either true or false
+[0334] [19:28] mn015: The prosody ?
+[0335] [19:30] me012: and they uh
+[0336] [19:30] me045: OK .
+[0337] [19:33] me012: oh I see .
+[0338] [19:34] me003: If the if the person talking is angry or slurs their speech they might be tired or , you know
+[0339] [19:38] me045: Mm - hmm .
+[0340] [19:40] me045: OK .
+[0341] [19:40] me045: Drunk .
+[0342] [19:41] me012: Therefore
+[0343] [19:43] me003: And , you know , possibly uh
+[0344] [19:45] me045: Less likely to enter .
+[0345] [19:47] me003: some ,
+[0346] [19:47] me012: uh I was thinking less likely to view
+[0347] [19:47] me003: yeah .
+[0348] [19:47] me045: Hmm .
+[0349] [19:48] me010: Yeah .
+[0350] [19:48] me010: But that 's - that seems to ,
+[0351] [19:49] me010: yeah .
+[0352] [19:49] me010: So so my advice to do is is get this down to what we think is actually likely to to be a a strong influence .
+[0353] [19:57] me045: OK .
+[0354] [19:58] me012: Right .
+[0355] [19:58] me010: But yeah , that was what he had in mind .
+[0356] [20:05] me010: So
+[0357] [20:11] me010: so there 're two separate things .
+[0358] [20:11] me010: One
+[0359] [20:13] me010: uh at least two .
+[0360] [20:14] me010: One is how do we want to handle the notion of the ontology
+[0361] [20:20] me010: now what we talked about , and this is another technical thing Bhaskara , is uh can we arrange so that
+[0362] [20:27] me010: I think we can
+[0363] [20:28] me010: so that the belief - net itself has properties
+[0364] [20:32] me010: and the properties are filled in uh from on ontology items .
+[0365] [20:36] me010: So the let 's take the case of the uh this endpoint thing ,
+[0366] [20:41] me010: the notion was that if you had a few key properties like is this a tourist site , you know some kind of landmark
+[0367] [20:48] me010: is it a place of business
+[0368] [20:50] me010: uh is it something you physically could enter
+[0369] [20:53] me045: Mm - hmm .
+[0370] [20:54] me010: OK ,
+[0371] [20:54] me010: et cetera .
+[0372] [20:54] me010: So that there 'd be certain properties that would fit into the decision node
+[0373] [21:00] me010: and then again as part of the ou outer controlling conditioning of this thing those would be set ,
+[0374] [21:06] me010: so that some somehow someone would find this word , look it up in the ontology , pull out these properties , put it into the belief - net , and then the decision would flow .
+[0375] [21:17] me045: Mm - hmm .
+[0376] [21:18] me010: Now
+[0377] [21:19] mn015: Seems to me that we 've sort of e em embedded a lot , em embedded a lot of these uh things we had in there previously in in in some of the other final decisions done here ,
+[0378] [21:29] mn015: for example if we would know that this thing is exhibiting something um
+[0379] [21:32] me010: Right .
+[0380] [21:34] me010: Right .
+[0381] [21:35] mn015: if it 's exhibiting itself it is a landmark ,
+[0382] [21:39] mn015: meaning more likely to be viewed
+[0383] [21:39] me010: Yeah .
+[0384] [21:41] me010: Yep .
+[0385] [21:41] mn015: if it is exhibiting pictures or sculptures and stuff like this , then it 's more likely to be entered .
+[0386] [21:48] me010: I uh that 's I think that 's completely right
+[0387] [21:51] me010: and um I think that 's good ,
+[0388] [21:54] me010: right ?
+[0389] [21:55] me010: So what what that says is that we might be able to uh take and
+[0390] [22:05] me010: in particular
+[0391] [22:06] me010: so so the ones we talked about were uh exhibiting and selling
+[0392] [22:13] mn015: Accessibility .
+[0393] [22:15] me010: no , accessibility meant
+[0394] [22:16] mn015: If it 's closed one probably won't enter .
+[0395] [22:19] mn015: Or if it 's not accessible to a tourist ever the likelihood of that person actually wanting to enter it ,
+[0396] [22:22] me010: OK .
+[0397] [22:25] mn015: given that he knows it , of course .
+[0398] [22:27] me010: Alright .
+[0399] [22:27] me010: So let me suggest this .
+[0400] [22:29] me010: Uh w could you move those up about halfway .
+[0401] [22:37] me010: Uh The ones that you th And selling I guess .
+[0402] [22:43] mn015: Yeah , all all of these
+[0403] [22:44] mn015: if it 's fixing things selling things , or servicing things
+[0404] [22:49] me010: Right .
+[0405] [22:50] me010: So here here 's what it looks like to me .
+[0406] [22:54] me010: is that you want an intermediate structure which i uh is essentially the or of uh for this purpose of of uh selling , f fixing , or servicing .
+[0407] [23:08] me010: So that it uh
+[0408] [23:11] me010: that is , for certain purposes , it becomes important
+[0409] [23:13] me010: but for this kind of purpose uh one of these places is quite like the other .
+[0410] [23:21] me010: Does that seem right ?
+[0411] [23:23] me010: So we di
+[0412] [23:23] me003: Basic
+[0413] [23:23] me003: you 're basically just merging those for just the sake of endpoint decision ?
+[0414] [23:23] me010: if we
+[0415] [23:27] me003: Yeah .
+[0416] [23:27] me010: Yes .
+[0417] [23:27] me010: So if well it may be more than endpoint decisions ,
+[0418] [23:27] me045: Mm - hmm .
+[0419] [23:29] me010: so the idea would be that you might wanna merge those three
+[0420] [23:33] mn015: These three ?
+[0421] [23:34] me010: Yeah .
+[0422] [23:34] me010: Eh ser s uh selling , fixing , and servicing .
+[0423] [23:34] mn015: Yeah .
+[0424] [23:37] me012: What ex um and so either those is true f or false ?
+[0425] [23:40] me012: So
+[0426] [23:40] me010: Uh Uh well it it i here 's where it gets a little tricky .
+[0427] [23:45] me010: Uh from the belief - net point of view it is
+[0428] [23:48] me010: from another point of view of course it 's interest it 's it 's important to know what it 's selling or servicing and so forth .
+[0429] [23:52] me045: Yeah .
+[0430] [23:54] me012: OK .
+[0431] [23:54] me010: So for this decision it 's just uh true or false
+[0432] [23:56] me012: Yeah .
+[0433] [24:01] me010: and in th this is a case where the or seems just what you want .
+[0434] [24:06] me012: OK .
+[0435] [24:07] me010: That that if any of those things is true then it 's the kind of place that you uh
+[0436] [24:15] mn015: Um more likely to enter .
+[0437] [24:17] me010: are more likely to enter .
+[0438] [24:18] me012: So you just wanna have them all pointing to a summary thing ?
+[0439] [24:20] me010: You could , yeah .
+[0440] [24:21] me010: Yeah , so let 's do that .
+[0441] [24:27] me010: No no , no eh to to an inter no , an intermediate node .
+[0442] [24:29] me012: T
+[0443] [24:29] mn015: Oh , OK .
+[0444] [24:30] me010: That 's the p part of the idea , is
+[0445] [24:32] mn015: Um is is that the object type node ?
+[0446] [24:35] me010: I d
+[0447] [24:35] mn015: So are they the is it the kind of object that sells , fixes , or services things ?
+[0448] [24:39] me010: Well , o open up object type and let 's see what its values are .
+[0449] [24:42] mn015: Oh I just created it , it has none so far .
+[0450] [24:44] me010: Oh , well OK first of all it 's not objects ,
+[0451] [24:46] me010: we called them entities ,
+[0452] [24:47] mn015: Yeah .
+[0453] [24:47] me010: right ?
+[0454] [25:05] mn015: And then we have sort of the um
+[0455] [25:09] me010: Let 's say I put commercial .
+[0456] [25:10] mn015: Yeah ,
+[0457] [25:11] mn015: I w I was just gonna
+[0458] [25:12] mn015: commercial action inside where people p
+[0459] [25:15] me010: Well couldn't I do let 's do commercial
+[0460] [25:19] me010: uh landmark
+[0461] [25:23] me010: and
+[0462] [25:27] mn015: And where was the accessible , yeah .
+[0463] [25:29] me010: Well
+[0464] [25:30] me010: accessible I think is different
+[0465] [25:31] mn015: Yeah .
+[0466] [25:32] me010: cuz that 's tempor that that varies temporally ,
+[0467] [25:34] me010: whereas this is a
+[0468] [25:34] mn015: Mm - hmm .
+[0469] [25:38] me003: What would a hotel fall under ?
+[0470] [25:41] me010: I would call that a service ,
+[0471] [25:42] me010: but but I don't know .
+[0472] [25:44] me003: Well I mean in terms of entity type ?
+[0473] [25:46] me010: Say w w well it 's co I would s a a
+[0474] [25:49] me010: again for this purpose I think it 's commercial .
+[0475] [25:52] me010: Someplace you want to go in to do some kind of business .
+[0476] [25:54] me003: OK .
+[0477] [25:56] me012: Um what does the underscore - T at the end of each of those things signify ?
+[0478] [26:00] mn015: Um things .
+[0479] [26:01] mn015: So places that service things sell things or fix things and pe places that e exhibit things .
+[0480] [26:03] me012: Uh - huh .
+[0481] [26:05] me012: OK .
+[0482] [26:09] me012: OK .
+[0483] [26:11] me012: That also points to entity type I guess .
+[0484] [26:14] me045: So we 're deriving um this the this feature of whether the the main action at this place happens inside or outside or what we 're deriving that from what kind of activity is done there ?
+[0485] [26:27] me045: Couldn't you have it as just a primitive feature of the entity ?
+[0486] [26:29] me010: Well you could ,
+[0487] [26:30] me010: that 's a that 's a choice .
+[0488] [26:32] me045: OK .
+[0489] [26:32] me010: So uh
+[0490] [26:34] me045: I mean it seems like that 's much more reliable
+[0491] [26:35] me045: cuz you could have outdoor places that sell things
+[0492] [26:38] me045: and you know indoor places that do something else
+[0493] [26:40] me010: Yeah , the problem with it is that it sort of putting in a feature just for one decision ,
+[0494] [26:41] me045: and
+[0495] [26:47] me010: now w we may wind up having to do that
+[0496] [26:47] me045: Hmm .
+[0497] [26:49] me010: this i anyway , this i
+[0498] [26:50] me045: OK .
+[0499] [26:51] me010: at a mental level that 's what we we 're gonna have to sort out .
+[0500] [26:53] me045: OK .
+[0501] [26:53] me010: So , you know what does this look like ,
+[0502] [26:54] me010: what are what are uh intermediate things that are worth computing ,
+[0503] [26:58] me010: what are the features we need in order to make all these decisions
+[0504] [26:59] me045: Mm - hmm .
+[0505] [27:03] me010: and what 's the best way to organize this so that um it 's clean and and consistent and all that sort of stuff .
+[0506] [27:10] me045: OK .
+[0507] [27:12] me045: I 'm just thinking about how people , human beings who know about places and places to go and so on would store this
+[0508] [27:18] me045: and it would probably you wouldn't just sort of remember that they sell stuff and then deduce from that that it must be going on inside or something .
+[0509] [27:24] mn015: Well I think an entity maybe should be regard as a vector of several possible things ,
+[0510] [27:29] mn015: it can either em do s do sell things , fix things , service things , exhibit things , it can be a landmark at the same time as doing these things ,
+[0511] [27:38] me045: Mm - hmm .
+[0512] [27:39] mn015: it 's not either or
+[0513] [27:40] mn015: mmm certainly a place can be a hotel and a famous site .
+[0514] [27:43] me045: Mm - hmm .
+[0515] [27:45] mn015: Many come to mind .
+[0516] [27:46] mn015: Things can be generally um a landmark and be accessible .
+[0517] [27:52] mn015: IE a a castle
+[0518] [27:53] mn015: or can be a landmark a or not accessible , some statue
+[0519] [27:56] me045: Mm - hmm .
+[0520] [27:57] mn015: you know can go inside .
+[0521] [27:58] me010: OK .
+[0522] [27:59] me010: Anyway so let me suggest you do something else .
+[0523] [28:03] me010: Uh which is to get rid get rid of that l long link between who the user and the endpoint .
+[0524] [28:13] mn015: Could we just move it like this ?
+[0525] [28:15] me010: No no , I don't want the link there at all .
+[0526] [28:16] mn015: Oh , OK .
+[0527] [28:19] me010: Because what we 're gonna want is an intermediate thing
+[0528] [28:24] me010: which is uh the endpoint decisi the endpoint decision based o on the user models ,
+[0529] [28:32] me010: so what we we what we talked about is three separate endpoint decisions ,
+[0530] [28:36] me010: so let 's make a new node
+[0531] [28:39] mn015: Yeah .
+[0532] [28:40] mn015: Yeah .
+[0533] [28:41] me003: Just as a suggestion maybe you could " save as " to keep your old one nice and clean
+[0534] [28:46] me003: and so you can mess with this one .
+[0535] [28:49] mn015: Mmm .
+[0536] [28:50] mn015: The old one was not that not that important , I think
+[0537] [28:54] mn015: but
+[0538] [28:54] me003: OK , well , not a big deal then .
+[0539] [28:57] mn015: Let 's do it then .
+[0540] [29:00] me003: Well
+[0541] [29:02] me003: Isn't there a " save as " inside of java base ?
+[0542] [29:04] mn015: But I can just take this
+[0543] [29:07] me003: OK .
+[0544] [29:08] mn015: copy it somewhere else .
+[0545] [29:18] mn015: This was user something
+[0546] [29:20] mn015: or
+[0547] [29:20] me010: Well this was
+[0548] [29:21] me010: uh let 's p put it this let 's do endpoint underbar - U .
+[0549] [29:28] mn015: end point ?
+[0550] [29:29] me010: i endpoint , e end poi
+[0551] [29:30] me010: this is sa
+[0552] [29:31] mn015: Ah .
+[0553] [29:31] me010: it 's the endpoint
+[0554] [29:32] mn015: Gotcha , yeah .
+[0555] [29:34] me010: let 's say underbar - U ,
+[0556] [29:35] me010: so that 's the endpoint decision uh as seen through the
+[0557] [29:42] me003: As related from the user model .
+[0558] [29:43] me010: Right .
+[0559] [29:44] me010: So let 's let 's actually
+[0560] [29:46] me010: yeah so lin you can link that up to the
+[0561] [29:50] mn015: Should I rename this too ?
+[0562] [29:51] me010: uh yeah , so that , I guess that 's endpoint uh
+[0564] [29:56] mn015: It 's underscore - E .
+[0565] [29:58] me010: underscore - E for entity ,
+[0566] [29:59] me010: and we may change all this ,
+[0567] [30:00] me010: but .
+[0568] [30:02] me010: Right .
+[0569] [30:05] me010: And
+[0570] [30:07] mn015: OK , shouldn't I be able to move them all ?
+[0571] [30:09] mn015: No .
+[0572] [30:10] mn015: Or ?
+[0573] [30:11] mn015: Can I ?
+[0574] [30:18] mn015: Where ?
+[0575] [30:18] mn015: What ?
+[0576] [30:19] me010: Oh I d eh I don't know .
+[0577] [30:21] me010: Actually , I guess the easiest thing would move mo move the endpoint ,
+[0578] [30:24] me010: well , go ahead .
+[0579] [30:25] me010: Just do whatever .
+[0580] [30:28] mn015: Wasn't this possible ?
+[0581] [30:29] me010: Well .
+[0582] [30:30] mn015: Yeah .
+[0583] [30:31] me003: I think you have to be in move mode before
+[0584] [30:33] mn015: Uh - huh .
+[0585] [30:34] mn015: OK .
+[0586] [30:35] me010: Good .
+[0587] [30:42] me010: Right .
+[0588] [30:47] mn015: So now we 're looking for user related things that um
+[0589] [30:50] me010: Yeah .
+[0590] [30:50] me010: And uh maybe th maybe it 's just one who is the user ,
+[0591] [30:53] me010: I don't know ,
+[0592] [30:53] me010: maybe maybe there 's more .
+[0593] [30:59] me045: Huh .
+[0594] [31:01] mn015: Well if he 's usi if he 's in a car right now
+[0595] [31:06] mn015: what was that
+[0596] [31:07] mn015: people with Harry drove the car into the cafe
+[0597] [31:12] me010: Never mind .
+[0598] [31:13] me010: Uh anyway , this is crude .
+[0599] [31:17] me010: Now but the now so so but then the question is
+[0600] [31:20] me010: uh
+[0601] [31:22] me010: so and and we assume that some of these properties would come indirectly through an ontology ,
+[0602] [31:27] me010: but then we had this third idea of input from the discourse .
+[0603] [31:32] mn015: Well let 's should we finish this ,
+[0604] [31:34] mn015: I mean but surely the user interests
+[0605] [31:35] me010: Sure ,
+[0606] [31:35] me010: OK .
+[0607] [31:37] me003: The user thrift ,
+[0608] [31:37] me003: the user budget .
+[0609] [31:38] mn015: yeah , yeah
+[0610] [31:39] me010: Well , maybe ,
+[0611] [31:40] me010: I again , I d
+[0612] [31:41] me010: well , OK , put em in
+[0613] [31:42] me010: but what we 're gonna wanna do is actually uh
+[0614] [31:43] me003: Well
+[0615] [31:45] mn015: Here this was one of my problems
+[0616] [31:47] mn015: we have the user interest is a is a vector of five hundred values ,
+[0617] [31:51] mn015: so
+[0618] [31:52] mn015: um That 's from the user model ,
+[0619] [31:53] me012: Oh you mean level of interest ?
+[0620] [31:55] mn015: mm - hmm ,
+[0621] [31:55] mn015: no not levels of interest
+[0622] [31:56] mn015: but things you can be interested in .
+[0623] [31:58] me045: Well
+[0624] [31:59] me010: somebody else has built this user model .
+[0625] [32:00] mn015: Gothic churches versus Baroque townhouses versus
+[0626] [32:00] me012: Oh I see ,
+[0627] [32:01] me012: right .
+[0628] [32:06] me012: So why is it
+[0629] [32:07] me012: oh it , so it 's like a vector of five hundred one 's or zero 's ?
+[0630] [32:10] mn015: Yea - n is that
+[0631] [32:12] me012: Like for each thing are we are you interested in it or not ?
+[0632] [32:13] mn015: yeah
+[0633] [32:13] mn015: uh I I think
+[0634] [32:15] me012: I see .
+[0635] [32:17] me045: Hmm .
+[0636] [32:17] me010: OK .
+[0637] [32:18] me010: So uh you cou and so here let me give you two ways to handle that .
+[0638] [32:22] me010: Alright ?
+[0639] [32:23] me010: One is um you could ignore it .
+[0640] [32:27] me010: But
+[0641] [32:29] me010: and this will give you the flavor of the of what
+[0642] [32:31] me010: you could have a node that 's that was a measure of the match between the object 's feature , you know , the match between the object the entity , I 'm sorry and the user .
+[0643] [32:35] mn015: Mm - hmm .
+[0644] [32:40] mn015: Uh .
+[0645] [32:43] me010: So you could have a k a " fit " node
+[0646] [32:45] me010: and again that would have to be computed by someone else
+[0647] [32:48] mn015: Mm - hmm .
+[0648] [32:49] me010: but uh
+[0649] [32:51] me010: so that uh
+[0650] [32:56] mn015: Just as a mental note
+[0651] [32:58] mn015: uh
+[0652] [33:03] me010: Yeah , that 's all .
+[0653] [33:04] mn015: Mm - hmm .
+[0654] [33:08] mn015: And and should we say that this interests eh affects the likelihood of of entering ?
+[0655] [33:14] me010: Yeah .
+[0656] [33:14] me010: I mean , we could .
+[0657] [33:15] mn015: Yeah .
+[0658] [33:18] mn015: And also if it 's an expensive place to enter , this may also
+[0659] [33:22] me010: OK .
+[0660] [33:23] me012: Budget .
+[0661] [33:24] me045: User schedule .
+[0662] [33:27] mn015: Schedule ?
+[0663] [33:27] me045: " Do I have time to go in and climb all the way to the top of the Koelner Dome or do I just have to " " time to take a picture of the outside ? "
+[0664] [33:32] me010: Right .
+[0665] [33:32] me003: It
+[0666] [33:35] me010: Well that 's what we don't wanna do ,
+[0667] [33:36] me010: see that se
+[0668] [33:37] me003: Yeah .
+[0669] [33:37] me010: cuz then we get into huge combinatorics and stuff like that
+[0670] [33:40] me045: Mm - hmm .
+[0671] [33:42] me010: an
+[0672] [33:42] me003: Cuz if the , I mean , and if the user is tired , the user state ,
+[0673] [33:42] me012: Well
+[0674] [33:45] me003: right ,
+[0675] [33:45] me003: it would affect stuff ,
+[0676] [33:47] me003: but I can't see why e anything w everything in the model wouldn't be
+[0677] [33:48] me010: Well , but
+[0678] [33:49] me012: Right .
+[0679] [33:51] me010: Well , that that 's we can't do that ,
+[0680] [33:53] me010: so we we 're gonna have to
+[0681] [33:53] me003: Yeah .
+[0682] [33:55] me010: but this is a good discussion ,
+[0683] [33:56] me010: we 're gonna have to somehow figure out uh some way to encapsulate that
+[0684] [34:02] me010: uh so if there 's some general notion of for example the uh relation to the time to do this to the amount of time the guy has or something like that is is the uh compatibility with his current state ,
+[0685] [34:20] me010: so that 's what you 'd have to do ,
+[0686] [34:21] me010: you 'd have to get it down to something which uh was itself relatively compact ,
+[0687] [34:27] me010: so it could be compatibility with his current state
+[0688] [34:30] me010: which would include his money and his time and and his energy
+[0689] [34:33] me003: Yeah , just seems like it 'd push the problem back a level .
+[0690] [34:34] me012: Right .
+[0691] [34:35] me010: It does .
+[0692] [34:36] me003: Yeah , but
+[0693] [34:36] me045: Mm - hmm .
+[0694] [34:36] me012: No but , it 's more than that ,
+[0695] [34:37] me012: like the the more sort of you break it up
+[0696] [34:40] me012: like because if you have everything pointing to one node it 's like exponential
+[0697] [34:44] me012: whereas if you like keep breaking it up more and more it 's not exponential anymore .
+[0698] [34:47] me010: So it yeah , there are two advantages .
+[0699] [34:48] me010: That 's tha there 's one technical one
+[0700] [34:49] me003: Sh - sh
+[0701] [34:49] me003: yeah
+[0702] [34:51] me010: and the other is it it gets used
+[0703] [34:51] me003: S so we 'd basically be doing subgrouping ?
+[0704] [34:55] me003: Subgrouping , basically
+[0705] [34:56] me012: Yeah .
+[0706] [34:56] me003: into mo
+[0707] [34:58] me003: so basically make it more tree like going backwards ?
+[0708] [35:00] me012: Right .
+[0709] [35:00] me010: Right .
+[0710] [35:00] me045: Yeah .
+[0711] [35:01] me010: But it there 's two advantages ,
+[0712] [35:02] me010: one is the technical one that you don't wind up with such big exponential uh CBT 's ,
+[0713] [35:04] mn015: Bhaskara ?
+[0714] [35:07] me010: the other is it can be it presumably can be used for multiple decisions .
+[0715] [35:11] me045: Mm - hmm .
+[0716] [35:11] me010: So that if you have this idea of the compatibility with the requirements of an action to the state of the user one could well imagine that that was u
+[0717] [35:12] me012: Right .
+[0718] [35:21] me010: not only is it sim is it cleaner to compute it separately but it could be that it 's used in multiple places .
+[0719] [35:27] me010: Anyway th so in general this is the design , this is really design problem .
+[0720] [35:27] mn015: Yeah .
+[0721] [35:31] me010: OK , you 've got a signal , a d set of decisions
+[0722] [35:34] me010: um how do we do this ?
+[0723] [35:40] mn015: What do I have under user state anyhow
+[0724] [35:42] mn015: cuz I named that already something .
+[0725] [35:44] mn015: Oh that 's tired , fresh ,
+[0726] [35:45] mn015: yeah .
+[0727] [35:51] mn015: Maybe should be renamed into physical state .
+[0728] [35:55] me010: Or fat user fatigue even .
+[0729] [35:57] me045: Hmm .
+[0730] [36:01] mn015: That 's with a " G " ?
+[0731] [36:02] me045: Mm - hmm .
+[0733] [36:06] me010: Whatever .
+[0734] [36:06] mn015: Then we can make a user state .
+[0735] [36:10] me010: What 's th what we 're talking about is compatibility .
+[0736] [36:14] me010: Uh or something , I don't know ,
+[0737] [36:16] me010: but .
+[0738] [36:24] me003: I guess the the question uh is
+[0739] [36:26] me003: It 's hard for me to imagine how everything wouldn't just contribute to user state again .
+[0740] [36:31] me003: Or user compatibility .
+[0741] [36:33] me010: Oh but the thing is that we uh uh we had some things that uh
+[0742] [36:41] mn015: That don't .
+[0743] [36:42] me010: that don't
+[0744] [36:43] mn015: The user interests and the user who who who the user is are completely apart from the fact whether he is tired broke
+[0745] [36:53] me003: Sure , but other I thought though the node we 're creating right now is user compatibility to the current action ,
+[0746] [36:58] me003: right ?
+[0747] [36:59] me010: the
+[0748] [36:59] me010: right
+[0749] [37:00] me003: Seems like everything in the user model would contribute to whether or not the user was compatible with something .
+[0750] [37:06] me010: Uh maybe not .
+[0751] [37:07] me010: I mean the that 's the the issue is um
+[0752] [37:10] me010: would Even if it was true in some abstract general sense it might not be true in terms of the information we actually had and can make use of .
+[0753] [37:21] me010: And anyway we 're gonna have to find some way to cl uh get this sufficiently simple to make it feasible .
+[0754] [37:29] mn015: Maybe um if we look at the if we split it up again into sort of um
+[0755] [37:35] mn015: if we look at the uh the endpoint again we we said that for each of these things there are certain preconditions
+[0756] [37:43] mn015: so you can only enter a place if you are not too tired to do so
+[0757] [37:48] mn015: and also eh have the money to do so if it costs something
+[0758] [37:53] mn015: so if you can afford it and perform it is preconditions .
+[0759] [38:00] mn015: Viewing usually is cheap or free .
+[0760] [38:04] mn015: Is that always true ?
+[0761] [38:04] me045: Mm - hmm .
+[0762] [38:05] mn015: I don't know .
+[0763] [38:07] me003: Well , with the way we 're defining it I think yeah .
+[0764] [38:08] me010: W w
+[0765] [38:09] me010: but that eh viewing it without ent yeah view w with our definition of view it 's free
+[0766] [38:13] me010: cuz you
+[0767] [38:17] mn015: And so is approaching .
+[0768] [38:19] me010: Yeah .
+[0769] [38:21] me045: Well what about the Grand Canyon ,
+[0770] [38:22] me045: right ?
+[0771] [38:22] me045: No , never mind .
+[0772] [38:23] me045: I mean are there are there large things that you would have to pay to get up close to
+[0773] [38:27] me045: like , I mean
+[0774] [38:28] me045: never mind ,
+[0775] [38:28] me045: not
+[0776] [38:29] me010: No we have to enter the park .
+[0777] [38:30] me045: OK .
+[0778] [38:31] me010: Eh almost by definition um paying involves entering ,
+[0779] [38:32] me045: Yeah .
+[0780] [38:35] me010: ge going through some
+[0781] [38:36] me045: OK .
+[0782] [38:37] me045: Right , sure .
+[0783] [38:38] me010: Right .
+[0784] [38:39] me010: Uh
+[0785] [38:40] me010: So let me suggest we switch to another one ,
+[0786] [38:43] me010: I mean clearly there 's more work to be done on this
+[0787] [38:44] mn015: Mm - hmm .
+[0788] [38:45] me010: but I think it 's gonna be more instructive to to think about uh other decisions that we need to make in path land .
+[0789] [38:51] me010: And what they 're gonna look like .
+[0790] [38:55] me003: So you can save this one as and open up the old one ,
+[0791] [38:58] me003: right
+[0792] [38:58] me003: and
+[0793] [39:00] me003: and then everything would be clean .
+[0794] [39:02] me003: You could do it again .
+[0795] [39:04] me010: Why , I think it 's worth saving this one
+[0796] [39:05] me010: but I think I 'd I 'd like to keep this one
+[0797] [39:05] me012: Yeah .
+[0798] [39:06] me010: cuz I wanna see if if we 're gonna reuse any of this stuff .
+[0799] [39:09] me003: Mm - hmm .
+[0800] [39:16] mn015: Um
+[0801] [39:20] mn015: so this might be
+[0802] [39:25] mn015: What next ?
+[0803] [39:27] me010: Well you tell me ,
+[0804] [39:28] me010: so in terms of the uh planner what 's what 's a good one to do ?
+[0805] [39:31] mn015: Well let 's th this
+[0806] [39:34] mn015: go there or not I think is a good one .
+[0807] [39:36] me010: Uh
+[0808] [39:37] mn015: Is a very basic one .
+[0809] [39:41] mn015: So
+[0810] [39:43] mn015: what
+[0811] [39:47] mn015: So
+[0812] [39:48] me010: Well the fir see the first thing is , getting back to thing we left out of the other is the actual discourse .
+[0813] [39:55] me010: So Keith this is gonna get into your world
+[0814] [39:57] me010: because uh we 're gonna want to know you know , which constructions indicate various of these properties
+[0815] [39:58] me045: Mm - hmm .
+[0816] [40:07] me010: s
+[0817] [40:07] me045: Mm - hmm .
+[0818] [40:08] me010: and so
+[0819] [40:10] me010: I I don't yet know how to do this ,
+[0820] [40:13] me010: I guess we 're gonna wind up pulling out uh discourse properties like we have object properties
+[0821] [40:21] me010: and we don't know what they are yet .
+[0822] [40:22] me045: Mm - hmm .
+[0823] [40:22] me010: So that that the Go - there decision will have a node from uh discourse ,
+[0824] [40:29] me010: and I guess why don't we just stick a discourse thing up there to be as a placeholder for
+[0825] [40:33] mn015: We we also had discourse features of course for the endpoint .
+[0826] [40:36] me010: Of of course .
+[0827] [40:38] mn015: Identified that
+[0828] [40:39] me010: Yeah .
+[0829] [40:39] mn015: and so again re that 's completely correct ,
+[0830] [40:42] mn015: we have the user model , the situation model here ,
+[0831] [40:44] mn015: we don't have the discourse model here yet .
+[0832] [40:46] mn015: Much the same way as we didn't we don't have the ontology here .
+[0833] [40:50] me010: Well the ontology we sort of said we would pull these various kinds of properties from the ontology like exhibiting , selling , and so forth .
+[0834] [40:50] mn015: Really .
+[0835] [40:57] me010: So in some sense it 's it 's there .
+[0836] [40:59] mn015: Mm - hmm .
+[0837] [41:00] me010: But the discourse we don't have it represented at all yet .
+[0838] [41:02] mn015: Yeah .
+[0839] [41:16] mn015: Um
+[0840] [41:19] mn015: This be specific for second year ?
+[0841] [41:23] mn015: Um
+[0842] [41:26] mn015: And and we probably will have uh something like a discourse for endpoint .
+[0843] [41:44] me010: But if we do it 'll have the three values .
+[0844] [41:46] mn015: Hmm ?
+[0845] [41:47] me010: It 'll have the EVA values
+[0846] [41:48] mn015: Yeah .
+[0847] [41:48] me010: if if we have it .
+[0848] [41:49] mn015: Yeah .
+[0849] [41:51] mn015: OK just for starters
+[0850] [41:53] mn015: and here discourse um
+[0851] [41:56] me010: For Go - there , probably is true and false , let 's say .
+[0852] [41:58] me010: That 's what we talked about .
+[0853] [41:59] mn015: um
+[0854] [42:00] mn015: well , I think um we 're looking at the the little data that we have ,
+[0855] [42:06] mn015: so people say how do I get to the castle
+[0856] [42:10] mn015: and this usually means they wanna go there .
+[0857] [42:12] me045: Mm - hmm .
+[0858] [42:12] mn015: So this should sort of push it in one direction
+[0859] [42:14] me010: Right .
+[0860] [42:15] mn015: however people also sometimes say how do I get there
+[0861] [42:18] mn015: in order to find out how to get there
+[0862] [42:21] mn015: without wanting to go there .
+[0863] [42:22] me010: Mm - hmm .
+[0864] [42:23] mn015: And sometimes um people say where is it
+[0865] [42:26] me045: Mm - hmm .
+[0866] [42:27] mn015: because they wanna know where it is
+[0867] [42:29] mn015: but in most cases they probably
+[0868] [42:30] me010: Yeah , but that doesn't change the fact that you 're you want these two values .
+[0869] [42:35] mn015: Oh yeah ,
+[0870] [42:35] mn015: true .
+[0871] [42:37] mn015: So this is sort of some external thing that takes all the discourse stuff
+[0872] [42:40] mn015: and then says here it 's either yep , yay , A , or nay .
+[0873] [42:45] mn015: Yeah .
+[0874] [42:46] mn015: OK ?
+[0875] [42:55] me010: And they 'll be a y uh , a user Go - there
+[0876] [43:03] me010: and maybe that 's all ,
+[0877] [43:04] me010: I don't know .
+[0878] [43:04] me012: Situation Go - there ,
+[0879] [43:05] me012: I mean , because it 's whether it 's open or not .
+[0880] [43:07] mn015: Mm - hmm .
+[0881] [43:09] me010: OK , good .
+[0882] [43:10] me012: That definitely interes
+[0883] [43:11] me010: Yep .
+[0884] [43:12] me012: But that now that kind of
+[0885] [43:16] me012: um what 's the word
+[0886] [43:17] me045: Hmm .
+[0887] [43:17] me012: um the that interacts with the uh EVA thing
+[0888] [43:22] me012: if they just wanna view it then it 's fine to go there when it 's closed
+[0889] [43:25] me012: whereas if they want to um
+[0890] [43:27] me010: Right .
+[0891] [43:29] me012: so
+[0892] [43:30] me010: Right , so that 's that 's where it starts getting to be uh uh essentially more interesting ,
+[0893] [43:34] me010: so what uh Bhaskara says which is completely right is if you know that they 're only going to view it then it doesn't matter whether it 's closed or not
+[0894] [43:42] me045: Mm - hmm .
+[0895] [43:43] me010: in terms of uh uh you know , whether whether you wanna go there .
+[0896] [43:45] me012: The time of day ,
+[0897] [43:46] me012: right
+[0898] [43:46] me012: I well , right .
+[0899] [43:46] me045: Mm - hmm .
+[0900] [43:52] me003: It does matter though if there 's like a strike or riot or something .
+[0901] [43:55] me010: Absolutely there are other situational things that do matter .
+[0902] [43:57] me012: Right .
+[0903] [43:59] me012: So
+[0904] [44:01] me012: yeah , that 's what I said
+[0905] [44:02] me012: just having one situational node may not be enough
+[0906] [44:05] me012: because this that node by itself wouldn't distinguish
+[0907] [44:09] me010: Well i i it can have di various values .
+[0908] [44:13] me010: Yeah , but we eh you you 're right it might not be enough .
+[0909] [44:17] me012: Yeah , I mean , see I 'm I 'm thinking that any node that begins with " Go - there " is either gonna be true or false .
+[0910] [44:18] me045: Well
+[0911] [44:20] me045: Whoops .
+[0912] [44:21] me010: Yeah .
+[0913] [44:23] me045: Right .
+[0914] [44:23] me010: Ah .
+[0915] [44:24] me010: I see
+[0916] [44:24] me010: that could be .
+[0917] [44:25] me045: Also , that node , I mean the Go - there s S node would just be fed by separate ones for
+[0918] [44:31] mn015: Mm - hmm .
+[0919] [44:33] me010: Could be .
+[0920] [44:33] me045: you know , there 's different things , the strikes and the
+[0921] [44:34] me010: Yeah .
+[0922] [44:34] me012: Like situation traffic and so on .
+[0923] [44:34] me010: N
+[0924] [44:35] me010: Yeah .
+[0925] [44:35] me045: Yeah , the time of day .
+[0926] [44:36] me010: Yeah . So so now the other thing that Bhaskara eh pointed out is what this says is that uh there sh should be a link ,
+[0927] [44:44] me010: and this is where things are gonna get very messy
+[0928] [44:46] me010: from the endpoint uh decision
+[0929] [44:52] me012: I guess the final
+[0930] [44:53] me010: maybe the t they 're final re and , I guess the very bottom endpoint decision uh to the Go - there node .
+[0931] [45:01] me010: And I don't worry about layout ,
+[0932] [45:02] me012: Yeah .
+[0933] [45:02] me010: I mean then we 'll go we 'll go nuts
+[0934] [45:04] mn015: Mm - hmm .
+[0935] [45:04] me012: Mmm .
+[0936] [45:04] me010: but
+[0937] [45:06] me012: Maybe we could um have intermediate node that just the Endpoint and the Go - there S node sort of fed into ?
+[0938] [45:12] me010: Could be ,
+[0939] [45:13] me010: yeah .
+[0940] [45:13] me012: Right .
+[0941] [45:14] me012: Because that 's what we , I mean that 's why this situation comes up .
+[0942] [45:15] me010: Yeah .
+[0943] [45:16] me010: Well the Go - there , actually the Endpoint node could feed feed into the Go - there S
+[0944] [45:21] me012: Yeah , right .
+[0945] [45:22] me010: That 's right ,
+[0946] [45:22] me010: so the Endpoint node ,
+[0947] [45:23] mn015: Mm - hmm .
+[0948] [45:24] me010: make that up t t to the Go - there then
+[0949] [45:24] mn015: Yeah .
+[0950] [45:26] me010: and again we 'll have to do layout at some point ,
+[0951] [45:28] me010: but something like that .
+[0952] [45:30] me010: Now it 's gonna be important not to have loops by the way .
+[0953] [45:32] mn015: I was just gonna
+[0954] [45:33] me010: Uh really important in in the belief worl net world not to have loops
+[0955] [45:36] me010: uh
+[0956] [45:36] me012: Yes .
+[0957] [45:37] mn015: How long does it take you to to compute uh
+[0958] [45:40] me010: No it 's much worse than that .
+[0959] [45:42] me010: It if i loo it it it it it 's not def i it 's not well defined if you 're there are loops ,
+[0960] [45:42] me012: It things don't converge , yeah .
+[0961] [45:43] mn015: uh R recursive action ?
+[0962] [45:46] me010: you just you have to
+[0963] [45:48] me010: there are all sorts of ways of breaking it up so that there isn't
+[0964] [45:52] me010: uh
+[0965] [45:54] mn015: Uh but this isn't , this is this line is just coming from over here .
+[0966] [45:54] me010: OK .
+[0967] [45:55] me012: Yeah .
+[0968] [45:57] me012: Yeah .
+[0969] [45:57] me010: Yeah , no it 's not a loop yet , I 'm just saying we we , in no , in
+[0970] [45:59] mn015: Mmm .
+[0971] [45:59] me012: Well , but the good thing is we we could have loopy belief propagation which we all love .
+[0972] [46:05] me010: Right .
+[0973] [46:06] me010: OK , so anyway , so that 's another decision .
+[0974] [46:10] me010: Uh what 's what 's another decision you like ?
+[0975] [46:14] mn015: OK , these have no parents yet , but I guess that sort of doesn't matter .
+[0976] [46:20] mn015: Right ?
+[0977] [46:21] me010: Well , the idea is that you go there , you go comes from something about the user from something about the situation and the uh the discourse is is a mystery .
+[0978] [46:21] mn015: I mean this is sort of
+[0979] [46:25] mn015: This comes from traffic and so forth , yeah .
+[0980] [46:30] mn015: Sh - Should we just make some
+[0981] [46:33] me010: Sure , if you want .
+[0982] [46:34] mn015: um
+[0983] [46:36] mn015: if there 's parking maybe
+[0984] [46:39] mn015: Mmm
+[0985] [46:39] mn015: Oh who cares .
+[0986] [46:42] mn015: OK .
+[0987] [46:43] mn015: And if he has seen it already or not and so forth ,
+[0988] [46:45] me010: Right .
+[0989] [46:46] mn015: OK .
+[0990] [46:48] mn015: Um
+[0991] [46:50] mn015: and discourse is something that sort of
+[0992] [46:53] mn015: should we make a Keith note here ?
+[0993] [46:55] mn015: That sort of comes from Keith .
+[0994] [46:55] me010: Sure .
+[0995] [46:56] me010: Mm - hmm .
+[0996] [47:04] mn015: Just sort of so we don't forget .
+[0997] [47:08] mn015: Oops .
+[0998] [47:13] mn015: Have to get used to this .
+[0999] [47:14] mn015: OK ,
+[1000] [47:15] mn015: whoops .
+[1001] [47:18] me045: Um
+[1002] [47:18] me010: And then also the discourse endpoint ,
+[1003] [47:20] me010: I I guess endpoint sub - D is if you wanna make it consistent .
+[1004] [47:20] me003: Wh - ah .
+[1005] [47:23] mn015: Mm - hmm .
+[1006] [47:27] me045: Um actually is this the the right way to have it
+[1007] [47:28] me045: where um go there from the user and go there from the situation just sort of don't know about each other but they both feed the go there decision
+[1008] [47:35] me010: I think so .
+[1009] [47:35] me045: because isn't the , I mean
+[1010] [47:36] me010: S
+[1011] [47:39] me045: uh ,
+[1012] [47:40] me045: hmm
+[1013] [47:41] me045: OK .
+[1014] [47:42] me010: Maybe not ,
+[1015] [47:43] me045: But
+[1016] [47:43] me010: a
+[1017] [47:51] me010: Right .
+[1018] [47:52] me045: That all that that kind of decision making happens at the Go - there node .
+[1019] [47:55] me010: Uh y you yeah you i you if you needed to do that .
+[1020] [47:57] me045: Uh .
+[1021] [47:58] me045: If you needed it to do that .
+[1022] [47:59] me010: Yeah .
+[1023] [48:01] me045: But uh OK I was just thinking
+[1024] [48:02] me010: Yeah .
+[1025] [48:02] me045: I guess maybe I 'm conflating that user node with possible possible asking of the user
+[1026] [48:08] me045: you know
+[1027] [48:10] me010: Ah .
+[1028] [48:10] me045: hey there 's a strike on , uh does that affect whether or not you wanna go or something
+[1029] [48:12] me010: Good point , I don't I don't know how we 're going to t uh
+[1030] [48:13] me045: or
+[1031] [48:16] me045: Yeah , so that might not come out of a user model
+[1032] [48:18] me045: but , you know , directly out of interaction .
+[1033] [48:20] me010: Right .
+[1034] [48:22] me010: Uh I gu yes my curr you know , don't yeah yeah yeah that 's enough .
+[1035] [48:27] mn015: Yeah .
+[1036] [48:29] me010: Uh My current idea on that would be that each of these decision nodes has questions associated with it .
+[1037] [48:40] me045: Mm - hmm .
+[1038] [48:41] me010: And the question wouldn't itself be one of these conditional things
+[1039] [48:44] me010: you know , given that you know there 's a strike do you still wanna go ?
+[1040] [48:44] me045: OK .
+[1041] [48:47] me045: Yeah .
+[1042] [48:47] me010: But uh if you told him a bunch of stuff , then you would ask him do you wanna go ?
+[1043] [48:50] me045: Mm - hmm .
+[1044] [48:52] me010: But I think trying to formulate the conditional question , that sounds too much .
+[1045] [48:52] me045: OK .
+[1046] [48:53] me045: Right , right .
+[1047] [48:55] me045: Yeah .
+[1048] [48:57] me045: Right , sure , OK .
+[1049] [48:58] me010: To me .
+[1050] [48:58] mn015: Mm - hmm .
+[1051] [48:59] me010: Alright , but let me let let 's stay with this a minute
+[1052] [49:00] mn015: But
+[1053] [49:01] me010: because I want to do a little bit of organization .
+[1054] [49:04] me010: Before we get more into details .
+[1055] [49:06] me010: The organization is going to be that uh
+[1056] [49:09] me010: the flavor of what 's going on is going to be that uh
+[1057] [49:15] me010: as we s e sort of going to this detail indeed Keith is going to to worry about the various constructions that people might use
+[1058] [49:22] me045: Mm - hmm .
+[1059] [49:23] me010: and Johno has committed himself to being the parser wizard ,
+[1060] [49:27] me010: so what 's going to happen is that eventually
+[1061] [49:27] me045: Alright .
+[1062] [49:34] me010: like by the time he graduates ,
+[1063] [49:36] me010: OK
+[1064] [49:37] me010: uh they 'll be some sort of system which is able to take the discourse in context and have outputs that can feed the rest of belief - net .
+[1065] [49:50] me010: I j wa I I assume everybody knows that ,
+[1066] [49:51] me010: I just wanna you know , get closure that that 'll be the game then ,
+[1067] [49:52] me045: Mm - hmm .
+[1068] [49:54] me010: so the semantics that you 'll get out of the discourse will be of values that go into the various discourse - based decision nodes .
+[1069] [50:08] me010: And now some of those will get fancier like mode of transportation and stuff
+[1070] [50:11] me010: so it isn't by any means uh necessarily a simple thing that you want out .
+[1071] [50:18] me010: So uh if there is an and there is mode of transportation
+[1072] [50:21] mn015: And it there 's a sort of also a split if you loo if you blow this up and look at it in more detail there 's something that comes from the discourse in terms of what was actually just said
+[1073] [50:30] mn015: what 's the utterance go giving us
+[1074] [50:31] me010: Yeah .
+[1075] [50:32] mn015: and then what 's the discourse history give us .
+[1076] [50:34] me010: Yeah , well that , well , we 'll have to decide uh how much of th where that goes .
+[1077] [50:35] me045: Mm - hmm .
+[1078] [50:36] mn015: That 's uh two things then .
+[1079] [50:41] mn015: Mmm .
+[1080] [50:41] me045: Mm - hmm .
+[1081] [50:41] me010: an and it 's not clear yet .
+[1082] [50:42] me010: I mean it could be those are two separate things ,
+[1083] [50:44] me010: it
+[1084] [50:49] me010: which would be my guess
+[1085] [50:50] me010: that you 'd have to do see in order to do reference and stuff like that um you 've gotta have both the current discourse and the context to say I wanna go back there ,
+[1086] [50:59] me010: wow , what does that mean
+[1087] [50:59] me045: Mm - hmm .
+[1088] [51:00] me010: and uh
+[1089] [51:00] mn015: Mm - hmm
+[1090] [51:02] me045: Now .
+[1091] [51:04] me045: Mm - hmm .
+[1092] [51:06] me010: Alright .
+[1093] [51:07] me010: So
+[1094] [51:11] mn015: But is th is this picture that 's emerging here just my wish that you have noticed already for symmetry
+[1095] [51:17] mn015: or is it that we get for each each decision on the very bottom we sort of get the sub - E , sub - D , sub - U and maybe a sub - O " O " for " ontology " um meta node
+[1096] [51:31] me010: I don't know .
+[1097] [51:33] mn015: but it might just
+[1098] [51:34] me010: It could be .
+[1099] [51:35] mn015: could be
+[1100] [51:35] mn015: so this
+[1101] [51:36] me010: This is this is getting into the thing I wanna talk about next ,
+[1102] [51:38] me010: which is s if that 's true uh how do we wanna combine those ?
+[1103] [51:44] me010: O or when it 's true ?
+[1104] [51:46] mn015: but this eh w wou wou would be nice though that , you know , we only have at most four at the moment um arrows going f to each of the uh bottom decisions .
+[1105] [51:53] me010: Yeah .
+[1106] [52:00] me012: Yeah .
+[1107] [52:01] mn015: And four you we can handle .
+[1108] [52:02] me010: No .
+[1109] [52:04] mn015: It 's too much ?
+[1110] [52:04] me012: Yeah .
+[1111] [52:04] me010: Well i i it see i if it 's fou if it 's four things and each of them has four values it turns out to be a big CPT ,
+[1112] [52:13] me010: it 's not s completely impossi
+[1113] [52:15] me010: I mean it 's it 's not beyond what the system could solve
+[1114] [52:19] me010: but it 's probably beyond what we could actually uh write down . or learn .
+[1115] [52:22] mn015: Right , true .
+[1116] [52:26] me010: Uh but , you know it 's four to the fourth .
+[1117] [52:32] me010: It 's pretty big .
+[1118] [52:35] me010: Uh .
+[1119] [52:35] me003: Two fifty - six ,
+[1120] [52:36] me003: is that what that
+[1121] [52:36] me010: Yeah .
+[1122] [52:39] me010: Yeah , I mean
+[1123] [52:39] me010: it 's and I don't think it 's gonna g e I don't think it 'll get worse than that by the way ,
+[1124] [52:43] me010: so le that 's a that 's a good
+[1125] [52:44] me012: Mmm yeah .
+[1126] [52:44] mn015: But but four didn't we decide that all of these had true or false ?
+[1127] [52:48] mn015: So is it 's four
+[1128] [52:49] me010: Uh for go there ,
+[1129] [52:50] me010: but
+[1130] [52:51] me003: Yeah .
+[1131] [52:51] me010: the other one 's three values for endpoint already .
+[1132] [52:56] me012: Yeah , I mean you need actually three to the five
+[1133] [52:58] me012: because uh well I mean if if it has four inputs and then it itself has three values
+[1134] [53:02] me003: Right .
+[1135] [53:02] me012: so
+[1136] [53:03] me012: I mean it can get big fast .
+[1137] [53:04] mn015: Um for endpoint ?
+[1138] [53:06] mn015: No it 's it 's sh
+[1139] [53:06] me010: EV - it 's the EVA .
+[1140] [53:08] mn015: yeah , down here ,
+[1141] [53:09] mn015: but this one only has two .
+[1142] [53:11] me012: No it still has three ,
+[1143] [53:12] me010: No .
+[1144] [53:13] me010: Since ta they will still have three .
+[1145] [53:13] me012: EVA .
+[1146] [53:15] me010: Each so you 're uh uh from each point of view you 're making the same decision .
+[1147] [53:16] me045: Mm - hmm .
+[1148] [53:21] me010: So from the point of view of the ob of the entity
+[1149] [53:21] me045: Mm - hmm .
+[1150] [53:22] mn015: Want to view that ,
+[1151] [53:22] mn015: yeah yeah .
+[1152] [53:23] mn015: C sl
+[1153] [53:24] mn015: yeah
+[1154] [53:25] me010: Yeah .
+[1155] [53:27] me012: This and also , I mean , the other places where ,
+[1156] [53:29] me012: like for example consider endpoint view , it has inputs coming from user budget , user thrift
+[1157] [53:33] me010: Right .
+[1158] [53:35] me012: so even
+[1159] [53:36] me010: Those are not necessarily binary .
+[1160] [53:37] me010: S so we 're we 're gonna have to use some t care in the knowledge engineering to not have this explode .
+[1161] [53:44] me010: And in fact I think it doesn't in the sense that
+[1162] [53:47] me010: um
+[1163] [53:49] me010: Read it ,
+[1164] [53:49] me010: you know actually with the underlying semantics and stuff I think it isn't like you have two hundred and fifty - six different uh ways of of thinking about whether this user wants to go to some place .
+[1165] [54:02] me010: Alright .
+[1166] [54:03] me010: So we we just have to figure out what the regularities are and and code them .
+[1167] [54:09] me010: But um What I was gonna suggest next is maybe we wanna work on this a little longer
+[1168] [54:16] me010: but I do want to also talk about the thing that we started into now of
+[1169] [54:21] me010: uh
+[1170] [54:22] me010: well it 's all fine to say all these arrows come into the si same place
+[1171] [54:25] me010: what rule of combination is used there .
+[1172] [54:30] me010: So th yes they so these things all affect it ,
+[1173] [54:30] me045: Mm - hmm .
+[1174] [54:31] me045: Right .
+[1175] [54:32] me010: how do they affect it ?
+[1176] [54:34] me010: And belief - nets have their own beliefs about uh what are good ways to do that .
+[1177] [54:41] me010: So is it it 's it 's clearer n clear enough what the issue is ,
+[1178] [54:42] me012: Right .
+[1179] [54:43] me010: right ?
+[1180] [54:44] me010: So do we wanna switch that now or we wanna do some more of this ?
+[1181] [54:48] mn015: R basically w we just need to sort of
+[1182] [54:51] mn015: in order to get some closure on this figure out how we 're gonna get this picture sort of uh completely messy .
+[1183] [55:00] me010: Well , here he here 's one of the things that that I th you sh
+[1184] [55:04] me010: you no ,
+[1185] [55:04] me010: I don't know how easy it is to do this in the interface
+[1186] [55:07] me010: but you it would be great if you could actually just display at a given time uh all the things that you pick up ,
+[1187] [55:16] me010: you click on " endpoint " ,
+[1188] [55:18] me010: OK
+[1189] [55:18] mn015: Mm - hmm .
+[1190] [55:18] me010: and everything else fades
+[1191] [55:20] me010: and you just see the links that are relevant to that .
+[1192] [55:26] me010: And I
+[1193] [55:27] me010: does anybody remember the GUI on this ?
+[1194] [55:29] me003: Uh d I would almost say the other way to do that would be to open u or make you know N - many belief - nets
+[1195] [55:35] me003: and then open them every time you wanted to look at a different one
+[1196] [55:35] mn015: Mm - hmm .
+[1197] [55:39] me003: vers
+[1198] [55:39] mn015: It 's probably pretty easy do it to do it in HTML ,
+[1199] [55:39] me003: cuz uh
+[1200] [55:42] mn015: just
+[1201] [55:43] me003: Yeah , but
+[1202] [55:44] mn015: Uh
+[1203] [55:45] me012: HTML ?
+[1204] [55:47] mn015: Yeah I have each of these thing each of the end belief - nets be be a page and then you click on the thing
+[1205] [55:52] mn015: and then li consider that it 's respective ,
+[1206] [55:53] me012: OK .
+[1207] [55:53] me010: Yeah the well the b
+[1208] [55:55] mn015: but
+[1209] [55:56] me010: anyway so uh it clear that even with this if we put in all the arrows nobody is gonna be able to read the diagram .
+[1210] [56:04] me003: Yeah .
+[1211] [56:04] me010: Alright ,
+[1212] [56:05] me010: so e we have to figure out some eh eh uh basically display hack or something to do this
+[1213] [56:11] me010: because
+[1214] [56:12] me010: anyway I I let me consi suggest that 's a s not a first - order consideration ,
+[1215] [56:17] me010: we have two first - order considerations
+[1216] [56:18] me010: which is what are the uh influences A ,
+[1217] [56:22] me010: A ,
+[1218] [56:22] me010: and B how do they get combined mathematically ,
+[1219] [56:25] me010: how do we display them is an issue ,
+[1220] [56:26] me010: but
+[1221] [56:28] me010: um
+[1222] [56:29] me003: I don't , yeah I just don't think this has been designed to support something like that .
+[1223] [56:34] me012: Yeah .
+[1224] [56:35] me012: Yeah , I I mean , it might soon , if this is gonna be used in a serious way like java base then it might soon be necessary to uh start modifying it for our purposes .
+[1225] [56:42] me010: Right .
+[1226] [56:44] me010: Yeah , and Um I that seems like a perfectly feasible thing to get into ,
+[1227] [56:51] me010: but um we have to know what we want first .
+[1228] [57:08] me010: OK , so why don't you tell us a little bit about decision nodes and what what the choices might be for these ?
+[1229] [57:09] me012: So
+[1230] [57:16] me012: Ah , sorry .
+[1231] [57:17] me012: I guess that 's
+[1232] [57:19] me003: You can technically wear that as you 're talking .
+[1233] [57:20] me012: Yeah , it 's right , I guess I can do that .
+[1234] [57:21] me045: Darn .
+[1235] [57:22] me010: Put it in your ,
+[1236] [57:23] me010: yeah .
+[1237] [57:36] me012: I guess this board works fine .
+[1238] [57:52] me012: So um recall the basic problem which is that um you have a belief - net and you have like a lot of different nodes all contributing to one node .
+[1239] [58:04] me012: Right ?
+[1240] [58:05] me012: So as we discussed specifying this kind of thing is a big pain
+[1241] [58:10] me012: and it 's so will take a long time to write down
+[1242] [58:13] me012: because for example if these S have three possibilities each and this has three possibilities then you know you have two hundred and forty - three possibilities
+[1243] [58:20] me012: which is already a lot of numbers to write down .
+[1244] [58:24] me012: So what um helps us in our situation is that these all have values in the same set ,
+[1245] [58:33] me012: right ?
+[1246] [58:33] me012: These are all like saying EV or A ,
+[1247] [58:36] me012: right ?
+[1248] [58:36] me012: So it 's not just a generalized situation like
+[1249] [58:39] me012: I
+[1250] [58:42] me012: we wanna view each of these as experts
+[1251] [58:44] me012: ea who are each of them is making a decision based on some factors
+[1252] [58:49] me012: and we wanna sort of combine their decisions
+[1253] [58:52] me012: and create you know , um sorta weighted combination .
+[1254] [58:56] mn015: Hmm .
+[1255] [58:57] mn015: ROVER , the ROVER decision .
+[1256] [59:00] me012: The what decision ?
+[1257] [59:01] mn015: ROVER .
+[1258] [59:03] mn015: All of their outputs combined to make a decision .
+[1259] [59:05] me045: Hmm .
+[1260] [59:06] me012: Yeah .
+[1261] [59:07] me012: Yeah .
+[1262] [59:08] me012: So the problem is to specify the uh so the conditional property of this given all those ,
+[1263] [59:15] me012: right ?
+[1264] [59:15] me012: That 's the way belief - nets are defined ,
+[1265] [59:18] me012: like each node given its parents ,
+[1266] [59:19] me012: right ?
+[1267] [59:20] me012: So um that 's what we want ,
+[1268] [59:22] me012: we want for example P of um
+[1269] [59:24] me012: let 's call this guy Y
+[1270] [59:25] me012: and let 's call these X - one , X - two XN ,
+[1271] [59:30] me012: right .
+[1272] [59:30] me012: So we want probability that Y equals , you know , for example um E
+[1273] [59:36] me012: given that these guys are
+[1274] [59:39] me012: I 'll just refer to this as like X um hat or something ,
+[1275] [59:43] me012: uh the co like all of them ?
+[1276] [59:45] me012: Given that for example the data says you know , A , V , A , E , or something
+[1277] [59:50] me012: right ?
+[1278] [59:51] me010: Yep .
+[1279] [59:51] me012: So we would like to do this kind of combination .
+[1280] [59:54] me010: Alright , so
+[1281] [59:55] me010: um
+[1282] [59:58] me010: Is that uh
+[1283] [60:00] me010: I yeah , I just wanna make sure everybody is with us before he goes on .
+[1284] [60:04] me045: I think so , yeah .
+[1285] [60:05] me010: It 's it 's cl e is is it clear what he wants to compute ?
+[1286] [60:09] me012: Right .
+[1287] [60:10] me045: Mm - hmm .
+[1288] [60:10] me012: So , right .
+[1289] [60:11] me012: So Basically um what we don't wanna do is to for every single combination of E and V and A and every single letter E , s give a number
+[1290] [60:21] me012: because that 's obviously not desirable .
+[1291] [60:21] me045: Mm - hmm .
+[1292] [60:25] me012: What we wanna do is find some principled way of um saying what each of these is
+[1293] [60:30] me012: and we want it to be a valid probability distribution ,
+[1294] [60:32] me012: so we want it to um add up to one ,
+[1295] [60:35] me012: right ?
+[1296] [60:37] me012: So those are the two things that we uh need .
+[1297] [60:37] me045: Hmm .
+[1298] [60:40] me012: So what uh I guess , what Jerry suggested earlier was basically that we , you know view these guys as voting
+[1299] [60:49] me012: and we just take the uh we essentially take um averages ,
+[1300] [60:56] me012: right ?
+[1301] [60:56] me012: So for example here two people have voted for A ,
+[1302] [60:59] me012: one has voted for V ,
+[1303] [61:00] me012: and one has voted for E ,
+[1304] [61:01] me012: so we could say that the probabilities are , you know , probability of being E is one over four , because one person voted for E out of four
+[1305] [61:10] me012: and similarly , probability of
+[1306] [61:13] me012: so this is probability of E
+[1307] [61:14] me012: s and then probability of A given all that is um two out of four
+[1308] [61:20] me012: and probability of V is one out of four .
+[1309] [61:24] me012: Right ?
+[1310] [61:25] me012: So that 's step that 's the uh yeah that 's the that 's the basic uh thing .
+[1311] [61:30] me012: Now
+[1312] [61:32] mn015: Um
+[1313] [61:32] mn015: Yeah .
+[1314] [61:34] me012: Is that all OK ?
+[1315] [61:34] mn015: And that one outcome , that 's
+[1316] [61:36] me010: What ?
+[1317] [61:38] mn015: it 's X X - one voted for A
+[1318] [61:41] mn015: X - two voted for V
+[1319] [61:42] me045: Mm - hmm .
+[1320] [61:42] mn015: and so forth ?
+[1321] [61:43] me010: Y right .
+[1322] [61:43] mn015: Yeah .
+[1323] [61:44] me012: Yeah .
+[1324] [61:44] me010: Yep .
+[1325] [61:45] mn015: That 's the outcome .
+[1326] [61:45] me010: S so this assumes symmetry and equal weights and all this sort of things , which may or may not be a good assumption ,
+[1327] [61:48] me045: Mm - hmm .
+[1328] [61:50] me010: so that
+[1329] [61:50] me045: Right .
+[1330] [61:50] me012: Yeah .
+[1331] [61:51] me012: Yeah .
+[1332] [61:52] me012: So step two is um
+[1333] [61:54] me012: right .
+[1334] [61:54] me012: So we 've assumed equal weights
+[1335] [61:56] me012: whereas it might turn out that you know , some w be that for example , what the um the actual the uh verbal content of what the person said , like what uh what might be uh somehow more uh important than the uh
+[1336] [62:10] me003: X - one matters more i than X - two or
+[1337] [62:11] me012: Right .
+[1338] [62:12] me012: Sure , so we don't wanna like give them all equal weight
+[1339] [62:14] me012: so currently we 've been giving them all weight one fourth
+[1340] [62:17] me012: so we could replace this by uh W - one , W - two , W - three , and W - four
+[1341] [62:24] me012: right ?
+[1342] [62:24] me045: Hmm .
+[1343] [62:24] me012: And in order for this to be a valid probability distribution for each um X - hat , we just need that the W 's sum to one .
+[1344] [62:31] me012: So they can be for example , you know
+[1345] [62:35] me012: you you could have point one , point three , point two , and point four , say .
+[1346] [62:41] mn015: That 's one .
+[1347] [62:42] me012: And that 'd be one .
+[1348] [62:44] me012: So that um also seems to work fine .
+[1349] [62:47] me012: And uh
+[1350] [62:48] me003: So I jus just to make sure I understand this , so in this case um we would still compute the average ?
+[1351] [62:57] me012: You 'd compute the weighted average ,
+[1352] [62:58] me012: so the probability of E would be uh
+[1353] [62:58] me003: OK
+[1354] [63:00] me003: so
+[1355] [63:08] me045: Point three .
+[1356] [63:09] me003: or
+[1357] [63:09] me003: let 's see ,
+[1358] [63:10] me003: one full quarter times point one
+[1359] [63:12] me012: Not one quarter ,
+[1360] [63:13] me012: so these numbers have been replaced with point one , point three , point two , and point four .
+[1361] [63:13] me045: No .
+[1362] [63:17] me012: So you can view these as gone .
+[1363] [63:19] me003: OK .
+[1364] [63:24] me012: Probability of
+[1365] [63:28] me003: OK .
+[1366] [63:29] me012: Yeah .
+[1367] [63:31] me012: Yeah .
+[1368] [63:33] me012: OK .
+[1369] [63:34] me012: So ,
+[1370] [63:35] me012: alright .
+[1371] [63:36] me012: So this is uh step two .
+[1372] [63:38] me012: So the next possibility is that um we 've given just a single weight to each expert ,
+[1373] [63:43] me012: right ,
+[1374] [63:44] me012: whereas it might be the case that um in certain situations one of the experts is more uh reliable and in certain situations the other expert is more reliable .
+[1375] [63:53] me012: So the way this is handled is by what 's called a mixture of experts ,
+[1376] [63:58] me012: so what you can have is
+[1377] [64:05] me012: you augment these diagrams like this
+[1378] [64:06] me012: so
+[1379] [64:12] me012: you have a new thing called " H " ,
+[1380] [64:13] me012: OK ?
+[1381] [64:14] me012: This is a hidden variable .
+[1382] [64:18] me012: And what this is is it gets its input from X - one , X - two , X - three , and X - four ,
+[1383] [64:23] me012: and what it does is it decides which of the experts is to be trusted in this particular situation .
+[1384] [64:28] me012: Right ?
+[1385] [64:29] me012: And then these guys all come here .
+[1386] [64:37] me012: OK .
+[1387] [64:38] me012: So this is sightly uh more complicated .
+[1388] [64:40] me012: So what 's going on is that um this H node looks at these four values of those guys
+[1389] [64:46] me012: and it decides in given these values which of these isn't likely to be more reliable or most reliable .
+[1390] [64:54] me012: So H produces some you know , it produces a number ,
+[1391] [64:57] me012: either one , two , three , or four , in our situation ,
+[1392] [64:59] me012: right ?
+[1393] [65:00] me012: Now this guy he looks at the value of H
+[1394] [65:03] me012: say it 's two ,
+[1395] [65:04] me012: and then he just selects the uh thing .
+[1396] [65:11] me012: That 's all there is to say , I guess about it .
+[1397] [65:18] mn015: Mm - hmm .
+[1398] [65:19] me012: Right , so you can have a mixture that
+[1399] [65:41] me012: Right .
+[1400] [65:55] me045: So so the function of the thing that comes out of H is very different from the function of the other inputs .
+[1401] [66:01] me045: It 's driving how the other four are interpreted .
+[1402] [66:03] me045: OK .
+[1403] [66:03] me012: Yeah .
+[1404] [66:06] me012: Yeah .
+[1405] [66:18] me003: So H passes a vector on to the next node ?
+[1406] [66:21] me012: It could .
+[1407] [66:21] me003: It could ?
+[1408] [66:24] me003: A vector of the weights as the se
+[1409] [66:25] me012: Yeah , it could
+[1410] [66:26] me003: oh .
+[1411] [66:27] me012: Sorry ?
+[1412] [66:31] me045: Well a vector with three zero 's and one one ,
+[1413] [66:33] me045: right ?
+[1414] [66:41] me003: Oh it 's basically to tell the bottom node which one of the situations that it 's in
+[1415] [66:45] me003: or which one of the weighting systems
+[1416] [66:48] me012: Right , so I mean the way you desc
+[1417] [66:49] me003: W I was just , if you wanted to pay attention to more than one you could pass a w a weighting s system though too ,
+[1418] [66:53] me003: couldn't you ?
+[1419] [67:04] me003: OK .
+[1420] [67:06] me045: Um
+[1421] [67:11] me045: that 's determined by what the experts are saying ,
+[1422] [67:14] me045: like the type of situ
+[1423] [67:15] me045: OK .
+[1424] [67:16] me045: Hmm .
+[1425] [67:18] me045: OK .
+[1426] [67:19] me045: OK .
+[1427] [67:27] me045: I mean It it just seems that like without that that outside input that you 've got a situation where , you know , like if if uh X - one says no ,
+[1428] [67:35] me045: you know , a low value coming out of X - on
+[1429] [67:37] me045: or i if X - one says no then ignore X - one ,
+[1430] [67:39] me045: you know ,
+[1431] [67:40] me045: I mean that seems like that 'd be weird ,
+[1432] [67:42] me012: Yeah , well could be things like if X - two and X - three say yes then i ignore X - one also .
+[1433] [67:43] me045: right ?
+[1434] [67:45] me045: Oh , OK .
+[1435] [67:46] me045: OK .
+[1436] [67:49] me045: Alright , right .
+[1437] [67:59] me003: Oh The situations that H has , are they built into the net
+[1438] [68:05] me003: or
+[1439] [68:07] me003: OK , so they they could either be hand coded or learned or
+[1440] [68:10] me003: OK .
+[1441] [68:11] me012: Yeah .
+[1442] [68:15] me003: Based on training data ,
+[1443] [68:15] me003: OK .
+[1444] [68:36] me012: Yeah .
+[1445] [68:39] me012: Yes .
+[1446] [69:20] me003: So you specify one of these things for every one of those possi possible situations .
+[1447] [69:29] me003: Oh yeah .
+[1448] [70:01] me012: Yeah .
+[1449] [70:29] me012: Um Well , I mean to learn them we need data ,
+[1450] [70:34] me012: where are we gonna get data ?
+[1451] [70:40] me012: Well I mean we need data with people intentions ,
+[1452] [70:42] me012: right ?
+[1453] [70:43] me045: Right , right .
+[1454] [70:43] me012: Which is slightly tricky .
+[1455] [70:48] me012: Right .
+[1456] [70:56] me045: Uh - huh .
+[1457] [71:00] me012: Mm - hmm .
+[1458] [71:06] me012: But what 's the data about
+[1459] [71:07] me012: like , are we able to get these nodes from the data ?
+[1460] [71:12] me045: Like how thrifty the user is ,
+[1461] [71:14] me045: or do we have access to that ?
+[1462] [71:25] me045: Mm - hmm .
+[1463] [71:28] me045: Oh right .
+[1464] [71:31] me045: Oh good .
+[1465] [71:34] me012: Yeah .
+[1466] [71:34] me045: OK .
+[1467] [71:45] me045: Mm - hmm .
+[1468] [71:46] me045: Mm - hmm .
+[1469] [72:02] me045: OK .
+[1470] [72:02] me012: Yeah , but that 's my question ,
+[1471] [72:03] me012: like how do we I mean , how do we have data about something like um um endpoint sub - E ,
+[1472] [72:10] me012: or endpoint sub uh you know s S ?
+[1473] [72:12] me003: Well , basically you would say , based on in this dialogue that we have which one of the things that they said eh whether it was the entity relations or whatever was the thing that determined what mode it was ,
+[1474] [72:15] me012: Mmm .
+[1475] [72:19] me012: Mmm .
+[1476] [72:22] me003: right ?
+[1477] [73:43] me012: So this is what we wanna learn .
+[1478] [75:17] me012: Yep .
+[1479] [75:20] me012: Right .
+[1480] [75:56] me012: Hmm .
+[1481] [76:00] me012: Yeah .
+[1482] [76:09] me012: I don't think ,
+[1483] [76:10] me012: well
+[1484] [76:12] me012: can you bring up the function thing ?
+[1485] [76:21] me012: Um w where is the thing that allows you to sort of
+[1486] [76:25] me003: That 's on the added variable ,
+[1487] [76:26] me003: isn't it ?
+[1488] [76:30] me012: Oh function properties ,
+[1489] [76:31] me012: is that it ?
+[1490] [76:37] me012: Hmm , I guess not .
+[1491] [76:41] me012: Yeah , that 's
+[1492] [76:43] me045: No .
+[1493] [76:53] me012: Right .
+[1494] [76:54] me012: OK .
+[1495] [76:57] me012: And um it so e either it 'll allow us to do everything
+[1496] [77:00] me012: which I think is unlikely ,
+[1497] [77:01] me012: I think more likely it 'll allow us to do very few of these things
+[1498] [77:04] me012: and in that case we 'll have to um just write up little things that allow you to um create such CPU 's on your own in the java base format .
+[1499] [77:58] me012: Yeah .
+[1500] [78:09] me012: Yeah .
+[1501] [78:10] me012: Yeah , I was assuming that 's what we 'd always do
+[1502] [78:12] me012: because
+[1503] [78:13] me012: yeah I was assuming that 's what we 'd always do ,
+[1504] [78:14] me012: it 's
+[1505] [78:16] me012: Right .
+[1506] [78:26] me012: Yeah .
+[1507] [78:54] me003: Ah .
+[1508] [78:55] me003: Well in terms of java base I think it 's basically what you see is what you get in
+[1509] [79:00] me003: I don't
+[1510] [79:03] me003: yeah ,
+[1511] [79:03] me003: I would be surprised if it supports anything more than what we have right here .
+[1512] [80:39] me045: So
+[1513] [82:09] me045: Yeah .
+[1514] [82:13] me045: Yeah .
+[1515] [82:22] me045: By the way um uh just talking about uh about that general end of things
+[1516] [82:26] me045: uh is there gonna be data soon from what people say when they 're interacting with the system and so on ?
+[1517] [82:32] me045: Like , I mean , what kind of questions are being given being asked ?
+[1518] [82:34] me045: Cuz
+[1519] [82:36] me045: OK .
+[1520] [82:37] me045: Yeah yeah .
+[1521] [82:41] me045: OK .
+[1522] [82:52] me045: OK .
+[1523] [82:54] me045: Fey , you mean .
+[1524] [82:55] me045: OK .
+[1525] [82:59] me045: OK .
+[1526] [83:05] me045: O OK .
+[1527] [83:09] me045: OK .
+[1528] [83:11] me045: I 'm just wondering , because in terms of , you know ,
+[1529] [83:12] me045: I mean
+[1530] [83:13] me045: uh w
+[1531] [83:14] me045: the figure I was thinking about this figure that we talked about ,
+[1532] [83:16] me045: fifty constructions or whatever
+[1533] [83:17] me045: that 's uh that 's a whole lot of constructions
+[1534] [83:19] me045: and um you know , I mean one might be f fairly pleased with getting a really good analysis of five maybe ten in a summer
+[1535] [83:27] me045: so , I mean I know we 're going for sort of a rough and ready .
+[1536] [83:43] me045: Mm - hmm .
+[1537] [83:49] me045: Mm - hmm .
+[1538] [83:51] me045: OK .
+[1539] [83:53] me045: OK .
+[1540] [83:53] me045: I mean , I I I I was uh I was talking about the , you know , if you wanted to do it really in detail
+[1541] [83:58] me045: and we don't really need all the detail for what we 're doing right now
+[1542] [84:00] me045: but anyway in terms of just narrowing that task you know
+[1543] [84:03] me045: which fifty do I do ,
+[1544] [84:04] me045: I wanna see what people are using ,
+[1545] [84:06] me045: so
+[1546] [84:11] me045: Well , it will inspire me .
+[1547] [84:19] me045: Right , sure sure .
+[1548] [84:26] me045: Right .
+[1549] [84:27] me045: Yeah , sure .
+[1550] [84:28] me045: Sure .
+[1551] [84:32] me045: Yeah .
+[1552] [84:34] me045: OK .
+[1553] [84:35] me045: Touche .
+[1554] [84:38] me045: Good enough .

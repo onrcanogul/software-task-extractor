@@ -1,0 +1,354 @@
+================================================================================
+AMI Meeting Transcript: ES2003a
+================================================================================
+
+Total Utterances: 342
+Unique Speakers: 4
+Duration: 18.74 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:02] B: Okay well i
+[0002] [00:02] B: think we're ready to begin
+[0003] [00:05] B: Right
+[0004] [00:06] B: My name's i'm do that
+[0005] [00:07] B: we're here because of real reaction
+[0006] [00:09] B: and We have In a group
+[0007] [00:13] C: A
+[0008] [00:14] C: uh huh gonna say
+[0009] [00:15] C: Like a sponge
+[0010] [00:19] B: yeah
+[0011] [00:19] B: go for that
+[0012] [00:20] C: And any
+[0013] [00:21] C: z.
+[0014] [00:21] B: And you said
+[0015] [00:23] C: E.
+[0016] [00:23] C: r.
+[0017] [00:24] B: And user
+[0018] [00:24] B: and your role is
+[0019] [00:26] C: And uh marketing expert
+[0020] [00:28] B: You're the marketing expert okay
+[0021] [00:33] B: Next we have
+[0022] [00:34] D: Our crime and see it or okay
+[0023] [00:36] B: Yeah okay
+[0024] [00:38] B: And you roll misses
+[0025] [00:39] D: Industrial designer
+[0026] [00:40] B: Industrial designer
+[0027] [00:47] B: And lastly we have
+[0028] [00:49] A: They've got one
+[0029] [00:52] B: And you're gonna be the user
+[0030] [00:54] B: interface
+[0031] [00:54] A: User interface design and i guess
+[0032] [00:55] B: designer okay
+[0033] [01:02] B: Right
+[0034] [01:03] B: This is the agenda for today's meeting it's
+[0035] [01:05] B: you know opening acquaintance tool training project plan discussion and close it
+[0036] [01:10] B: Um We already going to opening and the
+[0037] [01:13] B: parsley
+[0038] [01:13] B: for the clean
+[0039] [01:14] B: tents
+[0040] [01:15] B: So
+[0041] [01:16] B: the reason we're here we're gonna design a new remote control
+[0042] [01:18] B: as you probably all know
+[0043] [01:21] B: The very broad overview is original trendy and user-friendly
+[0044] [01:25] B: "'cause" love to go into a bit more um Do you tell from that
+[0045] [01:29] B: But uh uh Personal i think that the original is gonna be a very key aspect to this design
+[0046] [01:35] B: Um there's a lot of remote controls are there anyway
+[0047] [01:38] B: so we're gonna need something that really gonna say apart
+[0048] [01:45] B: The society they seems to be is going to work
+[0049] [01:47] B: on on the three kate faces
+[0050] [01:49] B: that i should probably already been told
+[0051] [01:50] B: the functional conceptual and the detailed design
+[0052] [01:53] B: Um First
+[0053] [01:59] B: First one gonna be covering the user requirement spec technical functions working design
+[0054] [02:03] B: Second seems to be conceptual components properties materials
+[0055] [02:07] B: the last one is uh Detailed analysis of our design so far
+[0056] [02:11] B: of course of all got a similar emails i believe
+[0057] [02:18] B: What can i say
+[0058] [02:19] B: Ebenezer
+[0059] [02:19] B: Ebenezer don't have a You wanna draw your favourite animal
+[0060] [02:23] C: Sure
+[0061] [02:25] C: Okay What ball
+[0062] [02:35] C: Oh okay
+[0063] [02:36] C: Or make this quick
+[0064] [02:37] C: since we don't have much time
+[0065] [02:42] C: Um Okay so
+[0066] [03:32] C: it's not the best picture in the world
+[0067] [03:36] C: Here we have an elephant
+[0068] [03:38] C: First point You guys have any Saying like
+[0069] [03:41] C: ebenezer
+[0070] [03:43] C: Also elephants have a very good memory much for myself
+[0071] [03:47] C: And i can remember
+[0072] [03:48] C: back when i use that
+[0073] [03:49] C: nigeria
+[0074] [03:50] C: but i think i used to have a pet elephant
+[0075] [03:54] C: So
+[0076] [03:54] C: if there's a big strong nintendo
+[0077] [03:57] C: and i have great memories
+[0078] [03:58] C: any began They they they
+[0079] [04:00] C: decide to be nice
+[0080] [04:03] B: Brilliant light on
+[0081] [04:04] C: Thank you
+[0082] [04:04] B: thank you
+[0083] [04:07] B: Right but you like to have a shows that uh The
+[0084] [04:11] B: artistry
+[0085] [04:16] B: Old and
+[0086] [04:16] B: you can clip "'em" to your belt
+[0087] [04:16] D: We take them off
+[0088] [04:17] C: Oh
+[0089] [04:17] C: i think you okay
+[0090] [04:18] D: Oh
+[0091] [04:18] D: okay
+[0092] [04:18] B: You should also well um i've your lapel mic on as well
+[0093] [04:20] C: That But
+[0094] [04:21] C: uh Does it
+[0095] [04:25] C: Oh that's good
+[0096] [04:26] C: we can click the more
+[0097] [04:27] C: um okay
+[0098] [04:27] C: yeah
+[0099] [04:33] D: Uh huh
+[0100] [04:34] C: Just round somewhere
+[0101] [04:44] B: Yeah
+[0102] [04:44] B: the other is discourse or
+[0103] [04:46] B: so
+[0104] [04:59] D: This was with that as well
+[0105] [05:01] C: think so
+[0106] [05:01] B: Yeah
+[0107] [05:01] B: all for you
+[0108] [05:02] B: if you
+[0109] [05:05] C: Really
+[0110] [05:08] B: Control would stick in your pocket for now
+[0111] [05:09] B: i would worry too much
+[0112] [05:11] B: Sure okay great
+[0113] [05:17] D: And
+[0114] [05:17] D: destroying
+[0115] [05:18] D: relevant here
+[0116] [06:25] D: She All right here we have a tiger yeah
+[0117] [06:37] D: Well some of time is
+[0118] [06:39] D: just
+[0119] [06:40] D: the big to be a
+[0120] [06:40] D: scouts
+[0121] [06:41] D: Other projects um cats are the weather
+[0122] [06:43] D: was a kid
+[0123] [06:44] D: And uh It was a set of the cost
+[0124] [06:46] D: is "'cause" it was lost the past Stripes are arrangement
+[0125] [06:50] D: that is to talk about
+[0126] [06:51] D: use one button and actually
+[0127] [06:52] D: it's a timing of the two
+[0128] [06:52] D: men is
+[0129] [06:53] D: Was a kid
+[0130] [06:55] D: And uh they just The most
+[0131] [06:57] D: feared
+[0132] [06:57] D: of Of a Animals in the wild
+[0133] [07:01] D: so
+[0134] [07:01] D: uh that's why not
+[0135] [07:04] D: Than same internet me really
+[0136] [07:05] D: but
+[0137] [07:08] B: Excellent
+[0138] [07:08] B: think are much
+[0139] [07:09] B: Did you like to uh Have a dash
+[0140] [07:19] A: Hmm Yes
+[0141] [07:57] A: Uh The monkey
+[0142] [09:23] A: Um the of the
+[0143] [09:25] A: No
+[0144] [09:25] A: that's that's so some of
+[0145] [09:27] A: oblique
+[0146] [09:27] A: reference
+[0147] [09:27] A: in fact to
+[0148] [09:28] A: uh we
+[0149] [09:29] A: might
+[0150] [09:30] A: have a three a three year old daughter
+[0151] [09:31] A: who who loses
+[0152] [09:33] A: affectionately known as miss monkey
+[0153] [09:35] A: Um What's had a cheap
+[0154] [09:38] A: I think it's a good thing
+[0155] [09:39] A: And And for the And from uh from from the users study of human lives in a in a life right it's a terribly interesting
+[0156] [09:48] A: Um Case
+[0157] [09:53] A: And the the the this is this one seems to have pets more attitude just
+[0158] [10:56] B: Hardly what call that strong the world
+[0159] [10:58] B: will be for
+[0160] [10:58] B: uh Also not quite easy it is your average tiger
+[0161] [11:02] B: but uh Cats are one of my favourite animals
+[0162] [11:04] B: there Very independent
+[0163] [11:06] B: they're
+[0164] [11:07] B: sloppy as hell are the best of times
+[0165] [11:10] B: And uh Okay so you call those qualities of that animal
+[0166] [11:20] B: Right
+[0167] [11:21] B: right before my list of mass of a whiteboard rubber what's that
+[0168] [11:25] B: So
+[0169] [11:25] B: on to
+[0170] [11:27] B: Project plan that's As you can see Four point five euros per unit
+[0171] [11:33] B: Not terrible as far as i'm aware
+[0172] [11:36] B: Well silver twenty five
+[0173] [11:39] B: It's really for fifty million euros we have to be still an awful lot
+[0174] [11:45] C: Would
+[0175] [11:45] C: that was profit aim
+[0176] [11:46] C: that wasn't Not so that's the martin made
+[0177] [11:49] B: Yep
+[0178] [11:50] C: okay
+[0179] [11:51] B: Well
+[0180] [11:51] B: fifty million
+[0181] [11:52] B: and if you're making twelve point five Euros and each one then
+[0182] [11:57] B: Awful lot need to be sold
+[0183] [12:01] B: Okay
+[0184] [12:02] B: That would actually just get a movie yeah maybe to the project
+[0185] [12:05] B: So
+[0186] [12:06] B: i'm gonna
+[0187] [12:06] B: guess so we've all use remote controls
+[0188] [12:10] B: Any ideas of where you think a new remote control could go into this market
+[0189] [12:18] A: One thing or where is the uh uh Um as a very high price and that the market there's Uh in emerging
+[0190] [12:25] A: markets a touch screen
+[0191] [12:27] A: L.
+[0192] [12:27] A: c.
+[0193] [12:28] A: d. remotes
+[0194] [12:29] A: They can be that programmed in Much more sophisticated ways to convention little
+[0195] [12:34] A: so you get the sort of You get to um You
+[0196] [12:38] A: you can redesign the interface to your own needs
+[0197] [12:42] A: you can program in back rooms
+[0198] [12:44] A: And you get a a much greater degree that
+[0199] [12:46] A: um when you get in these sort of in three in one five know
+[0200] [12:49] A: there's you can get integration between the different uh Look at the at the different things is designed to control too much greater extent
+[0201] [12:57] A: you can have One million one
+[0202] [12:59] A: macro
+[0203] [13:00] A: to turn that uh-huh In turn the
+[0204] [13:02] A: t.
+[0205] [13:03] A: v. to the right channel get but we will rewind the tape and the
+[0206] [13:06] A: v.
+[0207] [13:06] A: c.
+[0208] [13:07] A: r. and get it to play with this rewind for instance
+[0209] [13:10] B: "'kay"
+[0210] [13:13] A: Yeah
+[0211] [13:14] A: cursing again you sure uh For remote that Aim towards some of that Sort of functionality
+[0212] [13:23] A: but using it just conventional pushbutton design
+[0213] [13:26] A: And Therefore putting it into the um How much lower price bracket
+[0214] [13:32] B: Okay in the
+[0215] [13:33] B: that's true
+[0216] [13:34] B: with the price range we're looking at Mm going for a touch screen
+[0217] [13:37] B: would probably possibly of alright
+[0218] [13:39] A: absolute prohibitive
+[0219] [13:39] B: yeah
+[0220] [13:40] A: yeah
+[0221] [13:41] B: Do you think uh again something to control multiple units in a simple fashion
+[0222] [13:45] A: Yeah
+[0223] [13:46] A: i mean i wanna see
+[0224] [13:47] A: "'em" you get ones that you can switch between Multiply in
+[0225] [13:50] A: the sense that could um operate could multiple you need some more integrated fashion
+[0226] [13:56] A: So is it
+[0227] [13:57] A: an idea something to which We have some At least limited facility for Um running backwards
+[0228] [14:05] B: Would you be idea something along the lines of the one on button would turn on say the video recorder
+[0229] [14:10] B: d.
+[0230] [14:10] B: t.
+[0231] [14:10] B: v. maybe the same system as well uh one go as a kind of
+[0232] [14:13] A: For instance
+[0233] [14:15] A: Um I'd say oh Um Or um You
+[0234] [14:21] A: need you you you you press uh Play button for the
+[0235] [14:25] A: d.
+[0236] [14:25] A: v.
+[0237] [14:25] A: d. player and it turns the
+[0238] [14:26] A: t.
+[0239] [14:26] A: v. on on quite channels well
+[0240] [14:30] B: Okay that sounds like uh Good strong idea
+[0241] [14:34] B: Um Any takes this
+[0242] [14:39] C: Well
+[0243] [14:39] C: i'm have noticed that
+[0244] [14:41] C: uh Caning
+[0245] [14:42] C: can become quite popular with television
+[0246] [14:45] C: I'm not sent to
+[0247] [14:46] C: me see play again is using the table using the cable
+[0248] [14:51] C: Subscribe
+[0249] [14:51] C: to cable provides
+[0250] [14:54] A: Uh-huh
+[0251] [14:54] C: But our remote controls get one that will easily
+[0252] [14:57] C: And The remote controls now agreed to
+[0253] [14:59] C: can i keep all um Keypad for playing games
+[0254] [15:03] C: so perhaps
+[0255] [15:03] B: Okay
+[0256] [15:03] C: one that was more
+[0257] [15:06] C: Specialised so again playing or interactive television
+[0258] [15:09] C: The the reason people that this new remote control
+[0259] [15:12] C: But it is it The baby channel so um To record thinks
+[0260] [15:17] C: it's the people entering get more time things that you simply star a slight the body say what time it begins
+[0261] [15:24] C: And slide and everybody say with um and as
+[0262] [15:25] B: Okay
+[0263] [15:27] C: you know that's
+[0264] [15:27] B: You
+[0265] [15:28] B: have hurt
+[0266] [15:28] B: us in a bar code design go for
+[0267] [15:30] B: yeah
+[0268] [15:30] A: Uh-huh
+[0269] [15:30] C: Yeah
+[0270] [15:30] C: it's it's taken out there
+[0271] [15:33] C: You you don't have to be uh Pretty clever to use the remote control
+[0272] [15:37] C: i think the gaming you know you want you wasn't big buttons for up down left and right shoot
+[0273] [15:43] C: No Uh uh you wanna be able to change
+[0274] [15:46] C: n. goes in the interactive television
+[0275] [15:48] C: so you need buttons to change the television angle the camera angles and stuff like that
+[0276] [15:53] B: Okay or
+[0277] [15:53] B: beginning to run out of time there's
+[0278] [15:55] C: Yeah
+[0279] [15:55] B: so
+[0280] [15:55] B: we've got a couple of ideas
+[0281] [15:56] B: we can
+[0282] [15:58] B: Well after work fast
+[0283] [16:01] B: Um Right
+[0284] [16:02] B: "'cause" you've got thirty minutes into a next meeting
+[0285] [16:04] B: so We'll have to try and decide on so the basic functionality
+[0286] [16:10] B: um how the user interface might work
+[0287] [16:12] B: i'll be a key aspect especially if the idea of Um some kind of market facility
+[0288] [16:17] B: because you have to programme that
+[0289] [16:19] B: you have to have a lot of response back or at least some kinda
+[0290] [16:22] A: Uh-huh
+[0291] [16:26] B: And We're needing find have to figure out
+[0292] [16:31] C: For the user wants yeah
+[0293] [16:32] B: What the user wants yes
+[0294] [16:33] C: Okay
+[0295] [16:36] B: Right
+[0296] [16:36] B: as anybody got anything you'd like to add at this stage
+[0297] [16:39] B: anything you think that might be missed so far
+[0298] [16:42] D: Right on okay minutes of
+[0299] [16:43] D: using tissue not Some sort of Stick on much rather than buttons
+[0300] [16:48] C: Oh okay yeah so
+[0301] [16:50] D: But The control button of "'kay" as
+[0302] [16:53] D: well
+[0303] [16:53] D: Has a bit
+[0304] [16:54] D: Predictions
+[0305] [16:56] B: I i don't see one
+[0306] [16:57] B: almost everybody's probably use to a console by
+[0307] [17:00] B: now and all them corporate small Keep answer them
+[0308] [17:03] B: in fact even a mobile phone
+[0309] [17:04] B: c.
+[0310] [17:04] B: c.s are beginning to use them as well
+[0311] [17:06] B: so It's probably an interface the most people are used it
+[0312] [17:06] D: Yeah
+[0313] [17:13] B: And that could a low And easy navigation use as a joystick as well
+[0314] [17:25] A: Uh-huh the other Key feature That uh The big good idea to do is the is is to make something In
+[0315] [17:34] A: fairness
+[0316] [17:34] A: of economic
+[0317] [17:35] A: some things It's it's it's it's as comfortable as possible into the hand
+[0318] [17:40] A: The court uh all also allows for Rather than The possibility of more sort of Slightly unconventional attractive uh She
+[0319] [17:52] B: Okay
+[0320] [17:52] A: issued forth overall uh-huh
+[0321] [17:55] B: So
+[0322] [17:56] B: Small stylish And something that just a little bit different
+[0323] [17:57] A: For
+[0324] [17:59] A: Uh-huh
+[0325] [18:00] A: So and so so so so it's a buy more for can on that
+[0326] [18:03] A: Uh i would would need to be sort of conform to the shape the hand more efficiently anyway
+[0327] [18:08] B: Okay
+[0328] [18:09] B: That's that's why something that we should be able to do it quite easily
+[0329] [18:13] B: I would i would hope so anyway
+[0330] [18:15] B: Um right
+[0331] [18:20] B: I'd say we Finish this one i'll
+[0332] [18:22] B: put it started
+[0333] [18:23] B: okay them
+[0334] [18:24] B: alright what we've um Kind of quickly done
+[0335] [18:27] B: I'll get that it to everybody
+[0336] [18:29] C: "'kay"
+[0337] [18:30] B: Yeah
+[0338] [18:31] C: Sure
+[0339] [18:31] B: Okay
+[0340] [18:38] B: And as far as a more where we leave the microphones
+[0341] [18:41] B: here um What's it called otherwise
+[0342] [18:44] B: and Just a laptop lost

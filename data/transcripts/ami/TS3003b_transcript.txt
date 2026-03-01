@@ -1,0 +1,804 @@
+================================================================================
+AMI Meeting Transcript: TS3003b
+================================================================================
+
+Total Utterances: 792
+Unique Speakers: 4
+Duration: 35.72 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:05] A: Yay Good afternoon Yeah Oh Hmm Now my laptop as an uh huh Uh-huh does it get It's working Uh-huh Oh Okay good afternoon Ah Okay
+[0002] [00:57] A: everybody if i misplaced
+[0003] [00:59] A: again that
+[0004] [01:00] D: It's
+[0005] [01:01] A: That's nice
+[0006] [01:03] A: Okay so
+[0007] [01:04] A: there's a second meeting
+[0008] [01:07] A: And uh huh
+[0009] [01:09] A: Still failing
+[0010] [01:11] D: Yeah
+[0011] [01:12] A: And now we're going uh um Into the functional design
+[0012] [01:17] A: Um Important thing of this phase is that we're going through
+[0013] [01:22] A: Uh Try to get uh agreement about the user requirements technical Function design and the working design So that we can move on to the second Uh phase
+[0014] [01:37] A: The first this phase
+[0015] [01:39] A: Um first announcement
+[0016] [01:42] A: There's uh no adaptation in the air conditioning
+[0017] [01:45] A: system
+[0018] [01:47] A: So
+[0019] [01:49] A: Mm there's our coast mouse again
+[0020] [01:52] A: But that means that you can have uh a little trouble of the little trouble with the air conditioning
+[0021] [01:58] A: that's because of this uh huh
+[0022] [02:00] B: Okay
+[0023] [02:01] D: Okay
+[0024] [02:01] A: It's an wing see any
+[0025] [02:03] A: so
+[0026] [02:03] A: it should be over in uh in a while couple of days
+[0027] [02:08] A: It's going to be called anyway
+[0028] [02:09] A: so I don't think you gonna need
+[0029] [02:14] A: Then our agenda
+[0030] [02:15] A: Now
+[0031] [02:16] A: first the opening
+[0032] [02:17] A: Uh just um i'll take the minutes
+[0033] [02:20] A: Uh you're going to I have a presentation all of you
+[0034] [02:25] A: Um And we've got forty minutes for the whole Um press for the whole Uh presentations
+[0035] [02:33] A: So i i suggest it Take about seven minutes per presentation
+[0036] [02:37] A: and then we can have a little discussion About the new project requirements
+[0037] [02:42] A: Uh we should be sent to me
+[0038] [02:44] A: And then the decision on the control functions Um which you wanna include and That was which we don't wanna include
+[0039] [02:52] A: So
+[0040] [02:53] A: we've got forty minutes for all of it
+[0041] [02:55] A: so i
+[0042] [02:55] A: suggest um let's start with the first presentation
+[0043] [02:58] D: Yes
+[0044] [03:00] A: who wants to be first
+[0045] [03:02] D: think i'll go first
+[0046] [03:03] A: Okay
+[0047] [03:05] A: So
+[0048] [03:07] A: It's maybe it's easy if you
+[0049] [03:09] A: um Yeah
+[0050] [03:10] A: i think you will tell me your presentations well it's which function you have
+[0051] [03:14] A: an We're gonna talk about it
+[0052] [03:26] D: Okay
+[0053] [03:26] D: my name is fake from phone
+[0054] [03:28] D: and the market expert
+[0055] [03:29] D: But you already knew that
+[0056] [03:32] D: Um I've done some research
+[0057] [03:34] D: we have we uh And in doing research in a usability lab
+[0058] [03:37] D: or we observed
+[0059] [03:39] D: Um Users' operating remote controls
+[0060] [03:43] D: Uh without them fill out a questionnaire
+[0061] [03:45] D: We had one hundred of these uh test subject
+[0062] [03:49] D: Uh in addition we did some market research Uh See what the market
+[0063] [03:54] D: consists of What ages are involved
+[0064] [03:58] D: Well
+[0065] [03:59] D: these are three Quite as
+[0066] [04:01] D: punishing
+[0067] [04:02] D: Results i thought
+[0068] [04:04] D: Um remote
+[0069] [04:04] D: remote and being considered only
+[0070] [04:07] D: To
+[0071] [04:07] D: uh seventy five percent of the um People question of uh Indicated
+[0072] [04:13] D: that they thought their remote where was i agree
+[0073] [04:16] D: Um and An additional eighty percent indicated
+[0074] [04:19] D: that would spend more money on a fancy looking remote control
+[0075] [04:22] D: so
+[0076] [04:24] D: Um in addition remote or not very functional
+[0077] [04:27] D: Fifty percent of the people indicated
+[0078] [04:29] D: they only use about ten percent of the buttons on the Remote control
+[0079] [04:35] D: And fifty percent of the people indicated
+[0080] [04:37] D: that the remote tend to get lost in the room
+[0081] [04:40] D: So
+[0082] [04:42] D: Some things
+[0083] [04:45] D: Then we did some research to the most relevant functions
+[0084] [04:48] D: Channel selection and volume selection um But gotta turn on a scale of one to ten for relevancy
+[0085] [04:56] D: The power button got online
+[0086] [04:58] D: And teletext got uh a six and a half
+[0087] [05:01] D: So these are the most Most um important functions on a remote control
+[0088] [05:06] D: Then there are some one time use function
+[0089] [05:09] D: that's what i like to call them
+[0090] [05:10] D: That um audio settings video settings and channel settings buttons
+[0091] [05:15] D: Which are not really used very frequently
+[0092] [05:18] D: But i still consider to be of some important
+[0093] [05:22] D: Um Channel selection was also indicated
+[0094] [05:24] D: to be we used very frequently One hundred and sixty eight times per hour
+[0095] [05:32] D: And these are the
+[0096] [05:33] D: this is the market
+[0097] [05:35] D: Um Sixty percent of the market consists of users between the ages sixteen and forty six
+[0098] [05:42] D: Um Main characteristic of this group is that they're very critical on the remote control
+[0099] [05:48] D: Um They like to use new from new Functions
+[0100] [05:52] D: But they also are very critical
+[0101] [05:54] D: they won't spend the money very easily
+[0102] [05:56] D: So
+[0103] [05:57] D: Um the
+[0104] [05:58] D: the users of forty six to sixty five years Concerned they make up forty percent of the market
+[0105] [06:05] D: They're not really very interested in features
+[0106] [06:07] D: but they do tend to spend the money A lot easier
+[0107] [06:13] D: Um Well i think this in the case for Um Design I think we should make a remote for the future
+[0108] [06:23] D: And this means we would Um have to focus on the age for ages sixteen to forty five
+[0109] [06:30] D: Uh this also makes up most of the biggest part of the market
+[0110] [06:34] D: so Uh we also be were remain profit would be
+[0111] [06:38] D: Campbell
+[0112] [06:40] D: Um This would be we would have to make a fancy design
+[0113] [06:44] D: Um The results also indicated
+[0114] [06:47] D: that um about one corner of the people
+[0115] [06:51] D: Questioned Thought that uh remote control "'cause" arrows
+[0116] [06:55] D: R.
+[0117] [06:55] D: s.
+[0118] [06:55] D: i.
+[0119] [06:57] D: Um the certainly it's something to Take into account
+[0120] [07:02] D: And thirty four percent
+[0121] [07:03] D: thought that it was hard to learn how to operate a new control Remote control
+[0122] [07:09] D: So these are two factors that I think should be included in the design
+[0123] [07:13] D: The size of course uh the remote
+[0124] [07:15] D: must look Very nice
+[0125] [07:18] D: Um functionality As a lot of people indicated
+[0126] [07:21] D: they only use about ten percent of the buttons
+[0127] [07:24] D: i think we should Make very few buttons
+[0128] [07:27] D: Um this will also be Uh beneficial to the design Of the remote
+[0129] [07:33] D: Uh i think be most frequently used buttons should be
+[0130] [07:35] D: emphasized especially the channel selection and audio Uh selection buttons
+[0131] [07:41] D: "'cause" they're used most
+[0132] [07:42] D: and So we should be robust
+[0133] [07:45] D: We shouldn't breakdown easily
+[0134] [07:49] D: Um Then As remote as a lot of people indicated
+[0135] [07:54] D: that there Um Remote got lost in the room
+[0136] [07:57] D: it might be
+[0137] [07:59] D: And i say it might be
+[0138] [08:00] D: because it would Um certainly
+[0139] [08:03] D: bruce
+[0140] [08:03] D: the uh Production costs a lot
+[0141] [08:06] D: but it might be a good idea to make a docking station
+[0142] [08:09] D: Um this would could get a button In it
+[0143] [08:13] D: which would send uh Signal to the remote
+[0144] [08:15] D: which wouldn't beep
+[0145] [08:16] D: so you know where it is in the room
+[0146] [08:18] D: And in addition to this it could um rechargeable batteries in the remote if you put it in
+[0147] [08:25] D: Then um That's pricing we need Great deal of people would indicated
+[0148] [08:30] D: that um And
+[0149] [08:32] D: l.
+[0150] [08:32] D: c.
+[0151] [08:32] D: d. screen In the remote control would be preferred
+[0152] [08:37] D: This was um Mostly people in the age of sixteen to Twenty five
+[0153] [08:44] D: But Up till forty five it
+[0154] [08:46] D: remains feasible
+[0155] [08:48] D: Is it also greatly
+[0156] [08:49] D: Increase the production cost
+[0157] [08:50] D: but I think these are just Some small factories
+[0158] [08:54] D: we could Consider
+[0159] [08:58] A: Okay
+[0160] [08:58] D: That would be all
+[0161] [09:00] A: Thank you
+[0162] [09:01] A: So
+[0163] [09:01] A: uh Anybody have um any questions until now
+[0164] [09:04] D: Any questions
+[0165] [09:06] B: Uh-huh yeah
+[0166] [09:06] A: About functional requirements
+[0167] [09:08] A: Okay
+[0168] [09:08] A: that's clear
+[0169] [09:10] A: The the to the second
+[0170] [09:20] B: Yeah okay
+[0171] [09:21] B: um I think that uh Uh user interface of it Um for for uh the taking of functions of of it
+[0172] [09:34] A: Yeah
+[0173] [09:34] A: you can take your time
+[0174] [09:35] A: we've got uh Plenty of time
+[0175] [09:37] D: Yeah
+[0176] [09:37] D: should go to the Top thingy slideshow
+[0177] [09:38] A: so
+[0178] [09:38] B: No
+[0179] [09:40] B: Yeah
+[0180] [09:41] D: oh yeah
+[0181] [09:42] A: It's
+[0182] [09:46] B: Yeah
+[0183] [09:46] B: i think er be uh just use their general functions of the remote control
+[0184] [09:52] B: um Uh i think i see Um You know a little uh research on the internet
+[0185] [09:59] B: um Curved Yeah not much information about it so Um About uh interface
+[0186] [10:06] B: but uh Uhuh Yeah
+[0187] [10:12] B: i
+[0188] [10:12] B: i've been thinking about uh Simple manner uh to put a lot of functions uh Uh in one my um In one the remote control
+[0189] [10:21] B: uh so um you've got a lot so different uh device like uh a
+[0190] [10:24] B: d.
+[0191] [10:24] B: v.
+[0192] [10:24] B: d. uh Uh um television uh stereo
+[0193] [10:28] B: so
+[0194] [10:28] B: um But uh it must be uh user friendly
+[0195] [10:33] B: So um Yeah
+[0196] [10:34] B: you could you can put uh a lot of uh functions uh in one
+[0197] [10:38] B: uh Yeah Yeah you know uh uh yeah i In one that um Remote control
+[0198] [10:45] A: Alright months
+[0199] [10:45] B: but
+[0200] [10:46] B: um Yeah
+[0201] [10:51] B: Um Yeah
+[0202] [10:54] B: Got um many functions in one uh remote control
+[0203] [10:58] B: um but um Yeah
+[0204] [11:00] B: you can see this as uh quite simple uh remote control
+[0205] [11:03] B: Um you uh buttons
+[0206] [11:05] B: but uh this other in a remote control got a lot of uh buttons
+[0207] [11:10] B: um Yeah People uh don't like it
+[0208] [11:13] B: uh uh so
+[0209] [11:14] B: um Well
+[0210] [11:16] B: so i i was uh thinking about was so um Uh keep the general function so i like the hours
+[0211] [11:23] B: uh like uh on off of the time I keep it uh yeah look like uh red but
+[0212] [11:29] B: um uh everybody everybody knows it's
+[0213] [11:31] B: over Uh you don't have to change that
+[0214] [11:35] B: Um My personal uh preferences
+[0215] [11:40] B: um Use uh display for uh especially uh functions of the different uh device
+[0216] [11:47] B: So
+[0217] [11:47] B: um Well i was there are thinking about source um You got
+[0218] [11:53] B: um Uh yeah This the remote controller
+[0219] [12:09] B: And uh you got here the general function so like uh the on off button uh uh So long to uh try to know
+[0220] [12:16] B: um And um yeah you got uh Kind of uh display
+[0221] [12:22] B: It's a touch screen
+[0222] [12:24] B: So um Yeah
+[0223] [12:26] B: you got the the general fear of uh the functions of the device uh for a
+[0224] [12:29] B: d.
+[0225] [12:29] B: v.
+[0226] [12:29] B: d. player or uh so um The play uh yeah um For uh playing or uh or we first uh data
+[0227] [12:39] B: uh um you got here uh real buttons For uh selecting uh device
+[0228] [12:45] B: So
+[0229] [12:46] B: um this but as for a
+[0230] [12:47] B: t.
+[0231] [12:47] B: v.
+[0232] [12:48] B: or
+[0233] [12:49] B: So
+[0234] [12:49] B: um For every um device you got uh Um Of a pot a part
+[0235] [12:57] B: um displayed go for power button
+[0236] [13:00] B: so
+[0237] [13:01] B: Uh you You never i got uh all the buttons so on what one device
+[0238] [13:06] B: so
+[0239] [13:07] B: Uh that's a um an idea about that
+[0240] [13:10] B: Um Yeah and
+[0241] [13:14] B: Uhuh Let's see uh yeah So
+[0242] [13:18] B: that's me
+[0243] [13:19] B: Uh and um them the buttons um the real buttons uh you have to use
+[0244] [13:23] B: um rebecca
+[0245] [13:23] B: rebecca um Uh use uh quite uh large buttons
+[0246] [13:28] B: uh for
+[0247] [13:29] B: uh um yeah
+[0248] [13:29] B: everybody uh it has to use it so Well even of uh all people um Young people
+[0249] [13:36] B: so
+[0250] [13:36] B: uh we must keep the buttons uh quite uh Simple and quite large
+[0251] [13:42] B: sure
+[0252] [13:44] B: Um Yeah Mm yeah
+[0253] [13:50] B: There was a banana part of it
+[0254] [13:52] B: so
+[0255] [13:53] A: Yeah banana's questions about the technical functions
+[0256] [13:56] C: Well i
+[0257] [13:56] C: think if we're gonna use a touch screen
+[0258] [13:58] C: uh we're gonna go way above twelve and a half euros
+[0259] [14:02] A: Yeah
+[0260] [14:02] B: Yeah i don't think so
+[0261] [14:04] B: uh you can do it quite uh a cheap
+[0262] [14:05] B: uh Touchscreens
+[0263] [14:07] B: um it's they're not paying no core or something
+[0264] [14:10] B: uh It's just uh um Right now uh one call uh and
+[0265] [14:15] B: yeah
+[0266] [14:17] B: Uh uh i say no uh uh Something on the internet uh not today but uh If you uh weeks ago
+[0267] [14:26] B: Uh you got uh yeah quite and uh It kind of uh touch screen yeah um It's Uh i know Four Yeah uh Trendy uh euros or or less
+[0268] [14:42] A: Yeah
+[0269] [14:42] B: So It's possible
+[0270] [14:44] A: Okay that's nice Yeah
+[0271] [14:46] D: Well
+[0272] [14:46] D: would certainly make a fancy design
+[0273] [14:48] B: Yeah
+[0274] [14:49] A: Yeah
+[0275] [14:49] C: But the
+[0276] [14:49] D: So
+[0277] [14:50] C: it wouldn't be very robust
+[0278] [14:52] C: Very
+[0279] [14:52] C: fred
+[0280] [14:53] C: yeah
+[0281] [14:53] C: one you can get scratches
+[0282] [14:54] C: on it
+[0283] [14:55] D: That's true
+[0284] [14:56] A: That's right
+[0285] [14:56] B: Yeah that's true
+[0286] [14:57] D: Would have to look into that
+[0287] [14:57] A: Yeah Maybe you can first um listen to your presentation
+[0288] [15:01] D: Yeah
+[0289] [15:01] C: Let's go Okay
+[0290] [15:01] A: And then we have a
+[0291] [15:02] A: have a little discussion about the requirements and uh Design yeah
+[0292] [15:20] A: I think it's really thin
+[0293] [15:21] A: Yeah it's not too much
+[0294] [15:23] C: Okay
+[0295] [15:24] C: i've got a presentation about the working design
+[0296] [15:27] C: Um first about how would works
+[0297] [15:30] C: it's really simple of course
+[0298] [15:30] C: everybody knows our remote works
+[0299] [15:32] C: The user presses a button
+[0300] [15:34] C: The remote it there was what button and this
+[0301] [15:36] C: use the infrared To send a signal to the
+[0302] [15:39] C: t.
+[0303] [15:39] C: v.
+[0304] [15:40] C: A
+[0305] [15:40] C: t.
+[0306] [15:40] C: v. switch to the frequency or But function it is
+[0307] [15:44] C: So
+[0308] [15:45] C: We've got um The the plate
+[0309] [15:49] C: That's conducted this is for every button
+[0310] [15:52] C: When the user presses a button the signal got set
+[0311] [15:55] C: Goes to the led
+[0312] [15:56] C: and Transmitted it's transmit transmits its to the
+[0313] [15:59] C: t.
+[0314] [15:59] C: v.
+[0315] [16:00] C: it's a very simple device technically speaking
+[0316] [16:03] C: So
+[0317] [16:03] C: this is a schematic overview
+[0318] [16:06] C: You've got the buttons
+[0319] [16:08] C: The power source
+[0320] [16:10] C: And uh when a button that pressed it's Goes to the chip
+[0321] [16:14] C: The chip Uhuh controls the infrared bulb
+[0322] [16:18] C: and prefer perhaps uh a normal bob
+[0323] [16:20] C: Oh you press a button you can actually see you press the button
+[0324] [16:25] C: Well
+[0325] [16:26] C: Um i think we should use
+[0326] [16:28] C: d. for the materials simple plastics
+[0327] [16:30] C: keep the inner
+[0328] [16:31] C: workings simple
+[0329] [16:32] C: so it's robust
+[0330] [16:34] C: Um so i think we should focus on aesthetics
+[0331] [16:36] C: designer user interface
+[0332] [16:38] C: because if you're going to use high tech materials the price is going to go sky high
+[0333] [16:44] C: And uh You only have to design a remote ones
+[0334] [16:48] C: And if you use high tech materials that come back in every product
+[0335] [16:52] C: So
+[0336] [16:52] C: it's In my idea it's uh It's gonna be smart to invest in
+[0337] [16:56] C: dice
+[0338] [16:56] C: in design and not and uh In the product itself
+[0339] [17:01] C: That's it
+[0340] [17:03] A: Okay
+[0341] [17:03] A: thank you
+[0342] [17:11] A: Okay
+[0343] [17:14] A: Uh Uh Okay
+[0344] [17:22] A: and i
+[0345] [17:22] A: out Everybody as i know that More insight
+[0346] [17:25] A: in the functions we all have
+[0347] [17:26] A: them what we're doing right now
+[0348] [17:29] A: Um i'm the project managers
+[0349] [17:31] A: so i mean it to mess things up
+[0350] [17:33] A: and uh That is some new uh requirements
+[0351] [17:38] A: Um That's
+[0352] [17:41] A: We have uh gotta designed um remotes which is only suitable for
+[0353] [17:45] A: t.
+[0354] [17:45] A: v.
+[0355] [17:47] A: Um that's because Uh it will be too complex
+[0356] [17:52] A: and the time to market will be too big If we wanna have that uh uh for more functions
+[0357] [17:58] A: So it has to be simple
+[0358] [18:00] A: Uh another point is we have to skip the teletext
+[0359] [18:05] A: Because in the real the full uh upcoming internet Uh we think
+[0360] [18:11] A: Teletext is going to be uh I think that's the past
+[0361] [18:16] A: And that it's uh Function we don't need in our uh remote control
+[0362] [18:21] A: Um Internet is also mentions
+[0363] [18:24] A: just to go In a function we can use
+[0364] [18:27] A: that maybe also on television is it will be available as well
+[0365] [18:31] A: Another one that's the the customer uh is um Forty plus Uh that's the the markets we have to get the targets
+[0366] [18:39] A: because we're going to develop
+[0367] [18:41] A: a new product which is specially designed for The younger customers
+[0368] [18:46] A: Um This is um a bit pity for the marketing uh expert i
+[0369] [18:52] A: Because it was uh Aiming on the the younger persons
+[0370] [18:56] A: So we have to find the market which is above forty plus
+[0371] [19:00] A: uh but which will so they are
+[0372] [19:03] A: Uh remote control
+[0373] [19:04] A: and the other way around
+[0374] [19:06] A: And we have to be very Uh But then then uh put in the corporate image uh in our products
+[0375] [19:14] A: so it has to be visible in our design In the way our device works
+[0376] [19:20] A: And Uh we have to be uh very clear on this point as well
+[0377] [19:25] A: So
+[0378] [19:26] A: i suggest Let's have a Discussion on the control functions
+[0379] [19:34] D: So
+[0380] [19:35] D: is there any discussion possible hold on the new project requirements
+[0381] [19:38] A: I
+[0382] [19:39] A: look and see if we can find a way yeah Between the functions you wanna use and The market we wanna reach with our product
+[0383] [19:49] D: Yeah
+[0384] [19:49] D: "'cause" yeah You're saying that teletext is gonna be And all Feature
+[0385] [19:54] D: and It's not gonna be used anymore anyway Pretty soon
+[0386] [19:58] D: and new
+[0387] [19:59] D: t.
+[0388] [19:59] D: v.s will have internet access on them
+[0389] [20:01] D: But i think if you're targeting people of forty plus The chance that they will have a
+[0390] [20:07] D: t.
+[0391] [20:07] D: v. with internet access
+[0392] [20:09] D: Within the next like twenty years Is very slim
+[0393] [20:14] D: In addition people indicated
+[0394] [20:14] B: Yeah
+[0395] [20:16] D: That teletext simply was important feature for the remote control
+[0396] [20:21] D: So i think it's pretty dumb to Put no teletext feature on it
+[0397] [20:27] D: I'm pretty much against it
+[0398] [20:29] A: I guess than the teletext
+[0399] [20:30] D: Yes
+[0400] [20:35] D: Besides that i think The market for forty plus is like Pretty small
+[0401] [20:43] D: But I mean if i if i see there's since i think we just Gonna go for another
+[0402] [20:44] A: Yeah
+[0403] [20:44] A: it's it is
+[0404] [20:45] B: very
+[0405] [20:49] A: Stan remote
+[0406] [20:50] D: Pretty
+[0407] [20:52] A: But
+[0408] [20:52] A: i think we can
+[0409] [20:52] D: In not innovative
+[0410] [20:55] A: I think we can do a lot of the um design and the simple buttons
+[0411] [20:55] D: Remote control
+[0412] [21:00] A: which are also mentioned
+[0413] [21:02] A: Uh if we put a lot of effort and those We can make uh a remote control of the
+[0414] [21:08] A: least two or three buttons or This remote it's a suitable for the market you wanna reach
+[0415] [21:13] A: because it is forty percent of the market
+[0416] [21:16] A: And
+[0417] [21:17] A: um If you look a whole and Uh the whole generation of Forty plus fifty plus it it's in the uh the biggest Share of the of the whole population now
+[0418] [21:31] D: Yes
+[0419] [21:31] D: but it's not the biggest part of the Market
+[0420] [21:35] D: And besides that they're not very critical
+[0421] [21:35] A: No
+[0422] [21:37] D: so
+[0423] [21:38] D: I mean they don't really care What the Remote control is like
+[0424] [21:43] D: Well just pretty much take the first thing i see in which it's acceptable
+[0425] [21:48] A: But don't you think that if we make a remote
+[0426] [21:50] A: which is Uhuh Typically made for This market That people think from That
+[0427] [21:58] A: people think that's the the device i've looked for although I didn't realise it
+[0428] [22:04] A: So
+[0429] [22:05] A: let's try it
+[0430] [22:06] D: No
+[0431] [22:08] D: I think that would be the case and uh Sixteen to forty five It's Category
+[0432] [22:08] D: I
+[0433] [22:16] D: Because they are critical
+[0434] [22:17] D: and they They want to have a fancy remote control
+[0435] [22:20] B: Yeah
+[0436] [22:21] D: People forty plus I mean They want it to work
+[0437] [22:25] D: but It's in the same as it works it's okay with them
+[0438] [22:31] A: Yeah
+[0439] [22:32] C: think that if we are If we put our marketing right Um we can sell this
+[0440] [22:32] C: think
+[0441] [22:33] D: So
+[0442] [22:37] C: just like uh I don't know if you've heard about it in the news the the elderly mobile phone
+[0443] [22:42] A: Yeah
+[0444] [22:43] A: it's a big success
+[0445] [22:44] C: Yeah
+[0446] [22:44] C: if we if we make a remote control Just what we've that idea in mind we could Make tons a money I think
+[0447] [22:45] D: And there
+[0448] [22:45] A: Very big success
+[0449] [22:52] C: We don't have to focus on on on the On the design then but on functionality
+[0450] [22:52] A: It's it's a
+[0451] [22:58] C: We just
+[0452] [23:00] C: Change or focus on the project
+[0453] [23:02] C: I think We can uh uh we can sell this
+[0454] [23:07] A: That i i simply think that
+[0455] [23:09] A: um Uh the the new products we're gonna make us please perhaps if we design our design for uh uh Younger people
+[0456] [23:22] A: Uh so maybe we can Fox
+[0457] [23:25] A: ourself on the elderly people
+[0458] [23:28] A: And I think we have to uh um See what requirements we need For those uh um remote controls
+[0459] [23:39] A: "'cause" that you told us They channel selection is important Volume selection power and Teletext
+[0460] [23:43] D: Yes
+[0461] [23:47] D: Yes
+[0462] [23:48] A: Okay
+[0463] [23:50] D: But obviously the board tend to disagree
+[0464] [23:53] A: No
+[0465] [23:53] A: it we haven't thought it it's
+[0466] [23:55] A: it's
+[0467] [23:55] A: uh Uh i think teletext Can be
+[0468] [24:00] A: uh Uh Can
+[0469] [24:03] A: Can be a function as well But only if uh is on Higher the the cost
+[0470] [24:11] A: Because i don't know if it'll be a lot more money to implement teletext as well
+[0471] [24:15] A: but i don't think it'll be a problem
+[0472] [24:18] A: Or is teletext
+[0473] [24:18] B: The um the if people need to the teletext for uh Is that uh it
+[0474] [24:23] D: Yeah also
+[0475] [24:23] B: so it's
+[0476] [24:24] B: yeah
+[0477] [24:25] A: Yeah
+[0478] [24:25] A: so
+[0479] [24:26] A: it's just
+[0480] [24:26] D: I think it definitely hit that idea not to to to the text
+[0481] [24:28] B: Yeah
+[0482] [24:30] A: Is anybody um Really against teletext
+[0483] [24:34] C: No
+[0484] [24:35] A: Is that That you just Keep the teletext
+[0485] [24:41] A: I think that's good ideas well
+[0486] [24:43] A: "'specially"
+[0487] [24:43] A: for the subtitles
+[0488] [24:46] A: Maybe you can Make that um Another point of advantage in our remote control If we uh uh Make it A button
+[0489] [25:00] A: x. for example for big subtitles
+[0490] [25:03] A: Which is in some the on the remote control
+[0491] [25:05] A: for elderly people are they can think of i wanna set that
+[0492] [25:05] B: Uh-huh
+[0493] [25:08] A: isn't push the button
+[0494] [25:09] A: and you get the Except a does
+[0495] [25:12] C: Yeah that's a good idea
+[0496] [25:15] A: So
+[0497] [25:15] A: i think that this can if you can be very Useful in our advantage
+[0498] [25:20] A: Um Functionality should be few buttons you say that
+[0499] [25:27] D: Yes
+[0500] [25:28] A: I think uh It's very important we have a few buttons
+[0501] [25:28] A: I
+[0502] [25:33] D: Uh-huh
+[0503] [25:35] A: So let's keep it simple
+[0504] [25:35] D: But Um thing that's really an issue anymore
+[0505] [25:39] D: "'cause"
+[0506] [25:41] D: Well
+[0507] [25:42] D: might be
+[0508] [25:43] B: If it's only for television
+[0509] [25:44] D: But i mean it it's it's only for
+[0510] [25:45] D: t.
+[0511] [25:45] D: v. you're not gonna need a lot of buttons anyway
+[0512] [25:45] B: yeah
+[0513] [25:47] B: Yeah
+[0514] [25:48] D: Need the One two zero button Next channel previous channel
+[0515] [25:48] A: No
+[0516] [25:51] B: Yeah
+[0517] [25:54] D: Volume up volume down And some teletext buttons
+[0518] [25:57] D: but
+[0519] [25:59] A: Yeah
+[0520] [26:02] A: But do you need
+[0521] [26:02] D: I think if you if you only hmm
+[0522] [26:02] B: So we can we can skip the display
+[0523] [26:05] B: so uh you don't need it
+[0524] [26:07] D: No
+[0525] [26:07] A: Do you need that Buttons for one two Sir
+[0526] [26:12] A: Maybe we can
+[0527] [26:12] D: think if you don't include teletext you do
+[0528] [26:15] D: I think many people like to use that
+[0529] [26:17] A: Maybe you can use the
+[0530] [26:17] D: "'cause" if you should if you want to switch from channel one to like Thirty five Yeah wanna push the next Channel button thirty five times
+[0531] [26:17] B: Yeah
+[0532] [26:24] B: Yeah
+[0533] [26:25] A: Maybe you can implement that scroll button
+[0534] [26:29] A: Or a joystick like a
+[0535] [26:33] A: There are other ways to
+[0536] [26:33] A: uh Is that if you look at telephones and the sony telephone
+[0537] [26:37] A: a scroll button which is very useful and Searching names were
+[0538] [26:40] B: Yeah
+[0539] [26:43] D: That's true
+[0540] [26:43] D: but Um I don't think there are many
+[0541] [26:47] D: t.
+[0542] [26:47] D: v.s it can switch channels that fast
+[0543] [26:50] D: And so you would need like The
+[0544] [26:53] D: t.
+[0545] [26:53] D: v. would me um the function where you can actually if you all channels and scroll through it
+[0546] [27:00] D: Uh i don't know if many channels would To have that many
+[0547] [27:05] D: t.
+[0548] [27:05] D: v.s have a
+[0549] [27:06] C: Yeah
+[0550] [27:06] C: And decided that it's
+[0551] [27:08] C: um If we're gonna focus on elderly people though i have to Adapt
+[0552] [27:12] C: they're not used to using scroll buttons
+[0553] [27:15] A: That's right
+[0554] [27:15] C: So perhaps we should just stick to the basic layout
+[0555] [27:15] D: Uh-huh
+[0556] [27:20] A: the numbers yeah
+[0557] [27:22] A: Yeah
+[0558] [27:22] A: they can see how much buttons they're going to be on On the display
+[0559] [27:26] A: and if it's too much you can Uh reconsider
+[0560] [27:29] A: it
+[0561] [27:30] A: But i think that won't be very much buttons
+[0562] [27:33] A: or did don't have to be
+[0563] [27:33] D: But i think i think if you're Gonna make a remote control only to operate a
+[0564] [27:38] D: t.
+[0565] [27:38] D: v. you there's not much You can again um Um Having a few buttons as possible
+[0566] [27:44] D: "'cause" i think they're pretty many Remote control so it can only operate a
+[0567] [27:48] D: t.
+[0568] [27:48] D: v.
+[0569] [27:49] D: which already When you have the minimum Number of buttons
+[0570] [27:53] D: I think there's much to be gained
+[0571] [27:54] D: in that area
+[0572] [27:56] A: The number of buttons
+[0573] [27:57] D: Yeah
+[0574] [27:58] A: I think it's very important in the in the design
+[0575] [28:01] A: You can make a very fancy design Uh with putting the buttons on the right places
+[0576] [28:07] A: If you have less buttons you can do a lot more with
+[0577] [28:11] D: That is true
+[0578] [28:12] D: but i think it's simply
+[0579] [28:13] D: not much again on the competition when you When you're making uh remote control only for it To operate only
+[0580] [28:19] D: t.
+[0581] [28:19] D: t.
+[0582] [28:19] D: v.
+[0583] [28:21] A: To of read only the
+[0584] [28:22] D: "'cause"
+[0585] [28:22] D: "'cause" if you have a Remote control only to operate a
+[0586] [28:22] A: t.
+[0587] [28:22] A: v. yeah
+[0588] [28:25] D: t.
+[0589] [28:25] D: v. there simply No it a lot of buttons required
+[0590] [28:30] D: There's not a lot of functions required
+[0591] [28:31] D: so Most existing remote control simply don't have a lot of buttons either
+[0592] [28:37] A: So
+[0593] [28:37] D: So
+[0594] [28:37] D: i think it would be very hard to Actually gain
+[0595] [28:40] D: on the competition here
+[0596] [28:42] A: Okay
+[0597] [28:42] A: so
+[0598] [28:42] D: I would It would cost and a big marketing
+[0599] [28:43] A: you can
+[0600] [28:48] D: Expedition
+[0601] [28:48] A: Yeah That's right
+[0602] [28:50] D: Which was Well the arguments to make it only for a
+[0603] [28:53] D: t.
+[0604] [28:53] D: v.
+[0605] [28:53] D: because we didn't have the time to Market a lot
+[0606] [28:56] A: Yeah
+[0607] [28:57] A: So
+[0608] [28:58] A: if you just we could better or Um focus so long for example the docking station
+[0609] [29:05] A: But uh like other functions Instead of a
+[0610] [29:09] D: T.
+[0611] [29:09] D: v.
+[0612] [29:10] A: few
+[0613] [29:10] A: roof
+[0614] [29:11] A: less buttons
+[0615] [29:12] D: Well Yeah
+[0616] [29:14] D: i think I mean we obviously need a good way to position all the buttons
+[0617] [29:18] D: and
+[0618] [29:19] D: I don't think we should spend very much time in that
+[0619] [29:23] A: no
+[0620] [29:24] A: You think the docking station we'll
+[0621] [29:27] A: Uh is allowed
+[0622] [29:29] A: and um they should we have
+[0623] [29:32] C: It should be possible yes It's not too fancy
+[0624] [29:34] A: "'cause" it can be
+[0625] [29:36] C: And if the remote stage one that's more should be possible
+[0626] [29:36] A: No
+[0627] [29:38] C: yeah
+[0628] [29:39] A: "'cause" i think that's
+[0629] [29:40] A: uh That's a good advantage point as well if we have a fancy looking docking station
+[0630] [29:45] C: Yes
+[0631] [29:47] A: or Okay We're so
+[0632] [29:52] A: That's a nice requirements
+[0633] [29:54] A: Docking
+[0634] [29:54] A: Docking station
+[0635] [29:57] C: So
+[0636] [29:57] C: we're just gonna focus on the extras
+[0637] [30:00] A: I think so
+[0638] [30:01] D: Yeah
+[0639] [30:02] D: i think maybe we should do some research into What elderly people like to have in
+[0640] [30:08] A: Yeah
+[0641] [30:08] D: Like to have
+[0642] [30:09] D: x. training remote control
+[0643] [30:11] A: That's a good point
+[0644] [30:12] A: Um You said they is you get lost as well
+[0645] [30:19] D: Yes
+[0646] [30:20] D: well
+[0647] [30:20] D: fifty percent of the people indicated
+[0648] [30:22] D: that Remote control and get lost
+[0649] [30:22] A: Yeah
+[0650] [30:24] A: So maybe we should implement the Audio side or something
+[0651] [30:29] D: Yeah
+[0652] [30:29] D: that was was just a
+[0653] [30:31] A: Yeah
+[0654] [30:31] C: Like with your key chain if you whistle would go as uh it makes so
+[0655] [30:31] D: Yeah they don't
+[0656] [30:32] A: Yeah
+[0657] [30:33] D: Yeah
+[0658] [30:34] D: Yeah but some some phones to
+[0659] [30:37] D: Just a docking station
+[0660] [30:39] C: Yeah
+[0661] [30:39] D: And you just Press a button
+[0662] [30:40] D: on the phone covering
+[0663] [30:42] A: Yeah so
+[0664] [30:43] D: you know it is
+[0665] [30:43] A: Audio signal Should be possible as well
+[0666] [30:47] A: i think it's not too expensive So so yeah
+[0667] [30:48] B: Uh-huh
+[0668] [30:52] A: another
+[0669] [30:54] A: Boring is the
+[0670] [30:55] A: l.
+[0671] [30:55] A: c.
+[0672] [30:55] A: d. screen
+[0673] [30:59] A: Um i don't know Is that will Rice the cost Too much
+[0674] [31:05] C: It it
+[0675] [31:05] C: it um i think we'll have to choose between the docking station or
+[0676] [31:08] C: d. screen
+[0677] [31:09] C: "'cause"
+[0678] [31:10] A: Yeah
+[0679] [31:11] C: It's
+[0680] [31:11] A: So it too much as well
+[0681] [31:13] D: I think since well people indicate uh a new remote control is hard to learn
+[0682] [31:17] D: and we're focusing on elderly people who are
+[0683] [31:19] D: which Tend to Have a hard time understanding new devices
+[0684] [31:23] D: It might be good idea to have just a little screen on it
+[0685] [31:26] D: Which will explain a button if you press it
+[0686] [31:29] D: It should tell you what it does
+[0687] [31:32] A: Yeah
+[0688] [31:33] D: And it wouldn't have to be touch screen Or a very expensive screen
+[0689] [31:35] A: yes
+[0690] [31:36] D: but
+[0691] [31:37] B: Yeah
+[0692] [31:38] A: Just the
+[0693] [31:39] A: l.
+[0694] [31:39] A: c.
+[0695] [31:39] A: d.
+[0696] [31:40] A: or just a normal screen
+[0697] [31:42] D: Just a small screen
+[0698] [31:43] A: It's a good idea
+[0699] [31:43] D: with two
+[0700] [31:44] A: so
+[0701] [31:45] A: Some extra info Feedback
+[0702] [31:46] D: Yeah
+[0703] [31:48] A: Yeah i think that's a good idea as well
+[0704] [31:52] D: I dunno if they're that
+[0705] [31:54] A: It's a small screen
+[0706] [31:55] D: Don't fit into the Costs
+[0707] [32:04] A: It's true that in in four
+[0708] [32:09] A: I think it should be Possible as well
+[0709] [32:12] A: Um Let's see what it is same More
+[0710] [32:18] A: should be fancy too fancy design easy to learn
+[0711] [32:22] A: Few buttons we talked about that Docking station
+[0712] [32:25] A: l.
+[0713] [32:25] A: c.
+[0714] [32:25] A: d. Um general functions
+[0715] [32:32] A: Yeah Okay
+[0716] [32:40] A: And
+[0717] [32:41] A: you fold materials I think that's a good idea as well
+[0718] [32:46] A: because um Oh that people don't mind if it's uh titanium Cover or a just a plastic one
+[0719] [32:54] A: so Doesn't really matter
+[0720] [32:55] D: Yeah
+[0721] [32:55] B: Uh-huh
+[0722] [32:56] A: so
+[0723] [32:58] A: Thinking
+[0724] [32:59] D: I think probably Only people would be a little bit more careful with their Remote controls and Youngsters
+[0725] [33:09] A: that's um specify the target group
+[0726] [33:13] A: that are we talking about Elderly
+[0727] [33:15] A: elderly people or people from forty two Maybe
+[0728] [33:19] A: because I think we're going to design know Is for people above sixty Maybe
+[0729] [33:29] B: Hmm yeah
+[0730] [33:30] A: what do we want
+[0731] [33:31] D: I think
+[0732] [33:31] A: if we wanna um Uh prof
+[0733] [33:33] A: latest but Uh for example the the telephone for elderly people we can
+[0734] [33:40] A: Target the real elderly people
+[0735] [33:44] D: I think that would be
+[0736] [33:45] D: uh If we should do something like that it would be
+[0737] [33:47] D: and i think it would be really good for Uh free image of the company
+[0738] [33:53] A: Yeah
+[0739] [33:53] D: And i think I think it would be good market for it
+[0740] [33:57] A: So
+[0741] [33:58] A: that's the
+[0742] [33:58] D: For able to Really bring in innovative product
+[0743] [34:02] A: Yeah talking about sixty to eighty For example
+[0744] [34:05] D: Yeah really
+[0745] [34:06] A: Yeah
+[0746] [34:08] D: But I have to look into a little more
+[0747] [34:08] A: Sixty
+[0748] [34:12] A: Okay
+[0749] [34:13] A: And different cultures Sorry
+[0750] [34:17] C: Oh
+[0751] [34:18] C: I don't think they have different televisions sets
+[0752] [34:21] B: Hmm
+[0753] [34:22] A: Okay
+[0754] [34:22] C: In a is a country
+[0755] [34:24] A: No
+[0756] [34:27] A: We've got five minutes left it's it's
+[0757] [34:29] A: uh Small
+[0758] [34:30] D: And with uh A little screen in a way that which explains buttons You could i think been it would be lot easier to
+[0759] [34:38] D: Adapt it to different Cultures
+[0760] [34:41] A: Yeah
+[0761] [34:42] A: in different languages yeah
+[0762] [34:43] D: Yeah
+[0763] [34:43] C: Yeah
+[0764] [34:43] A: yeah
+[0765] [34:43] B: Yeah
+[0766] [34:45] A: Or you have to put the language doesn't it
+[0767] [34:47] A: but that would be a bit in necessary i think
+[0768] [34:48] B: Uh-huh
+[0769] [34:50] D: Yeah
+[0770] [34:50] A: It's better to put it on different markets to know
+[0771] [34:53] B: Yeah
+[0772] [34:54] A: Okay So
+[0773] [34:56] A: that's the the targets
+[0774] [34:58] A: Uh then A few Small things
+[0775] [35:05] A: Uh okay
+[0776] [35:08] A: Uh i will put the minutes in the project uh project documents folder
+[0777] [35:12] A: Um What we're going to do for the next meeting Is the industrial designer of the components concept
+[0778] [35:20] A: User interface designer user interface concept
+[0779] [35:23] A: and the
+[0780] [35:23] A: trendwatching
+[0781] [35:24] A: so
+[0782] [35:24] A: just keep in mind things you said About the target group i uh requirements
+[0783] [35:31] A: And the trends which we're going on
+[0784] [35:34] A: And uh uh specific instructions will be sent to you by uh the personal coach
+[0785] [35:40] A: So
+[0786] [35:41] A: um I think you for this meeting
+[0787] [35:43] A: And I think we have a
+[0788] [35:45] A: lunchbreak now
+[0789] [35:47] D: That's good
+[0790] [35:47] B: Yeah
+[0791] [35:47] A: So
+[0792] [35:48] A: that's a good thing

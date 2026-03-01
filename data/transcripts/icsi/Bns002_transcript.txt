@@ -1,0 +1,1617 @@
+================================================================================
+ICSI Meeting Transcript: Bns002
+================================================================================
+
+Total Utterances: 1609
+Unique Speakers: 5
+Duration: 101.94 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:02] mn021: OK .
+[0002] [00:03] mn082: OK .
+[0003] [00:04] mn082: We can start ?
+[0004] [00:04] mn021: OK .
+[0005] [00:05] mn082: OK .
+[0006] [00:06] mn082: So , welcome to our next meeting .
+[0007] [00:08] mn082: Uh , today we will have a talk from Miguel Sanchez concerning his uh work related to ad - hoc networks .
+[0008] [00:16] mn082: We have here a guest , a former ICSI member of the NSA group , Jordi Domingo Pasqual .
+[0009] [00:23] mn082: He is , uh , assistant professor at UPC .
+[0010] [00:26] mn082: And
+[0011] [00:31] mn082: one or two sentence
+[0012] [00:32] mn082: and because we will have tomorrow a talk from him in more detail concerning what 's going on .
+[0013] [00:39] mn040: Eh
+[0014] [00:40] mn082: Yeah , only a short introduction ,
+[0015] [00:41] mn040: Oh !
+[0016] [00:41] mn082: ve very short introduction , please .
+[0017] [00:42] mn040: Of course .
+[0018] [00:43] mn040: Eh , well , I 'm working in the em Broadband Commu
+[0019] [00:46] mn082: Uh , sorry , one interruption .
+[0020] [00:48] mn082: This is not related to hearing ,
+[0021] [00:50] mn082: it 's only for fixing it .
+[0022] [00:53] mn082: It 's not a earphone .
+[0023] [00:55] mn040: Ah
+[0024] [00:55] mn082: No .
+[0025] [00:56] mn082: So .
+[0026] [00:56] mn040: It works like like this .
+[0027] [00:57] mn082: Yeah , yeah .
+[0028] [00:58] mn082: Like this one .
+[0029] [00:58] mn082: Yeah .
+[0030] [00:59] mn040: Ah ,
+[0031] [00:59] mn082: It 's only a microphone .
+[0032] [00:59] mn040: that
+[0033] [01:00] mn040: Ah ,
+[0034] [01:01] mn082: Yeah ?
+[0035] [01:01] mn040: that 's uh much more comfortable .
+[0036] [01:01] mn082: OK .
+[0037] [01:03] mn082: Yeah .
+[0038] [01:03] mn082: OK .
+[0039] [01:05] mn040: Thank - thank you .
+[0040] [01:06] mn040: I 'm uh working in the Broadband Communications Group
+[0041] [01:09] mn040: and eh ,
+[0042] [01:10] mn040: eh
+[0043] [01:11] mn040: well , the research topics at this moment is uh , I P - eighty traffic monitoring and characterization and em eh tool developing tools uh for quality of service , eh performance analysis .
+[0044] [01:27] mn040: That 's eh And we have several projects eh both Spanish and European projects , ongoing
+[0045] [01:34] mn040: eh in this area .
+[0046] [01:37] mn082: OK .
+[0047] [01:37] mn082: Thank you .
+[0048] [01:39] mn082: And after the talk of uh , Miguel , I will give you all a few slides concerning the project proposal .
+[0049] [01:48] mn082: I will um say something about in which direction it will go
+[0050] [01:55] mn082: and
+[0051] [01:57] mn082: uh
+[0052] [01:58] mn082: Maybe it was my fault that I assumed that the pointer of Miguel concerning UMTS services was deployed to everybody ,
+[0053] [02:08] mn082: but it was only sent to me ,
+[0054] [02:09] mn082: so in the meantime everybody got , I believe , this pointer from me ,
+[0055] [02:12] mn082: and
+[0056] [02:13] mn082: maybe we It 's a homework , in principle , for the next meeting , to get a little bit familiar with these things .
+[0057] [02:19] mn035: Worse than no work .
+[0058] [02:21] mn082: And um
+[0059] [02:22] mn082: so I believe we will not have today a very hard technical discussion ,
+[0060] [02:27] mn082: maybe more a few topic and items we will focus in the next days , until the next meeting .
+[0061] [02:32] mn082: And when we are ready with our meeting .
+[0062] [02:35] mn082: Everything is done .
+[0063] [02:36] mn082: Then , uh , we have to read these number
+[0064] [02:40] mn082: and we go around here , every member .
+[0065] [02:40] mn030: OK .
+[0066] [02:42] mn082: So .
+[0067] [02:43] mn021: OK .
+[0068] [02:44] mn082: Miguel , please .
+[0069] [02:45] mn021: Thank you .
+[0070] [02:45] mn021: Well , eh , I I have prepared , eh , a really short talk about some of the topics
+[0071] [02:51] mn021: I I have been doing some w some research work uh before coming here .
+[0072] [02:57] mn021: And eh , well , mainly I will present
+[0073] [03:00] mn021: uh Here you have more or less the sketch of the presentation .
+[0074] [03:04] mn021: I will present some ideas and some concepts about what ad - hoc networks are ,
+[0075] [03:11] mn021: about the issues in media access control in wireless networks ,
+[0076] [03:17] mn021: also about routing in such kind of networks
+[0077] [03:20] mn021: and , eh , I will make some comments also about uh the current standards of wireless local area networks
+[0078] [03:29] mn021: and finally , I will present the blueprint of of my research project or my research uh proposal here .
+[0079] [03:38] mn021: So the first thing is eh what an ad - hoc network is .
+[0080] [03:44] mn021: You know , uh , an ad - hoc network is made of wireless nodes .
+[0081] [03:49] mn021: These nodes of course can be mobile nodes ,
+[0082] [03:54] mn021: and , eh in this network there is no network infrastructure .
+[0083] [03:59] mn021: So eh the only active thing we have is the mobile nodes .
+[0084] [04:06] mn021: And eh
+[0085] [04:09] mn021: end - to - end communication , is sometimes , uh done by direct communication from one node to the other ,
+[0086] [04:17] mn021: because they can talk to each other .
+[0087] [04:20] mn021: But sometimes it is not possible , this direct communication , because nodes , end uh source or and destination nodes are um are too far away .
+[0088] [04:31] mn021: And in this case , it can be done , communication can be done , by uh using multi - hub routing .
+[0089] [04:39] mn021: So
+[0090] [04:39] mn021: an intermediate , or a set of intermediate nodes will route or will forward the packet from the sender to the destination .
+[0091] [04:53] mn021: So
+[0092] [04:54] mn021: uh in a sense , what we have in this kind of networks , is that , uh nodes are as both arced as both uh endpoints and also routers of other neighboring nodes .
+[0093] [05:09] mn021: And this makes a uh difference from other kind of network .
+[0094] [05:14] mn021: And well , regarding the purposes of what can this kind of network be used for , eh we can say that , well , cellular networks are infrastructure - based networks ,
+[0095] [05:30] mn021: in this kind of ad - hoc networks , we don't have anything uh , with the exception of the network nodes .
+[0096] [05:39] mn021: So , this uh network can be useful for eh uh occasions where no available infrastructure is present ,
+[0097] [05:49] mn021: like for example , in in eh after some kind of of eh um catastrophe catastrophic event ,
+[0098] [05:57] mn021: or , also when even when there is a network available , we don't want , for different reasons , to use the available network .
+[0099] [06:07] mn021: This latt later case can be , for example , the use in military systems ,
+[0100] [06:12] mn021: where maybe we don't want to use the other the enemy network infrastructure , for evident reasons .
+[0101] [06:20] mn021: Yeah .
+[0102] [06:21] mn082: Hmm ?
+[0103] [06:21] mn082: But you can also , I believe , uh to have an ad - hoc network , where one node is then connecting to the outer world .
+[0104] [06:29] mn082: For instance , what I have in mind , you have a car , where you plug in different devices and they talk to each other , for instance ,
+[0105] [06:34] mn082: but one device decided to go to the G S M network or GPS network , or whatever kind of things .
+[0106] [06:39] mn021: That 's OK .
+[0107] [06:40] mn082: So there 's a certain kind of task uh , for one node within the ad - hoc network to provide connectivity to the outer world ,
+[0108] [06:46] mn082: right ?
+[0109] [06:46] mn021: That 's O K .
+[0110] [06:47] mn082: OK .
+[0111] [06:47] mn021: That 's perfect , you know .
+[0112] [06:48] mn082: Yeah .
+[0113] [06:48] mn021: This in this case , we will say that this node is acting as a as a gat external gateway , from this network to connect to other networks ,
+[0114] [06:57] mn082: Right .
+[0115] [06:57] mn021: and of course the underlying uh protocols can can be , of course , uh IP - based .
+[0116] [07:04] mn021: Uh , OK .
+[0117] [07:05] mn021: Here you have several several uh , proposed , uh , scenarios for for used this networks .
+[0118] [07:10] mn021: When no network is available ,
+[0119] [07:13] mn021: OK ?
+[0120] [07:14] mn021: And another another application , for example , NASA is is uh studying , is uh the use of these networks , these ad - hoc networks , for sending multiple probes , uh , um uh missions .
+[0121] [07:31] mn021: So , for example , all of you are aware of this uh the last Atlas , the last successful uh Mars mission ,
+[0122] [07:39] mn021: the cellular vehicle was only one , and was uh walking around , uh roaming around the base station , which in this case was the gateway uh node of this network ,
+[0123] [07:54] mn021: but it was only one mobile node , of course .
+[0124] [07:57] mn021: Nothing prevents ,
+[0125] [07:59] mn021: except well maybe the cost , to send not only one mobile rover , but ten tons of them , or or at least uh several of them .
+[0126] [08:09] mn021: So , uh
+[0127] [08:10] mn021: higher area could be covered , could be explored
+[0128] [08:15] mn021: and uh of course , all the different nodes could also use some kind of ad - hoc networking , , ad - hoc routing , to extend the distance , the maximum distance , than uh a single radio transmission will would allow .
+[0129] [08:30] mn021: OK ?
+[0131] [08:31] mn021: And in the other case , or the other area uh of of of application , is the so - called network of sensors ,
+[0132] [08:41] mn021: where we can deploy a set of sensors in a maybe uninhabited area ,
+[0133] [08:47] mn021: let 's say , for example , the forest ,
+[0134] [08:49] mn021: and we can uh take some information
+[0135] [08:53] mn021: uh , for example for for fire - fighting , we can just launch from a plane , several small sensors ,
+[0136] [09:02] mn021: and uh
+[0137] [09:03] mn021: these sensors can be for example , uh checking that there is no fire ,
+[0138] [09:08] mn021: they can have some kind of uh let 's say infrared technology sensor ,
+[0139] [09:12] mn021: so we can cover a huge area with only a small set of of sensors , and without any other infrastructure .
+[0140] [09:21] mn021: Yeah .
+[0141] [09:22] mn030: Um , is that really an ad - hoc network ?
+[0142] [09:25] mn030: Because the sensors are not moving .
+[0143] [09:27] mn030: And I think it 's makes no sense with moving sensors because then you don't know where the sensors are .
+[0144] [09:32] mn021: Yeah .
+[0145] [09:33] mn030: So .
+[0146] [09:33] mn021: Well ,
+[0147] [09:34] mn021: You know , it 's an interesting question .
+[0148] [09:36] mn021: Uh , the the main thing about an ad - hoc network is not that nodes move .
+[0149] [09:42] mn021: It is the way of topology changes can happen .
+[0150] [09:46] mn021: The idea that mmm , any change is possible at any given moment .
+[0151] [09:53] mn021: But you can of course ask , " but if the nodes are not moving , what kind of topology changes can we expect ? "
+[0152] [09:59] mn030: Yeah .
+[0153] [09:59] mn030: That 's it .
+[0154] [09:59] mn021: Well , eh , the thing is that usually in in a n in a network of sensors , what we have , or the idea is to have um , an important number of sensors , and maybe with a high filer rate .
+[0155] [09:59] mn082: Yeah .
+[0156] [10:14] mn021: maybe the batteries are uh exhausted in some nodes because maybe uh they are not being able to take uh , let 's say , any sun to recharge its cells ,
+[0157] [10:21] mn030: OK .
+[0158] [10:22] mn030: Mm - hmm .
+[0159] [10:27] mn021: uh maybe some of them can be uh just uh out of order for other eh environmenta environmental conditions .
+[0160] [10:36] mn021: So uh the idea is that even when these nodes are not moving , they can start and stop working at uh , let 's say , higher pace .
+[0161] [10:46] mn021: Then , uh what will happen in a in a regular network , uh in a network where you don't have or either mobility or uh this uh on - off uh rate , high rate .
+[0162] [10:56] mn082: Mm - hmm .
+[0163] [10:58] mn082: Let me go back to your uh uh example .
+[0164] [10:59] mn030: Hmm .
+[0165] [11:00] mn021: Yeah .
+[0166] [11:01] mn082: Have in mind some routers are burnt here , at ICSI or whatever kind of thing ,
+[0167] [11:06] mn082: what will happen then even in a fixed network ?
+[0168] [11:06] mn030: Mm - hmm .
+[0169] [11:08] mn082: So , if some sensors are getting out of uh service and whatever kind of thing , so the topology has changed , even if no node is moving .
+[0170] [11:15] mn030: OK .
+[0171] [11:17] mn030: Mm - hmm ,
+[0172] [11:18] mn082: Yeah .
+[0173] [11:18] mn030: OK .
+[0174] [11:18] mn082: And how to provide the connectivity and the intercommunication things wi within this network .
+[0175] [11:24] mn021: Thank you , Joe .
+[0176] [11:24] mn030: Yeah ,
+[0177] [11:24] mn030: I see .
+[0178] [11:24] mn030: Mm - hmm .
+[0179] [11:26] mn021: Well ,
+[0180] [11:26] mn021: uh , you know , and finally , uh , another non - military applications , where uh maybe a network is available , like for example , a room like this ,
+[0181] [11:35] mn021: where we have , in fa in fact , a wired infrastructure ,
+[0182] [11:39] mn021: but this uh possible application of ad - hoc networks could be uh , any place , any meeting room , where we arrive with our computers
+[0183] [11:51] mn021: and eh we just can communicate seamlessly to each other without any kind of access point , any kind of uh mmm external network ,
+[0184] [12:02] mn021: because the kind of work we want to do is just only local based ,
+[0185] [12:07] mn021: it 's only to chat to each other or to exchange files with the person , which is in front of us .
+[0186] [12:13] mn021: OK ,
+[0187] [12:13] mn021: but we n don't want to product pro provide , eh , access to the internet or something .
+[0188] [12:19] mn021: OK ?
+[0189] [12:20] mn021: And , of course , the same eh the same scenario , could also happen in a place where there is no uh , infrastructure available .
+[0190] [12:29] mn021: Let 's say a meeting room uh , in in the middle of the desert ,
+[0191] [12:33] mn021: OK ? ,
+[0192] [12:33] mn021: without any other network .
+[0193] [12:38] mn021: So
+[0194] [12:39] mn021: the point or or the question could be for some of us , the idea of saying " OK ,
+[0195] [12:44] mn021: That sounds OK ,
+[0196] [12:45] mn021: but why not to use a longer transmission range , so we can reach any destination in just one hop ? "
+[0197] [12:55] mn021: This seems to make sense because , well , uh we are this way avoiding all the routing problem
+[0198] [13:02] mn021: that , well , we will talk a little bit uh , about routing later ,
+[0199] [13:07] mn021: but uh
+[0200] [13:07] mn021: it it seems that i probably that the problem is is not an easy one ,
+[0201] [13:12] mn021: because uh a node 's moving , the route is changing ,
+[0202] [13:16] mn021: so w one can think that routing in this uh scenario is is a complex thing .
+[0203] [13:20] mn021: But the problem is if w we just uh try to put more power in each tr transmitter ,
+[0204] [13:27] mn021: so this uh transmitter can reach any destination in only one hop ,
+[0205] [13:32] mn021: what we are doing is uh to rising the power needs of each node ,
+[0206] [13:38] mn021: and also we are reducing the network uh throughput ,
+[0207] [13:42] mn021: because we are only allowing one transmissio one transmission at a time .
+[0208] [13:48] mn021: Because uh , well , we cannot allow several transmissions , several high - powered transmissions at the same time
+[0209] [13:55] mn021: because one is interfering with the other .
+[0210] [13:58] mn021: OK ?
+[0211] [13:59] mn021: We
+[0212] [13:59] mn021: uh I think I 'm not telling it yet ,
+[0213] [14:02] mn021: but we are assuming that we are using a single common channel for all the nodes .
+[0214] [14:07] mn021: OK ?
+[0215] [14:08] mn021: So that 's why we cannot allow several transmitters in the same channel at the same time .
+[0216] [14:14] mn021: OK ?
+[0217] [14:15] mn021: So , the idea of hav having a longer transmission range is not a good one .
+[0218] [14:22] mn021: or at least it has the drawbacks um , um , I was telling you .
+[0219] [14:28] mn021: Eh , let 's speak a little bit about the media access issues in in wireless networks ,
+[0220] [14:35] mn021: Uh , you know , the easiest eh way to to show how this works is or at least one of I think one of the easiest is that this drawing , or this picture ,
+[0221] [14:47] mn021: what what we have is a set of nodes , each one at a different location .
+[0222] [14:51] mn021: At at at a at an at a given moment this eh node , this dash node is is transmitting
+[0223] [15:00] mn021: and uh , the arrows are representing this transmission
+[0224] [15:06] mn021: and the receiving nodes , these three nodes , are receiving the transmission ,
+[0225] [15:12] mn021: and I 'm trying to uh show the area , the covered area , for of this transmission by means of this uh dashed eh line circle .
+[0226] [15:22] mn021: OK ?
+[0227] [15:23] mn021: So , uh , any transmission has a maximum transmission range ,
+[0228] [15:29] mn021: and uh in the simpler way , we can see this like a circle with the center in the transmitter and a certain radius .
+[0229] [15:39] mn021: OK ?
+[0230] [15:40] mn021: The value of this radius is uh in principle , is a fixed value
+[0231] [15:45] mn021: and it depends on the uh power of the transmitter .
+[0232] [15:50] mn021: Of course , uh this is only our uh simplife simplified model
+[0233] [15:55] mn021: and of course this can be uh improved uh a lot ,
+[0234] [15:59] mn021: OK ?
+[0235] [16:00] mn021: And in fact the real behavior is not exactly this one ,
+[0236] [16:03] mn021: but uh for for what I want to say it 's it 's OK ,
+[0237] [16:08] mn021: it 's enough .
+[0238] [16:09] mn021: OK ?
+[0239] [16:10] mn021: So
+[0240] [16:12] mn021: what are the differences uh , in this in this eh wireless transmission , regarding uh to the wireless to the wired ones .
+[0241] [16:22] mn021: What what are the d the main differences .
+[0242] [16:25] mn021: Well , the main differences come from the fact that , uh in uh in uh wireless transmission we have a special domain we don't have when we are using a wire for transmitting a signal .
+[0243] [16:40] mn021: And the point I 'm trying to show in this picture , is that if for example , this other node wants also to transmit while this one was transmitting , if we are using some kind of carry detect scheme , like for example , CSMA , or something uh uh derivated from it , the problem is that this node will hear the g the m the transmission media ,
+[0244] [17:06] mn021: it won't be able to hear anything
+[0245] [17:09] mn021: so , he will conclude that no other transmission is going on ,
+[0246] [17:14] mn021: and he will start transmitting .
+[0247] [17:16] mn021: And if he does , what will happen is that this node and this other node will also receive this transmission ,
+[0248] [17:24] mn021: and this will produce , at least at these two nodes , a collision or a m a m a a re a bad reception .
+[0249] [17:32] mn021: OK ?
+[0250] [17:32] mn021: So none of these two simultaneous transmissions will be properly received at this node nor at this other node .
+[0251] [17:42] mn021: OK ,
+[0252] [17:43] mn021: eh
+[0253] [17:46] mn021: Oh , sorry .
+[0254] [17:47] mn021: uh
+[0255] [17:48] mn021: I think this is the previous one ?
+[0256] [17:51] mn021: This
+[0257] [17:51] mn082: Uh .
+[0258] [17:52] mn035: No .
+[0259] [17:53] mn035: One
+[0260] [17:53] mn082: Yes ,
+[0261] [17:53] mn021: OK ,
+[0263] [17:53] mn082: this one .
+[0264] [17:54] mn021: thank you .
+[0265] [17:55] mn021: Eh
+[0266] [17:56] mn021: this is what is called a " hidden terminal " problem .
+[0267] [17:59] mn021: OK ?
+[0268] [17:59] mn021: because well uh this node is not able to hear this other node because of the distance uh , between them .
+[0269] [18:08] mn021: But Uh , this problem , as you can see in the in the picture , is uh really producing at least some reception problem at these two nodes .
+[0270] [18:17] mn021: OK ,
+[0271] [18:18] mn021: so it is it is a problem that we have to address
+[0272] [18:22] mn021: and it is a new problem compared to wired uh media access control .
+[0273] [18:28] mn021: And , uh ,
+[0274] [18:29] mn021: well , some devel some protocols have been developed to avoid this problem and to try to address this particular behavior of wireless transmissions
+[0275] [18:40] mn021: and the main idea is to use some kind of a reservation mechanism .
+[0276] [18:46] mn021: So
+[0277] [18:47] mn021: we are um reserving a certain , and a specific uh , area of space so we can guarantee that nobody is trying to use the same space at the same time .
+[0278] [19:01] mn021: OK ?
+[0279] [19:02] mn021: This is the basic idea .
+[0280] [19:02] mn082: Mm - hmm .
+[0281] [19:03] mn082: Um
+[0282] [19:03] mn021: Yeah ?
+[0283] [19:03] mn082: Miguel , can you give some examples for such kind of protocols ?
+[0284] [19:07] mn021: Yeah .
+[0285] [19:07] mn021: Yeah
+[0286] [19:07] mn082: One
+[0287] [19:08] mn021: This one .
+[0288] [19:09] mn021: This
+[0289] [19:09] mn082: OK .
+[0290] [19:10] mn082: Yeah , yeah .
+[0291] [19:10] mn082: OK .
+[0292] [19:11] mn021: OK ,
+[0293] [19:11] mn021: in eh the the the main idea and and the base of most of this protocols , is what this the so - called RTS CTS uh dialogue .
+[0294] [19:21] mn021: The idea is that ,
+[0295] [19:23] mn021: uh ,
+[0296] [19:24] mn021: of course , this is only intended for unicast transmissions ,
+[0297] [19:27] mn021: I mean , only for when a node wants to transmit something to a neighbor node .
+[0298] [19:33] mn021: OK ?
+[0299] [19:34] mn021: But not to broadcast . Uh , to all the nodes .
+[0300] [19:38] mn021: OK .
+[0301] [19:38] mn021: For this for this eh , work , the transmitter has to send a a a reservation packet called RTS , " Request To Send " , before eh being able to send data .
+[0302] [19:52] mn021: And the receiver is expected to return back another packet called CTS , " Clear To Send " , to allow the transmitter to send the data .
+[0303] [20:04] mn021: If the transmitter receives successfully the CTS packet from the destination , then it will be able to send eh the packet , the data packet .
+[0304] [20:14] mn021: If not , it will h uh , back off , and it will retry uh sometime later .
+[0305] [20:20] mn021: OK ?
+[0306] [20:21] mn021: So
+[0307] [20:21] mn082: And the media is is is still occupied during that period ,
+[0308] [20:25] mn082: or ?
+[0309] [20:26] mn021: Uh .
+[0310] [20:26] mn021: Yes .
+[0311] [20:27] mn021: Yes .
+[0312] [20:27] mn082: OK .
+[0313] [20:28] mn021: The idea is uh , if I want to send you something , I first of all , I need you to answer me to be sure that you are my neighbor now
+[0314] [20:39] mn021: because maybe you are off or maybe you are uh too far away ,
+[0315] [20:42] mn021: and also because that way Miguel , for example , it may be is not being able to hearing me will hear your CTS and will know that you are about to receive uh data from me .
+[0316] [20:55] mn021: OK ?
+[0317] [20:56] mn021: So
+[0318] [20:57] mn021: in fact , forcing the receiver to transmit for a short period of time is also uh , used to signal all the uh receiver neighbors that a recept a reception is taking place .
+[0319] [21:14] mn021: OK ?
+[0320] [21:14] mn082: Yeah .
+[0321] [21:15] mn082: I didn't get it .
+[0322] [21:15] mn082: Um , what happened when I sent an RTS packet ?
+[0323] [21:19] mn082: Is then the media still occupied for me ?
+[0324] [21:23] mn082: Or , is anybody allowed also to send RTS packets ?
+[0325] [21:27] mn021: Or
+[0326] [21:27] mn082: Because if I go to an intermediate node , maybe you are communicating to me
+[0327] [21:31] mn082: and I am the intermediate node to the final destination Michael .
+[0328] [21:34] mn082: And Michael send also some RTS packet in the time and and uh uh uh Jordi too and whatever .
+[0329] [21:40] mn021: Yeah .
+[0330] [21:40] mn082: Then
+[0331] [21:42] mn082: then you 're always exchanging RTS and non - acknowledgement packets for the RTS .
+[0332] [21:46] mn021: OK .
+[0333] [21:47] mn021: Two two things .
+[0334] [21:47] mn082: So that 's uh that 's uh , my my problem .
+[0335] [21:49] mn021: First of all , eh , this this mechanism is only a media access controlled mechanism ,
+[0336] [21:54] mn021: so it is not connected with routing eh , anyhow .
+[0337] [21:57] mn082: Then , fine .
+[0338] [21:58] mn021: And , second point ,
+[0339] [21:59] mn082: OK .
+[0340] [22:00] mn021: eh
+[0341] [22:01] mn082: So it 's only related to the direct neighbor within the scope of the transmissions ?
+[0342] [22:02] mn021: RTS
+[0343] [22:04] mn021: Yeah ,
+[0344] [22:05] mn021: RTS packets can collide to other RTS packets .
+[0345] [22:05] mn082: OK .
+[0346] [22:09] mn021: So , this mechanism is not uh preventing collisions ,
+[0347] [22:14] mn021: it is preventing only data collisions .
+[0348] [22:18] mn021: OK ?
+[0349] [22:18] mn082: OK .
+[0350] [22:18] mn021: So
+[0351] [22:20] mn021: And and you can say " OK ,
+[0352] [22:22] mn021: but what is the what the benefit is ? "
+[0353] [22:24] mn021: The benefit is that , eh RTS packets and CTS packets are short packets ,
+[0354] [22:31] mn021: really short packets .
+[0355] [22:32] mn021: Let 's say eh eh 30 bytes or less .
+[0356] [22:33] mn082: I assume so .
+[0357] [22:33] mn082: Yeah .
+[0358] [22:36] mn021: while data packets can be much mor much bigger .
+[0359] [22:40] mn021: Let 's say uh one - K , five - K - s .
+[0360] [22:44] mn021: OK ?
+[0361] [22:44] mn082: Yeah .
+[0362] [22:44] mn021: So
+[0363] [22:44] mn082: Fine .
+[0364] [22:45] mn021: a collision in this short packet is only wasting a small amount of time .
+[0365] [22:52] mn021: And , uh
+[0366] [22:53] mn021: if that way we can warranty that there is there are there is no collision uh uh , between data packet , well , this this is this means a a huge eh increase in network throughput ,
+[0367] [23:09] mn021: because we well , we we only waste really small time colliding .
+[0368] [23:16] mn082: OK ,
+[0369] [23:16] mn021: OK ?
+[0370] [23:16] mn082: but that means , in principle , that on the MAC layer you have always a RTS CTS packet between neighboring nodes ,
+[0371] [23:24] mn021: Yeah .
+[0372] [23:24] mn082: and you send afterwards the data .
+[0373] [23:25] mn082: But the data will be maybe delayed in the intermediate node because you have always be assured to be uh s uh uh RTS and CTS packets are changed before before you can forewarning the data ,
+[0374] [23:37] mn082: right ?
+[0375] [23:38] mn021: Yeah .
+[0376] [23:38] mn021: It is a reservation mechanism ,
+[0377] [23:38] mn082: Yeah .
+[0378] [23:40] mn082: OK .
+[0379] [23:40] mn021: so
+[0380] [23:40] mn021: if reservation doesn't work OK , if uh one reservation don't succeed then , uh , this transmission should have to wait .
+[0381] [23:51] mn082: Now the p
+[0382] [23:52] mn021: until
+[0383] [23:54] mn021: OK ,
+[0384] [23:54] mn021: yeah ,
+[0385] [23:54] mn021: let
+[0386] [23:54] mn082: Maybe
+[0387] [23:58] mn082: Oops .
+[0388] [23:59] mn021: l
+[0389] [24:01] mn082: So , maybe my idea first .
+[0390] [24:03] mn082: So this is what , node one ?
+[0391] [24:05] mn082: This is node two
+[0392] [24:06] mn082: and this is the source ,
+[0393] [24:06] mn021: Yeah .
+[0394] [24:08] mn082: and this is node three that is the final destination .
+[0395] [24:10] mn021: Yeah .
+[0396] [24:10] mn021: Fo - fo for forget forget about routing .
+[0397] [24:10] mn082: Yeah ?
+[0398] [24:12] mn082: Yeah , yeah .
+[0399] [24:12] mn082: OK .
+[0400] [24:13] mn082: But - but anyway , I would like to do that in the ad - hoc network .
+[0401] [24:16] mn082: This is maybe the sco this is within the scope of this , uh special network .
+[0402] [24:21] mn082: That means here that is uh within the transmission power .
+[0403] [24:24] mn021: OK .
+[0404] [24:27] mn082: So if I send an RTS , and get back , um , a CTS , then he is allowed to send data , right ?
+[0405] [24:29] mn021: Mm - hmm .
+[0406] [24:32] mn021: a CTS .
+[0407] [24:35] mn021: That 's OK .
+[0408] [24:36] mn082: So . In the meantime , when he gets this one , he also had to send RTS and then CTS
+[0409] [24:43] mn082: because this is the next next scope of the transmission area ,
+[0410] [24:44] mn021: Mm - hmm .
+[0411] [24:46] mn082: and then he can send the data , right ?
+[0412] [24:48] mn021: OK .
+[0413] [24:50] mn082: That 's the case ?
+[0414] [24:51] mn021: That 's it .
+[0415] [24:51] mn021: That
+[0416] [24:51] mn082: Yeah ?
+[0417] [24:52] mn082: And that 's what I mean .
+[0418] [24:53] mn082: In the meantime , he c still can get some data here , where he try to get certain connectivity on the MAC layer .
+[0419] [24:56] mn021: Mm - hmm .
+[0420] [25:00] mn021: Yeah , but eh a node is only is only involved in one transmission at a given time .
+[0421] [25:07] mn021: So
+[0422] [25:08] mn021: if now two has uh mmm answer with the with the CTS , it will be waiting until the data that has to come .
+[0423] [25:14] mn082: Yeah ?
+[0424] [25:19] mn082: OK ,
+[0425] [25:19] mn021: OK ?
+[0426] [25:19] mn082: and then he try to forward this data .
+[0427] [25:21] mn021: Yeah .
+[0428] [25:22] mn082: After that .
+[0429] [25:22] mn021: But n not before .
+[0430] [25:22] mn082: So he is definitely first to stop .
+[0431] [25:24] mn082: He has to collect all the data ?
+[0432] [25:25] mn021: Yeah .
+[0433] [25:26] mn021: Yeah
+[0434] [25:26] mn082: Could it not be a little bit strange
+[0435] [25:27] mn082: because if that is starting a file transfer with millions of bytes , he have to collect all the bytes before he forwarding to to whatever .
+[0436] [25:33] mn021: No , no , no .
+[0437] [25:33] mn021: But we are we are talking only about a data packet .
+[0438] [25:35] mn082: Huh ?
+[0439] [25:36] mn082: One data p
+[0440] [25:37] mn021: at the MAC layer .
+[0441] [25:37] mn082: He have to do it for all data packets ?
+[0442] [25:39] mn021: Yeah .
+[0443] [25:39] mn082: OK .
+[0444] [25:42] mn082: OK .
+[0445] [25:43] mn082: So but , in principle , when he receives the data packet then he The same applies for the next data packet .
+[0446] [25:50] mn021: Yeah .
+[0447] [25:51] mn021: All the packets ,
+[0448] [25:52] mn021: all unicast packets .
+[0449] [25:52] mn082: but anyway in the meantime he has to forward the packet to the final destination .
+[0450] [25:57] mn021: Yeah .
+[0451] [25:58] mn021: That that true .
+[0452] [25:58] mn082: Right ?
+[0453] [25:59] mn021: That 's true .
+[0454] [25:59] mn082: So it 's acting , in in prin
+[0455] [25:59] mn021: But not in the meantime .
+[0456] [26:00] mn021: After receiving You know , in fact , probably the routing protocol will need to check the address the the let 's say IP address , which is inside the data packet ,
+[0457] [26:07] mn082: OK .
+[0458] [26:10] mn082: Yeah .
+[0459] [26:13] mn021: so ,
+[0460] [26:13] mn021: you cannot u usually you cannot , uh , read the data packet until you the reception is over .
+[0461] [26:22] mn021: OK ?
+[0462] [26:22] mn021: because usually your network hardware only provides you a copy of a packet after ou a a successful reception
+[0463] [26:31] mn021: and usually you know that reception is successful if every bit has passed the CRC check .
+[0464] [26:40] mn021: OK ?
+[0465] [26:40] mn021: You have checked that the that this frame has received uh without errors .
+[0466] [26:41] mn082: Naja
+[0467] [26:42] mn082: Yeah .
+[0468] [26:45] mn021: OK ?
+[0469] [26:45] mn082: Mm - hmm .
+[0470] [26:46] mn082: Yeah , @ @ .
+[0471] [26:46] mn082: OK .
+[0472] [26:47] mn021: So
+[0473] [26:47] mn030: Um , a further question .
+[0474] [26:48] mn021: Yeah .
+[0475] [26:49] mn030: Um .
+[0476] [26:49] mn021: That 's OK .
+[0477] [26:50] mn030: Am I right that this um dialogue does not prevent um any disturbance of other nodes in the um sending range of , yeah , N - one .
+[0478] [27:01] mn021: Yeah , let me let me put some special representation of what we are doing .
+[0479] [27:02] mn030: S
+[0480] [27:08] mn021: OK .
+[0481] [27:08] mn021: This is the transmitting node ,
+[0482] [27:11] mn021: this is the receiving node ,
+[0483] [27:14] mn021: and these two areas , of course , there 's something like this , are the uh places of the total space where you can hear the Here , this one is the RTS and this one is the CTS .
+[0484] [27:30] mn030: Mm - hmm .
+[0485] [27:31] mn021: So , any node ,
+[0486] [27:32] mn021: for example , this node is a neighbor of the receiving node ,
+[0487] [27:36] mn030: Mm - hmm .
+[0488] [27:36] mn021: but it is not a neighbor of the transmitting node .
+[0489] [27:39] mn030: Yeah .
+[0490] [27:39] mn030: That 's it .
+[0491] [27:40] mn021: So when this node hears the CTS transmission that is performed by the receiver , this will be uh informed , that a recev a reception is taking place in in in it 's area .
+[0492] [27:44] mn030: Mm - hmm .
+[0493] [27:55] mn030: Mm - hmm .
+[0494] [27:55] mn021: OK ?
+[0495] [27:56] mn021: So
+[0496] [27:56] mn021: in fact , this node will avoid any further transmission until uh this reception , that will start in in a moment , is over .
+[0497] [28:07] mn030: But then this node , um , this transmission is uh aborted .
+[0498] [28:07] mn021: OK ?
+[0499] [28:11] mn082: And delayed .
+[0500] [28:11] mn030: And so there 's no advantage to uh if it 's aborted , by by any data packets .
+[0501] [28:12] mn082: Yeah .
+[0502] [28:18] mn030: So this um node has to stop each transmission .
+[0503] [28:22] mn021: Yeah .
+[0504] [28:22] mn030: So , even the at - the - moment - ongoing transmission .
+[0505] [28:27] mn021: Mm - hmm .
+[0506] [28:27] mn030: Is that right ?
+[0507] [28:28] mn021: Yeah .
+[0508] [28:29] mn030: So , his transmission is aborted .
+[0509] [28:31] mn082: Yeah , but this is typical for MAC layer protocols , you know .
+[0510] [28:32] mn021: Not
+[0511] [28:32] mn021: No .
+[0512] [28:33] mn021: No .
+[0513] [28:34] mn082: That
+[0514] [28:34] mn021: Let me let me let me show you one thing .
+[0515] [28:37] mn021: If this node was transmitting before , it should uh it should ha uh transmit an RTS packet in advance , OK ?
+[0516] [28:41] mn030: Mm - hmm .
+[0517] [28:48] mn030: Mm - hmm .
+[0518] [28:48] mn021: So this node should hear it before .
+[0519] [28:50] mn030: Yeah .
+[0520] [28:50] mn082: Yeah .
+[0521] [28:51] mn030: That 's right .
+[0522] [28:51] mn082: Yeah .
+[0523] [28:51] mn030: Mm - hmm .
+[0524] [28:52] mn021: So this node is W won't be sending the eh eh CTS packet to the transmitter .
+[0525] [28:52] mn030: OK .
+[0526] [28:53] mn030: Yeah .
+[0527] [28:58] mn082: Yeah .
+[0528] [28:59] mn030: Mm - hmm .
+[0529] [28:59] mn021: So this transmission won't take place .
+[0530] [29:01] mn030: OK ,
+[0531] [29:01] mn030: yeah .
+[0532] [29:01] mn082: Yeah .
+[0533] [29:02] mn082: It 's always true that only one node gets a media access , for one frame .
+[0534] [29:02] mn030: Mm - hmm .
+[0535] [29:06] mn030: Mm - hmm .
+[0536] [29:08] mn082: That 's the point .
+[0537] [29:08] mn021: M Yeah .
+[0538] [29:08] mn082: We always said " from data "
+[0539] [29:09] mn082: but it 's really one frame .
+[0540] [29:10] mn021: Yeah .
+[0541] [29:11] mn082: Yeah ,
+[0542] [29:11] mn082: OK .
+[0543] [29:11] mn021: And , in fact , uh there is another detail ,
+[0544] [29:13] mn021: it is not uh uh uh uh in on the on the slide ,
+[0545] [29:18] mn021: and it is that both the RTS and the CTS packet uh , have a field , a control field where the total length of the data packet is shown .
+[0546] [29:33] mn030: Mm - hmm .
+[0547] [29:33] mn021: So
+[0548] [29:34] mn021: when you hear one uh CTS or one uh RTS packet , you know that the frame that they are trying to transmit or , that this one is trying to transmit this one is about to receive You know the length .
+[0549] [29:49] mn021: You know the bit rate ,
+[0550] [29:50] mn030: Mm - hmm .
+[0551] [29:50] mn021: so you know that the amount of time you have to wait until you can try to get the control , or t try to send your own transmission .
+[0552] [29:59] mn030: Mm - hmm .
+[0553] [30:00] mn030: OK ,
+[0554] [30:01] mn030: but this scenario is also nov uh , only working if um both or all nodes have the same range of transmission .
+[0555] [30:11] mn030: So , the s same radius of the sending range .
+[0556] [30:14] mn021: Mmm , yeah .
+[0557] [30:14] mn030: So otherwise um this one node maybe um would hear his neighbor but not vice versa .
+[0558] [30:24] mn021: Uh , well , we are assuming that uh mmm all the all the transmissions are bidirectional .
+[0559] [30:32] mn021: I mean , uh you know it depends .
+[0560] [30:37] mn021: It depends mainly on on the antenna gain and the transmission power and the receiver uh threshold .
+[0561] [30:42] mn030: Mm - hmm .
+[0562] [30:46] mn030: Mm - hmm .
+[0563] [30:47] mn021: OK ?
+[0564] [30:47] mn082: Uh - huh .
+[0565] [30:47] mn030: But I 'm thinking about this example you gave before .
+[0566] [30:47] mn082: Maybe maybe you are right .
+[0567] [30:48] mn021: S
+[0568] [30:49] mn021: So what what we are assuming is that all the nodes behave exactly the same regarding to uh transmission and receiving signals .
+[0569] [30:57] mn082: Yeah ,
+[0570] [30:58] mn082: but , Miguel , this is a good point from from Dietmar ,
+[0571] [30:58] mn030: Yeah .
+[0572] [31:00] mn082: but maybe here is a wall .
+[0573] [31:03] mn082: And this guy is behind the wall , so his transmission rate is something like that .
+[0574] [31:05] mn021: Yeah
+[0575] [31:06] mn021: yeah
+[0576] [31:07] mn021: but the but in this case , you know this this idea , this uh geometric idea , can be can be , if you want , uh deformed because of some obstacles .
+[0577] [31:19] mn021: OK ?
+[0578] [31:19] mn021: But this wall is working both ways .
+[0579] [31:23] mn021: It is not only making this node not to hear this one , it 's also making this one not to hear this node .
+[0580] [31:29] mn030: But
+[0581] [31:30] mn021: So
+[0582] [31:31] mn021: if
+[0583] [31:32] mn021: Because of this wall , if they are not neighbors , well , we can represent this putting this node like here .
+[0584] [31:40] mn030: But one of the um senders could be much stronger than the other one .
+[0585] [31:40] mn021: OK ?
+[0586] [31:44] mn021: No , but this is not the scenario we are assuming .
+[0587] [31:44] mn030: So
+[0588] [31:45] mn030: OK .
+[0589] [31:46] mn030: So that was my question .
+[0590] [31:47] mn021: Yeah .
+[0591] [31:47] mn082: Mm - hmm .
+[0592] [31:47] mn082: OK .
+[0593] [31:48] mn021: We are assuming all the nodes are exactly the same .
+[0594] [31:51] mn030: OK .
+[0595] [31:51] mn021: Uh , so they transmit the same power ,
+[0596] [31:54] mn021: and they uh have the same uh uh sensitivity .
+[0597] [31:58] mn030: Mm - hmm .
+[0598] [31:58] mn021: So
+[0599] [31:58] mn030: OK .
+[0600] [32:00] mn021: If if if I can hear you , you can hear me .
+[0601] [32:02] mn030: Mm - hmm .
+[0602] [32:03] mn021: and and the opposite works also .
+[0603] [32:05] mn030: Mm - hmm .
+[0604] [32:05] mn021: OK ,
+[0605] [32:06] mn021: if you cannot hear me , I cannot hear you .
+[0606] [32:06] mn030: But
+[0607] [32:07] mn030: Mm - hmm .
+[0608] [32:07] mn030: OK .
+[0609] [32:08] mn030: It 's a assumption it 's it 's clear .
+[0610] [32:09] mn030: But on the other hand , um , in a real world it isn't , or ?
+[0611] [32:13] mn030: Um .
+[0612] [32:14] mn021: In a ?
+[0613] [32:14] mn030: In
+[0614] [32:15] mn035: It
+[0615] [32:16] mn021: Uh not really ,
+[0616] [32:18] mn021: but also depends on uh you know , for example power relationships , and antenna relationships .
+[0617] [32:24] mn030: Yeah ,
+[0618] [32:25] mn021: You know , eh
+[0619] [32:25] mn030: eh that 's it .
+[0620] [32:26] mn021: Because
+[0621] [32:26] mn030: A
+[0622] [32:28] mn021: because for example , uh one kind of thing ,
+[0623] [32:31] mn021: OK , if I use a directional antenna , this is making that in one direction ,
+[0624] [32:36] mn030: Yeah .
+[0625] [32:36] mn030: Mm - hmm .
+[0626] [32:36] mn021: I 'm getting more uh let 's say more gain than another .
+[0627] [32:40] mn030: Yeah ,
+[0628] [32:41] mn021: And that 's true
+[0629] [32:41] mn030: OK .
+[0630] [32:42] mn021: but th that What is also true is that one directional antenna works both ways .
+[0631] [32:42] mn030: That
+[0632] [32:43] mn030: You 're not assuming this .
+[0633] [32:45] mn030: Yeah .
+[0634] [32:48] mn021: It provides you more gain when you are transmitting but also when you are receiving .
+[0635] [32:53] mn021: so , in general , in general even when if there uh if there i are different antenna gains , uh , you 're getting mainly bidirectional channels .
+[0636] [33:05] mn021: Only when you have a an important uh power difference is when l um , the communication can only work one way .
+[0637] [33:13] mn030: Yeah .
+[0638] [33:14] mn030: OK .
+[0639] [33:14] mn021: For example , you have one big station with uh a lot of transmission power ,
+[0640] [33:22] mn021: and then you have a really small mobile uh thing that can hear perfectly the signal from this uh uh bigger station ,
+[0641] [33:24] mn030: Yeah .
+[0642] [33:26] mn030: Yeah , a cellular phone and a car .
+[0643] [33:31] mn021: but it has not enough power to transmit something that can be heard here .
+[0644] [33:35] mn030: Mm - hmm .
+[0645] [33:36] mn030: Yeah .
+[0646] [33:37] mn021: So
+[0647] [33:39] mn021: But this this this is not our scenario .
+[0648] [33:39] mn030: OK .
+[0649] [33:42] mn021: In our scenario , all the nodes are exactly the same .
+[0650] [33:42] mn030: Mm - hmm .
+[0651] [33:46] mn030: OK .
+[0652] [33:46] mn021: They they have the same uh signal uh behavior .
+[0653] [33:46] mn030: Mm - hmm .
+[0654] [33:50] mn021: So
+[0655] [33:51] mn021: this is not a problem for us ,
+[0656] [33:54] mn021: at least for the moment ,
+[0657] [33:55] mn021: maybe later we 'll see some differences .
+[0658] [33:59] mn021: So
+[0659] [34:01] mn021: You know , the idea is that this mechanism is a reservation mechanism .
+[0660] [34:05] mn021: And what we are doing here is try to reserve the area of space we are covering
+[0661] [34:11] mn021: and eh here 's where our some of our work is done .
+[0662] [34:17] mn021: The main idea for for our work , is well , if we are using this reservation mechanism , we are reserving an area of space for a single transmission .
+[0663] [34:31] mn021: Uh , if this area is bigger than what is really needed , we are , somehow , wasting a little bit of space .
+[0664] [34:40] mn021: So , uh
+[0665] [34:41] mn021: our first eh work in this area was to study different mechanisms to try to adjust these transmission values ,
+[0666] [34:51] mn021: these uh the area , the covered area , for a single transmission , trying to get a minimum value ,
+[0667] [35:00] mn021: so we can reduce the not - used space for other simultaneous transmissions .
+[0668] [35:10] mn021: And this will lead us to a a better to a better network throughput , to higher number of simultaneous transmissions .
+[0669] [35:21] mn021: And , we have , uh mmm , worked about this problem uh , in two different uh ways .
+[0670] [35:30] mn021: One of these ways has been try to find a mechanism to uh calculate an optimal value for the transmission range uh , and to get an equal value for all the transmitters .
+[0671] [35:49] mn021: So , the idea in this first work was to obtain a fixed value for the transmission range .
+[0672] [35:58] mn021: And
+[0673] [36:03] mn021: Oops !
+[0674] [36:04] mn021: It is about uh , an algorithm to adapt the transmission power for every for every single transmission .
+[0675] [36:15] mn021: So , uh , in this second part of our work , we are using a different value for every single transmission .
+[0676] [36:24] mn021: So .
+[0677] [36:27] mn021: First point , what we have proposed is a way to obtain the transmission range uh for uh for an escenario where we know the number of nodes
+[0678] [36:44] mn021: and the area of deployment , we have a a fixed area , where we deploy all the nodes ,
+[0679] [36:51] mn021: we have a fixed number of nodes ,
+[0680] [36:53] mn021: and , uh we assume that these nodes are moving freely around this this area
+[0681] [37:00] mn021: and
+[0682] [37:19] mn021: the better possible throughput ,
+[0683] [37:21] mn021: OK ?
+[0684] [37:22] mn021: but without our network getting partitioned ,
+[0685] [37:27] mn021: which is a problem that we are trying to avoid .
+[0686] [37:31] mn021: You know , if we have , because of node motion , we have something like this ,
+[0687] [37:37] mn021: this is the deployment area of or or node ,
+[0688] [37:42] mn021: and if we have some nodes here and some nodes here , well maybe these nodes in this area , cannot reach the nodes on this other area .
+[0689] [37:53] mn021: OK ?
+[0690] [37:53] mn021: Uh , so what can we do to avoid this ?
+[0691] [37:57] mn021: Of course we can choose uh our transmission values longer enough to reach from so the nodes from this area will be able to reach the nodes on this other area .
+[0692] [38:10] mn021: OK ?
+[0693] [38:10] mn021: But , again , we can assume that eh if uh , nodes are moving , uh more or less uh in a random fashion , this configuration is not very likely to happen .
+[0694] [38:27] mn021: OK ?
+[0695] [38:28] mn021: So the point we ha what we have done is to present a mechanism would pr which provides uh one uh value for a given uh mmm probability .
+[0696] [38:42] mn021: OK ?
+[0697] [38:43] mn021: So we can say that uh a given eh value are @ @ for for the transmission range , will be OK for a given number of nodes , if we Sorry . for a certain , for a certain probability .
+[0698] [39:02] mn021: OK ?
+[0699] [39:02] mn021: So , the point is uh , we cannot say that this is not gonna happen ,
+[0700] [39:07] mn021: what we can say is this is not very likely to happen , if nodes move uh uh random .
+[0701] [39:14] mn082: Yeah , but um Miguel , if uh in the previous slide you mentioned that you uh are working also on adaptive power control .
+[0702] [39:14] mn021: OK ?
+[0703] [39:16] mn021: Yeah .
+[0704] [39:21] mn021: Yeah .
+[0705] [39:21] mn082: Is it not possible then , if I send something and I could not find any neighbor because one of the cluster below ,
+[0706] [39:21] mn021: This is the next .
+[0707] [39:26] mn021: Yeah , th
+[0708] [39:28] mn082: is it not possible to extend the power until the maximum
+[0709] [39:31] mn021: u
+[0710] [39:31] mn082: and if uh I do not have any connectivity with the maximum of power , OK , then I 'm lost anyway .
+[0711] [39:32] mn021: e
+[0712] [39:35] mn021: e
+[0713] [39:36] mn021: Yeah ,
+[0714] [39:37] mn082: Yeah , yeah .
+[0715] [39:37] mn021: but this is this is a way that it is it is being explored by other researchers ,
+[0716] [39:42] mn021: but not not uh , by me .
+[0717] [39:45] mn021: But uh , there is , uh one , at least one person who is who is doing what they call " topology control " ,
+[0718] [39:52] mn082: Mm - hmm .
+[0719] [39:52] mn021: and this is , uh related to to uh the control of the transmission power to get uh certain properties uh from your network ,
+[0720] [40:02] mn021: like for example , they are what they are doing eh is eh some people working for BBN
+[0721] [40:09] mn021: Ram Ramanatan is the researcher ,
+[0722] [40:09] mn082: Mm - hmm .
+[0723] [40:12] mn021: and the article is is uh I think from from this year ,
+[0724] [40:16] mn021: and eh
+[0725] [40:17] mn021: these guys are doing eh what they call uh " B - connected networks " ,
+[0726] [40:22] mn021: they are trying all the network nodes to have at least two neighbors .
+[0727] [40:26] mn082: OK ,
+[0728] [40:27] mn082: mm - hmm .
+[0729] [40:27] mn021: OK ?
+[0730] [40:27] mn021: And they are controlling the power to eh this g uh mmm get this this number of neighbors ,
+[0731] [40:34] mn021: but this is not what I am doing
+[0732] [40:37] mn021: and uh the kind of power control I am doing uh , um , is more or less presented here ,
+[0733] [40:44] mn021: and what we are doing is to transmit uh with the minimum power needed depending on the distance to the destination .
+[0734] [40:55] mn021: OK ?
+[0735] [40:55] mn021: Every transmission is supposed to be done to a certain neighbor node
+[0736] [41:00] mn021: we cull the neighbors to these nodes which are uh closer than a given distance ,
+[0737] [41:07] mn021: OK ?
+[0738] [41:08] mn021: and because we wanted to to compare our algorithm with something , we needed to compare it with the no power control ,
+[0739] [41:16] mn021: which is the usual uh mechanism at this eh media access control level .
+[0740] [41:23] mn021: So , what we are doing here is to to compare our mechanism against the no power control ,
+[0741] [41:29] mn021: but
+[0742] [41:31] mn021: in order to be able to compare , we have to fix a given whatever , but a given uh maximum transmission range to compare .
+[0743] [41:41] mn021: And , uh what we are doing is we are uh taking the advantage that we are u we have this RTS CTS dialogue , in advance , before sending the data , to uh agree with the receiver , the power level he is willing to get from us .
+[0744] [42:05] mn021: OK ,
+[0745] [42:05] mn021: so every single transmission in every single transmission we are checking with the receiver the power level we have to use for the data transmission .
+[0746] [42:16] mn021: That 's the main thing .
+[0747] [42:18] mn021: And
+[0748] [42:19] mn082: And
+[0749] [42:20] mn082: sorry
+[0750] [42:21] mn082: how do you check if if the nodes are moving randomly ?
+[0751] [42:24] mn021: Well , uh we are assuming that e y for at least for uh veh uh you know , uh , car and and walking or or people riding a mo motorcycle the f um frame length is so small that only um very very small um space can be can be eh travelled while the transmission is taking place .
+[0752] [42:52] mn021: You know ,
+[0753] [42:52] mn021: in one millisec
+[0754] [42:52] mn082: Yeah , OK ,
+[0755] [42:53] mn082: maybe that 's applied for RTS CTS ,
+[0756] [42:55] mn082: but for the real frame ?
+[0757] [42:57] mn021: Yeah ,
+[0758] [42:57] mn021: well
+[0759] [42:58] mn082: The frame could also be uh whatever , I don't know but a few hundred bytes , you know , that takes a little bit time .
+[0760] [43:00] mn021: Let
+[0761] [43:01] mn021: no
+[0762] [43:04] mn021: Yeah but , i let 's say you have one kilobyte .
+[0763] [43:08] mn021: OK ?
+[0764] [43:08] mn021: One kilobyte is uh eight uh bits .
+[0765] [43:15] mn021: OK ?
+[0766] [43:16] mn082: Mm - hmm .
+[0767] [43:17] mn021: And eh , if you are transmitting at , let 's say , uh at one megabit per second , this means one microsecond per bit .
+[0768] [43:27] mn021: OK ?
+[0769] [43:28] mn021: So this only is taking eight milliseconds ,
+[0770] [43:32] mn021: which is not a lot of time if you are travelling , let 's say , at uh one hundred kilometers per second .
+[0771] [43:40] mn082: No , s
+[0772] [43:40] mn021: Oh per per hour .
+[0773] [43:41] mn082: no sorry
+[0774] [43:42] mn082: m Yeah , that 's right .
+[0775] [43:42] mn021: Sorry .
+[0776] [43:44] mn082: But first of all it took place RTS CTS ,
+[0777] [43:46] mn082: and there could be , you mentioned , if it 's still occu if the medium is still occupied by another one , it will be delayed anyway to a randomly time .
+[0778] [43:52] mn021: Yeah ,
+[0779] [43:52] mn021: it will be delayed
+[0780] [43:54] mn021: but you will start from scratch again .
+[0781] [43:57] mn021: I mean , it will be a start with another RTS CTS .
+[0782] [43:58] mn082: Oh ,
+[0783] [43:58] mn082: so !
+[0784] [43:58] mn082: OK ,
+[0785] [43:59] mn082: y OK .
+[0786] [44:00] mn082: OK .
+[0787] [44:00] mn082: I see .
+[0788] [44:01] mn082: Yeah .
+[0789] [44:01] mn082: OK .
+[0790] [44:01] mn021: OK ?
+[0791] [44:02] mn021: But
+[0792] [44:08] mn021: I will have to translate this ,
+[0793] [44:12] mn021: uh
+[0794] [44:14] mn021: It shou should be something ipsh
+[0795] [44:21] mn021: So , this should be something like
+[0796] [44:25] mn021: uh
+[0797] [44:29] mn021: thirty meters per second .
+[0798] [44:34] mn021: OK ?
+[0799] [44:35] mn082: Oh yeah , something like that .
+[0800] [44:36] mn021: So in in eight milliseconds , well , the amount of of space you are travelling is not too much .
+[0801] [44:37] mn082: It 's OK .
+[0802] [44:42] mn021: For most of of of uh the wireless technologies ,
+[0803] [44:46] mn021: maybe not for all of them ,
+[0804] [44:48] mn021: OK ,
+[0805] [44:48] mn021: but I 'm of course , I 'm also uh using a conservative value for the transmission speed ,
+[0806] [44:54] mn021: now you can get much more speed than speedier interfaces than this one ,
+[0807] [45:00] mn021: but the thing is , uh , that we are assuming that for a given transmission , we can uh consider the network as if it were built of a set of static nodes .
+[0808] [45:16] mn021: OK ?
+[0809] [45:17] mn021: Motion will be important for routing ,
+[0810] [45:21] mn021: but for the media access control level , we are considering that motion can be con is not is not important .
+[0811] [45:30] mn021: OK ?
+[0812] [45:31] mn082: Yeah , what I think Maybe some , uh cases why I go this way with my node , and suddenly , I s go out of the scope of the transmission area ,
+[0813] [45:41] mn082: because it 's really a random movement .
+[0814] [45:43] mn082: Then
+[0815] [45:45] mn082: this is during the data transmission .
+[0816] [45:47] mn021: Yeah , but again again , what we are adding with this behavior is , uh uh a little bit more , probably some some uh small part to the uh bit error rate .
+[0817] [45:47] mn082: Yeah ?
+[0818] [45:48] mn082: then
+[0819] [46:00] mn021: OK ?
+[0820] [46:00] mn021: Maybe this frame will won't be received properly , and , should eh have to be eh dropped ,
+[0821] [46:05] mn082: Oh , yeah .
+[0822] [46:07] mn021: but anyway ,
+[0823] [46:08] mn021: eh even if nodes are completely static , eh some problems will happen in the wireless transmission ,
+[0824] [46:14] mn021: so
+[0825] [46:15] mn021: we won't have a hundred percent eh perfect eh channel anyway .
+[0826] [46:20] mn082: Yep .
+[0827] [46:20] mn082: Right .
+[0828] [46:20] mn021: So eh if this problem , as you show it probably it 's it 's eh Y you can you can see that it is not very likely to happen ,
+[0829] [46:29] mn021: because
+[0830] [46:38] mn082: Nee .
+[0831] [46:39] mn082: That 's really right ,
+[0832] [46:39] mn021: Hmm ?
+[0833] [46:40] mn082: but what I would like to say is that besides the RTS CTS behavior , you need certain kind of additional MAC layer functionality to deal with these packet .
+[0834] [46:47] mn021: Hmm - hmm - hmm .
+[0835] [46:48] mn082: For example , with transmission or or whatever ,
+[0836] [46:50] mn021: Yeah ,
+[0837] [46:51] mn021: sure , sure .
+[0838] [46:51] mn082: for whatever control , or whatever kind of things , you know .
+[0839] [46:53] mn021: In fact in fact , you know I I I I I maybe I I I had to to prepare a more detailed eh , view ,
+[0840] [47:01] mn021: I I just was trying to do something soft ,
+[0841] [47:04] mn021: not to to bore th the public
+[0842] [47:06] mn021: but of course there are a lot of other smart eh things that are built in , in these protocols ,
+[0843] [47:12] mn082: Right .
+[0844] [47:12] mn082: Yeah .
+[0845] [47:13] mn021: like for example , an automatic , uh acknowledgement .
+[0846] [47:18] mn021: Some protocols used uh in the same way as this RTS and CTS packet some of them use , an eh acknowledge from the receiver ,
+[0847] [47:28] mn021: which is also a short packet ,
+[0848] [47:30] mn021: so you you are getting some kind of link layer uh acknowledgement scheme
+[0849] [47:35] mn021: which can save a lot of data transmissions
+[0850] [47:38] mn021: because eh usually when you send a a a a frame , you will want to some kind of acknowledgement back .
+[0851] [47:45] mn021: So , if this acknowledgement has to go through the process of a new RTS and a new CTS , well , this takes longer than just a link layer uh , extra packet .
+[0852] [47:58] mn021: That , of course uh is also contemplated in this eh packet length length or included in the RTS and CTS packets ,
+[0853] [48:07] mn021: so , eh , you know , everybody can wait until this uh acknowledgement is also transmitted by the receiver .
+[0854] [48:16] mn021: So
+[0855] [48:17] mn021: in fact , eh nnn some people proposing this mechanism is is showing a a b a big improvement
+[0856] [48:25] mn021: and eh there are a lot of other mechanisms , also regarding and a time - out mechanism , or the time - out algorithm for these retries when you try to send something and you don't succeed , uh , what what you the amount of time you have to wait until you retry again .
+[0857] [48:45] mn021: Well , uh , some people is also proposing different things , different eh algorithms with different results .
+[0858] [48:53] mn021: So
+[0859] [48:55] mn021: I just was trying to present a you know the main ideas .
+[0860] [49:01] mn021: So , I I I you know , ask uh You Feel free to ask uh whatever you want ,
+[0861] [49:06] mn021: but I I want to insist that it was just an uh a simplified uh version , a light version .
+[0862] [49:15] mn021: OK ?
+[0863] [49:17] mn021: well , uh you know finally this algorithm , eh , as I was telling , eh what it 's doing is to check with the receiver the power level to be used .
+[0864] [49:28] mn021: And it is very simple to see that some advantages can some advantage can be obtained ,
+[0865] [49:35] mn021: because the difference is eh if you don't have power control , you are using all the time the maximum power ,
+[0866] [49:41] mn021: if you have power control , sometimes you will use less than the maximum power
+[0867] [49:48] mn021: How often do you use less power than the maximum ?
+[0868] [49:52] mn021: Well , this will this will be connected to the motion pattern .
+[0869] [49:57] mn021: OK ?
+[0870] [49:57] mn021: Depending how nodes are moving ,
+[0871] [50:00] mn021: well maybe all the time all your neighbors are at the maximum distance
+[0872] [50:05] mn021: But , this probably , doesn't l look like uh something very very uh very likely .
+[0873] [50:13] mn021: OK ?
+[0874] [50:13] mn021: because well , l probably y what you will have will be some neighbors that are really close
+[0875] [50:16] mn082: Hmm .
+[0876] [50:19] mn021: others that are a little bit far away
+[0877] [50:22] mn021: and finally , these neighbors that are in the in the frontier of your of your coverage area .
+[0878] [50:29] mn021: OK .
+[0879] [50:29] mn082: Hmm .
+[0880] [50:29] mn021: Yeah .
+[0881] [50:29] mn082: OK , this is a question not directly related to these things ,
+[0882] [50:33] mn082: but maybe that 's why maybe only a short answer .
+[0883] [50:36] mn082: Uh , do you assume that power control will be issue also in the next years ?
+[0884] [50:43] mn082: In other words , um is the um success of having more power within the devices in maybe three year , four years , five years , for batteries , and and and @ @ and sofort so on
+[0885] [50:58] mn082: uh will it be succeeded that you have so much power available that this difficult mechanism who is in the wireless network will be uh out of scope ?
+[0886] [51:05] mn021: Mmm .
+[0887] [51:09] mn021: Yeah .
+[0888] [51:09] mn082: Because if I have a device which uh can I use maybe for twenty - four hours ,
+[0889] [51:14] mn082: I do not have , in principle , really the constraint to uh deal with with uh power savings .
+[0890] [51:19] mn021: Yeah , let let me let me answer you uh with a question .
+[0891] [51:24] mn021: Uh , If , for example , your car uh you you have uh an endless uh source of of gas , do you think it will it will be a problem , the amount of gas your your car is is using ?
+[0892] [51:40] mn021: OK .
+[0893] [51:41] mn021: It won't be a problem for your pocket ,
+[0894] [51:44] mn021: for your wallet ,
+[0895] [51:45] mn021: but maybe it will be a problem for the environment .
+[0896] [51:49] mn021: So , I think that the answer to your question is in this line ,
+[0897] [51:54] mn021: that uh if you have an endless uh source of power , well , maybe it 's not a problem , for the battery uh lasting .
+[0898] [52:02] mn021: But , it is a problem because you are using more area than you should .
+[0899] [52:06] mn021: And therefore you are preventing other transmissions to take place at the same time .
+[0900] [52:11] mn021: And therefore uh the problem is not only connected to to the to the power
+[0901] [52:17] mn021: it is also connected to the net to the global network throughput .
+[0902] [52:23] mn021: OK ?
+[0903] [52:23] mn082: OK .
+[0904] [52:25] mn021: So
+[0905] [52:28] mn021: But , again , uh , you know , uh the the m
+[0906] [52:32] mn021: If you ask me " what what do you think what will happen , in the industry ? "
+[0907] [52:36] mn021: What I think that will happen is that they will try to get uh mmm better hardware than we have now
+[0908] [52:44] mn021: because now the problem with transceivers is that a lot of power is uh consumed at the logic of the transceiver ,
+[0909] [52:53] mn021: and not uh transmitted to the air .
+[0910] [52:55] mn021: It is not power transferred to the air .
+[0911] [52:57] mn021: So , the problem now is that eh most of the power uh , uh t uh a wireless network card is consuming , is is is drawn by the by the eh logic control of the card .
+[0912] [53:10] mn082: Yeah .
+[0913] [53:11] mn021: All the all the calculations ,
+[0914] [53:11] mn082: That
+[0915] [53:12] mn021: all
+[0916] [53:12] mn082: Yeah
+[0917] [53:14] mn021: So , I am sure that eh that manufacturers will try to to squeeze until the the the last ampere f of of this eh , let 's say , eh wasted power ,
+[0918] [53:27] mn021: because what you cannot avoid is , uh
+[0919] [53:31] mn021: to p l the part of the of the radio frequency power you have to transmit .
+[0920] [53:36] mn021: I mean , this is this cannot be avoided .
+[0921] [53:39] mn021: But what you can avoid or you can reduce
+[0922] [53:41] mn021: and probably
+[0923] [53:42] mn021: because now it is the main factor , the main consumption factor , is the logic inside .
+[0924] [53:48] mn021: In the same way , at as as it happened with with processors , for example .
+[0925] [53:53] mn021: Now processors are much more uh power efficient than before .
+[0926] [53:58] mn021: OK ?
+[0927] [53:59] mn082: Yeah , but anyway , that was the reason for my question .
+[0928] [54:01] mn082: If I save with a lot of difficult mechanism , within the air interface and between the base station or access point and the mobile node , one percent of the power whereas ninety - nine percent is consumed by packet processing
+[0929] [54:14] mn082: and and and and uh uh C P U or whatever ,
+[0930] [54:16] mn021: Mm - hmm .
+[0931] [54:17] mn082: uh is it worth to have it ?
+[0932] [54:19] mn082: If I really , with a normal device uh with a battery lifetime of maybe twenty - four hours , thirty - six hours or whatever kind of thing And I think it will be increased .
+[0933] [54:28] mn082: As the more mobile nodes are in the world the better the battery will be .
+[0934] [54:32] mn082: So that 's was the reason for my question .
+[0935] [54:36] mn021: Yeah , pero e
+[0936] [54:36] mn082: Yeah , yeah , yeah .
+[0937] [54:36] mn021: uh
+[0938] [54:37] mn021: Oh , sorry !
+[0939] [54:37] mn021: But even if you if you don't have to to worry about eh your power source , you have to worry about your environment ,
+[0940] [54:45] mn021: about not using more resources that you don't own
+[0941] [54:45] mn082: Yeah .
+[0942] [54:48] mn082: Yeah .
+[0943] [54:49] mn021: that are uh shared about w w among the community .
+[0944] [54:49] mn082: Yeah , I g got it .
+[0945] [54:50] mn082: Yeah .
+[0946] [54:50] mn082: Yeah .
+[0947] [54:51] mn082: OK .
+[0948] [54:54] mn040: Excuse me @ @ .
+[0949] [54:55] mn021: OK .
+[0950] [54:55] mn040: If I understood correctly , the mechanism eh you should eh look for um the minimum eh coverage range
+[0951] [54:56] mn021: Yeah .
+[0952] [55:05] mn040: in order to maximize the throughput of the network .
+[0953] [55:06] mn021: Yeah .
+[0954] [55:08] mn040: So there the the power control eh algorithm should work , in order to use at each instant of time the minimum power need to reach
+[0955] [55:19] mn021: The destination .
+[0956] [55:19] mn040: the neighbor .
+[0957] [55:21] mn040: That Because this is the way eh eh more transmissions uh
+[0958] [55:26] mn040: may take take place at the same time .
+[0959] [55:26] mn021: Can take place at the same time .
+[0960] [55:26] mn082: Yeah , yeah , yeah , yeah .
+[0961] [55:28] mn040: So you need the adaptive mechanism to minimize the coverage range .
+[0962] [55:33] mn082: Yeah .
+[0963] [55:34] mn021: That 's OK .
+[0964] [55:35] mn021: And to and to get the maximum network throughput .
+[0965] [55:38] mn040: That
+[0966] [55:38] mn021: That 's that 's the idea .
+[0967] [55:40] mn021: However however , and
+[0968] [55:43] mn021: uh , it is always some however ,
+[0969] [55:46] mn021: uh
+[0970] [55:53] mn021: or , more than greedy in this case ,
+[0971] [55:55] mn021: it could be , say , this stingy mechanism to trying to avoid to use any extra space is also leading to a higher level of interference at the receivers .
+[0972] [56:07] mn021: So , uh
+[0973] [56:10] mn021: at the end of the road , we have to uh look for some trade - offs to avoid too much uh interference at the receivers .
+[0974] [56:18] mn021: OK ?
+[0975] [56:18] mn021: So , uh at the end we are using a little bit more power than these mathematically minimum values .
+[0976] [56:27] mn021: OK ?
+[0977] [56:27] mn021: because if not , the uh
+[0979] [56:32] mn021: the frame error rate or the bit error rate uh , skyrockets .
+[0980] [56:36] mn082: Mm - hmm .
+[0981] [56:36] mn021: OK ?
+[0982] [56:36] mn021: because of the of high interference levels .
+[0983] [56:40] mn021: A lot of simultaneous transmissions also means for each receiver point of view , a lot of neighbors or or nodes transmitting at the same time .
+[0984] [56:52] mn021: And , all the transmitters uh with the exception of the transmitter of my transmitter , are my intereferers
+[0985] [57:00] mn021: and are and all of them are producing less quality reception ,
+[0986] [57:05] mn021: so if they are a lot of them , well , uh the reception can be can be uh disturbed .
+[0987] [57:13] mn021: OK ?
+[0988] [57:15] mn021: And but um , um this is taking longer than I expected .
+[0989] [57:20] mn021: OK .
+[0990] [57:21] mn021: Let 's let 's uh take a k a a really a really light uh view at the at the routing in this in this network ,
+[0991] [57:28] mn021: which is another important area of of research .
+[0992] [57:32] mn021: You know , in fact there is a a group at the ITF uh called " Manit " .
+[0993] [57:39] mn021: This working group is is devoted to uh try to to present or to agree a common protocol for routing IP traffic on these eh kind of networks ,
+[0994] [57:53] mn021: on these ad - hoc networks ,
+[0995] [57:55] mn021: Uh , and
+[0996] [57:58] mn021: at this moment there are , I would say , a lot of proposals of different protocols uh for uh end - to - end traffic
+[0997] [58:09] mn021: and also for multicast traffic ,
+[0998] [58:12] mn021: on these networks
+[0999] [58:13] mn021: And eh well some day in the future eh , a protocol should be chosen
+[1000] [58:22] mn021: but , for the moment eh we have several of them on the table .
+[1001] [58:29] mn021: and eh any protocol has some advantages and some disadvantages .
+[1002] [58:35] mn021: The basic the basic problem we have to solve in in these eh routing protocols is the fast eh the fast pace at what eh topology changes can happen .
+[1003] [58:51] mn021: So
+[1004] [58:52] mn021: the problem here is that now uh one node is my neighbor ,
+[1005] [58:58] mn021: and next second , it is not .
+[1006] [59:00] mn021: So any route that was going through this neighbor now is is not possible
+[1007] [59:06] mn021: and should change .
+[1008] [59:08] mn021: And the problem is that well
+[1009] [59:10] mn021: uh an
+[1010] [59:11] mn021: an if you let me a personal comment , I think that one error on the group is not to agree a set of mobility patterns to to do the the tests .
+[1011] [59:24] mn021: because here , well , mobility is making these uh neighborhood relationships to appear or to disappear ,
+[1012] [59:33] mn021: So uh , it should be interesting if we agree uh a common a common set of motion patterns to perform the tests
+[1013] [59:43] mn021: because if not , well , it 's difficult to to perform comparisons uh between one protocol and another ,
+[1014] [59:51] mn021: a different one .
+[1015] [59:52] mn021: But anyway , now what we have is is two basic approaches to this this problem .
+[1016] [59:59] mn021: Eh , mainly what they call the practive protocols
+[1017] [60:03] mn021: which
+[1018] [60:11] mn021: distance vectors ,
+[1019] [60:12] mn021: sorry , and and link end state protocols ,
+[1020] [60:15] mn021: eh , which are usually table driven ,
+[1021] [60:18] mn021: so you have a process , trying to to maintain up - to - date a set of routing table tables and the nodes
+[1022] [60:26] mn021: and eh every routing de decision is eh just eh looking up the table ,
+[1023] [60:32] mn021: and sending to the proper neighbor node
+[1024] [60:36] mn021: and , eh the other the other set of protocols are using a reactive uh approach
+[1025] [60:43] mn021: and these protocols are trying to work on demand ,
+[1026] [60:45] mn021: so they are trying to solve on only these routers that are needed
+[1027] [60:52] mn021: so when I want to send uh , a packet to a a given destination , first of all , I have to figure out the proper route for this packet .
+[1028] [61:01] mn021: And then , uh I 'm using soft routing .
+[1029] [61:04] mn021: I 'm I 'm including on the on the uh header of this packet , the set of eh nodes that should be forwarding this node to the destination .
+[1030] [61:16] mn021: eh of course , uh these uh two approaches can be can be uh somehow mixed
+[1031] [61:22] mn021: and some hybrid proposals are also on the on the paper ,
+[1032] [61:28] mn021: and eh
+[1033] [61:30] mn021: these proposals are are trying to get the advantages of both uh mechanisms
+[1034] [61:37] mn021: eh some sometimes making a kind of combination of of them
+[1035] [61:43] mn021: uh , let 's say , for example , using uh practive approach for the closer set of nodes ,
+[1036] [61:50] mn021: let 's say for the neighbors and maybe the next level ,
+[1037] [61:55] mn021: and , using a reactive approach
+[1038] [61:57] mn021: I mean , as our routing approach , for nodes that are closer than this practive area .
+[1039] [62:05] mn021: OK ?
+[1040] [62:06] mn021: and eh , well ,
+[1041] [62:07] mn021: u e a
+[1042] [62:09] mn021: some multicast protocols have been proposed for this scenario too ,
+[1043] [62:15] mn021: and , well , they have to deal with the same problems that they 're uh end - to - end routing protocols .
+[1044] [62:20] mn082: Mmm .
+[1045] [62:20] mn082: What do you mean by multicast protocols ?
+[1046] [62:22] mn021: Yeah .
+[1047] [62:22] mn082: Routing ?
+[1048] [62:23] mn021: Routing protocols intended for multicast .
+[1049] [62:24] mn082: OK . Yeah .
+[1050] [62:26] mn082: OK .
+[1051] [62:26] mn021: So , for for uh , for sending one to any .
+[1052] [62:26] mn082: Yeah .
+[1053] [62:30] mn021: Hmm ?
+[1054] [62:31] mn021: Uh well , the main the main problems that some of the solutions eh are exhibiting , is uh the lack of eh scalability
+[1055] [62:43] mn021: uh mainly the source routing protocols have a problem when you when you scale from or scale scale badly from tens of nodes to to thousands of nodes
+[1056] [62:55] mn021: because , well , you cannot have uh , uh let 's say , uh , an endless uh header length .
+[1057] [63:04] mn021: You have a limited a limited header length .
+[1058] [63:06] mn082: And maybe we will have to explain a little bit for those who are not familiar with source routing .
+[1059] [63:06] mn021: So
+[1060] [63:11] mn082: You can have the destinations you would like to or the in the I P addresses of the intermediate nodes you still know
+[1061] [63:13] mn021: Yeah .
+[1062] [63:18] mn082: even if it 's not the direct neighbor ,
+[1063] [63:20] mn082: but one of uh where you really want that the packet went through , put it in the I P header .
+[1064] [63:25] mn030: Mm - hmm .
+[1065] [63:25] mn082: So , and ,
+[1066] [63:26] mn082: this one is going then to this guy and so on and so on ,
+[1067] [63:30] mn082: until finally it 's reached destination .
+[1068] [63:32] mn030: So
+[1069] [63:32] mn082: And , that 's what I mean , you cannot put it thousand intermediate nodes in for example ,
+[1070] [63:36] mn030: OK .
+[1071] [63:37] mn082: but
+[1072] [63:40] mn030: So there 's more than one IP address in the header ,
+[1073] [63:43] mn082: Yeah , yeah , yeah , yeah .
+[1074] [63:43] mn030: and
+[1075] [63:44] mn030: OK , I see .
+[1076] [63:49] mn021: Something like this
+[1077] [63:50] mn021: So you your packet should look like like this way .
+[1078] [63:51] mn030: Do
+[1079] [63:52] mn082: Yeah .
+[1080] [63:54] mn030: Do they have to be in order ?
+[1081] [63:56] mn030: So you are looking first for node two and then for node three and so on .
+[1082] [63:57] mn021: Yeah .
+[1083] [63:57] mn082: Yeah .
+[1084] [63:57] mn082: It
+[1085] [64:00] mn082: You 'll know to remove h it 's h from the header , in principle , and and so on , until it uh reaches the final destination .
+[1086] [64:03] mn030: OK .
+[1087] [64:05] mn030: OK .
+[1088] [64:08] mn021: So this this uh header , well , it 's it 's a problem .
+[1089] [64:12] mn021: Of course , there are also some some solutions
+[1090] [64:15] mn021: like uh uh employing some kind of of uh hierarchical source route routing ,
+[1091] [64:21] mn021: so
+[1092] [64:26] mn082: This one , for instance .
+[1093] [64:27] mn082: that may that the different parts could be one to number four .
+[1094] [64:31] mn030: Mm - hmm .
+[1095] [64:31] mn030: Mm - hmm .
+[1096] [64:32] mn082: Maybe two - B or three - B
+[1097] [64:35] mn082: Yeah , but nevertheless this guy is a is an gateway in the router for for this packet , you know .
+[1098] [64:41] mn082: And they remove itself from the header .
+[1099] [64:43] mn030: OK .
+[1100] [64:43] mn082: Yeah .
+[1101] [64:44] mn021: Anoth
+[1102] [64:44] mn082: It must be not the whole path , you know .
+[1103] [64:46] mn021: Another problem eh , is eh trying to provide some quality of service in these networks ,
+[1104] [64:54] mn021: because , well , em uh change is is the only thing you know for sure , here
+[1105] [65:00] mn021: So , eh providing quality of service is also is quite a challenge in in this network .
+[1106] [65:06] mn021: But , again uh there are some proposals .
+[1107] [65:09] mn082: Um , Miguel , are you familiar with these kind of proposals ?
+[1108] [65:12] mn021: Not really .
+[1109] [65:13] mn021: Not
+[1110] [65:16] mn021: You know ,
+[1111] [65:17] mn021: uh , I 'm sure that the proposals are OK ,
+[1112] [65:20] mn021: but eh I don't I don't think that You cannot warr you you I don't think you can warranty too much in these networks .
+[1113] [65:29] mn021: So , I see this like a you know , a a topic I 'm not convinced about .
+[1114] [65:36] mn021: I don't trust you can really provide quality of service ,
+[1115] [65:40] mn021: but
+[1116] [65:41] mn082: That depends on the service level you want to be .
+[1117] [65:43] mn082: Definitely not a guarantee level .
+[1118] [65:46] mn082: But maybe something like a control load level or something like that , seems to be for me possible .
+[1119] [65:50] mn021: Yeah .
+[1120] [65:51] mn082: Right ?
+[1121] [65:51] mn021: You know , uh if you are curious , uh I can I can I can provide you the n some of the proposals
+[1122] [65:52] mn082: Yeah .
+[1123] [65:58] mn082: Hmm .
+[1124] [65:58] mn021: which
+[1125] [65:59] mn082: Yeah , we can discuss later , off - line .
+[1126] [66:00] mn021: Yeah .
+[1127] [66:00] mn082: OK .
+[1128] [66:01] mn021: And eh , finally , the other the other thing , which is also under research or under study is , uh to have some kind of a power - aware routing .
+[1129] [66:13] mn021: There are some proposals , too .
+[1130] [66:16] mn021: So
+[1131] [66:18] mn021: routing function could be connected with uh global or local power consumption .
+[1132] [66:25] mn021: So , for example , you could ask to u nnn , the network to transmit your packet with the lowest uh global uh consumption
+[1133] [66:36] mn021: or with your lowest local consumption , for example .
+[1134] [66:42] mn021: OK ?
+[1135] [66:43] mn021: I mean , would the option for me to to use less power when sending a packet is to send it to the closest neighbor .
+[1136] [66:54] mn021: OK , assuming that I 'm I 'm also using s or having some kind of power control thing .
+[1137] [67:00] mn021: so that way transmitting to the closer close to my closer node , is , uh something that requires less effort than sending to a more distant node .
+[1138] [67:12] mn021: Maybe the closer node is not a good uh it is not in the good direction to the to reach the destination .
+[1139] [67:20] mn021: But it is for sure the the less expensive uh thing for me .
+[1140] [67:26] mn021: OK ?
+[1141] [67:27] mn021: But probably this uh this is not something really useful .
+[1142] [67:32] mn021: And that ca what can be u really useful is to reduce the global power consumption in the routing function .
+[1143] [67:40] mn021: So ,
+[1144] [67:41] mn021: because in this way ,
+[1145] [67:42] mn021: well , maybe one node is is being forced to use more power
+[1146] [67:46] mn021: but but if we take a look at the whole thing , well , we can ask for a a low consumption route ,
+[1147] [67:54] mn021: well , the same way
+[1148] [67:54] mn082: Yeah
+[1149] [67:54] mn021: as we are asking , for example , when we want uh some packet to be shipped in the real life , we can go and say " well , we will we are happy with this UPS ground system .
+[1150] [68:05] mn021: What we want w is two - day delivery service , or w twenty - four hours service , and we are willing to pay more or less for this service .
+[1151] [68:14] mn082: Yeah , but it 's really happened also in the riot case , you know .
+[1152] [68:17] mn082: If I get the wrong route with the RCMP redirects , it 's , in principle , then the same .
+[1153] [68:18] mn021: Yeah .
+[1154] [68:21] mn021: Yeah .
+[1155] [68:22] mn021: That 's O K .
+[1156] [68:22] mn082: Yeah , yeah .
+[1157] [68:24] mn021: So , these are more or less uh some open problems ,
+[1158] [68:28] mn021: and uh well just a quick comment about probably
+[1159] [68:33] mn021: all of use are now aware of the availability of this eh standard the I - triple - E eight hundred and two point eleven
+[1160] [68:43] mn021: uh in fact it is it is powering you know , uh the evolution of the of the of networking industry in the wireless area .
+[1161] [68:53] mn021: And in the beginning , the first adaptors uh
+[1162] [68:58] mn021: Oops !
+[1163] [69:00] mn021: were only one and two megabytes per second ,
+[1164] [69:03] mn021: but now we you you can buy for for the same price for even the same price uh , the new eleven megabytes per second version
+[1165] [69:12] mn021: I 've been use it for for a while ,
+[1166] [69:14] mn021: and it w can tell you it works pretty well .
+[1167] [69:18] mn021: and uh , the thing is that these devices have two different modes of operation .
+[1168] [69:25] mn021: One of them , and probably the most popular , is uh l what we call the " infrastructure mode " ,
+[1169] [69:33] mn021: where you have a set of mobile nodes ,
+[1170] [69:36] mn021: and then you have one or more access points .
+[1171] [69:40] mn021: These access points are uh in fact providing the eh required connectivity from the mobiles to the network to the m wired network ,
+[1172] [69:53] mn021: and from there to the internet usually .
+[1173] [69:55] mn082: Yeah , in principle , the base station .
+[1174] [69:57] mn021: Yeah , yeah , we can call it a base station .
+[1175] [69:57] mn082: Yeah .
+[1176] [69:59] mn082: Yeah .
+[1177] [69:59] mn021: And , eh , the other mode of operation which should be appropriate , for example , for this meeting room example , uh doesn't require any any access point ,
+[1178] [70:12] mn021: and in this second case , communication happens f eh um from one computer to the other at the link ly layer .
+[1179] [70:21] mn021: OK ?
+[1180] [70:22] mn021: So , if I want to connect to uh , let 's say , Miguel 's , uh Michael 's , uh I I will send him a packet ,
+[1181] [70:31] mn021: and he will receive it , and that 's it .
+[1182] [70:34] mn021: OK , we can build on top of this some uh routing algorithm ,
+[1183] [70:40] mn021: some ad - hoc routing algorithm ,
+[1184] [70:42] mn021: but this is out of the scope of the of the standard .
+[1185] [70:45] mn082: Mm - hmm .
+[1186] [70:46] mn021: And
+[1187] [70:46] mn082: and Miguel , should I should ask you one question .
+[1188] [70:48] mn021: Yeah .
+[1189] [70:48] mn082: And uh uh in version one and two you you have different technologies .
+[1190] [70:51] mn082: You know , frequency hopping , uh two modes and and and also infrared .
+[1191] [70:52] mn021: Yeah .
+[1192] [70:54] mn021: Yeah .
+[1193] [70:56] mn082: Does it still apply for for the uh eleven - B ?
+[1194] [70:58] mn021: For
+[1195] [70:58] mn021: no .
+[1196] [70:59] mn021: Eleven - B is only for for uh radio
+[1197] [71:03] mn021: and it 's only for uh direct sequences spread spectrum .
+[1198] [71:06] mn082: OK , DSS .
+[1199] [71:07] mn082: OK .
+[1200] [71:07] mn082: OK .
+[1201] [71:07] mn021: But , in fact , there is an ongoing new version , I think it 's c version - A ,
+[1202] [71:14] mn021: but it is not uh commercially available
+[1203] [71:17] mn021: which w will use uh orthogonal frequency division multiplexing
+[1204] [71:21] mn082: OK .
+[1205] [71:21] mn021: and will get probably twenty - five megabits per second .
+[1206] [71:25] mn021: eh but , again , the will move to five gigahertz ,
+[1207] [71:29] mn021: uh five point five gigahertz ,
+[1208] [71:31] mn021: eh gigahertz , uh area of a spec expect uh spectrum
+[1209] [71:36] mn021: But
+[1210] [71:39] mn021: You know , that the old the old waveLAN are nine hundred megahertz version
+[1211] [71:45] mn021: and the new ones are the the eleven megabits uh are uh two point four m uh ISM band .
+[1212] [71:51] mn082: Megahertz ,
+[1213] [71:51] mn082: yeah .
+[1214] [71:53] mn082: Mm - hmm .
+[1215] [71:53] mn021: However , uh some old uh waveLANs are also , but not the older ones the oldest ones , are also uh two point four m
+[1216] [72:03] mn021: eh gigahertz . S
+[1217] [72:04] mn082: Uh , gigahertz .
+[1218] [72:05] mn082: Yeah .
+[1219] [72:06] mn082: In the RSM band .
+[1220] [72:06] mn021: S
+[1221] [72:07] mn021: And
+[1222] [72:11] mn021: you ca you you are you start to see uh compatible products in the market .
+[1223] [72:17] mn021: Because eh maybe because it 's the , let 's say , second version ,
+[1224] [72:22] mn021: but also because I think it 's the only way for this industry to take off .
+[1225] [72:27] mn021: because uh previous versions , if you buy , let 's say , waveLAN , you are tied to waveLAN al the rest of your life .
+[1226] [72:36] mn021: But now you can you can have interoperable products from several vendors ,
+[1227] [72:41] mn021: which is , I think , what , in the past , will power the ethernet uh revolution
+[1228] [72:48] mn021: You can buy any any compatible product
+[1229] [72:52] mn021: and and you know it will work with the other brand .
+[1230] [72:56] mn082: Yeah .
+[1231] [72:56] mn082: And one additional question from myself ,
+[1232] [72:58] mn082: but maybe also short ,
+[1233] [72:59] mn082: because time it running fast .
+[1234] [73:01] mn082: Uh , I have heard that uh wireless LAN and Bluetooth will have some problems
+[1235] [73:06] mn082: uh that they influence each other .
+[1236] [73:07] mn021: In front ?
+[1237] [73:08] mn082: Do you have additional information about this topic ?
+[1238] [73:09] mn021: Yeah .
+[1239] [73:11] mn021: Mmm .
+[1240] [73:13] mn021: You know ,
+[1241] [73:14] mn021: in
+[1242] [73:17] mn021: I think that to put things in perspective , what we need to know is what Bluetooth is and what Bluetooth is for .
+[1243] [73:26] mn021: And uh Bluetooth is mainly for cutting this cable .
+[1244] [73:30] mn021: You know , the other day I was joking about that our wireless microphones were not , in fact , wireless
+[1245] [73:37] mn021: because it had this wire ,
+[1246] [73:39] mn021: So , the point is that eh Bluetooth is mainly a technology for cutting these kind of cables .
+[1247] [73:47] mn021: You know , sh oh short short distance cables ,
+[1248] [73:47] mn082: Yeah , that 's right .
+[1249] [73:48] mn082: Yeah .
+[1250] [73:50] mn082: Yeah .
+[1251] [73:51] mn021: uh , carrying usually really s uh , sh nnn ,
+[1252] [73:54] mn021: nnn
+[1253] [73:55] mn021: slow signals ,
+[1254] [73:56] mn021: or let 's say , boys and something like this .
+[1255] [74:00] mn082: Yeah , but nevertheless , you have the range of ten meters , or of one hundred meters .
+[1256] [74:02] mn021: Yeah .
+[1257] [74:03] mn021: Yeah , but you know , uh in fact
+[1258] [74:03] mn082: OK .
+[1259] [74:06] mn021: uh the initial version had only the the range of ten meters ,
+[1260] [74:11] mn021: and I guess that somebody at a certain meeting said " OK , why don't we have a l an extended range version ,
+[1261] [74:18] mn021: so we could re - use the same technology for other purposes ,
+[1262] [74:22] mn021: different than the original ones . "
+[1263] [74:25] mn021: So , em , uh , I have the feeling that this is u this is what is uh introducing some confor confusion in the in the Bluetooth
+[1264] [74:36] mn021: eh or in the way people is is looking at Bluetooth
+[1265] [74:40] mn021: because they can say " OK , hundred meters is is is an acceptable distance ,
+[1266] [74:44] mn021: let 's say , for communicating inside a building , inside a a small office .
+[1267] [74:49] mn021: So , uh some people , I think , is being tempted to think that Bluetooth could provide them uh , some kind of local connectivity ,
+[1268] [74:57] mn021: but uh for for data for computing uses .
+[1269] [75:01] mn021: Eh
+[1270] [75:11] mn021: working at at eleven megabits per second , you cannot you cannot switch to another thing , to another slower thing .
+[1271] [75:19] mn021: But uh even when they are using the same the same uh , um area of a s a spectrum ,
+[1272] [75:27] mn021: because Bluetooth is also intended to work in two point four uh gigabits ,
+[1273] [75:28] mn082: Yeah .
+[1274] [75:31] mn021: eh the technologies are different ,
+[1275] [75:33] mn021: you know eh Bluetooth eh is using a frequency hopping system
+[1276] [75:38] mn021: and uh
+[1277] [75:40] mn021: mmm
+[1278] [75:41] mn021: both uh dialing sequence and frequency hopping , spread the spectrum techniques , are also intended to provide uh interference l uh less , uh data transmission .
+[1279] [75:54] mn021: So , the idea is that these two techniques are intended not to interfere with any other thing .
+[1280] [76:02] mn021: So , even when I haven't tried , and I cannot tell you for sure , I think that the only problem one network will encounter uh in the presence of the other is a little bit of more noise .
+[1281] [76:18] mn021: And this will produce a little bit less throughput ,
+[1282] [76:22] mn021: but nothing more .
+[1283] [76:23] mn021: I don't expect any any more problem .
+[1284] [76:26] mn021: even the the the own Bluetooth specification is also
+[1286] [76:33] mn021: assuming that another Bluetooth or several Bluetooth networks c will be could be in the same area of space
+[1287] [76:40] mn021: and they are using the same hopping technology , frequency hopping technology .
+[1288] [76:45] mn021: But again , this technology is uh trying to avoid the other networks by choosing different hopping patterns .
+[1289] [76:53] mn021: So uh if several Bluetooth networks can can uh coexist without a problem , I don't see any problem will will happen if if we want to to make coexist one uh Bluetooth with another wireless uh local area network technology .
+[1290] [77:12] mn082: Well that 's a good news , OK ?
+[1291] [77:14] mn021: Yeah . I think so .
+[1292] [77:14] mn082: But anyway , um based on your uh uh initial scenario I believe because Bluetooth is on one chip ,
+[1293] [77:22] mn021: Yeah .
+[1294] [77:23] mn082: like you have now your UCB buss or whatever connectivity , you will have your Bluetooth connectivity .
+[1295] [77:27] mn021: Five bucks .
+[1296] [77:27] mn082: And
+[1297] [77:29] mn021: Five bucks chip .
+[1298] [77:30] mn082: Yeah , and and and whatever kind of of eh things connected to your laptop and also your microphone and whatever you will will have , is Bluetooth - based .
+[1299] [77:34] mn021: Hmm - hmm - hmm .
+[1300] [77:37] mn082: Yeah , or will be Bluetooth - based .
+[1301] [77:38] mn021: Will be .
+[1302] [77:39] mn082: Yeah , and this is this is eh within maybe an uh wireless LAN .
+[1303] [77:39] mn021: Will be .
+[1304] [77:43] mn082: So , despite the fact that they are considered for different scenarios they are still
+[1305] [77:49] mn021: In fact in fact Bluetooth is also designed
+[1306] [77:49] mn082: within one one area .
+[1307] [77:51] mn082: Yeah .
+[1308] [77:52] mn021: to be compatible with existing digital European cordless telephones .
+[1309] [77:57] mn021: So , hopefully , we will be able to use some of our old devices or maybe our our cordless phone base station at home , with a computer . S
+[1310] [78:06] mn021: S So I think some really nice applications will will appear .
+[1311] [78:11] mn082: OK we 'll when I I will have some problems in the future with my l wireless LAN and Bluetooth connectivity ,
+[1312] [78:17] mn082: I will come to you ,
+[1313] [78:18] mn082: you will solve it OK ?
+[1314] [78:19] mn021: I 'll try to .
+[1315] [78:20] mn082: OK , please go on .
+[1316] [78:21] mn021: So , let me let me just uh finish , you know .
+[1317] [78:21] mn082: OK .
+[1318] [78:25] mn021: Uh well , this is something I , more or less , I told you .
+[1319] [78:31] mn021: and
+[1320] [78:35] mn021: what the the spark of of my of my work here , or at least , of what I was proposing to work here , is the fact that these two model uh two modes of operation , I was telling you here that you have to choose at the driver level if your network adaptor is working in an access point - based environment or in ad ho in an ad - hoc environment . I see this as a as a limitation
+[1321] [79:05] mn021: because I think that uh when you have to choose among two options , well , mmm , maybe you are saying " no " to some of the benefits the other option , different than the one you are choosing , could provide you .
+[1322] [79:21] mn021: And
+[1323] [79:28] mn021: Oops !
+[1324] [79:29] mn021: Well , yeah .
+[1325] [79:30] mn021: Let 's go .
+[1326] [79:31] mn021: where we can have a kind of uh dual mode uh wireless network adaptor
+[1327] [79:37] mn021: So if we are not able to reach any access point but we are able to reach another network node , well , maybe this network node could do me the favor to reach or to forward my packets to the access point .
+[1328] [79:55] mn021: So the main idea , the driving force here , is to uh try to obtain uh , let 's say , hybrid mode
+[1329] [80:06] mn021: which allows an adaptor to work either in the access point or in the eh in the ad - hoc mode in a seamless way .
+[1330] [80:19] mn021: and to include in every single node driver ,
+[1331] [80:23] mn021: this forwarding or helper uh forwarding mechanism that will allow to extend the wireless coverage without a need of buying a lot of access points
+[1332] [80:37] mn021: and putting even an access point inside the restroom . OK ?
+[1333] [80:42] mn021: Of course this idea mmm , can sound p can sound a little bit not very appealing for the manufacturers ,
+[1334] [80:53] mn021: at least for the manufacturers of access point
+[1335] [80:56] mn021: because well , they probably are very happy of selling a lot of them .
+[1336] [81:00] mn082: But maybe for cars .
+[1337] [81:02] mn082: Yeah , if your car is the infrastructure , for instance .
+[1338] [81:03] mn021: Yeah .
+[1339] [81:04] mn082: Yeah .
+[1340] [81:06] mn082: OK .
+[1341] [81:07] mn021: So
+[1342] [81:12] mn021: So
+[1343] [81:15] mn021: One possible extension of the same idea and something uh I 've been thinking for awhile , is the idea that , well , why can't do we extend this same concept to cell array systems ?
+[1344] [81:28] mn021: Why can't we , for example , think about some mmm , new mechanisms that users could get , uh connectivity by means of other users , and no directly to the base station ,
+[1345] [81:48] mn021: or , when we have several technologies uh in overlapped in a certain area , why can't we use the closest and the cheapest , maybe , technology ,
+[1346] [82:00] mn021: or maybe the less power consumption technology , without the user to worry about if he is now using this or the other technology .
+[1347] [82:14] mn021: And on the other hand , what are the billing implications of this behavior ?
+[1348] [82:21] mn021: Because it is clear that , well , when I 'm only uh , talking to the to the base station of my provider , well billing is more or less straightforward ,
+[1349] [82:32] mn021: but what happens if I 'm working uh , let 's say , uh across a mall , and at a given moment I 'm using the small base station of a cordless phone that is inside the shop I 'm at the window of ?
+[1350] [82:49] mn021: Well in this case , I 'm using a resource which is not owned by my provider .
+[1351] [82:55] mn021: I 'm using , a let 's say , a private property .
+[1352] [82:58] mn021: Maybe I have to pay to this private property ,
+[1353] [83:01] mn021: or maybe my carrier will have to pay or to refund some money to this guy .
+[1354] [83:07] mn021: You know this something , uh I 'm putting on the table
+[1355] [83:12] mn021: I 'm not sure about , uh if this can be really of interest or not
+[1356] [83:18] mn021: but , it 's an idea ,
+[1357] [83:19] mn021: and I 'll be happy to discuss it with you .
+[1358] [83:22] mn021: And I uh I think my presentation is over ,
+[1359] [83:26] mn021: So .
+[1360] [83:26] mn082: Mm - hmm .
+[1361] [83:27] mn082: OK .
+[1362] [83:27] mn082: many thanks Miguel .
+[1363] [83:28] mn082: Are there any questions ?
+[1364] [83:29] mn021: Oh , you are welcome .
+[1365] [83:31] mn082: Maybe we have also the time to discuss with Miguel off - line the things if there is some uh question concerning uh his talk or maybe other questions .
+[1366] [83:38] mn082: Maybe one last question from my side
+[1367] [83:40] mn082: because I bring it up , uh concerning the proposal , some kind of active routing mechanism .
+[1368] [83:45] mn021: Mm - hmm .
+[1369] [83:46] mn082: It 's going in a quite different direction as as as as the traditional things discussed in the ITF
+[1370] [83:53] mn082: and I currently do not have any idea whether active routing is really a topic uh , within the I T
+[1371] [83:59] mn082: Do you have certain kind of experience or do you know certain activities uh , in that area ?
+[1372] [84:05] mn021: Nnn , no to both q to both questions .
+[1373] [84:09] mn082: OK .
+[1374] [84:09] mn021: I don't have previous experience
+[1375] [84:12] mn021: I don't eh know if uh where it will it would fix .
+[1376] [84:18] mn021: However , eh you know I 'm just doing this presentation
+[1377] [84:23] mn021: uh some somehow a review of my previous work .
+[1378] [84:28] mn082: I know , yeah .
+[1379] [84:29] mn021: So
+[1380] [84:33] mn021: I 'm I 'm probably getting involved a little bit more in this active routing thing .
+[1381] [84:38] mn082: Mm - hmm .
+[1382] [84:38] mn021: So uh I I maybe I will be able to hopefully I will be able to to give you a better answer in the future .
+[1383] [84:45] mn082: Oh , OK .
+[1384] [84:46] mn082: One more time , many thanks Miguel .
+[1385] [84:48] mn082: So .
+[1386] [84:51] mn021: Oh , than thanks , Michael , for your computer .
+[1387] [84:54] mn035: No problem .
+[1388] [84:57] mn082: So I will deploy a little bit information here from the uh project proposal .
+[1389] [85:02] mn021: Should I power off it ?
+[1390] [85:05] mn035: Um , just log out .
+[1391] [85:07] mn021: OK .
+[1392] [85:08] mn035: Uh . No .
+[1393] [85:09] mn035: Log out .
+[1394] [85:10] mn021: Oh , OK , sorry , sorry .
+[1395] [85:12] mn082: So I have only
+[1396] [85:15] mn082: four .
+[1397] [85:16] mn021: Oh .
+[1398] [85:17] mn082: Jordi is only a short period of time here ,
+[1399] [85:19] mn021: W
+[1400] [85:20] mn021: which
+[1401] [85:20] mn082: so he will get the colored one .
+[1402] [85:23] mn021: Michael
+[1403] [85:23] mn040: Ah , thank you thank you very much .
+[1404] [85:24] mn035: OK .
+[1405] [85:25] mn021: Michael ,
+[1406] [85:25] mn082: and
+[1407] [85:26] mn021: which is the proper answer ?
+[1408] [85:28] mn082: uh
+[1409] [85:29] mn035: That 's the proper answer .
+[1410] [85:29] mn021: Th - this one ?
+[1411] [85:30] mn035: Yeah .
+[1412] [85:30] mn021: OK .
+[1413] [85:30] mn082: Yeah .
+[1414] [85:31] mn021: Thank you .
+[1415] [85:31] mn082: Kill the computer .
+[1416] [85:35] mn082: Uh , So I started uh , for for advertising the project proposal here to provide a few slides
+[1417] [85:43] mn082: I think , first of all , Wilbert , is not here ,
+[1418] [85:46] mn082: second um , the um link here was uh enabling UMTS services and application ,
+[1419] [85:57] mn082: uh , I assume was not read yesterday night .
+[1420] [86:01] mn082: So I suggest we go roughly to the slides here
+[1421] [86:05] mn082: and um
+[1422] [86:09] mn082: The the problem is that , in principle , we have different scopes .
+[1423] [86:13] mn082: And motivation of the project proposal from my point of view is that we will have the um Wireless access networks for the next generation will be more flexible .
+[1424] [86:25] mn082: There 's a @ @ for uh current uh uh uh for for fast changes within this network .
+[1425] [86:32] mn082: And that means , if you go to slide number three , that we have um the possibility to to um having normal features in the mobile access network ,
+[1426] [86:45] mn082: and
+[1427] [86:46] mn082: and um
+[1428] [86:48] mn082: and um also based on that it belongs normally to one single provider domain , that it is possible to to uh use novel things
+[1429] [86:59] mn082: and and and new protocols and new technologies within this network .
+[1430] [87:03] mn082: On the other hand , in the internet backbone , uh we it is i impossible
+[1431] [87:08] mn082: and we see it on several examples
+[1432] [87:10] mn082: like this , MPLS ,
+[1433] [87:11] mn082: there 's quality of service support , and multicast
+[1434] [87:13] mn082: and all this kind of thing ,
+[1435] [87:15] mn082: that , based on the success of the internet backbone , it 's become uh very unflexible , to p uh fo for the provision of these things .
+[1436] [87:25] mn082: So , if we are going to offer building blocks , and provide novel solutions for the next generation of wireless access networks , taking into account , without modifying the end - to - end scope , then I think it 's really beneficial work ,
+[1437] [87:41] mn082: also for the use of interactive multimedia application ,
+[1438] [87:44] mn082: so as it is described in the uh project proposal .
+[1439] [87:49] mn082: Um the point is that um to start with um a bigger cluster of co uh of potential partners to do this really really really big work ,
+[1440] [88:07] mn082: seems not to be feasible in the next time .
+[1441] [88:10] mn082: because if you have settled everything , and discussed everything and and and and uh without any money in the background , and a lot of money in the background ,
+[1442] [88:19] mn082: that is not uh feasible from my point of view .
+[1443] [88:22] mn082: Nevertheless , I discussed , with a lot of partners , these things .
+[1444] [88:25] mn082: And today , uh Michael and me , we were on the UCB to discuss with a guy who is a professor who is probably interested in the application stuff .
+[1445] [88:35] mn082: They are going in that direction .
+[1446] [88:37] mn082: They
+[1447] [88:40] mn082: NSF ,
+[1448] [88:40] mn082: um , f for this " intelligent classroom " , is a little bit exaggerated , I believe ,
+[1449] [88:46] mn082: but going in that direction .
+[1450] [88:48] mn082: So there are a lot of interest ,
+[1451] [88:49] mn082: but without really hard money in the background , it is very hard to come to the initial steps .
+[1452] [88:55] mn082: And uh Juan Peire , one of the uh members of this NSA group has uh identified a certain kind of s start money , I would like to say .
+[1453] [89:06] mn082: So maybe if you start with a small cluster of um the constraints of this funding ,
+[1454] [89:11] mn082: and that means uh six universities and and institutions
+[1455] [89:16] mn082: uh , three in USA and three in Europe .
+[1456] [89:19] mn082: and of course , they are uh including the NSA group
+[1457] [89:24] mn082: and maybe that seems to be very reasonably , for me .
+[1458] [89:26] mn082: But then we have to align the project proposal in that sense .
+[1459] [89:29] mn082: Because then we cannot do do anything as it is described in the in the bigger scope .
+[1460] [89:34] mn082: So the point is um to reduce the overall picture , which I described in a few words , to the fact that we have really some work packages where we can focus on it ,
+[1461] [89:47] mn082: still fitting into the big picture .
+[1462] [89:50] mn082: Yeah ?
+[1463] [89:51] mn082: And so that will be the task of the next weeks .
+[1464] [89:54] mn082: And uh
+[1465] [89:55] mn082: I hope that everybody is doing his homework concerning @ @ for instance
+[1466] [90:00] mn082: uh alternative to the intelligent classroom maybe that we h can start here only with the N S A group
+[1467] [90:08] mn082: within this big picture
+[1468] [90:10] mn082: um with some work
+[1469] [90:12] mn082: that we put the pieces together .
+[1470] [90:13] mn082: Because I believe many are very flexible here
+[1471] [90:17] mn082: accounting also the future - coming uh joining people of the NSA group , to do some work here .
+[1472] [90:24] mn082: And if we are starting with a very very very small cluster with a common activity have maybe some starting funding for bigger uh radius of the of the the the uh project proposal , with the mind that maybe at the final stage it will becoming a European proposal with this uh the the whole funding .
+[1473] [90:45] mn082: That 's uh my point , and my picture I have in mind .
+[1474] [90:49] mn082: And I will go definitely back to Germany the tenth of December .
+[1475] [90:53] mn082: That is fixed now .
+[1476] [90:55] mn082: And I hope we can use these remaining weeks to have really progress in uh for the proposal in that sense what I mentioned before .
+[1477] [91:02] mn021: Hmm - hmm .
+[1478] [91:03] mn082: Because then I will make the advertising that is still worth to stay here ,
+[1479] [91:07] mn082: And I hope then Siemens will say OK for me to stay longer here .
+[1480] [91:10] mn082: And then I will come back maybe in the mid of end of January .
+[1481] [91:14] mn082: So that 's uh it 's a comment to the proposal .
+[1482] [91:22] mn082: So I think everybody should consider carefully , based on this statement I made uh next steps
+[1483] [91:28] mn082: and of course everybody has little bit other work to do
+[1484] [91:33] mn082: but it should be should be always an ongoing process until I will leave until the tenth of December .
+[1485] [91:39] mn030: You mentioned um six partners of this um work .
+[1486] [91:39] mn082: OK .
+[1487] [91:45] mn030: So you know already what partners are included .
+[1488] [91:49] mn030: OK I didn't have a look at uh slides ,
+[1489] [91:50] mn082: Um
+[1490] [91:51] mn082: yeah
+[1491] [91:52] mn082: I will distribute all the things electronically
+[1492] [91:55] mn030: OK .
+[1493] [91:55] mn082: to
+[1494] [91:56] mn082: OK , take a look to slide of number two ,
+[1495] [91:57] mn030: Just I 'm just curious .
+[1496] [92:00] mn082: Yeah !
+[1497] [92:01] mn082: You see uh uh University of Mannheim ,
+[1498] [92:04] mn082: University
+[1499] [92:05] mn082: also these are the official ones ,
+[1500] [92:06] mn030: Yeah , sure .
+[1501] [92:08] mn082: You see that in the ICSI US on the U S A side , I believe that the home companies and universities are still contributing .
+[1502] [92:12] mn030: Mm - hmm .
+[1503] [92:16] mn030: Yeah yeah .
+[1504] [92:16] mn082: Yeah ?
+[1505] [92:17] mn082: but these are then the official ones ,
+[1506] [92:19] mn082: and
+[1507] [92:19] mn030: And all of them had agreed ,
+[1508] [92:21] mn030: or ?
+[1509] [92:22] mn082: They say they are very interested in it .
+[1510] [92:23] mn030: OK .
+[1511] [92:24] mn082: Yeah ?
+[1512] [92:24] mn082: Uh a few words , the University of Mannheim is at location where Joerg Widmer is uh working on it ,
+[1513] [92:30] mn082: and I got the statement
+[1514] [92:32] mn082: uh they are very interested in that .
+[1515] [92:34] mn082: They did a lot in the area of um intelligent classroom
+[1516] [92:37] mn082: but nevertheless they did a lot in networking stuff .
+[1517] [92:41] mn082: And University of Uppsala , Sweden ,
+[1518] [92:43] mn082: that 's the reason I invited uh Christian Tschudin , the professor who did ten years work in in active routing .
+[1519] [92:50] mn082: And uh OK the Universidad Nacional de Educat
+[1520] [92:54] mn082: Yeah .
+[1521] [92:55] mn082: Spanish .
+[1522] [92:57] mn082: Maybe we have a better expert to pronounce it .
+[1523] [92:58] mn021: Universidad Nacional de Educacion a Distancia
+[1524] [92:59] mn082: " UNED " .
+[1525] [93:00] mn082: I always said " UNED " .
+[1526] [93:02] mn082: in Spain ,
+[1527] [93:03] mn082: uh this is this university of Juan Peire .
+[1528] [93:04] mn021: Yeah .
+[1529] [93:06] mn082: And he is also the one who had recognized uh
+[1530] [93:09] mn040: Who is ?
+[1531] [93:10] mn082: one
+[1532] [93:10] mn082: pair
+[1533] [93:11] mn082: pair
+[1534] [93:12] mn040: Perez .
+[1535] [93:13] mn082: Not Parez , Peire .
+[1536] [93:15] mn082: PEIRE .
+[1537] [93:17] mn035: Paez .
+[1538] [93:17] mn021: Paez , Paez
+[1539] [93:17] mn035: Paez .
+[1540] [93:18] mn040: Ah , Peire .
+[1541] [93:18] mn082: No , no , no .
+[1542] [93:18] mn021: Paez .
+[1543] [93:18] mn082: Not not Paez .
+[1544] [93:19] mn082: Not .
+[1545] [93:20] mn082: Peire , P E I R E .
+[1546] [93:20] mn082: P E I R E .
+[1547] [93:24] mn082: You never heard from him ?
+[1548] [93:26] mn040: No .
+[1549] [93:27] mn040: I don't know .
+[1550] [93:27] mn082: You can I you can mail him later on the informa
+[1551] [93:28] mn040: I don't know who he is .
+[1552] [93:29] mn040: OK .
+[1553] [93:30] mn082: Then , of course , the whole N S A group
+[1554] [93:32] mn082: and also of the coordinator of all the things ,
+[1555] [93:35] mn082: then Georgia Tech , I have good relationship to uh the long lasting uh cooperation with Georgia Tech
+[1556] [93:41] mn082: and they did a lot in this area , also related to networking stuff as well as to the intelligent classroom stuff and the UCB .
+[1557] [93:48] mn082: We still focusing on maybe we can have uh more professors involved
+[1558] [93:54] mn082: which are working also on the networking stuff as well as on the application stuff ,
+[1559] [93:58] mn082: so that the UCB is clustered as one uh partner
+[1560] [94:02] mn082: but nevertheless with different departments .
+[1561] [94:04] mn021: Hmm - hmm - hmm .
+[1562] [94:05] mn082: Yeah .
+[1563] [94:06] mn082: So
+[1564] [94:07] mn082: But take a look to the slides , I will uh deploy it um uh electronically .
+[1565] [94:12] mn021: Wher - where your slides are available ?
+[1566] [94:14] mn082: Sorry ?
+[1567] [94:15] mn021: Wher - where the slides are available ?
+[1568] [94:16] mn082: I will send it electronically .
+[1569] [94:18] mn021: When ?
+[1570] [94:19] mn082: After the meeting .
+[1571] [94:20] mn021: Ah !
+[1572] [94:21] mn021: You will send it , sorry .
+[1573] [94:22] mn082: I will .
+[1574] [94:22] mn082: Future .
+[1575] [94:24] mn021: Sorry .
+[1576] [94:25] mn082: And , maybe you take a look to the uh last two slides ,
+[1577] [94:30] mn082: um Um ,
+[1578] [94:32] mn082: maybe the GPRS picture is still uh available .
+[1579] [94:35] mn082: So you have , in principle , here now the mapping of the different areas , um within GPS ,
+[1580] [94:42] mn082: and , in principle , the same applies for UMTS .
+[1581] [94:45] mn082: There is no so much different .
+[1582] [94:47] mn082: Um . You always have the SGSN and UMTS ,
+[1583] [94:50] mn082: they are called three - GSGSN .
+[1584] [94:53] mn082: And you have the protocol stack
+[1585] [94:55] mn082: um in on the slide number five , to see what uh is going on .
+[1586] [95:01] mn082: And you see the difference .
+[1587] [95:02] mn082: The amazing thing is that you have IP over IP .
+[1588] [95:06] mn082: As you take a look to the the uh GGSN , you have two - IP layer functionality and and all those things .
+[1589] [95:13] mn082: And you have the GPS tunnel p uh protocol G T P between the G and the S and the GTSN .
+[1590] [95:19] mn082: And and so on .
+[1591] [95:20] mn082: So uh I believe they are very very difficult protocols stuck between the uh between the um um involved nodes ,
+[1592] [95:28] mn082: and making it necessary , in principle , to deal with our four building blocks in um yeah , I believe , in a difficult way ,
+[1593] [95:39] mn082: if , uh , we have in mind quality of service routing , and and uh qualit uh mobility aspects and and all this kinds of things for I P layer functionality .
+[1594] [95:50] mn082: So that 's , in principle , uh an overview , of the protocol stack
+[1595] [95:53] mn082: and the involved nodes ,
+[1596] [95:54] mn082: and I will provide more and more information
+[1597] [95:56] mn082: but um eh I have to also figure out everything from the scratch .
+[1598] [96:01] mn082: I am not a total expert for for the future wireless networks .
+[1599] [96:08] mn082: OK .
+[1600] [96:09] mn082: Then I would like to thanks everybody
+[1601] [96:11] mn082: and if there 's no additional question , comment , or or other remarks , I would like to start with reading uh these numbers .
+[1602] [96:19] mn021: OK
+[1603] [97:13] mn082: OK , please the next one .
+[1604] [100:13] mn082: OK , thank you
+[1605] [100:15] mn082: Now , please let don't switch off power ,
+[1606] [100:19] mn082: I have to call Adam ,
+[1607] [100:26] mn082: so
+[1608] [101:48] mn082: So I suggest , @ @ now we will have in a few minutes we will have the coffee break , tea , cake , whatever , @ @ will will be offered ,
+[1609] [101:56] mn082: and then we will have a we can have a discussion .

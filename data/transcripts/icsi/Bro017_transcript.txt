@@ -1,0 +1,1334 @@
+================================================================================
+ICSI Meeting Transcript: Bro017
+================================================================================
+
+Total Utterances: 1328
+Unique Speakers: 5
+Duration: 52.53 minutes
+
+================================================================================
+TRANSCRIPT
+================================================================================
+
+[0001] [00:00] mn049: Is it starting now ?
+[0002] [00:01] me018: Yep .
+[0003] [00:01] mn049: So
+[0004] [00:03] mn049: Whatever we say from now on , it can be held against us ,
+[0005] [00:03] me006: Hello ?
+[0006] [00:06] mn049: right ?
+[0007] [00:06] me018: That 's right .
+[0008] [00:09] mn049: and uh
+[0009] [00:10] me006: It 's your right to remain silent .
+[0010] [00:11] mn049: Yeah .
+[0011] [00:12] mn049: So I I the the problem is that I actually don't know how th these held meetings are held ,
+[0012] [00:17] mn049: if they are very informal and sort of just people are say what 's going on
+[0013] [00:19] me018: Yeah .
+[0014] [00:20] mn049: and
+[0015] [00:20] me018: Yeah , that 's usually what we do .
+[0016] [00:21] me018: We
+[0017] [00:21] mn049: OK .
+[0018] [00:23] mn049: Yeah .
+[0019] [00:24] mn049: OK .
+[0020] [00:25] mn049: So I guess that what may be a reasonable is if I uh first make a report on what 's happening in Aurora in general , at least what from my perspective .
+[0021] [00:32] me018: Yeah .
+[0022] [00:33] me018: That would be great .
+[0023] [00:34] fn002: Uh o
+[0024] [00:34] mn049: And and uh so , I I think that Carmen and Stephane reported on uh Amsterdam meeting ,
+[0025] [00:39] mn049: which was kind of interesting
+[0026] [00:41] mn049: because it was for the first time we realized we are not friends really , but we are competitors .
+[0027] [00:46] mn049: Cuz until then it was sort of like everything was like wonderful
+[0028] [00:50] mn049: and
+[0029] [00:50] me018: Yeah .
+[0030] [00:50] me018: It seemed like there were still some issues ,
+[0031] [00:52] mn049: Yeah .
+[0032] [00:52] me018: right ?
+[0033] [00:52] me018: that they were trying to decide ?
+[0034] [00:53] mn049: There is a plenty of there 're plenty of issues .
+[0035] [00:54] me018: Like the voice activity detector ,
+[0036] [00:56] mn049: Well and what happened was that they realized that if two leading proposals , which was French Telecom Alcatel , and us both had uh voice activity detector .
+[0037] [01:04] me018: Right .
+[0038] [01:05] mn049: And I said " well big surprise , I mean we could have told you that n n n four months ago , except we didn't because nobody else was bringing it up " .
+[0039] [01:12] mn049: Obviously French Telecom didn't volunteer this information either ,
+[0040] [01:15] me018: Right .
+[0041] [01:15] mn049: cuz we were working on mainly on voice activity detector for past uh several months
+[0042] [01:20] mn049: because that 's buying us the most uh thing .
+[0043] [01:22] mn049: And everybody said " Well but this is not fair . We didn't know that . "
+[0044] [01:26] mn049: And of course uh the it 's not working on features really .
+[0045] [01:29] me018: Right .
+[0046] [01:30] mn049: And be I agreed .
+[0047] [01:31] mn049: I said " well yeah ,
+[0048] [01:32] mn049: you are absolutely right ,
+[0049] [01:33] mn049: I
+[0050] [01:37] mn049: or at least that if we could modify the recognizer , uh to account for these long silences ,
+[0051] [01:42] mn049: because otherwise uh that that th that wasn't a correct thing . "
+[0052] [01:47] mn049: And so then ev ev everybody else says " well we should we need to do a new eval evaluation without voice activity detector ,
+[0053] [01:54] mn049: or we have to do something about it " .
+[0054] [01:54] me018: Right .
+[0055] [01:56] mn049: And in principle I uh I we agreed .
+[0056] [01:58] me018: Mm - hmm .
+[0057] [01:59] mn049: We said uh " yeah " .
+[0058] [02:00] mn049: Because
+[0059] [02:01] mn049: but in that case , uh we would like to change the uh the algorithm
+[0060] [02:06] mn049: because uh if we are working on different data , we probably will use a different set of tricks .
+[0061] [02:11] me018: Right .
+[0062] [02:12] mn049: But unfortunately nobody ever officially can somehow acknowledge that this can be done ,
+[0063] [02:17] mn049: because French Telecom was saying " no , no , no , now everybody has access to our code ,
+[0064] [02:22] mn049: so everybody is going to copy what we did . "
+[0065] [02:25] mn049: Yeah
+[0066] [02:25] mn049: well our argument was everybody ha has access to our code , and everybody always had access to our code .
+[0067] [02:30] mn049: We never uh uh denied that .
+[0068] [02:33] mn049: We thought that people are honest , that if you copy something and if it is protected protected by patent then you negotiate , or something ,
+[0069] [02:36] me018: Yeah .
+[0070] [02:40] me018: Right .
+[0071] [02:41] mn049: right ?
+[0072] [02:41] mn049: I mean , if you find our technique useful , we are very happy .
+[0073] [02:41] me018: Right .
+[0074] [02:44] me018: Mm - hmm .
+[0075] [02:45] mn049: But And French Telecom was saying " no , no , no ,
+[0076] [02:46] mn049: there is a lot of little tricks which uh sort of uh cannot be protected and you guys will take them , " which probably is also true .
+[0077] [02:54] mn049: I mean , you know , it might be that people will take uh uh th the algorithms apart and use the blocks from that .
+[0078] [03:02] mn049: But I somehow think that it wouldn't be so bad , as long as people are happy abou uh uh uh honest about it .
+[0079] [03:06] me018: Yeah .
+[0080] [03:07] mn049: And I think they have to be honest in the long run , because winning proposal again uh what will be available th is will be a code .
+[0081] [03:14] me018: Mm - hmm .
+[0082] [03:15] mn049: So the uh the people can go to code and say " well listen this is what you stole from me "
+[0083] [03:19] me018: Right .
+[0084] [03:20] mn049: you know ?
+[0085] [03:20] me018: Right .
+[0086] [03:20] mn049: " so let 's deal with that " .
+[0087] [03:21] mn049: So I don't see the problem .
+[0088] [03:22] mn049: The biggest problem of course is that f that Alcatel French Telecom cl claims " well we fulfilled the conditions .
+[0089] [03:29] mn049: We are the best .
+[0090] [03:30] mn049: Uh . We are the standard . "
+[0091] [03:33] mn049: And e and other people don't feel that ,
+[0092] [03:35] mn049: because they so they now decided that that is the whole thing will be done on well - endpointed data ,
+[0093] [03:42] mn049: essentially that somebody will endpoint the data based on clean speech ,
+[0094] [03:45] mn049: because most of this the SpeechDat - Car has the also close speaking mike and endpoints will be provided .
+[0095] [03:45] me018: Mm - hmm .
+[0096] [03:52] me018: Ah .
+[0097] [03:53] mn049: And
+[0098] [03:55] mn049: still not clear if we are going to run the if we are allowed to run uh uh new algorithms ,
+[0099] [04:00] mn049: but I assume so .
+[0100] [04:01] mn049: Because uh we would fight for that , really .
+[0101] [04:03] mn049: uh
+[0102] [04:06] mn049: at least our experience is that only endpointing a a mel cepstrum gets uh gets you twenty - one percent improvement overall and twenty - seven improvement on SpeechDat - Car
+[0103] [04:16] me018: Hmm .
+[0104] [04:17] mn049: then obvious the database uh I mean the the the uh the baseline will go up .
+[0105] [04:22] me018: Right .
+[0106] [04:22] mn049: And nobody can then achieve fifty percent improvement .
+[0107] [04:25] mn049: So
+[0108] [04:34] me018: But wait a minute ,
+[0109] [04:35] me018: I thought the endpointing really only helped in the noisy cases .
+[0110] [04:39] mn049: It
+[0111] [04:40] me018: Oh , but you still have that with the MFCC .
+[0112] [04:41] me018: OK .
+[0113] [04:42] mn049: Y yeah .
+[0114] [04:42] me018: Yeah .
+[0115] [04:42] mn049: Yeah but you have the same prob I mean MFCC basically has an enormous number of uh insertions .
+[0116] [04:43] me018: Right .
+[0117] [04:44] me018: Yeah .
+[0118] [04:46] me018: Yeah .
+[0119] [04:47] me018: Yeah .
+[0120] [04:47] mn049: And so , so now they want to say " we we will require fifty percent improvement only for well matched condition , and only twenty - five percent for the serial cases . "
+[0121] [04:57] me018: Hmm .
+[0122] [04:58] mn049: And uh and they almost agreed on that except that it wasn't a hundred percent agreed .
+[0123] [05:03] mn049: And so last time uh during the meeting , I just uh brought up the issue ,
+[0124] [05:07] mn049: I said " well you know uh quite frankly I 'm surprised how lightly you are making these decisions
+[0125] [05:12] mn049: because this is a major decision .
+[0126] [05:15] mn049: For two years we are fighting for fifty percent improvement
+[0127] [05:19] mn049: and suddenly you are saying " oh no we we will do something less " ,
+[0128] [05:22] mn049: but maybe we should discuss that .
+[0129] [05:23] mn049: And everybody said " oh we discussed that and you were not a mee there "
+[0130] [05:26] mn049: and I said " well a lot of other people were not there because not everybody participates at these teleconferencing c things . "
+[0131] [05:32] mn049: Then they said " oh no no no because uh everybody is invited . "
+[0132] [05:36] mn049: However , there is only ten or fifteen lines , so people can't even con you know participate .
+[0133] [05:41] mn049: So eh they agreed , and so they said " OK , we will discuss that . "
+[0134] [05:44] mn049: Immediately Nokia uh raised the question
+[0135] [05:47] mn049: and they said " oh yeah we agree this is not good to to uh dissolve the uh uh the uh the criterion . "
+[0136] [05:55] me018: Mm - hmm .
+[0137] [05:56] mn049: So now officially , Nokia is uh uh complaining and said they they are looking for support ,
+[0138] [06:02] mn049: uh I think QualComm is uh saying , too " we shouldn't abandon the fifty percent yet .
+[0139] [06:08] mn049: We should at least try once again , one more round . "
+[0140] [06:10] me018: Mm - hmm .
+[0141] [06:11] me018: Mm - hmm .
+[0142] [06:11] mn049: So this is where we are .
+[0143] [06:13] me018: Hmm .
+[0144] [06:13] mn049: I hope that I hope that this is going to be a adopted .
+[0145] [06:16] mn049: Next Wednesday we are going to have uh another uh teleconferencing call , so we 'll see what uh where it goes .
+[0146] [06:23] me018: So what about the issue of um the weights on the for the different systems ,
+[0147] [06:27] me018: the
+[0148] [06:29] mn049: Yeah ,
+[0149] [06:29] mn049: that 's what that 's a g very good uh point ,
+[0150] [06:32] mn049: because David says " well you know we ca we can manipulate this number by choosing the right weights anyways . "
+[0151] [06:37] me018: Mm - hmm .
+[0152] [06:37] mn049: So while you are right but uh you know but
+[0153] [06:41] mn049: Uh yeah ,
+[0154] [06:41] mn049: if of course if you put a zero uh weight zero on a mismatched condition , or highly mismatched then then you are done .
+[0155] [06:49] me018: Mm - hmm .
+[0156] [06:49] mn049: But weights were also deter already decided uh half a year ago .
+[0157] [06:53] me018: And they 're the staying the same ?
+[0158] [06:54] mn049: So
+[0159] [06:55] mn049: Well , of course people will not like it .
+[0160] [06:57] me018: Mm - hmm .
+[0161] [06:57] mn049: Now What is happening now is that I th I think that people try to match the criterion to solution .
+[0162] [07:04] mn049: They have solution .
+[0163] [07:05] mn049: Now
+[0164] [07:06] me018: Right .
+[0165] [07:08] mn049: And I think that this is not the right way .
+[0166] [07:09] me018: Yeah .
+[0167] [07:10] mn049: Uh
+[0168] [07:12] mn049: Eventually it may ha may ha it may have to happen .
+[0169] [07:16] me018: Mm - hmm .
+[0170] [07:16] mn049: But it 's should happen at a point where everybody feels comfortable that we did all what we could .
+[0171] [07:20] me018: Mm - hmm .
+[0172] [07:21] mn049: And I don't think we did .
+[0173] [07:22] mn049: Basically , I think that that this test was a little bit bogus because of the data
+[0174] [07:28] mn049: and uh essentially there were these arbitrary decisions made , and and everything .
+[0175] [07:35] mn049: So , so so this is so this is where it is .
+[0176] [07:40] mn049: So what we are doing at OGI now is uh uh uh working basically on our parts which we I think a little bit neglected ,
+[0177] [07:52] mn049: like noise separation .
+[0178] [07:54] mn049: Uh so we are looking in ways is in uh which uh with which we can provide better initial estimate of the mel spectrum basically ,
+[0179] [08:05] mn049: which would be a l uh , f more robust to noise ,
+[0180] [08:08] mn049: and so far not much uh success .
+[0181] [08:10] me018: Hmm .
+[0182] [08:10] mn049: We tried uh things which uh a long time ago Bill Byrne suggested ,
+[0183] [08:16] mn049: instead of using Fourier spectrum , from Fourier transform , use the spectrum from LPC model .
+[0184] [08:22] mn049: Their argument there was the LPC model fits the peaks of the spectrum , so it may be m naturally more robust in noise .
+[0185] [08:30] mn049: And I thought " well , that makes sense , " but so far we can't get much much out of it .
+[0186] [08:33] me018: Hmm .
+[0187] [08:35] mn049: uh
+[0188] [08:40] me018: You haven't tried that yet ?
+[0189] [08:41] mn049: not not not much .
+[0190] [08:43] me018: Hmm .
+[0191] [08:43] mn049: Or even I was thinking about uh looking back into these totally ad - hoc techniques
+[0192] [08:48] mn049: like for instance uh Dennis Klatt was suggesting uh the one way to uh deal with noisy speech is to add noise to everything .
+[0193] [08:58] me018: Hmm !
+[0194] [08:59] mn049: So . I mean , uh uh add moderate amount of noise to all data .
+[0195] [09:02] me018: Oh !
+[0196] [09:04] me018: I see .
+[0197] [09:04] mn049: So that makes uh th any additive noise less addi less a a effective ,
+[0198] [09:09] mn049: right ?
+[0199] [09:09] me018: Right .
+[0200] [09:09] mn049: Because
+[0201] [09:13] mn049: And it was working at the time .
+[0202] [09:15] mn049: It was kind of like one of these things , you know , but
+[0203] [09:17] mn049: if you think about it , it 's actually pretty ingenious .
+[0204] [09:19] mn049: So well , you know , just take a take a spectrum and and and add of the constant , C , to every every value .
+[0205] [09:20] me018: Well you 're you 're basically y
+[0206] [09:26] me018: Yeah .
+[0207] [09:27] me018: So you 're making all your training data more uniform .
+[0208] [09:29] mn049: Exactly .
+[0209] [09:30] mn049: And if if then if this data becomes noisy , it b it becomes eff effectively becomes less noisy basically .
+[0210] [09:37] me018: Hmm .
+[0211] [09:38] mn049: But of course you cannot add too much noise because then you 'll s then you 're clean recognition goes down ,
+[0212] [09:44] mn049: but I mean it 's yet to be seen how much ,
+[0213] [09:46] mn049: it 's a very simple technique .
+[0214] [09:47] me018: Mm - hmm .
+[0215] [09:48] mn049: Yes indeed it 's a very simple technique ,
+[0216] [09:49] mn049: you just take your spectrum and and use whatever is coming from FFT , add constant ,
+[0217] [09:56] me018: Hmm .
+[0218] [09:56] mn049: you know ?
+[0219] [09:57] mn049: on onto power spectrum .
+[0220] [09:59] mn049: That
+[0221] [10:01] mn049: Or the other thing is of course if you have a spectrum , what you can s start doing , you can leave start leaving out the p the parts which are uh uh low in energy
+[0222] [10:12] mn049: and then perhaps uh one could try to find a a all - pole model to such a spectrum .
+[0223] [10:19] mn049: Because a all - pole model will still try to to to put the the continuation basically of the of the model into these parts where the issue set to zero .
+[0224] [10:30] mn049: That 's what we want to try .
+[0225] [10:32] mn049: I have a visitor from Brno .
+[0226] [10:35] mn049: He 's a kind of like young faculty .
+[0227] [10:38] mn049: pretty hard - working so he so he 's so he 's looking into that .
+[0228] [10:41] me018: Hmm .
+[0229] [10:43] mn049: And then most of the effort is uh now also aimed at this e e TRAP recognition .
+[0230] [10:51] mn049: This uh this is this recognition from temporal patterns .
+[0231] [10:54] me018: Hmm !
+[0232] [10:55] me018: What is that ?
+[0233] [10:55] mn049: Ah , you don't know about TRAPS !
+[0234] [10:56] me006: Hmm .
+[0235] [10:57] me018: The
+[0236] [10:59] mn049: Yeah
+[0237] [10:59] mn049: I mean tha
+[0238] [11:00] mn049: This is familiar like sort of because we gave you the name ,
+[0239] [11:02] mn049: but , what it is , is that normally what you do is that you recognize uh speech based on a shortened spectrum .
+[0240] [11:03] me018: Mm - hmm .
+[0241] [11:11] me018: Mm - hmm .
+[0242] [11:11] mn049: Essentially L P - LPC , mel cepstrum , uh , everything starts with a spectral slice .
+[0243] [11:18] mn049: Uh so if you s So , given the spectrogram you essentially are sliding sliding the spectrogram along the uh f frequency axis
+[0244] [11:25] me018: Mm - hmm .
+[0245] [11:26] mn049: and you keep shifting this thing , and you have a spectrogram .
+[0246] [11:27] me018: Mm - hmm .
+[0247] [11:29] mn049: So you can say " well you can also take the time trajectory of the energy at a given frequency " ,
+[0248] [11:34] me018: Mm - hmm .
+[0249] [11:34] mn049: and what you get is then , that you get a p vector .
+[0250] [11:39] mn049: And this vector can be a a s assigned to s some phoneme .
+[0251] [11:44] mn049: Namely you can say i it I will I will say that this vector will eh will will describe the phoneme which is in the center of the vector .
+[0252] [11:53] mn049: And you can try to classify based on that .
+[0253] [11:55] me018: Hmm .
+[0254] [11:56] mn049: And you so you classi
+[0255] [11:58] mn049: so it 's a very different vector , very different properties ,
+[0256] [12:00] mn049: we don't know much about it ,
+[0257] [12:02] me018: Hmm .
+[0258] [12:03] mn049: but
+[0259] [12:03] me018: But you have many of those vectors per phoneme ,
+[0260] [12:05] mn049: Well , so you get many decisions .
+[0261] [12:06] me018: right ?
+[0262] [12:07] me018: Uh - huh .
+[0263] [12:07] mn049: And then you can start dec thinking about how to combine these decisions .
+[0264] [12:11] me018: Hmm .
+[0265] [12:11] mn049: Exactly , that 's what yeah , that 's what it is .
+[0266] [12:13] me018: Hmm .
+[0267] [12:14] mn049: Because
+[0268] [12:19] mn049: uh twenty percent correct .
+[0269] [12:20] me018: Hmm .
+[0270] [12:20] mn049: You know ,
+[0271] [12:21] mn049: on on like for the frame by frame basis ,
+[0272] [12:24] mn049: so uh uh so it 's much better than chance .
+[0273] [12:28] me018: How wide are the uh frequency bands ?
+[0274] [12:30] mn049: That 's another thing .
+[0275] [12:31] mn049: Well c currently we start I mean we start always with critical band spectrum .
+[0276] [12:35] mn049: For various reasons .
+[0277] [12:37] mn049: But uh the latest uh observation uh is that you you you are you can get quite a big advantage of using two critical bands at the same time .
+[0278] [12:47] me006: Are they adjacent ,
+[0279] [12:49] me006: or are they s
+[0280] [12:49] mn049: Adjacent , adjacent .
+[0281] [12:50] me006: OK .
+[0282] [12:51] mn049: And the reasons there are some reasons for that .
+[0283] [12:53] mn049: Because there are some reasons I can I could talk about , will have to tell you about things like masking experiments which uh uh uh uh yield critical bands ,
+[0284] [13:03] mn049: and also experiments with release of masking , which actually tell you that something is happening across critical bands , across bands .
+[0285] [13:12] mn049: And
+[0286] [13:12] me018: Well how do you how do you uh convert this uh energy over time in a particular frequency band into a vector of numbers ?
+[0287] [13:21] mn049: It 's uh uh uh I mean time T - zero is one number , time t
+[0288] [13:26] me018: Yeah but what 's the number ?
+[0289] [13:27] me018: Is
+[0290] [13:28] mn049: It 's a spectral energy , logarithmic spectral energy ,
+[0291] [13:29] me018: it 's just the amount of energy in that band from f in that time interval .
+[0292] [13:30] mn049: yeah .
+[0293] [13:31] mn049: Yes , yes .
+[0294] [13:33] mn049: Yes , yes .
+[0295] [13:34] me018: OK .
+[0296] [13:35] mn049: And that 's what that 's what I 'm saying then ,
+[0297] [13:37] mn049: so this is a this is a starting vector .
+[0298] [13:39] mn049: It 's just like shortened f spectrum , or something .
+[0299] [13:43] me018: Mm - hmm .
+[0300] [13:43] mn049: But now we are trying to understand what this vector actually represents ,
+[0301] [13:47] mn049: for instance a question is like " how correlated are the elements of this vector ? "
+[0302] [13:52] mn049: Turns out they are quite correlated , because I mean , especially the neighboring ones ,
+[0303] [13:56] me018: Yeah .
+[0304] [13:56] mn049: right ?
+[0305] [13:56] mn049: They they represent the same almost the same configuration of the vocal tract .
+[0306] [13:56] me018: Yeah .
+[0307] [14:00] me018: Mm - hmm .
+[0308] [14:00] mn049: So there 's a very high correlation .
+[0309] [14:03] mn049: So the classifiers which use the diagonal covariance matrix don't like it .
+[0310] [14:08] mn049: So we 're thinking about de - correlating them .
+[0311] [14:08] me018: Hmm .
+[0312] [14:11] mn049: Then the question is uh " can you describe elements of this vector by Gaussian distributions " , or to what extent ?
+[0313] [14:18] mn049: Because
+[0314] [14:21] mn049: And and and so on and so on .
+[0315] [14:23] mn049: So we are learning quite a lot about that .
+[0316] [14:25] me018: Hmm .
+[0317] [14:25] mn049: And then another issue is how many vectors we should be using ,
+[0318] [14:28] mn049: I mean the so the minimum is one .
+[0319] [14:29] me018: Mm - hmm .
+[0320] [14:32] mn049: But I mean is the is the critical band the right uh uh dimension ?
+[0321] [14:36] mn049: So we somehow made arbitrary decision , " yes " .
+[0322] [14:40] mn049: Then
+[0323] [14:48] mn049: This I somehow start to believe that 's what 's happening in recognition .
+[0324] [14:53] mn049: Cuz a lot of experiments point to the fact that people can split the signal into critical bands ,
+[0325] [15:00] mn049: but then oh uh uh
+[0326] [15:02] mn049: so you can you are quite capable of processing a signal in uh uh independently in individual critical bands .
+[0327] [15:10] mn049: That 's what masking experiments tell you .
+[0328] [15:12] mn049: But at the same time you most likely pay attention to at least neighboring bands
+[0329] [15:17] mn049: when you are making any decisions , you compare what 's happening in in this band to what 's happening to the band to to to the to the neighboring bands .
+[0330] [15:26] mn049: And that 's how you make uh decisions .
+[0331] [15:29] mn049: That 's why the articulatory events , which uh F F Fletcher talks about , they are about two critical bands .
+[0332] [15:35] mn049: You need at least two , basically .
+[0333] [15:36] mn049: You need some relative , relative relation .
+[0334] [15:40] me006: Hmm .
+[0335] [15:41] me018: Hmm .
+[0336] [15:41] mn049: Absolute number doesn't tell you the right thing .
+[0337] [15:43] mn049: You need to you need to compare it to something else , what 's happening
+[0338] [15:47] mn049: but it 's what 's happening in the in the close neighborhood .
+[0339] [15:49] mn049: So if you are making decision what 's happening at one kilohertz , you want to know what 's happening at nine hundred hertz and it and maybe at eleven hundred hertz ,
+[0340] [15:57] mn049: but you don't much care what 's happening at three kilohertz .
+[0341] [16:00] me018: So it 's really w
+[0342] [16:01] me018: It 's sort of like saying that what 's happening at one kilohertz depends on what 's happening around it .
+[0343] [16:07] me018: It 's sort of relative to it .
+[0344] [16:08] mn049: To some extent , it that is also true .
+[0345] [16:10] me018: Mm - hmm .
+[0346] [16:10] mn049: Yeah .
+[0347] [16:10] mn049: But it 's but for but for instance , th uh uh what what uh humans are very much capable of doing is that if th if they are exactly the same thing happening in two neighboring critical bands , recognition can discard it .
+[0348] [16:27] me018: Hmm .
+[0349] [16:27] mn049: Is
+[0350] [16:28] mn049: Hey !
+[0351] [16:29] me006: Hey !
+[0352] [16:29] mn049: OK , we need us another another voice here .
+[0353] [16:30] me018: Hey Stephane .
+[0354] [16:33] mn049: Yeah ,
+[0355] [16:33] mn049: I think so .
+[0356] [16:34] me018: Yep .
+[0357] [16:34] mn049: Yeah ?
+[0358] [16:34] me018: Sure .
+[0359] [16:34] me018: Go ahead .
+[0360] [16:35] mn049: And so so so for instance if you d if you a if you add the noise that normally masks masks the uh the the signal
+[0361] [16:48] me018: Mm - hmm .
+[0362] [16:48] mn049: right ?
+[0363] [16:48] mn049: and you can show that in that if the if you add the noise outside the critical band , that doesn't affect the the decisions you 're making about a signal within a critical band .
+[0364] [16:58] me018: Hmm .
+[0365] [16:59] mn049: Unless this noise is modulated .
+[0366] [17:01] mn049: If the noise is modulated , with the same modulation frequency as the noise in a critical band , the amount of masking is less .
+[0367] [17:09] me018: Mmm .
+[0368] [17:09] mn049: The moment you moment you provide the noise in n neighboring critical bands .
+[0369] [17:14] mn049: So
+[0370] [17:18] mn049: I start from from here ,
+[0371] [17:19] mn049: so you you have uh no noise then you you you are expanding the critical band , so the amount of maching is increasing .
+[0372] [17:27] mn049: And when you e hit a certain point , which is a critical band , then the amount of masking is the same .
+[0373] [17:32] me018: Mmm .
+[0374] [17:33] mn049: So that 's the famous experiment of Fletcher , a long time ago .
+[0375] [17:37] mn049: Like that 's where people started thinking " wow this is interesting ! "
+[0376] [17:40] me018: Yeah .
+[0377] [17:40] mn049: So .
+[0378] [17:41] mn049: But , if you if you if you modulate the noise , the masking goes up and the moment you start hitting the another critical band , the masking goes down .
+[0379] [17:51] mn049: So essentially essentially that 's a very clear indication that that that cognition can take uh uh into consideration what 's happening in the neighboring bands .
+[0380] [18:03] mn049: But if you go too far in a in a if you if the noise is very broad , you are not increasing much more ,
+[0381] [18:09] mn049: so so if you if you are far away from the signal uh from the signal f uh the frequency at which the signal is , then the m even the when the noise is co - modulated it it 's not helping you much .
+[0382] [18:09] me018: Mm - hmm .
+[0383] [18:16] me018: Yeah .
+[0384] [18:21] me018: Mm - hmm .
+[0385] [18:22] mn049: So .
+[0386] [18:22] me006: Hmm .
+[0387] [18:23] mn049: So things like this we are kind of playing with with with the hope that perhaps we could eventually u use this in a in a real recognizer .
+[0388] [18:35] me006: Mm - hmm .
+[0389] [18:35] mn049: Like uh partially of course we promised to do this under the the the Aurora uh program .
+[0390] [18:42] me018: But you probably won't have anything before the next time we have to evaluate ,
+[0391] [18:46] me018: right ?
+[0392] [18:46] mn049: Probably not .
+[0393] [18:46] me018: Yeah .
+[0394] [18:47] mn049: Well , maybe , most likely we will not have anything which c would comply with the rules .
+[0395] [18:51] me018: Ah .
+[0396] [18:52] mn049: like because uh uh
+[0397] [18:54] me018: Latency and things .
+[0398] [18:54] mn049: latency currently chops the require uh significant uh latency amount of processing ,
+[0399] [18:58] me018: Mm - hmm .
+[0400] [19:01] mn049: because uh we don't know any better , yet , than to use the neural net classifiers , uh and uh and uh TRAPS .
+[0401] [19:03] me018: Yeah .
+[0402] [19:08] me006: Mm - hmm .
+[0403] [19:08] mn049: Though the the work which uh everybody is looking at now aims at s trying to find out what to do with these vectors , so that a g simple Gaussian classifier would be happier with it .
+[0404] [19:10] mn007: Hmm .
+[0405] [19:21] me018: Mm - hmm .
+[0406] [19:22] mn049: or to what extent a Gaussian classifier should be unhappy uh
+[0407] [19:25] mn049: that , and how to Gaussian - ize the vectors ,
+[0408] [19:28] mn049: and
+[0409] [19:28] me018: Hmm .
+[0410] [19:30] mn049: So this is uh what 's happening .
+[0411] [19:32] mn049: Then Sunil is uh uh uh asked me f for one month 's vacation
+[0412] [19:37] mn049: and since he did not take any vacation for two years , I had no I didn't have heart to tell him no .
+[0413] [19:43] mn049: So he 's in India .
+[0414] [19:45] me018: Wow .
+[0415] [19:46] mn049: And
+[0416] [19:46] me018: Is he getting married or something ?
+[0417] [19:47] mn049: Uh well , he may be looking for a girl , for for I don't I don't I don't ask .
+[0418] [19:54] mn049: I know that Naran - when last time Narayanan did that he came back engaged .
+[0419] [19:58] me018: Right .
+[0420] [19:58] me018: Well , I mean , I 've known other friends who they they go to Ind - they go back home to India for a month , they come back married ,
+[0421] [20:00] mn049: Yeah .
+[0422] [20:00] mn049: I know .
+[0423] [20:04] mn049: I know , I know ,
+[0424] [20:04] me018: you know , huh .
+[0425] [20:05] mn049: and then of course then what happened with Narayanan was that he start pushing me that he needs to get a PHD because they wouldn't give him his wife .
+[0426] [20:12] mn049: And she 's very pretty and he loves her
+[0427] [20:15] mn049: and
+[0428] [20:17] me018: So he finally had some incentive to finish ,
+[0429] [20:18] mn049: Oh yeah .
+[0430] [20:18] me018: huh ?
+[0431] [20:19] mn049: We had well I had a incentive because he he always had this plan except he never told me .
+[0432] [20:23] me018: Oh .
+[0433] [20:24] mn049: Sort of figured that That was a uh that he uh he told me the day when we did very well at our NIST evaluations of speaker recognition , the technology , and he was involved there .
+[0434] [20:35] mn049: We were after presentation we were driving home and he told me .
+[0435] [20:39] me018: When he knew you were happy ,
+[0436] [20:40] me018: huh ?
+[0437] [20:41] mn049: Yeah .
+[0438] [20:41] mn049: So I I said " well , yeah , OK " so he took another another three quarter of the year but uh he was out .
+[0439] [20:47] mn049: So I wouldn't surprise me if he has a plan like that , though though uh Pratibha still needs to get out first .
+[0440] [20:55] me018: Hmm .
+[0441] [20:55] mn049: Cuz Pratibha is there a a year earlier .
+[0442] [20:58] me018: Hmm .
+[0443] [20:59] mn049: And S and Satya needs to get out very first because he 's he already has uh four years served ,
+[0444] [21:05] mn049: though one year he was getting masters .
+[0445] [21:07] mn049: So .
+[0446] [21:08] mn049: So .
+[0447] [21:08] mn007: Hmm .
+[0448] [21:09] me018: So
+[0449] [21:10] me018: when is the next uh evaluation ?
+[0450] [21:12] me018: June or something ?
+[0451] [21:13] mn049: Which ?
+[0452] [21:14] mn049: Speaker recognition ?
+[0453] [21:15] me018: No , for uh Aurora ?
+[0454] [21:16] mn049: Uh there , we don't know about evaluation ,
+[0455] [21:19] mn049: next meeting is in June .
+[0456] [21:20] me018: Hmm .
+[0457] [21:21] mn049: And uh uh but like getting get together .
+[0458] [21:22] me018: Oh , OK .
+[0459] [21:24] me018: Are people supposed to rerun their systems ,
+[0460] [21:27] mn049: Nobody said that yet .
+[0461] [21:28] me018: or ?
+[0462] [21:29] mn049: I assume so .
+[0463] [21:30] me018: Hmm .
+[0464] [21:30] mn049: Uh yes , uh , but nobody even set up yet the date for uh delivering uh endpointed data .
+[0465] [21:36] me018: Wow .
+[0466] [21:37] mn049: And this uh that that sort of stuff .
+[0467] [21:39] mn049: But I uh ,
+[0468] [21:40] mn049: yeah ,
+[0469] [21:40] mn049: what I think would be of course extremely useful , if we can come to our next meeting and say " well you know we did get fifty percent improvement .
+[0470] [21:51] mn049: If if you are interested we eventually can tell you how " , but uh we can get fifty percent improvement .
+[0471] [21:53] me018: Mm - hmm .
+[0472] [21:56] mn049: Because people will s will be saying it 's impossible .
+[0473] [22:00] me018: Hmm .
+[0474] [22:01] me018: Do you know what the new baseline is ?
+[0475] [22:03] me018: Oh
+[0476] [22:04] mn049: Twenty - two t twenty twenty - two percent better than the old baseline .
+[0477] [22:08] me018: Using your uh voice activity detector ?
+[0478] [22:10] mn049: u Yes .
+[0479] [22:11] mn049: Yes .
+[0480] [22:11] mn049: But I assume that it will be similar , I don't I I don't see the reason why it shouldn't be .
+[0481] [22:13] me018: Similar , yeah .
+[0482] [22:15] me018: Mm - hmm .
+[0483] [22:15] mn049: I d I don't see reason why it should be worse .
+[0484] [22:18] me018: Yeah .
+[0485] [22:18] mn049: Cuz if it is worse , then we will raise the objection ,
+[0486] [22:20] mn049: we say " well you know how come ? "
+[0487] [22:22] mn049: Because eh if we just use our voice activity detector , which we don't claim even that it 's wonderful , it 's just like one of them .
+[0488] [22:27] mn007: Mm - hmm .
+[0489] [22:29] me018: Yeah .
+[0490] [22:29] mn049: We get this sort of improvement ,
+[0491] [22:31] mn049: how come that we don't see it on on on on your endpointed data ?
+[0492] [22:34] mn007: Yeah .
+[0493] [22:35] mn007: I guess it could be even better ,
+[0494] [22:37] mn007: because the voice activity detector that I choosed is something that cheating , it 's using the alignment of the speech recognition system ,
+[0495] [22:37] mn049: I think so .
+[0496] [22:42] mn049: Yeah .
+[0497] [22:45] mn049: C yeah uh
+[0498] [22:45] mn007: and only the alignment on the clean channel , and then mapped this alignment to the noisy channel .
+[0499] [22:46] mn049: and on clean speech data .
+[0500] [22:48] me018: Oh , OK .
+[0501] [22:48] mn049: Yeah .
+[0502] [22:49] mn049: Well
+[0503] [22:50] mn049: David told me yesterday or Harry actually he told Harry from QualComm
+[0504] [22:54] mn049: and Harry uh brought up the suggestion we should still go for fifty percent
+[0505] [22:59] mn049: he says are you aware that your system does only thirty percent uh comparing to to endpointed baselines ?
+[0506] [23:07] mn007: Yeah .
+[0507] [23:07] mn049: So they must have run already something .
+[0508] [23:08] me018: Hmm .
+[0509] [23:09] mn049: So .
+[0510] [23:11] mn049: And Harry said " Yeah .
+[0511] [23:12] mn049: But I mean we think that we we didn't say the last word yet , that we have other other things which we can try . "
+[0512] [23:19] me018: Hmm .
+[0513] [23:22] mn049: So . So there 's a lot of discussion now about this uh new criterion .
+[0514] [23:26] mn007: Mm - hmm .
+[0515] [23:27] mn049: Because Nokia was objecting , with uh QualComm 's we basically supported that , we said " yes " .
+[0516] [23:32] mn007: Mm - hmm .
+[0517] [23:33] mn049: Now everybody else is saying " well you guys might must be out of your mind . "
+[0518] [23:37] mn049: uh The Guenter Hirsch who d doesn't speak for Ericsson anymore because he is not with Ericsson
+[0519] [23:42] mn049: and Ericsson may not may withdraw from the whole Aurora activity because they have so many troubles now .
+[0520] [23:48] me018: Wow .
+[0521] [23:49] mn049: Ericsson 's laying off twenty percent of people .
+[0522] [23:51] me006: Wow .
+[0523] [23:51] me018: Where 's uh Guenter going ?
+[0524] [23:52] mn049: Well
+[0525] [23:57] me018: Mm - hmm .
+[0526] [23:58] mn049: he got a job uh at some some Fachschule , the technical college not too far from Aachen .
+[0527] [24:05] me018: Hmm !
+[0528] [24:05] mn049: So it 's like professor u university professor
+[0529] [24:08] me018: Mm - hmm .
+[0530] [24:08] mn049: you know , not quite a university , not quite a sort of it 's not Aachen University , but it 's a good school and he he 's happy .
+[0531] [24:14] me018: Mm - hmm .
+[0532] [24:17] me018: Hmm !
+[0533] [24:17] mn049: And he well , he was hoping to work uh with Ericsson like on t uh like consulting basis ,
+[0534] [24:25] me018: Mm - hmm .
+[0535] [24:25] mn049: but right now he says says it doesn't look like that anybody is even thinking about speech recognition .
+[0536] [24:30] me018: Wow !
+[0537] [24:30] mn049: They think about survival .
+[0538] [24:32] mn049: Yeah .
+[0539] [24:33] me018: Hmm .
+[0540] [24:34] mn049: So .
+[0541] [24:37] mn049: So . But this is being now discussed right now ,
+[0542] [24:39] mn049: and it 's possible that uh that that it may get through , that we will still stick to fifty percent .
+[0543] [24:46] mn007: Mm - hmm .
+[0544] [24:47] mn049: But that means that nobody will probably get this im this improvement .
+[0545] [24:51] mn049: yet , wi with the current system .
+[0546] [24:53] mn049: Which event es essentially I think that we should be happy with
+[0547] [24:56] mn049: because that that would mean that at least people may be forced to look into alternative solutions
+[0548] [24:57] mn007: Mm - hmm .
+[0549] [25:01] mn007: Mm - hmm .
+[0550] [25:02] mn049: and
+[0551] [25:04] mn007: But maybe I I mean we are not too far from from fifty percent , from the new baseline .
+[0552] [25:10] mn049: Uh
+[0553] [25:11] mn007: Which
+[0554] [25:13] mn049: Yeah .
+[0555] [25:14] mn049: Yes . Yes .
+[0556] [25:16] mn049: We we getting we getting there , right .
+[0557] [25:16] mn007: Well .
+[0558] [25:18] mn007: We are around fifty , fifty - five .
+[0559] [25:19] mn049: Yeah .
+[0560] [25:19] mn007: So .
+[0561] [25:21] mn049: Yeah .
+[0562] [25:22] mn007: Mm - hmm .
+[0563] [25:23] mn049: Is
+[0564] [25:24] mn049: How did you come up with this number ?
+[0565] [25:26] mn049: If you improve twenty by twenty percent the c the f the all baselines , it 's just a quick c comp co computation ?
+[0566] [25:32] mn007: Yeah .
+[0567] [25:33] mn007: I
+[0568] [25:34] mn049: Uh - huh .
+[0569] [25:37] mn049: I think it 's about right .
+[0570] [25:37] mn007: Yeah , because it de it depends on the weightings
+[0571] [25:39] mn007: and
+[0572] [25:39] mn049: Yeah , yeah .
+[0573] [25:40] mn007: Yeah .
+[0574] [25:41] mn007: But .
+[0575] [25:43] mn007: Mm - hmm .
+[0576] [25:45] me018: Hmm .
+[0577] [25:50] me018: How 's your documentation or whatever
+[0578] [25:53] me018: it w what was it you guys were working on last week ?
+[0579] [25:55] mn007: Yeah ,
+[0580] [25:55] mn007: finally we we 've not finished with this .
+[0581] [25:59] mn007: We stopped .
+[0582] [25:59] fn002: More or less it 's finished .
+[0583] [26:00] mn007: Yeah .
+[0584] [26:01] fn002: Ma - nec to need a little more time to improve the English , and maybe s to fill in something some small detail , something like that ,
+[0585] [26:08] mn007: Mm - hmm .
+[0586] [26:11] me018: Hmm .
+[0587] [26:11] fn002: but it 's more or less ready .
+[0588] [26:13] mn007: Yeah .
+[0589] [26:15] mn007: Well , we have a document that explain a big part of the experiments ,
+[0590] [26:17] fn002: Necessary to to include the bi the bibliography .
+[0591] [26:20] mn007: but
+[0592] [26:21] fn002: Mm - hmm .
+[0593] [26:21] mn007: it 's not , yeah , finished yet .
+[0594] [26:26] mn007: Mm - hmm .
+[0595] [26:28] me018: So have you been running some new experiments ?
+[0596] [26:30] me018: I
+[0597] [26:32] mn007: Yeah .
+[0598] [26:33] mn007: Right .
+[0599] [26:33] mn007: We 've fff done some strange things like removing C - zero or C - one from the the vector of parameters ,
+[0600] [26:44] mn007: and we noticed that C - one is almost not useful at all .
+[0601] [26:48] mn007: You can remove it from the vector , it doesn't hurt .
+[0602] [26:48] me018: Really ? !
+[0603] [26:50] me018: That has no effect ?
+[0604] [26:53] mn007: Um .
+[0605] [26:53] me018: Eh Is this in the baseline ?
+[0606] [26:54] me018: or
+[0607] [26:55] mn007: In
+[0608] [26:56] mn007: No ,
+[0609] [26:57] mn007: in the proposal .
+[0610] [26:57] me018: in
+[0611] [26:59] me018: uh - huh , uh - huh .
+[0612] [27:00] mn049: So we were just discussing , since you mentioned that , in it w
+[0613] [27:01] mn007: Mm - hmm .
+[0614] [27:02] mn049: driving in the car with Morgan this morning , we were discussing a good experiment for b for beginning graduate student who wants to run a lot of who wants to get a lot of numbers on something
+[0615] [27:05] mn007: Mm - hmm .
+[0616] [27:16] mn049: which is , like , " imagine that you will you will start putting every co any coefficient , which you are using in your vector , in some general power .
+[0617] [27:27] me018: In some what ?
+[0618] [27:27] mn049: General pow power .
+[0619] [27:28] mn049: Like sort of you take a s power of two , or take a square root , or something .
+[0620] [27:31] me018: Mm - hmm .
+[0621] [27:32] mn007: Mm - hmm .
+[0622] [27:34] me018: Mm - hmm .
+[0623] [27:34] mn049: So suppose that you are working with a s C - zer C - one .
+[0624] [27:39] mn049: So if you put it in a s square root , that effectively makes your model half as efficient .
+[0625] [27:47] mn049: Because uh your uh Gaussian mixture model ,
+[0626] [27:50] mn049: right ?
+[0627] [27:50] mn049: computes the mean .
+[0628] [27:51] me018: Mm - hmm .
+[0629] [27:52] mn049: And and uh i i i
+[0630] [27:55] mn049: but it 's the mean is an exponent of the whatever , the the this Gaussian function .
+[0631] [28:01] me018: You 're compressing the range ,
+[0632] [28:02] me018: right ?
+[0633] [28:02] me018: of
+[0634] [28:02] mn049: So you 're compressing the range of this coefficient , so it 's becoming less efficient .
+[0635] [28:07] mn049: Right ?
+[0636] [28:07] me018: Mm - hmm .
+[0637] [28:07] mn049: So .
+[0638] [28:08] mn049: So .
+[0639] [28:09] mn049: Morgan was @ @ and he was he was saying well this might be the alternative way how to play with a with a fudge factor ,
+[0640] [28:15] mn049: you know ,
+[0641] [28:16] mn049: uh
+[0642] [28:17] me018: Oh .
+[0643] [28:18] mn049: you know , just compress the whole vector .
+[0644] [28:20] me018: Yeah .
+[0645] [28:20] mn049: And
+[0646] [28:25] mn049: because in old days we were doing when when people still were doing template matching and Euclidean distances , we were doing this liftering of parameters ,
+[0647] [28:33] mn049: right ?
+[0648] [28:34] me018: Uh - huh .
+[0649] [28:34] mn049: because we observed that uh higher parameters were more important than lower for recognition .
+[0650] [28:39] mn049: And basically the the C - ze C - one contributes mainly slope ,
+[0651] [28:39] me018: Right .
+[0652] [28:44] mn049: and it 's highly affected by uh frequency response of the of the recording equipment and that sort of thing ,
+[0653] [28:45] mn007: Mm - hmm .
+[0654] [28:50] me018: Mm - hmm .
+[0655] [28:50] mn049: so
+[0656] [28:51] mn049: so we were coming with all these f various lifters .
+[0657] [28:54] me018: Mm - hmm .
+[0658] [28:54] mn049: uh Bell Labs had he this uh uh r raised cosine lifter which still I think is built into H HTK for reasons n unknown to anybody ,
+[0659] [29:04] mn049: but but uh we had exponential lifter , or triangle lifter , basic number of lifters .
+[0660] [29:11] me018: Hmm .
+[0661] [29:12] mn049: And . But so they may be a way to to fiddle with the f with the f
+[0662] [29:17] me018: Insertions .
+[0663] [29:18] mn049: Insertions , deletions , or the the giving a relative uh basically modifying relative importance of the various parameters .
+[0664] [29:26] mn007: Mm - hmm .
+[0665] [29:27] mn049: The only of course problem is that there 's an infinite number of combinations
+[0666] [29:30] me018: Oh .
+[0667] [29:30] me018: Uh - huh .
+[0668] [29:30] mn049: and if the if you s if y
+[0669] [29:32] me018: You
+[0670] [29:34] mn049: Yeah , you need a lot of graduate students , and a lot of computing power .
+[0671] [29:37] me018: You need to have a genetic algorithm , that basically tries random permutations of these things .
+[0672] [29:39] mn049: I know .
+[0673] [29:40] mn049: Exactly .
+[0674] [29:41] mn049: Oh .
+[0675] [29:43] mn049: If you were at Bell Labs or I d d
+[0676] [29:45] mn049: I shouldn't be saying this in on on a mike ,
+[0677] [29:47] mn049: right ?
+[0678] [29:47] mn049: Or I uh IBM ,
+[0679] [29:50] mn049: that 's what maybe that 's what somebody would be doing .
+[0680] [29:52] me018: Yeah .
+[0681] [29:53] me006: Hmm .
+[0682] [29:53] mn049: Oh , I mean , I mean the places which have a lot of computing power ,
+[0683] [29:56] me018: Mm - hmm .
+[0684] [29:57] mn049: so because it is really it 's a p it 's a it 's it will be reasonable search
+[0685] [30:02] me018: Yeah .
+[0686] [30:02] mn049: uh
+[0687] [30:03] mn049: but I wonder if there isn't some way of doing this uh search like when we are searching say for best discriminants .
+[0688] [30:13] me018: You know actually , I don't know that this wouldn't be all that bad .
+[0689] [30:15] me018: I mean you you compute the features once ,
+[0690] [30:17] mn049: Yeah .
+[0691] [30:17] me018: right ?
+[0692] [30:17] mn049: Yeah .
+[0693] [30:18] me018: And
+[0694] [30:18] mn049: Absolutely .
+[0695] [30:21] mn049: And hev everything is fixed .
+[0696] [30:21] me018: So .
+[0697] [30:23] mn049: Everything is fixed .
+[0698] [30:23] me018: And is this something that you would adjust for training ?
+[0699] [30:23] mn049: Each
+[0700] [30:26] me018: or only recognition ?
+[0701] [30:27] mn049: For both , you would have to do .
+[0702] [30:29] me018: You would do it on both .
+[0703] [30:29] mn049: Yeah .
+[0704] [30:29] me018: So
+[0705] [30:29] mn049: You have to do bo both .
+[0706] [30:31] mn049: Because essentially you are saying " uh this feature is not important " .
+[0707] [30:34] me018: Mm - hmm .
+[0708] [30:35] mn049: Or less important ,
+[0709] [30:36] mn049: so that 's th that 's a that 's a painful one ,
+[0710] [30:38] mn049: yeah .
+[0711] [30:38] me018: So for each uh set of exponents that you would try , it would require a training and a recognition ?
+[0712] [30:42] mn049: Yeah .
+[0713] [30:43] mn049: But but wait a minute .
+[0714] [30:45] mn049: You may not need to re uh uh retrain the m model .
+[0715] [30:48] mn049: You just may n may need to c uh give uh less weight to to uh a mod uh a component of the model which represents this particular feature .
+[0716] [30:59] mn049: You don't have to retrain it .
+[0717] [30:59] me018: Oh .
+[0718] [30:59] me018: So
+[0719] [31:00] me018: Instead of altering the feature vectors themselves , you you modify the the the Gaussians in the models .
+[0720] [31:02] mn049: You just multiply .
+[0721] [31:05] mn049: Yeah .
+[0722] [31:06] mn049: Yep .
+[0723] [31:07] mn049: You modify the Gaussian in the model ,
+[0724] [31:09] mn049: but in the in the test data you would have to put it in the power ,
+[0725] [31:11] mn049: but in a training what you c in a training uh in trained model , all you would have to do is to multiply a model by appropriate constant .
+[0726] [31:16] me018: Uh - huh .
+[0727] [31:21] me018: But why if you 're if you 're multi if you 're altering the model , why w in the test data , why would you have to muck with the uh cepstral coefficients ?
+[0728] [31:27] mn049: Because in uh test in uh test data you ca don't have a model .
+[0729] [31:30] mn049: You have uh only data .
+[0730] [31:32] mn049: But in a in a tr
+[0731] [31:32] me018: No . But you 're running your data through that same model .
+[0732] [31:35] mn049: That is true ,
+[0733] [31:36] mn049: but w I mean , so what you want to do You want to say if uh obs you if you observe something like Stephane observes , that C - one is not important , you can do two things .
+[0734] [31:41] me018: Mm - hmm .
+[0735] [31:42] me018: Mm - hmm .
+[0736] [31:44] mn049: If you have a trained trained recognizer , in the model , you know the the the the component which I I mean di dimension wh
+[0737] [31:50] me018: Mm - hmm .
+[0738] [31:53] me018: All of the all of the mean and variances that correspond to C - one , you put them to zero .
+[0739] [31:55] mn049: To the s you you know it .
+[0740] [31:57] me018: Yeah .
+[0741] [31:57] mn049: But what I 'm proposing now , if it is important but not as important , you multiply it by point one in a model .
+[0742] [32:05] mn049: But
+[0743] [32:05] me018: But what are you multiplying ?
+[0744] [32:06] me018: Cuz those are means ,
+[0745] [32:07] me018: right ?
+[0746] [32:07] me018: I
+[0747] [32:08] me006: You 're multiplying the standard deviation ?
+[0748] [32:10] me006: So
+[0749] [32:10] mn049: I
+[0750] [32:11] mn049: I would I would have to look in the in the math ,
+[0751] [32:13] mn049: I
+[0752] [32:15] me018: I
+[0753] [32:15] me018: Yeah , I think you 'd have to modify the standard deviation or something , so that you make it wider or narrower .
+[0754] [32:15] mn049: Yeah .
+[0755] [32:16] me006: Cuz
+[0756] [32:18] mn049: Yeah .
+[0757] [32:18] me006: Yeah .
+[0758] [32:18] mn007: Yeah .
+[0759] [32:19] mn049: Effectively
+[0760] [32:21] mn049: Exactly .
+[0761] [32:22] mn049: That 's what you do .
+[0762] [32:23] mn049: That 's what you do , you you you modify the standard deviation as it was trained .
+[0763] [32:23] me006: Yeah .
+[0764] [32:28] mn049: Effectively you , you know y in f in front of the of the model , you put a constant .
+[0765] [32:35] mn049: S yeah effectively what you 're doing is you is you are modifying the the the deviation .
+[0766] [32:40] mn049: Right ?
+[0767] [32:41] me018: Oop .
+[0768] [32:41] me006: The spread ,
+[0769] [32:41] me018: Sorry .
+[0770] [32:41] me006: right .
+[0771] [32:41] mn049: Yeah ,
+[0772] [32:42] mn049: the spread .
+[0773] [32:42] me018: So .
+[0774] [32:42] me006: It 's the same same mean ,
+[0775] [32:44] mn049: And
+[0776] [32:44] me006: right ?
+[0777] [32:44] me018: So
+[0778] [32:47] mn049: Yeah .
+[0779] [32:50] me018: unless it 's exactly right on the mean .
+[0780] [32:53] mn049: Your als
+[0781] [32:53] mn049: No .
+[0782] [32:54] mn049: By making it narrower ,
+[0783] [32:54] me018: Right ?
+[0784] [32:56] me018: I mean there 's you 're you 're allowing for less variance .
+[0785] [32:56] mn049: uh
+[0786] [32:58] me006: Mm - hmm .
+[0787] [32:58] mn049: Yes ,
+[0788] [32:59] mn049: so you making this particular dimension less important .
+[0789] [33:02] mn049: Because see what you are fitting is the multidimensional Gaussian ,
+[0790] [33:05] mn049: right ?
+[0791] [33:05] me018: Mm - hmm .
+[0792] [33:06] mn049: It 's a it has it has uh thirty - nine dimensions , or thirteen dimensions if you g ignore deltas and double - deltas .
+[0793] [33:09] me018: Mm - hmm .
+[0794] [33:10] me018: Mm - hmm .
+[0795] [33:13] mn049: So in order if you in order to make dimension which which Stephane sees uh less important , uh uh I mean not not useful , less important , what you do is that this particular component in the model you can multiply by w you can you can basically de - weight it in the model .
+[0796] [33:31] mn049: But you can't do it in a in a test data
+[0797] [33:33] mn049: because you don't have a model for th I mean uh when the test comes ,
+[0798] [33:37] mn049: but what you can do is that you put this particular component in and and you compress it .
+[0799] [33:43] mn049: That becomes uh th gets less variance , subsequently becomes less important .
+[0800] [33:50] me018: Couldn't you just do that to the test data and not do anything with your training data ?
+[0801] [33:54] mn049: That would be very bad ,
+[0802] [33:55] mn049: because uh your t your model was trained uh expecting uh ,
+[0803] [34:00] mn049: that wouldn't work .
+[0804] [34:01] mn049: Because your model was trained expecting a certain var variance on C - one .
+[0805] [34:05] me018: Uh - huh .
+[0806] [34:06] mn049: And because the model thinks C - one is important .
+[0807] [34:09] mn049: After you train the model , you sort of y you could do you could do still what I was proposing initially ,
+[0808] [34:18] mn049: that during the training you you compress C - one that becomes then it becomes less important in a training .
+[0809] [34:22] me018: Mm - hmm .
+[0810] [34:27] mn049: But if you have if you want to run e ex extensive experiment without retraining the model , you don't have to retrain the model .
+[0811] [34:34] mn049: You train it on the original vector .
+[0812] [34:37] mn049: But after , you wh when you are doing this parametric study of importance of C - one you will de - weight the C - one component in the model ,
+[0813] [34:48] mn049: and you will put in the you will compress the this component in a in the test data . s by the same amount .
+[0814] [34:54] me018: Could
+[0815] [34:55] me018: if you wanted to try an experiment uh by leaving out say , C - one , couldn't you , in your test data , uh modify the all of the C - one values to be um way outside of the normal range of the Gaussian for C - one that was trained in the model ?
+[0816] [35:17] me018: So that effectively , the C - one never really contributes to the score ?
+[0817] [35:18] mn007: Mm - hmm .
+[0818] [35:24] me018: Do you know what I 'm say
+[0819] [35:24] mn049: No ,
+[0820] [35:25] mn049: that would be a severe mismatch ,
+[0821] [35:26] mn049: right ?
+[0822] [35:26] mn049: what you are proposing ?
+[0823] [35:27] me018: Yeah ,
+[0824] [35:27] me018: someth
+[0825] [35:27] mn049: N no you don't want that .
+[0826] [35:29] mn049: Because that would then your model would be unlikely .
+[0827] [35:32] mn049: Your likelihood would be low ,
+[0828] [35:33] mn049: right ?
+[0829] [35:33] me018: Mm - hmm .
+[0830] [35:34] mn049: Because you would be providing severe mismatch .
+[0831] [35:36] me018: But what if you set if to the mean of the model , then ?
+[0832] [35:41] me018: And it was a cons you set all C - ones coming in through your test data , you you change whatever value that was there to the mean that your model had .
+[0833] [35:50] mn049: No that would be very good match ,
+[0834] [35:51] mn049: right ?
+[0835] [35:52] me018: Yeah .
+[0836] [35:52] mn049: That
+[0837] [35:52] mn007: Which
+[0838] [35:53] mn007: Well , yeah , but we have several means .
+[0839] [35:54] mn007: So .
+[0840] [35:55] mn049: I see what you are sa saying ,
+[0841] [35:56] mn007: Right ?
+[0842] [35:57] me006: Saying .
+[0843] [35:57] mn049: but
+[0844] [35:58] mn049: uh , no , no I don't think that it would be the same .
+[0846] [36:02] mn049: I
+[0847] [36:04] mn049: No , you can't do that .
+[0848] [36:05] me018: Oh , that 's true ,
+[0849] [36:05] mn049: Y you ca you ca Ch - Chuck , you can't do that .
+[0850] [36:06] me018: right ,
+[0851] [36:06] me018: yeah
+[0852] [36:06] mn007: Wait .
+[0853] [36:07] mn007: Which
+[0854] [36:08] me018: Yeah .
+[0855] [36:09] mn049: Because that would be a really f fiddling with the data ,
+[0856] [36:12] mn049: you can't do that .
+[0857] [36:12] me018: Mm - hmm . Mm - hmm .
+[0860] [36:13] mn049: But what you can do , I 'm confident you ca
+[0861] [36:15] mn049: well , I 'm reasonably confident and I putting it on the record ,
+[0862] [36:18] mn049: right ?
+[0863] [36:18] mn049: I mean y people will listen to it for for centuries now ,
+[0864] [36:22] mn049: is what you can do , is you train the model uh with the with the original data .
+[0865] [36:29] me006: Mm - hmm .
+[0866] [36:30] mn049: Then you decide that you want to see how important C C - one is .
+[0867] [36:35] mn049: So what you will do is that a component in the model for C - one , you will divide it by by two .
+[0868] [36:44] mn049: And you will compress your test data by square root .
+[0869] [36:49] me018: Mm - hmm .
+[0870] [36:49] mn049: Then you will still have a perfect m match .
+[0871] [36:51] mn049: Except that this component of C - one will be half as important in a in a overall score .
+[0872] [36:51] me018: Mm - hmm .
+[0873] [36:54] me018: Mm - hmm .
+[0874] [36:57] mn049: Then you divide it by four and you take a square , f fourth root .
+[0875] [37:01] mn049: Then
+[0876] [37:15] me018: You 're talking about the standard deviation ?
+[0877] [37:17] mn049: yeah .
+[0878] [37:17] me018: Yeah .
+[0879] [37:18] mn049: Yeah , multiply this component uh i it by number b larger than one ,
+[0880] [37:22] me018: Mm - hmm .
+[0881] [37:23] mn049: and you put your data in power higher than one .
+[0882] [37:27] mn049: Then it becomes more important . In the overall score , I believe .
+[0883] [37:31] me018: But don't you have to do something to the mean , also ?
+[0884] [37:31] mn007: Yeah ,
+[0885] [37:31] mn007: but
+[0886] [37:33] mn049: No .
+[0887] [37:34] mn007: No .
+[0888] [37:34] mn049: No .
+[0889] [37:35] me006: Yeah .
+[0890] [37:35] mn007: But I think it 's uh the The variance is on on the denominator in the in the Gaussian equation .
+[0891] [37:41] mn007: So . I think it 's maybe it 's the contrary .
+[0892] [37:44] mn007: If you want to decrease the importance of a c parameter , you have to increase it 's variance .
+[0893] [37:47] mn049: Yes .
+[0894] [37:49] mn049: Right .
+[0895] [37:50] mn049: Yes .
+[0896] [37:50] fn002: Multiply .
+[0897] [37:51] mn049: Exactly .
+[0898] [37:52] mn049: Yeah .
+[0899] [37:52] mn049: So you so you may want to do it other way around ,
+[0900] [37:52] mn007: Hmm .
+[0901] [37:53] mn007: That 's right .
+[0902] [37:53] mn007: OK .
+[0903] [37:55] mn049: yeah .
+[0904] [37:55] mn007: Mm - hmm .
+[0905] [37:55] me006: Right .
+[0906] [37:56] me018: But
+[0907] [37:59] me018: If your um original data for C - one had a mean of two .
+[0908] [38:04] mn049: Uh - huh .
+[0909] [38:06] me018: And now you 're you 're you 're changing that by squaring it .
+[0910] [38:11] me018: Now your mean of your C - one original data has is four .
+[0911] [38:16] me018: But your model still has a mean of two .
+[0912] [38:19] me018: So even though you 've expended the range , your mean doesn't match anymore .
+[0913] [38:23] mn007: Mm - hmm .
+[0914] [38:26] me018: Do you see what I mean ?
+[0915] [38:27] mn049: Let 's see .
+[0916] [38:27] mn007: I think What I see What could be done is you don't change your features , which are computed once for all ,
+[0917] [38:28] mn049: Uh - huh .
+[0918] [38:33] mn007: but you just tune the model .
+[0919] [38:36] mn007: So . You have your features .
+[0920] [38:37] mn007: You train your your model on these features .
+[0921] [38:39] me018: Mm - hmm .
+[0922] [38:40] mn007: And
+[0923] [38:49] me018: Yeah .
+[0924] [38:52] mn049: Yeah .
+[0925] [38:53] me018: Right .
+[0926] [38:53] mn049: Yeah .
+[0927] [38:55] mn049: You would have to modify the mean in the model .
+[0928] [38:57] mn049: I you I agree with you .
+[0929] [38:58] mn049: Yeah .
+[0930] [38:59] mn049: Yeah ,
+[0931] [38:59] me018: Yeah , so y
+[0932] [38:59] mn049: but I mean , but it 's it 's i it 's do - able ,
+[0933] [39:00] mn007: Well .
+[0934] [39:01] mn049: right ?
+[0935] [39:02] mn049: I mean , it 's predictable .
+[0936] [39:02] mn049: Uh . Yeah .
+[0937] [39:03] me018: It 's predictable , yeah .
+[0938] [39:03] mn049: Yeah .
+[0939] [39:04] mn049: Yeah , it 's predictable .
+[0940] [39:04] me018: Yeah .
+[0941] [39:04] mn007: Mmm .
+[0942] [39:05] me018: But as a simple thing , you could just just muck with the variance .
+[0943] [39:07] mn007: Just adjust the model ,
+[0944] [39:08] mn007: yeah .
+[0945] [39:10] me018: to get uh this uh this the effect I think that you 're talking about ,
+[0946] [39:13] mn049: Mm - hmm .
+[0947] [39:13] me018: right ?
+[0948] [39:14] mn049: It might be .
+[0949] [39:15] me018: Could increase the variance to decrease the importance .
+[0950] [39:17] mn049: Mm - hmm .
+[0951] [39:18] mn007: Mm - hmm .
+[0952] [39:19] me018: Yeah , because if you had a huge variance , you 're dividing by a large number , you get a very small contribution .
+[0953] [39:21] mn007: Yeah ,
+[0954] [39:22] mn007: it becomes more flat
+[0955] [39:22] me006: Doesn't
+[0956] [39:23] mn007: and
+[0957] [39:23] me006: Right .
+[0958] [39:24] mn049: Yeah .
+[0959] [39:25] me018: Yeah .
+[0960] [39:25] mn007: Yeah .
+[0961] [39:27] me018: Hmm .
+[0962] [39:28] me006: Yeah , the sharper the variance , the more more important to get that one right .
+[0963] [39:31] mn049: Mm - hmm .
+[0964] [39:32] me018: Yeah , you know actually , this reminds me of something that happened uh when I was at BBN .
+[0965] [39:36] me018: We were playing with putting um pitch into the Mandarin recognizer .
+[0966] [39:38] mn049: Mm - hmm .
+[0967] [39:41] me018: And this particular pitch algorithm um when it didn't think there was any voicing , was spitting out zeros .
+[0968] [39:47] me018: So we were getting uh when we did clustering , we were getting groups uh of features
+[0969] [39:53] mn049: p Pretty new outliers , interesting outliers ,
+[0970] [39:55] me018: yeah , with with a mean of zero and basically zero variance .
+[0971] [39:56] mn049: right ?
+[0972] [39:58] mn049: Variance .
+[0973] [39:59] me018: So , when ener when anytime any one of those vectors came in that had a zero in it , we got a great score .
+[0974] [40:05] me018: I mean it was just , you know , incredibly high score , and so that was throwing everything off .
+[0975] [40:07] mn007: Mm - hmm .
+[0976] [40:11] me018: So if you have very small variance you get really good scores when you get something that matches .
+[0977] [40:15] mn049: Yeah .
+[0978] [40:16] me018: So
+[0979] [40:16] mn007: Mm - hmm .
+[0980] [40:20] me018: That 's a way to increase the yeah , n
+[0981] [40:21] me018: That 's interesting .
+[0982] [40:23] me018: So
+[0983] [40:26] me018: That doesn't require any retraining .
+[0984] [40:28] mn049: Yeah .
+[0985] [40:28] mn007: No ,
+[0986] [40:28] mn049: No . No .
+[0987] [40:28] mn007: that 's right .
+[0988] [40:29] me018: So that means it 's just
+[0989] [40:30] mn007: So it 's
+[0990] [40:31] mn007: just tuning the models and testing , actually .
+[0991] [40:31] mn049: Yeah .
+[0992] [40:31] me018: recognitions .
+[0993] [40:32] me018: Yeah .
+[0994] [40:32] mn049: Yeah .
+[0995] [40:33] me018: You you have a step where you you modify the models , make a d copy of your models with whatever variance modifications you make , and rerun recognition .
+[0996] [40:33] mn007: It would be quick .
+[0997] [40:36] mn049: Yeah .
+[0998] [40:36] mn007: Mm - hmm .
+[0999] [40:38] mn049: Yeah .
+[1000] [40:39] mn049: Yeah .
+[1001] [40:40] mn049: Yeah .
+[1002] [40:41] me018: And then do a whole bunch of those .
+[1003] [40:43] mn049: Yeah .
+[1004] [40:43] mn007: Mm - hmm .
+[1005] [40:44] me018: That could be set up fairly easily I think ,
+[1006] [40:45] me018: and you have a whole bunch of
+[1007] [40:48] me018: you
+[1008] [40:49] mn049: Chuck is getting himself in trouble .
+[1009] [40:52] me018: That 's an interesting idea , actually .
+[1010] [40:57] me018: For
+[1011] [40:58] me018: Yeah .
+[1012] [40:59] me018: Huh !
+[1013] [41:00] me006: Didn't you say you got these uh HTK 's set up on the new Linux boxes ?
+[1014] [41:05] me018: That 's right .
+[1015] [41:05] me018: In fact , and and they 're just t right now they 're installing uh increasing the memory on that uh the Linux box .
+[1016] [41:05] me006: Yeah .
+[1017] [41:05] mn049: Hey !
+[1018] [41:10] mn049: And Chuck is sort of really fishing for how to keep his computer busy ,
+[1019] [41:12] me006: Right .
+[1020] [41:14] me018: Yeah .
+[1021] [41:14] mn049: right ?
+[1022] [41:15] me018: Absinthe .
+[1023] [41:16] me018: Absinthe .
+[1024] [41:16] mn049: Well
+[1025] [41:16] me018: We 've got five processors on that .
+[1026] [41:18] mn049: that 's yeah , that 's a good thing
+[1027] [41:18] me006: Oh yeah .
+[1028] [41:19] me018: And two gigs of memory .
+[1029] [41:19] me006: That 's right .
+[1030] [41:19] mn049: because then y you just write the " do " - loops and then you pretend that you are working while you are sort of you c you can go fishing .
+[1031] [41:22] mn007: Yeah .
+[1032] [41:23] me018: Yeah .
+[1033] [41:24] me018: Exactly .
+[1034] [41:24] me006: Pretend , yeah .
+[1035] [41:26] me018: Yeah .
+[1036] [41:27] fn002: Go fishing .
+[1037] [41:27] me018: See how many cycles we used ?
+[1038] [41:28] mn049: Yeah .
+[1039] [41:29] mn049: Then you are sort of in this mode like all of those ARPA people are ,
+[1040] [41:32] me018: Yeah .
+[1041] [41:32] mn049: right ?
+[1042] [41:34] mn049: Uh , since it is on the record , I can't say uh which company it was ,
+[1043] [41:39] mn049: but it was reported to me that uh somebody visited a company
+[1044] [41:44] mn049: and during a d during a discussion , there was this guy who was always hitting the carriage returns uh on a computer .
+[1045] [41:51] me018: Uh - huh .
+[1046] [41:52] mn049: So after two hours uh the visitor said " wh why are you hitting this carriage return ? "
+[1047] [41:57] mn049: And he said " well you know , we are being paid by a computer ty I mean we are we have a government contract .
+[1048] [42:02] mn049: And they pay us by by amount of computer time we use . "
+[1049] [42:07] mn049: It was in old days when there were uh of PDP - eights and that sort of thing .
+[1050] [42:08] me018: Oh , my gosh !
+[1051] [42:11] me018: So
+[1052] [42:15] mn049: Because so they had a they literally had to c monitor at the time at the time on a computer how much time is being spent I i i or on on this particular project .
+[1053] [42:19] me018: Yeah .
+[1054] [42:21] me018: How
+[1055] [42:21] me018: Idle time .
+[1056] [42:22] me018: Yeah .
+[1057] [42:23] me006: Yeah .
+[1058] [42:27] mn049: Nobody was looking even at what was coming out .
+[1059] [42:28] me018: Have you ever seen those little
+[1060] [42:29] me018: um
+[1061] [42:31] me018: It 's it 's this thing that 's the shape of a bird and it has a red ball and its beak dips into the water ?
+[1062] [42:34] mn049: Yeah , I know ,
+[1063] [42:34] mn049: right .
+[1064] [42:36] me018: So
+[1065] [42:37] mn049: Yeah .
+[1066] [42:38] mn049: Yeah .
+[1067] [42:39] mn049: Yeah .
+[1068] [42:41] mn049: Yeah .
+[1069] [42:44] me018: That 's an interesting experiment .
+[1070] [42:45] mn049: It
+[1071] [42:46] mn049: I knew some people who were uh that was in old Communist uh Czechoslovakia ,
+[1072] [42:51] mn049: right ?
+[1073] [42:51] mn049: so we were watching for American airplanes , coming to spy on on uh on us at the time ,
+[1074] [42:53] me018: Mm - hmm .
+[1075] [42:56] me018: Mm - hmm .
+[1076] [42:57] mn049: so there were three guys uh uh stationed in the middle of the woods on one l lonely uh watching tower , pretty much spending a year and a half there because there was this service
+[1077] [43:07] mn049: right ?
+[1078] [43:07] me018: Ugh !
+[1079] [43:08] mn049: And so they very quickly they made friends with local girls and local people in the village
+[1080] [43:12] mn049: and
+[1081] [43:12] me018: Yeah .
+[1082] [43:13] mn049: and so but they there was one plane flying over s always uh uh above ,
+[1083] [43:18] mn049: and so that was the only work which they had .
+[1084] [43:20] mn049: They like four in the afternoon they had to report there was a plane from Prague to Brno Basically f flying there ,
+[1085] [43:25] me018: Yeah .
+[1086] [43:26] mn049: so they f very q f first thing was that they would always run back and and at four o ' clock and and quickly make a call , " this plane is uh uh passing "
+[1087] [43:36] mn049: then a second thing was that they they took the line from this u u post to uh uh a local pub .
+[1088] [43:42] mn049: And they were calling from the pub .
+[1089] [43:44] mn049: And they but third thing which they made , and when they screwed up , they finally they had to p the the p the pub owner to make these phone calls because they didn't even bother to be there anymore .
+[1090] [43:54] mn049: And one day there was there was no plane .
+[1091] [43:56] mn049: At least they were sort of smart enough that they looked if the plane is flying there ,
+[1092] [44:00] mn049: right ?
+[1093] [44:00] me018: Yeah .
+[1094] [44:00] mn049: And the pub owner says " oh my four o ' clock , OK , quickly p pick up the phone , call that there 's a plane flying . "
+[1095] [44:05] mn049: There was no plane for some reason ,
+[1096] [44:05] me018: And there wasn't ?
+[1097] [44:07] mn049: it was downed ,
+[1098] [44:08] mn049: or
+[1099] [44:09] mn049: so they got in trouble .
+[1100] [44:13] mn049: But . But uh .
+[1101] [44:16] me018: Huh !
+[1102] [44:17] me018: Well that 's that 's a really i
+[1103] [44:18] mn049: So . So . Yeah .
+[1104] [44:18] me018: That wouldn't be too difficult to try .
+[1105] [44:19] me018: Maybe I could set that up .
+[1106] [44:20] mn049: Yeah .
+[1107] [44:20] mn049: Yeah .
+[1108] [44:21] me018: And
+[1109] [44:22] mn049: Well , at least go test the s test the uh assumption about C - C - one I mean to begin with .
+[1110] [44:26] mn049: But then of course one can then think about some predictable result to change all of them .
+[1111] [44:26] mn007: Mm - hmm .
+[1112] [44:29] mn049: It 's just like we used to do these uh these uh um the the uh distance measures .
+[1113] [44:36] mn049: It
+[1114] [44:36] me018: Yeah , so the first set of uh variance weighting vectors would be just you know one modifying one and leaving the others the same .
+[1115] [44:38] mn049: Yeah .
+[1116] [44:39] mn049: Yeah .
+[1117] [44:42] mn049: Yeah .
+[1118] [44:44] mn049: Yeah .
+[1119] [44:45] mn049: Yeah .
+[1120] [44:45] mn007: Yeah .
+[1121] [44:46] mn007: Maybe .
+[1122] [44:46] me018: And and do that for each one .
+[1123] [44:47] mn049: Because you see , I mean , what is happening here in a in a in a in such a model is that it 's tells you yeah what has a low variance uh is uh is uh is more reliable ,
+[1124] [44:47] me018: That
+[1125] [44:56] mn049: right ?
+[1126] [45:00] mn049: How
+[1127] [45:00] me018: Wh
+[1128] [45:00] mn049: Yeah .
+[1129] [45:01] mn049: Yeah .
+[1130] [45:02] mn049: Yeah .
+[1131] [45:02] mn049: Yeah .
+[1132] [45:03] mn049: Yeah .
+[1133] [45:04] me018: Yeah .
+[1134] [45:04] me018: Right .
+[1135] [45:05] mn049: How do we know , especially when it comes to noise ?
+[1136] [45:08] me018: But there could just naturally be low variance .
+[1137] [45:10] mn049: Yeah ?
+[1138] [45:11] me018: Because I Like , I 've noticed in the higher cepstral coefficients , the numbers seem to get smaller ,
+[1139] [45:16] me018: right ?
+[1140] [45:18] me018: So d
+[1141] [45:19] mn007: They t
+[1142] [45:19] me018: I mean , just naturally .
+[1143] [45:22] mn007: Yeah .
+[1144] [45:22] mn049: Yeah
+[1145] [45:23] mn007: They have smaller means , also .
+[1146] [45:24] me018: Yeah .
+[1147] [45:24] mn007: Uh .
+[1148] [45:25] me018: Exactly .
+[1149] [45:25] me018: And so it seems like they 're already sort of compressed .
+[1150] [45:29] mn007: Uh - huh .
+[1151] [45:30] me018: The range of values .
+[1152] [45:31] mn049: Yeah that 's why uh people used these lifters were inverse variance weighting lifters basically that makes uh uh Euclidean distance more like uh Mahalanobis distance with a diagonal covariance when you knew what all the variances were over the old data .
+[1153] [45:35] me018: Mm - hmm .
+[1154] [45:40] me018: Mm - hmm .
+[1155] [45:46] me018: Hmm .
+[1156] [45:46] mn049: What they would do is that they would weight each coefficient by inverse of the variance .
+[1157] [45:51] mn049: Turns out that uh the variance decreases at least at fast , I believe , as the index of the cepstral coefficients .
+[1158] [45:57] me018: Mm - hmm .
+[1159] [45:58] mn049: I think you can show that uh uh analytically .
+[1160] [46:01] me018: Hmm .
+[1161] [46:01] mn049: So typically what happens is that you you need to weight the uh weight the higher coefficients more than uh the lower coefficients .
+[1162] [46:10] me018: Mm - hmm .
+[1163] [46:13] me018: Hmm .
+[1164] [46:19] mn007: Mmm .
+[1165] [46:19] mn049: So .
+[1167] [46:22] mn049: When Yeah .
+[1168] [46:23] mn049: When we talked about Aurora still I wanted to m make a plea uh encourage for uh more communication between between uh uh different uh parts of the distributed uh uh center .
+[1169] [46:40] mn049: Uh even when there is absolutely nothing to to s to say but the weather is good in Ore - in in Berkeley .
+[1170] [46:46] mn049: I 'm sure that it 's being appreciated in Oregon and maybe it will generate similar responses down here ,
+[1171] [46:52] mn049: like
+[1172] [46:54] mn007: We can set up a webcam maybe .
+[1173] [46:55] mn049: Yeah .
+[1174] [46:59] me006: Yeah .
+[1175] [47:00] mn049: What you know , nowadays ,
+[1176] [47:02] mn049: yeah .
+[1177] [47:02] mn049: It 's actually do - able , almost .
+[1178] [47:07] me018: Is
+[1179] [47:08] me018: if we mail to " Aurora - inhouse " , does that go up to you guys also ?
+[1180] [47:13] mn049: I don't think so .
+[1181] [47:13] mn007: No .
+[1182] [47:14] mn049: No .
+[1183] [47:14] me018: OK .
+[1184] [47:15] me018: So
+[1185] [47:15] mn049: So we should do that .
+[1186] [47:16] me018: Yeah we sh
+[1187] [47:16] mn049: We
+[1188] [47:16] me006: Yeah .
+[1189] [47:17] me018: Do we have a mailing list that includes uh the OGI people ?
+[1190] [47:18] mn049: Yeah .
+[1191] [47:19] mn007: Uh no .
+[1192] [47:20] mn007: We don't have .
+[1193] [47:21] me018: Oh !
+[1194] [47:21] mn049: Uh - huh .
+[1195] [47:21] me018: Maybe we should set that up .
+[1196] [47:22] me018: That would make it much easier .
+[1197] [47:23] mn049: Yeah .
+[1198] [47:23] mn049: Yeah .
+[1199] [47:24] mn049: Yeah , that would make it easier .
+[1200] [47:25] me018: So
+[1201] [47:28] mn049: Yeah .
+[1202] [47:28] mn049: Yeah .
+[1203] [47:29] mn049: And then we also can send the the dis to the same address
+[1204] [47:31] mn049: right ,
+[1205] [47:32] mn049: and it goes to everybody
+[1206] [47:32] me018: Mm - hmm .
+[1207] [47:33] me018: Mm - hmm .
+[1208] [47:33] mn007: Yeah .
+[1209] [47:36] me018: OK .
+[1210] [47:36] me018: Maybe we can set that up .
+[1211] [47:37] mn049: Because what 's happening naturally in research , I know , is that people essentially start working on something and they don't want to be much bothered ,
+[1212] [47:44] mn049: right ?
+[1213] [47:44] mn049: but what the the then the danger is in a group like this , is that two people are working on the same thing and i c of course both of them come with the s very good solution , but it could have been done somehow in half of the effort or something .
+[1214] [47:50] me018: Mm - hmm .
+[1215] [47:58] mn049: Oh , there 's another thing which I wanted to uh uh report .
+[1216] [48:01] mn049: Lucash , I think , uh wrote the software for this Aurora - two system .
+[1217] [48:07] mn049: reasonably uh good one , because he 's doing it for Intel ,
+[1218] [48:11] mn049: but I trust that we have uh rights to uh use it uh or distribute it and everything .
+[1219] [48:17] mn049: Cuz Intel 's intentions originally was to distribute it free of charge anyways .
+[1220] [48:20] me018: Hmm !
+[1221] [48:21] mn049: u s And so so uh we we will make sure that at least you can see the software and if if if if it is of any use .
+[1222] [48:30] mn049: Just
+[1223] [48:31] mn007: Mm - hmm .
+[1224] [48:32] mn049: It might be a reasonable point for p perhaps uh start converging .
+[1225] [48:33] mn007: Mm - hmm .
+[1226] [48:38] mn049: Because Morgan 's point is that He is an experienced guy .
+[1227] [48:40] mn049: He says " well you know it 's very difficult to collaborate if you are working with supposedly the same thing , in quotes , except which is not s is not the same .
+[1228] [48:49] me018: Mm - hmm .
+[1229] [48:50] mn049: Which which uh uh one is using that set of hurdles , another one set is using another set of hurdles .
+[1230] [48:56] mn049: So . And And then it 's difficult to c compare .
+[1231] [49:02] mn007: What about Harry ?
+[1232] [49:03] mn007: Uh . We received a mail last week and you are starting to to do some experiments .
+[1233] [49:07] mn049: He got the he got the software .
+[1234] [49:09] mn049: Yeah . They sent the release .
+[1235] [49:09] mn007: And use this Intel version .
+[1236] [49:10] mn049: Yeah .
+[1237] [49:11] mn049: Yeah .
+[1238] [49:11] mn049: Yeah .
+[1239] [49:12] mn049: Yeah .
+[1240] [49:13] mn007: Hmm .
+[1241] [49:15] mn049: Yeah because Intel paid us uh
+[1242] [49:18] mn049: should I say on a microphone ?
+[1243] [49:19] mn049: uh some amount of money , not much .
+[1244] [49:21] mn049: Not much I can say on a microphone .
+[1245] [49:23] mn049: Much less then we should have gotten for this amount of work .
+[1246] [49:27] mn049: And
+[1247] [49:32] me018: Hmm .
+[1248] [49:34] mn049: they use actu actually some Intel libraries , but in the process , Lucash just rewrote the whole thing because he figured rather than trying to f make sense uh of uh including ICSI software uh not for training on the nets
+[1249] [49:48] me018: Hmm .
+[1250] [49:49] me006: Oh .
+[1251] [49:51] mn049: but I think he rewrote the the the or so maybe somehow reused over the parts of the thing so that so that the whole thing , including MLP , trained MLP is one piece of uh software .
+[1252] [49:57] me018: Mm - hmm .
+[1253] [50:06] me018: Wow !
+[1254] [50:08] mn049: Is it useful ?
+[1255] [50:10] mn049: Yeah ?
+[1256] [50:10] me006: Ye - Yeah .
+[1257] [50:11] me006: I mean , I remember when we were trying to put together all the ICSI software for the submission .
+[1258] [50:12] mn049: Or
+[1259] [50:16] mn049: That 's what he was saying ,
+[1260] [50:17] mn049: right .
+[1261] [50:17] mn049: He said that it was like it was like just so many libraries and nobody knew what was used when ,
+[1262] [50:23] mn049: and and so that 's where he started and that 's where he realized that it needs to be needs to be uh uh at least cleaned up ,
+[1263] [50:27] me006: Yeah .
+[1264] [50:27] mn007: Mm - hmm .
+[1265] [50:30] mn049: and so I think it this is available .
+[1266] [50:32] me006: Hmm .
+[1267] [50:32] mn007: Yeah .
+[1268] [50:33] mn049: So
+[1269] [50:33] mn007: Well , the the only thing I would check is if he does he use Intel math libraries ,
+[1270] [50:40] mn007: because if it 's the case , it 's maybe not so easy to use it on another architecture .
+[1271] [50:40] mn049: uh e ev
+[1272] [50:42] mn049: n not maybe Maybe not in a first maybe not in a first ap approximation
+[1273] [50:47] mn007: Ah yeah .
+[1274] [50:47] mn049: because
+[1275] [50:50] mn007: Mm - hmm .
+[1276] [50:53] mn049: I I can check on that .
+[1277] [50:55] mn049: Yeah .
+[1278] [50:55] mn007: Yeah .
+[1280] [50:56] me018: Hmm .
+[1281] [50:57] mn049: And uh in otherwise the Intel libraries , I think they are available free of f freely .
+[1282] [51:03] mn049: But they may be running only on on uh on uh Windows .
+[1283] [51:04] mn007: Yeah .
+[1285] [51:07] mn049: Or
+[1286] [51:08] mn007: On Intel architecture maybe .
+[1287] [51:09] mn049: Yeah , on Intel architecture , may not run in SUN .
+[1288] [51:10] mn007: I
+[1289] [51:10] mn007: Yeah .
+[1290] [51:12] mn007: Yeah .
+[1291] [51:12] mn049: Yeah .
+[1292] [51:12] mn049: That is p that is that is possible .
+[1293] [51:17] mn049: That 's why Intel of course is distributing it ,
+[1294] [51:17] mn007: Well .
+[1295] [51:19] mn049: right ?
+[1296] [51:20] mn049: Or
+[1297] [51:20] mn007: Yeah .
+[1298] [51:22] mn007: Well there are at least there are optimized version for their architecture .
+[1299] [51:25] mn049: Yeah .
+[1300] [51:26] mn007: I don't know .
+[1301] [51:26] mn007: I
+[1302] [51:29] mn049: I know there was some issues that initially of course we d do all the development on Linux
+[1303] [51:33] mn049: but we use we don't have we have only three uh uh uh uh s SUNs
+[1304] [51:39] mn049: and we have them only because they have a SPERT board in .
+[1305] [51:42] mn049: Otherwise otherwise we t almost exclusively are working with uh PC 's now , with Intel .
+[1306] [51:49] mn049: In that way Intel succeeded with us , because they gave us too many good machines for very little money or nothing .
+[1307] [51:52] me018: Yeah .
+[1308] [51:56] mn049: So . So . So we run everything on Intel .
+[1309] [51:56] me018: Wow !
+[1310] [52:02] me018: Hmm .
+[1311] [52:03] mn049: And
+[1312] [52:04] me018: Does anybody have anything else ?
+[1313] [52:06] me018: to
+[1314] [52:09] me018: Shall we read some digits ?
+[1315] [52:10] mn007: Yeah .
+[1316] [52:11] mn049: Yes .
+[1317] [52:12] mn049: I
+[1318] [52:12] me018: So .
+[1319] [52:13] me018: Hynek , I don't know if you 've ever done this .
+[1320] [52:15] me018: The way that it works is each person goes around in turn , and uh you say the transcript number and then you read the digits , the the strings of numbers as individual digits .
+[1321] [52:15] mn049: No .
+[1322] [52:18] mn049: Mm - hmm .
+[1323] [52:26] me018: So you don't say " eight hundred and fifty " , you say " eight five oh " , and so forth .
+[1324] [52:27] mn049: OK .
+[1325] [52:28] mn049: OK .
+[1326] [52:29] me018: Um .
+[1327] [52:29] mn049: So can maybe can I t maybe start then ?
+[1328] [52:31] me018: Sure .
